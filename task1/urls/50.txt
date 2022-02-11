@@ -1,0 +1,1448 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8" http-equiv="Content-Type" />
+<meta name="description" content="">
+<title>Lentainform - Новостной агрегатор</title>
+<link rel="stylesheet" href="/lentainform.com/css/swiper-bundle.css" />
+<link rel="stylesheet" href="/lentainform.com/css/style.css" />
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300&subset=latin,cyrillic' rel='stylesheet' type='text/css' />
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic' rel='stylesheet' type='text/css' />
+<link href="lentainform.com/img/favicon.ico" rel="icon" type="image/ico">
+<script type="text/javascript" src="/lentainform.com/js/jquery-1.12.1.min.js"></script>
+<script type="text/javascript" src="/lentainform.com/js/masonry.pkgd.min.js"></script>
+<script type="text/javascript" src="/lentainform.com/js/imagesloaded.pkgd.min.js"></script>
+<script type="text/javascript" src="/lentainform.com/js/jquery.main.js"></script>
+<script type="text/javascript" src="/lentainform.com/js/helper.js"></script>
+<script type="text/javascript" src="/lentainform.com/js/doT.min.js"></script>
+<script type="text/javascript" src="/lentainform.com/js/swiper-bundle.js"></script>
+<script type="text/javascript" src="/lentainform.com/js/share42.js"></script>
+<link rel="manifest" href="/lentainform.com/js/manifest.json?v=1.0" />
+<meta name="yandex-verification" content="68c0398dcbf10e2c" />
+<meta name="yandex-verification" content="5d721bec042c8885" />
+<meta name="yandex-verification" content="7b13e0eaad2d7cd0" />
+<meta property="og:title" content="Lentainform - Эффективная система рекомендации контента" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:url" content="https://ranker.lentainform.com/" />
+<meta property="og:image" content="/images/lenta_icon.png" />
+<meta property="og:image:secure_url" content="/images/lenta_icon.png">
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="3" />
+<meta property="fb:app_id" content="1568126423509348" />
+<link rel="shortcut icon" href="/lentainform.com/favicon.ico" type="image/x-icon">
+<meta name="capitaller" content="53fc9796f83c5322666c6c6cf43054dad2a7c6a5" />
+<script>
+
+        var getNameBrowser = function () {
+
+            var ua = navigator.userAgent;
+            if (ua.search(/Edge/) > -1) {
+                return "edge"
+            }
+            if (ua.search(/MSIE/) > -1) {
+                return "ie"
+            }
+            if (ua.search(/Trident/) > -1) {
+                return "ie11"
+            }
+            if (ua.search(/Firefox/) > -1) {
+                return "firefox"
+            }
+            if (ua.search(/Opera/) > -1) {
+                return "opera"
+            }
+            if (ua.search(/OPR/) > -1) {
+                return "operaWebkit"
+            }
+            if (ua.search(/YaBrowser/) > -1) {
+                return "yabrowser"
+            }
+            if (ua.search(/Chrome/) > -1) {
+                return "chrome"
+            }
+            if (ua.search(/Safari/) > -1) {
+                return "safari"
+            }
+            if (ua.search(/Maxthon/) > -1) {
+                return "maxthon"
+            }
+            return 'undefined';
+
+        }
+
+    </script>
+</head>
+<body>
+<svg width="0" height="0" class="hidden">
+<symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 170.9 35.6" id="main-logo">
+<path d="M0 31.4l6.6 4.2h3.5l6.5-4.2z"></path>
+<defs>
+<path id="a" d="M5.5 34.9V4L0 0v31.4z"></path>
+</defs>
+<use xlink:href="#a" overflow="visible" fill="#060606"></use>
+<clipPath id="b">
+<use xlink:href="#a" overflow="visible"></use>
+</clipPath>
+<path clip-path="url(#b)" fill="#060606" d="M0 0h6.6v35.6H0z"></path>
+<linearGradient id="c" gradientUnits="userSpaceOnUse" x1="2.735" y1="0" x2="2.735" y2="34.858">
+<stop offset="0" stop-color="#693f8f"></stop>
+<stop offset="1" stop-color="#8e4d8d"></stop>
+</linearGradient>
+<path fill="url(#c)" d="M0 0v31.4l5.5 3.5V4z"></path>
+<path fill="none" d="M16.6 16.6L11 11.4l5.6 5.2z"></path>
+<linearGradient id="d" gradientUnits="userSpaceOnUse" x1="13.792" y1="34.984" x2="13.792" y2="6.609">
+<stop offset=".005" stop-color="#ff5718"></stop>
+<stop offset="1" stop-color="#ff8902"></stop>
+</linearGradient>
+<path d="M16.6 16.6V12L11 6.6v4.8l5.6 5.2zm0 4.3l-4.2-4-1.4-1.4V35l5.6-3.5V20.9z" fill="url(#d)"></path>
+<path style="fill: var(--logo-text-color)" d="M27.6 16.3v11.6c0 1.9.8 2.3 2.5 2l.1 2.8c-3.9.7-6.3-.3-6.3-4.8V13.7l3.7 2.6zm15.9 10.8H35c.1 2 1.6 2.7 3.4 2.9.5 0 1.1.1 1.7 0 1.1-.1 2.3-.4 3-.8l.4 2.7c-1.5.7-3.2 1.1-4.9 1.1-4.2.1-7.2-2.5-7.2-6.8.1-4.4 3.3-6.5 6.6-6.5 4.5 0 6.5 3.1 5.5 7.4M35 24.8h5.6c.1-1.6-1.3-2.2-2.6-2.2-1.5-.1-2.7.7-3 2.2m20.4 7.9v-7.3c.1-1.7-1.1-2.7-2.4-2.7-1.4 0-2.7 1-2.7 2.8v7.2h-3.7V24c0-1.3 0-1.6-1.2-1.6V20c1.7-.3 4.6-.6 4.6 1.7.7-1.5 2.6-2 4-2 3.6 0 5 2.5 5 5.6v7.3h-3.6zm12-12.6h4.1v2.8h-4.1v4.9c0 2.6 2.2 2.8 4.3 2l.3 2.8c-4.3 1.2-8.2.5-8.2-4.7v-5l-2.4-.2v-2.5H64l.4-3.9h2.9v3.8zm11 12.8c-2.4 0-4.5-1.5-4.6-4-.1-3.1 2.1-4.6 4.9-4.6 1.1 0 2.4.2 3.4.8v-.9c0-1.5-1.9-1.8-3.1-1.8-1.3 0-2.6.2-3.6.8l-.5-2.6c1.3-.6 3-.9 4.7-.9 3.2 0 6 1.1 6 4.7V29c0 1.1 0 1.7 1.2 1.6v2c-1.9.4-4 .3-4-1.9-.8 1.6-2.7 2.2-4.4 2.2m3.6-5.4c-.7-.5-1.7-.7-2.6-.7-1.2.1-2.1.7-2 2 .1.9.9 1.4 1.7 1.4 1.2 0 2.7-.6 2.9-1.9v-.8zm9.6-13.2c1 0 2.1.7 2.1 2.1 0 1.4-1 2.1-2.1 2.1s-2.2-.7-2.2-2.1c0-1.4 1.1-2.1 2.2-2.1m1.8 18.4h-3.7V20.2h3.7v12.5zm12.4 0v-7.3c.1-1.7-1.1-2.7-2.4-2.7-1.4 0-2.7 1-2.7 2.8v7.2H97V24c0-1.3 0-1.6-1.2-1.6V20c1.7-.3 4.6-.6 4.6 1.7.7-1.5 2.6-2 4-2 3.6 0 5 2.5 5 5.6v7.3h-3.6zm8-10h-2.3v-2.6h2.4v-1.6c0-5.2 4-5.8 8.1-4.5l-.4 2.7c-1.9-.7-4.3-.8-4.3 1.9v1.5h4v2.6h-4v10h-3.6v-10zm15.1 10.2c-3.4 0-6.7-2.2-6.7-6.6 0-4.4 3.3-6.6 6.6-6.6 3.4 0 6.8 2.2 6.8 6.6 0 4.4-3.3 6.6-6.7 6.6m0-3.2c1.5 0 3.1-1.1 3.1-3.4s-1.5-3.4-3-3.4-3.1 1.1-3.1 3.4c-.1 2.3 1.4 3.4 3 3.4m16.5-10.1c1 0 2 .3 2.7.8l-.8 3.1c-.8-.5-1.5-.7-2.4-.7-1.6 0-3 1-3 3v6.8h-3.6v-8.9c0-1-.1-1.7-1.3-1.5V20c1.8-.4 4.5-.4 4.7 1.8.7-1.4 2.1-2.2 3.7-2.2m21.8 13.1v-7.3c.1-1.7-.8-2.7-2-2.7-1.3 0-2.3 1-2.3 2.7v7.3h-3.6v-7.3c0-1.7-.8-2.7-2.2-2.7-1.3 0-2.5 1.1-2.5 2.8v7.2H151v-8.8c0-1.2-.1-1.6-1.2-1.6V20c1.6-.5 4.6-.8 4.6 1.8.7-1.4 2.5-2 4.1-2 2.2 0 3.2.8 3.9 2.3.8-1.5 2.6-2.3 4.4-2.3 3.6 0 4.4 2.5 4.3 5.6v7.3h-3.9z"></path>
+</symbol>
+</svg>
+
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PBCJFJ"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PBCJFJ');</script>
+
+<script lang="javascript">
+    helper.user = 0;
+    helper.search = 0;
+    helper.userCategories = [];
+    helper.userSources = [];
+    helper.userCountry = 2;
+</script>
+<script src="//cdn.lentainform.com/js/push/subscribe.js"></script>
+
+<div class="popup_register none">
+<div class="close popup-close-btn"></div>
+<p><strong>Присоединяйтесь</strong> и получите еще больше интересных новостей</p>
+<div class="btns">
+<a id="open-reg-block" href="javascript:;" class="login">Войти</a>
+</div>
+</div>
+
+<div class="popup fixed none" id="reg">
+<div class="logo">
+<svg class="logotype">
+<use xlink:href="#main-logo"></use>
+</svg>
+<div class="close"></div>
+</div>
+<div class="poptitle">
+<p>Добро пожаловать</p>
+</div>
+<div class="socnetwork">
+<p>войдите через социальные сети</p>
+<div class="socpic">
+<a id="vkLink" data-vk-url="" data-type="vk" href="javascript:" class="auth_link">
+<img class="socials" src="/lentainform.com/img/svg/vk_big.svg" alt="" width="65" height="65">
+</a>
+<a id="fbLink" data-fb-url="" data-type="fb" href="javascript:" class="auth_link">
+<img class="socials" src="/lentainform.com/img/svg/fb_big.svg" alt="" width="65" height="65">
+</a>
+<a id="twLink" data-tw-url="" data-type="tw" href="javascript:" class="auth_link">
+<img class="socials" src="/lentainform.com/img/svg/tw_big.svg" alt="" width="65" height="65">
+</a>
+<a id="okLink" data-ok-url="" data-type="ok" href="javascript:" class="auth_link">
+<img class="socials" src="/lentainform.com/img/svg/ok_big.svg" alt="" width="65" height="65">
+</a>
+<a id="glLink" data-gl-url="" data-type="gl" href="javascript:" class="auth_link">
+<img class="socials" src="/lentainform.com/img/svg/G_big.svg" alt="" width="65" height="65">
+</a>
+<a id="mLink" data-m-url="" data-type="ml" href="javascript:" class="auth_link">
+<img class="socials" src="/lentainform.com/img/svg/mailru.svg" alt="" width="65" height="65">
+</a>
+</div>
+</div>
+</div>
+
+
+
+<div class="popup none" id="about">
+<div class="logo">
+<svg class="logotype">
+<use xlink:href="#main-logo"></use>
+</svg>
+<div class="close"></div>
+</div>
+<div class="poptitle">
+<span>о проекте</span>
+</div>
+<div class="textabout">
+<div class="subtext">
+<span>О проекте</span>
+<p>
+<a class="link-default" href="https://www.lentainform.com/" target="_blank">lentainform.com</a> — это
+новостной агрегатор, который автоматически собирает новости из интернет-СМИ и
+ранжирует их по времени публикации и популярности. Рядом с заголовком каждой
+статьи указано количество ее прочтений на текущий момент. Статистика обновляется
+в режиме онлайн.
+</p>
+<p>Можно посмотреть ленту популярных материалов за час, сутки или за неделю, а также
+выбрать определенную тематику и получить выборку новостей по ней. На <a class="link-default" href="https://www.lentainform.com/" target="_blank">lentainform.com</a>
+публикуются новости следующих тематик: Политика, Общество, Спорт, Экономика,
+Шоу-бизнес, Знаменитости. Каждая из тематик представлена в меню сайта.</p>
+<p>Материалы, отсортированные по времени публикации, размещены в блоке «Последние
+новости» на главной странице и страницах тематических рубрик. При клике на
+заголовок новости происходит переход на сайт издания, которое ее опубликовало.</p>
+</div>
+<div class="subtext">
+<span>Для СМИ</span>
+<p>
+Мы дорожим доверием читателей и внимательно относимся к отбору поставщиков контента,
+поэтому сотрудничаем с изданиями, которые зарегистрированы как СМИ. Участие в ранжировании
+в новостном агрегаторе <a class="link-default" href="https://www.lentainform.com/" target="_blank">lentainform.com</a>
+абсолютно бесплатно. Подать заявку на участие вы можете на странице 
+<a class="link-default" href="https://partner.lentainform.com/" target="_blank">https://partner.lentainform.com/</a>. 
+Для попадания контента в новостной агрегатор необходимо разместить код Lentainform на сайте
+вашего издания. Мы открыты к сотрудничеству. По всем вопросам обращайтесь на 
+<a class="link-default" href="maiilto:support@lentainform.com">support@lentainform.com</a>.
+</p>
+</div>
+<div class="subtext">
+<span>Для читателей</span>
+<p>
+Мы стремимся к тому, чтобы пользование
+<a class="link-default" href="https://www.lentainform.com/" target="_blank">lentainform.com</a>
+приносило удовольствие, и читатели возвращались к нам снова. Для удобства чтения вы можете
+настроить свою персонализированную новостную ленту. Есть возможность выбрать список СМИ
+и тематику новостей, которая вас интересует.
+</p>
+</div>
+<dl class="subtext contacts">
+<p><strong>Контакты</strong></p>
+<div class="contacts__item">
+<dt>Адрес:</dt>
+<dd class="contacts__definition">ул. Большая Полянка, дом 55, строение 2, оф. №7, г. Москва</dd>
+</div>
+<div class="contacts__item">
+<dt>Телефон:</dt>
+<dd class="contacts__definition">
+<a class="contacts__phone" href="tel:+7(495)128-14-34">+7(495)128-14-34</a>
+</dd>
+</div>
+<div class="contacts__item">
+<dt>Email:</dt>
+<dd class="contacts__definition">
+<a class="contacts__mail" href="mailto:support@lentainform.com">support@lentainform.com</a>
+</dd>
+</div>
+</dl>
+</div>
+</div>
+
+
+<div class="popup none fixed" id="disableSource">
+<div class="logo">
+<svg class="logotype">
+<use xlink:href="#main-logo"></use>
+</svg>
+<div class="close"></div>
+</div>
+<form action="/auth/disable-source" method="post">
+<div class="setting">
+<span>Вы действительно хотите исключить сайт “<span id="placeholderSource"></span>” из своей ленты новостей?</span>
+</div>
+<input type="hidden" id="filter_sources_popup" name="filter_sources[]" value="" />
+<div class="save">
+<input type="reset" value="Нет" class="close">
+<input type="submit" value="Да">
+ </div>
+</form>
+</div>
+
+
+
+
+<div class="popup none" id="person">
+<div class="popup-header">
+<svg class="logotype">
+<use xlink:href="#main-logo"></use>
+</svg>
+<p class="poptitle">Персонализируй свою ленту новостей</p>
+<span class="close"></span>
+</div>
+<form class='personalization-form' action="/auth/save-settings" method="post">
+<div class="forminner">
+<div class="subjecttitle">
+<span>Выбор тематики</span>
+<div class="subject" class="personalization-subject">
+<div data-category-id="1">
+<span class="hover"></span><img src="/lentainform.com/img/cat_1.png" alt=""> <p>Политика</p>
+</div>
+<div data-category-id="2">
+<span class="hover"></span><img src="/lentainform.com/img/cat_2.png" alt=""> <p>Общество</p>
+</div>
+<div data-category-id="3">
+<span class="hover"></span><img src="/lentainform.com/img/cat_3.png" alt=""> <p>Спорт</p>
+</div>
+<div data-category-id="4">
+<span class="hover"></span><img src="/lentainform.com/img/cat_4.png" alt=""> <p>Экономика</p>
+</div>
+<div data-category-id="5">
+<span class="hover"></span><img src="/lentainform.com/img/cat_5.png" alt=""> <p>Шоу-бизнес</p>
+</div>
+<input class='personalization-categories-input' type="hidden" name="filter_categories" value="" />
+</div>
+</div>
+</div>
+<div class="save">
+<span class="personalization-save-settings">Сохранить</span>
+</div>
+</form>
+</div>
+
+
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.8&appId=295936154156533";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+<div class="popup-like none">
+<div class="popup-like__head">
+<a href="#" class="popup-like__cross popup-like__close"></a>
+<div class="popup-like__head-top">
+<a href="https://www.facebook.com/lentainformcom/" target="_blank" class="popup-like__logo">
+<img src="/lentainform.com/img/fb-logo.png" width="108" height="22" alt="Facebook">
+</a>
+</div>
+<div class="popup-like__head-txt">
+Нажмите <b>«Нравится»</b>, чтобы <br>
+читать Lentainform в Facebook
+</div>
+</div>
+<div class="popup-like__wrap">
+<div class="popup-like__inner">
+<div class="fb-like" data-href="https://www.facebook.com/lentainformcom/" data-layout="standard" data-width="330" data-layout="standard" data-action="like" data-show-faces="true" data-share="false"></div>
+</div>
+<div class="popup-like__footer">
+<a href="#" class="popup-like__together popup-like__close">Спасибо, я уже с вами</a>
+
+</div>
+</div>
+</div>
+
+<header class="header">
+<div class="header__banner">
+<a href="http://covid19.rosminzdrav.ru/?utm_source=lentainform&utm_medium=banner" target="_blank">
+<img src="/lentainform.com/img/1366-index-height100.gif" alt="Вакцинация – это важный способ профилактики заболевания">
+</a>
+</div>
+<div class="header__fixed">
+<div class="wrap">
+<div class="top header__top">
+<div class="logo">
+<a href="/" target="_blank" class="logo__link">
+
+
+<svg class="logo__img">
+<use xlink:href="#main-logo"></use>
+</svg>
+</a>
+</div>
+<nav class="menu-category category">
+<div class="wrap-hd-menu category__container">
+<ul class="list category__list" id="mCategory">
+<li class="categoryMenu covid category__item">
+<a href="/covid19" class="category__link category__link--covid">
+<span class="m-item">Коронавирус</span>
+</a>
+</li>
+<li class="category__item categoryMenu1">
+<a href="/category/politics" class="category__link">
+<span class="m-item">Политика</span>
+</a>
+</li>
+<li class="category__item categoryMenu2">
+<a href="/category/society" class="category__link">
+<span class="m-item">Общество</span>
+</a>
+</li>
+<li class="category__item categoryMenu3">
+<a href="/category/sport" class="category__link">
+<span class="m-item">Спорт</span>
+</a>
+</li>
+<li class="category__item categoryMenu4">
+<a href="/category/economics" class="category__link">
+<span class="m-item">Экономика</span>
+</a>
+</li>
+<li class="category__item categoryMenu5">
+<a href="/category/showbiz" class="category__link">
+<span class="m-item">Шоу-бизнес</span>
+</a>
+</li>
+<li class="categoryMenu category__item">
+<a href="/persons" class="category__link">
+<span class="m-item">Знаменитости</span>
+</a>
+</li>
+</ul>
+<div class="wrap-second-menu">
+<span class="wr">eщё</span>
+<ul class="secondMenu">
+</ul>
+</div>
+</div>
+</nav>
+<div class="toggle-theme">
+<label>
+<input type="checkbox" name="">
+<span></span>
+</label>
+</div>
+ <div class="header_block reg search">
+<form class="search__form" action="/" method="post" autocomplete="on" id="searchform">
+<input id="search" class="search__input" required name="search" type="text" placeholder="Поиск...">
+<label class="search__btn">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.8 16.8" fill="none" style="stroke: var(--main-text-color);" stroke-width="1.2" stroke-linejoin="round" stroke-miterlimit="22.9256">
+<path d="M16.2 14.7l-1.5 1.5-3.9-3.9 1.5-1.5 3.9 3.9z" />
+<path d="M7 .6c3.5 0 6.4 2.9 6.4 6.4s-2.9 6.4-6.4 6.4S.6 10.5.6 7 3.5.6 7 .6h0z" />
+</svg>
+<input id="search_submit" class="hidden" value="" type="submit">
+</label>
+</form>
+</div>
+<div class="user-block">
+
+</div>
+<div class="header__menu menu">
+<button class="menu__burger burger">
+<span class="burger__line burger__line--1"></span>
+<span class="burger__line burger__line--2"></span>
+<span class="burger__line burger__line--3"></span>
+</button>
+<div class="menu__overlay"></div>
+<div class="menu__panel">
+<ul class="menu__list">
+<li class="menu-block menu__item">
+<ul class="menu-block__list">
+<li class="menu-block__item">
+<a target="_blank" href="https://dashboard.lentainform.com/user/signin" class="menu-block__link">Войти </a>
+</li>
+<li class="menu-block__item">
+<a target="_blank" href="https://partner.lentainform.com/" class="menu-block__link">О проекте</a>
+</li>
+<li class="menu-block__item">
+<a target="_blank" href="https://partner.lentainform.com/blog/" class="menu-block__link">Наш блог</a>
+</li>
+<li class="menu-block__item">
+<a target="_blank" href="https://partner.lentainform.com/privacy-policy/" class="menu-block__link">Privacy policy</a>
+</li>
+</ul>
+</li>
+<li class="menu-block menu__item menu__item--android">
+<ul class="menu-block__list">
+<p class="menu-block__title">Наше мобильное приложение</p>
+<li class="menu-block__item">
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.lentainform&referrer=utm_source%3Dtranzitpage%26utm_medium%3Dbanner" class="menu-block__link">
+<img class="menu-block__app" src="/lentainform.com/img/ru_badge_web_generic.png" alt="">
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-block menu__item">
+<ul class="menu-block__list">
+<p class="menu-block__title">Наши группы в соцсетях:</p>
+<li class="menu-block__item">
+<a target="_blank" href="https://zen.yandex.ru/id/5ea81c2cb14f910ab90b36db" class="menu-block__link menu-block__social">
+<div class="menu-block__social-img menu-block__social--dz"></div>
+<div class="menu-block__social-text">Zen.Yandex.ru</div>
+</a>
+</li>
+<li class="menu-block__item">
+<a target="_blank" href="https://www.facebook.com/lentainformcom" class="menu-block__link menu-block__social">
+<div class="menu-block__social-img menu-block__social--fb"></div>
+<div class="menu-block__social-text">Facebook</div>
+</a>
+</li>
+<li class="menu-block__item">
+<a target="_blank" href="https://vk.com/lentainform" class="menu-block__link menu-block__social">
+<div class="menu-block__social-img menu-block__social--vk"></div>
+<div class="menu-block__social-text">Vkontakte</div>
+</a>
+</li>
+<li class="menu-block__item">
+<a target="_blank" href="https://ok.ru/lentainform" class="menu-block__link menu-block__social">
+<div class="menu-block__social-img menu-block__social--ok"></div>
+<div class="menu-block__social-text">Odnoklassniki</div>
+</a>
+</li>
+<li class="menu-block__item">
+<a target="_blank" href="https://twitter.com/Lentainform" class="menu-block__link menu-block__social">
+<div class="menu-block__social-img menu-block__social--tw"></div>
+<div class="menu-block__social-text">Twitter</div>
+</a>
+</li>
+<li class="menu-block__item">
+<a target="_blank" href="https://t.me/lentainform_com" class="menu-block__link menu-block__social">
+<div class="menu-block__social-img menu-block__social--tg"></div>
+<div class="menu-block__social-text">Telegram</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bottom header__bottom" id="header__bottom">
+<div class="wrap header__container">
+<div class="period header__period">
+<a class="hour active header__hour" data-period="hour" href="javascript:;">час</a>
+<a class="day header__day" data-period="day" href="javascript:;">день</a>
+<a class="week header__week" data-period="week" href="javascript:;">неделя</a>
+</div>
+<div class="date header__date" data-user-time="Fri, 11 Feb 2022 12:03:47"></div>
+<div class="money header__money">
+<span>USD 75</span>
+ <span>EUR 85.39</span>
+</div>
+<ul class="soc_net header__social">
+<li class="dz"><a target="_blank" href="https://zen.yandex.ru/id/5ea81c2cb14f910ab90b36db"></a></li>
+<li class="fb"><a target="_blank" href="https://www.facebook.com/lentainformcom"></a></li>
+<li class="vk"><a target="_blank" href="https://vk.com/lentainform"></a></li>
+<li class="ok"><a target="_blank" href="https://ok.ru/lentainform"></a></li>
+<li class="tw"><a target="_blank" href="https://twitter.com/Lentainform"></a></li>
+<li class="tg"><a target="_blank" href="https://t.me/lentainform_com"></a></li>
+</ul>
+<div class="about header__about">О проекте</div>
+</div>
+</div>
+</header>
+<div class="wrap wrap-content">
+<div class="content">
+<div class="main main--main">
+<div class="target-section">
+<div class="target-news">
+</div>
+<div class="related-news">
+<div class="news-header">
+<h2>Сейчас в СМИ</h2>
+</div>
+<ul class="related-news__list"></ul>
+</div>
+<div class="news-section">
+<ul class="news__list related-other">
+<li class="news__item partner-news">
+<a href="https://ria.ru/20210910/planshet-1749383237.html?utm_medium=referral&utm_source=lentainform&utm_campaign=media_lentainform.ru&utm_term=main&utm_content=10611716" target="_blank" class="news__link">
+<div class="news__img">
+<img src="/lentainform.com/img/promo/c6ac8e4a05a324d423e2b2c24de70685.jpg" alt="планшет серии MatePad">
+</div>
+<div class="news__info">
+<div class="news__domain subnetwork news-domain">
+<span class="news-domain-text" style="color:#ff6e11;">партнёрский материал</span>
+</div>
+</div>
+<div class="news__title">В Huawei показали фирменные обои, созданные на планшете серии MatePad</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="category-news"></div>
+<div class="person-carousel">
+<div class="news-header">
+<h2>
+<a href="/persons" target="_blank"> Знаменитости </a>
+</h2>
+</div>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/decl" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/decl.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Децл (Кирилл Толмацкий)
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/allj" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/allj.webp" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Элджей (Алексей Узенюк)
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/egor-creed" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/egor-creed.webp" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Егор Крид
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/olga-buzova" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/olga-buzova.webp" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Ольга Бузова
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/ani-lorak" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/ani-lorak.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Ани Лорак
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/alla-pugacheva" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/alla-pugacheva.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Алла Пугачева
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/regina-todorenko" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/regina-todorenko.webp" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Регина Тодоренко
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/timati" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/timati.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Тимати (Тимур Юнусов)
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/nastya-ivleeva" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/nastya-ivleeva.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Настя Ивлеева
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/irina-shake" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/irina-shake.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Ирина Шейк
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/nyusha" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/nyusha.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Нюша (Анна Шурочкина)
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/vera-brezhneva" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/vera-brezhneva.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Вера Брежнева
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/joseph-kobzon" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/joseph-kobzon.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Иосиф Кобзон
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/philip-kirkorov" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/philip-kirkorov.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Филипп Киркоров
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+ <div class="swiper-slide person-carousel__slide">
+<a href="/persons/valeria-kudryavtseva" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/valeria-kudryavtseva.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Валерия Кудрявцева
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/polina-gagarina" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/polina-gagarina.webp" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Полина Гагарина
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/dima-bilan" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/dima-bilan.webp" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Дима Билан
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/anna-sedokova" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/anna-sedokova.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Анна Седокова
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/sergey-lazarev" target="_blank">
+<div class="person-carousel__img">
+ <img src="https://cdn.lentainform.com/persons/sergey-lazarev.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Сергей Лазарев
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+<div class="swiper-slide person-carousel__slide">
+<a href="/persons/zemfira" target="_blank">
+<div class="person-carousel__img">
+<img src="https://cdn.lentainform.com/persons/zemfira.jpg" alt="">
+</div>
+<div class="person-carousel__text">
+<div class="person-carousel__title">
+Земфира (Рамазанова)
+</div>
+<div class="person-carousel__see">Смотреть</div>
+</div>
+</a>
+</div>
+   </div>
+<div class="person-carousel__btn person-carousel__btn--prev">
+<div class="person-carousel__arrow person-carousel__arrow--prev"></div>
+</div>
+<div class="person-carousel__btn person-carousel__btn--next">
+<div class="person-carousel__arrow person-carousel__arrow--next"></div>
+</div>
+</div>
+</div>
+<div class="other-news">
+<div class="news-header"> <h2> Самое популярное </h2> </div>
+<ul class="news__list"></ul>
+</div>
+<div class="main__col col-middle">
+<div class="news-by-categories">
+<div class="news-by-category-left"></div>
+<div class="news-by-category-right"></div>
+</div>
+</div>
+</div>
+<div class="main main--publisher none">
+<div class="news-section">
+<div class="news-header">
+<h2></h2>
+</div>
+<ul class="news__list">
+</ul>
+</div>
+</div>
+<div class="sidebar">
+<div class="gismeteo-widget">
+
+<link rel="stylesheet" type="text/css" href="https://ost1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
+<div id="gsInformerID-5go06cg60cgY62" class="gsInformer" style="width:280px;height:201px">
+<div class="gsIContent">
+<div id="cityLink">
+<a href="https://www.gismeteo.ru/weather-moscow-4368/" target="_blank" title="Погода в Москве">
+<img src="https://ost1.gismeteo.ru/assets/flat-ui/img/gisloader.svg" width="24" height="24" alt="Погода в Москве">
+</a>
+</div>
+<div class="gsLinks">
+<table>
+<tr>
+<td>
+<div class="leftCol">
+<a href="https://www.gismeteo.ru/" target="_blank" title="Погода">
+<img alt="Погода" src="https://ost1.gismeteo.ru/assets/flat-ui/img/logo-mini2.png" align="middle" border="0" width="11" height="16" />
+<img src="https://ost1.gismeteo.ru/assets/flat-ui/img/informer/gismeteo.svg" border="0" align="middle" style="left: 5px; top:1px">
+</a>
+</div>
+<div class="rightCol">
+<a href="https://www.gismeteo.ru/weather-moscow-4368/2-weeks/" target="_blank" title="Погода в Москве на 2 недели">
+<img src="https://ost1.gismeteo.ru/assets/flat-ui/img/informer/forecast-2weeks.ru.svg" border="0" align="middle" style="top:auto" alt="Погода в Москве на 2 недели">
+</a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<script async src="https://www.gismeteo.ru/api/informer/getinformer/?hash=5go06cg60cgY62"></script>
+
+</div>
+<div class="news-header">
+<h2>Последние новости</h2>
+</div>
+<div id="box1" class="hotnews"></div>
+<div class="promo"></div>
+<div id="box2" class="hotnews"></div>
+</div>
+<a class="to-top" href="#" style="display: none;">Наверх</a>
+<!--googleoff: all-->
+<div id="target-news" class="robots-noindex">{{var i = 0; }}
+{{~it : targetNews}}
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=targetNews.id}}" class="sharesoc none"></div>
+</div>
+<a href="{{=loadingNews.getRedirectUrl(targetNews.campaignId, targetNews.url)}}" class="target-news__link" target="_blank">
+<div class="target-news__img">
+<img src="{{=targetNews.img_link}}" alt="{{=targetNews.title}} | Lentainform" title="{{=targetNews.title}} | Lentainform">
+</div>
+<span class="target-news__label">
+<span class="target-news__category news-domain">
+<img src="https://www.google.com/s2/favicons?domain={{=targetNews.domain}}">
+{{=targetNews.domain}}
+</span>
+<span class="target-news__date">{{=targetNews.createdAt}}</span>
+</span>
+<h2 class="target-news__title">
+{{=targetNews.title}}
+<span class="target-news__views">{{=targetNews.clicks}}</span>
+</h2>
+{{?targetNews.description}}
+<p class="target-news__description">
+{{=targetNews.description}}
+</p>
+{{?}}
+{{? loadingNews.targetNews }}
+<p>{{=loadingNews.targetNews}}</p>
+{{?}}
+</a>
+{{i++;}}
+{{~}}</div>
+<div id="related-news" class="robots-noindex">{{var i = 0; }}
+{{~it : targetNews}}
+<li class="middle-news__item">
+<a href="{{=loadingNews.getRedirectUrl(targetNews.campaignId, targetNews.url)}}" class="middle-news__link" target="_blank">
+<div class="middle-news__text">
+<p class="middle-news__domain news-domain">
+<img class="middle-news__fav" alt="" src="https://www.google.com/s2/favicons?domain={{=targetNews.domain}}">
+{{=targetNews.domain}}
+</p>
+{{?targetNews.title}}
+<p class="middle-news__title">{{=targetNews.title}}</p>
+{{?}}
+<div class="news__share">
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=targetNews.id}}" class="sharesoc none"></div>
+</div>
+</div>
+</div>
+
+
+
+
+</a>
+</li>
+{{i++;}}
+{{~}}</div>
+<div id="news-template" class="robots-noindex">{{ var i = 0; }}
+{{~it : newsCollection}}
+<li class="news__item">
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=newsCollection.id}}" class="sharesoc none"></div>
+</div>
+<div class="sub_popup none">
+Если Вы хотите заблокировать все новости данного источника, пожалуйста <a class="open-auth" data-source='{{=newsCollection.domain}}' href="javascript:;">Зарегистрируйтесь</a>
+</div>
+<a href="{{=loadingNews.getRedirectUrl(newsCollection.campaignId, newsCollection.url)}}" target="_blank" class="news__link">
+<div class="news__img">
+<img src="{{=newsCollection.img_link}}" alt="{{=newsCollection.title}} | Lentainform">
+</div>
+<div class="news__info">
+<div class="news__domain subnetwork news-domain">
+<img class="news__fav" alt="" src="https://www.google.com/s2/favicons?domain={{=newsCollection.domain}}">
+<span class="news-domain-text">{{=newsCollection.domain}}</span>
+<div class="close{{? helper.user}} confirm{{?}} news__close" data-source='{{=newsCollection.domain}}'></div>
+</div>
+<div class="news__time">{{=newsCollection.createdAt}}</div>
+</div>
+<div class="news__title">
+{{=newsCollection.title}}
+ <span class="view-count">{{=newsCollection.clicks}}</span>
+</div>
+</a>
+</li>
+{{ i++; }}
+{{~}}
+</div>
+<div id="news-publisher-template" class="robots-noindex">{{ var i = 0; }}
+{{~it : newsCollection}}
+<li class="news__item">
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=newsCollection.id}}" class="sharesoc none"></div>
+</div>
+<div class="sub_popup none">
+Если Вы хотите заблокировать все новости данного источника, пожалуйста <a class="open-auth" data-source='{{=newsCollection.domain}}' href="javascript:;">Зарегистрируйтесь</a>
+</div>
+<a href="{{=loadingNews.getRedirectUrl(newsCollection.campaign, newsCollection.url)}}" target="_blank" class="news__link">
+<div class="news__img">
+<img src="{{=newsCollection.imgUrl}}" alt="{{=newsCollection.title}} | Lentainform">
+</div>
+<div class="news__info">
+<div class="news__domain subnetwork news-domain">
+<img class="news__fav" alt="" src="https://www.google.com/s2/favicons?domain={{=newsCollection.domain}}">
+<span class="news-domain-text">{{=newsCollection.domain}}</span>
+<div class="close{{? helper.user}} confirm{{?}} news__close" data-source='{{=newsCollection.domain}}'></div>
+</div>
+<div class="news__time">{{=newsCollection.createdAt}}</div>
+</div>
+<div class="news__title">
+{{=newsCollection.title}}
+<span class="view-count">{{=newsCollection.clicks}}</span>
+</div>
+</a>
+</li>
+{{ i++; }}
+{{~}}
+</div>
+<div id="other-news" class="robots-noindex">{{ var i = 0; }}
+<div class="news-section">
+<div class="news__row">
+{{~it : newsCollection}}
+{{? (i < 4)}}
+{{? (i == 0)}}
+<ul class="news-list--big">
+{{?}}
+<li class="news__item news__item--big">
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=newsCollection.id}}" class="sharesoc none"></div>
+</div>
+<div class="sub_popup none">
+Если Вы хотите заблокировать все новости данного источника, пожалуйста <a class="open-auth" data-source='{{=newsCollection.domain}}' href="javascript:;">Зарегистрируйтесь</a>
+</div>
+<a href="{{=loadingNews.getRedirectUrl(newsCollection.campaignId, newsCollection.url)}}" target="_blank" class="news__link">
+<div class="news__img">
+<img src="{{=newsCollection.img_link}}" alt="{{=newsCollection.title}} | Lentainform">
+</div>
+<div class="news__info">
+<div class="news__domain subnetwork news-domain">
+<img class="news__fav" alt="" src="https://www.google.com/s2/favicons?domain={{=newsCollection.domain}}">
+<span class="news-domain-text">{{=newsCollection.domain}}</span>
+<div class="close{{? helper.user}} confirm{{?}} news__close" data-source='{{=newsCollection.domain}}'></div>
+</div>
+<div class="news__time">{{=newsCollection.createdAt}}</div>
+</div>
+<div class="news__title">
+{{=newsCollection.title}}
+<span class="view-count">{{=newsCollection.clicks}}</span>
+</div>
+</a>
+</li>
+{{? (i == 3)}}
+</ul>
+{{?}}
+{{?}}
+{{? (i >= 4)}}
+{{? (i == 4)}}
+<ul class="news-list--small">
+{{?}}
+<li class="news__item news__item--small">
+<div class="sub_popup none">
+Если Вы хотите заблокировать все новости данного источника, пожалуйста <a class="open-auth" data-source='{{=newsCollection.domain}}' href="javascript:;">Зарегистрируйтесь</a>
+</div>
+<a href="{{=loadingNews.getRedirectUrl(newsCollection.campaignId, newsCollection.url)}}" target="_blank" class="news__link news__link--small">
+<div class="news__info news__info--small">
+<div class="news__domain news-domain news__domain--small subnetwork">
+<img class="news__fav" alt="" src="https://www.google.com/s2/favicons?domain={{=newsCollection.domain}}">
+<span class="news-domain-text">{{=newsCollection.domain}}</span>
+<div class="close{{? helper.user}} confirm{{?}} news__close" data-source='{{=newsCollection.domain}}'></div>
+</div>
+<div class="news__time">{{=newsCollection.createdAt}}</div>
+</div>
+<div class="news__title news__title--small">
+{{=newsCollection.title}}
+<span class="view-count">{{=newsCollection.clicks}}</span>
+<div class="news__share">
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=newsCollection.id}}" class="sharesoc none"></div>
+</div>
+</div>
+</div>
+</a>
+</li>
+<div class="news__line"></div>
+{{? (i == 8)}}
+</ul>
+{{?}}
+{{?}}
+{{ i++; }}
+{{~}}
+</div>
+</div>
+</div>
+<div id="news-without-pic" class="robots-noindex">{{ var i = 0; }}
+{{~it : newsCollection}}
+<li class="news__item news__item--small">
+<div class="sub_popup none">
+Если Вы хотите заблокировать все новости данного источника, пожалуйста <a class="open-auth" data-source='{{=newsCollection.domain}}' href="javascript:;">Зарегистрируйтесь</a>
+</div>
+<a href="{{=loadingNews.getRedirectUrl(newsCollection.campaignId, newsCollection.url)}}" target="_blank" class="news__link">
+<div class="news__info news__info--small">
+<div class="news__domain news-domain news__domain--small subnetwork">
+<img class="news__fav" alt="" src="https://www.google.com/s2/favicons?domain={{=newsCollection.domain}}">
+<span class="news-domain-text">{{=newsCollection.domain}}</span>
+<div class="close{{? helper.user}} confirm{{?}} news__close" data-source='{{=newsCollection.domain}}'></div>
+</div>
+<div class="news__time">{{=newsCollection.createdAt}}</div>
+</div>
+<div class="news__title news__title--small">
+{{=newsCollection.title}}
+{{? (newsCollection.clicks) }}
+<span class="view-count">{{=newsCollection.clicks}}</span>
+{{?}}
+<div class="news__share">
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=newsCollection.id}}" class="sharesoc none"></div>
+</div>
+</div>
+</div>
+</a>
+</li>
+{{ i++; }}
+{{~}}
+</div>
+<div id="news-by-categories-template" class="robots-noindex">{{ var i = 0; }}
+<div class="news-section">
+<div class="news-header">
+<h2>
+<a href="{{=loadingNews.currentCategoryLink}}" target="_blank">
+{{=loadingNews.currentCategoryName}}
+</a>
+</h2>
+</div>
+<div class="news__row">
+{{~it : newsCollection}}
+{{? (i < 4)}}
+{{? (i == 0)}}
+<ul class="news-list--big">
+{{?}}
+<li class="news__item news__item--big">
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=newsCollection.id}}" class="sharesoc none"></div>
+</div>
+<div class="sub_popup none">
+Если Вы хотите заблокировать все новости данного источника, пожалуйста <a class="open-auth" data-source='{{=newsCollection.domain}}' href="javascript:;">Зарегистрируйтесь</a>
+</div>
+<a href="{{=loadingNews.getRedirectUrl(newsCollection.campaignId, newsCollection.url)}}" target="_blank" class="news__link">
+<div class="news__img">
+<img src="{{=newsCollection.img_link}}" alt="{{=newsCollection.title}} | Lentainform">
+</div>
+<div class="news__info">
+<div class="news__domain subnetwork news-domain">
+<img class="news__fav" alt="" src="https://www.google.com/s2/favicons?domain={{=newsCollection.domain}}">
+<span class="news-domain-text">{{=newsCollection.domain}}</span>
+<div class="close{{? helper.user}} confirm{{?}} news__close" data-source='{{=newsCollection.domain}}'></div>
+</div>
+<div class="news__time">{{=newsCollection.createdAt}}</div>
+</div>
+<div class="news__title">
+{{=newsCollection.title}}
+<span class="view-count">{{=newsCollection.clicks}}</span>
+</div>
+</a>
+</li>
+{{? (i == 3)}}
+</ul>
+{{?}}
+{{?}}
+{{? (i >= 4)}}
+{{? (i == 4)}}
+<ul class="news-list--small">
+{{?}}
+<li class="news__item news__item--small">
+<div class="sub_popup none">
+Если Вы хотите заблокировать все новости данного источника, пожалуйста <a class="open-auth" data-source='{{=newsCollection.domain}}' href="javascript:;">Зарегистрируйтесь</a>
+</div>
+<a href="{{=loadingNews.getRedirectUrl(newsCollection.campaignId, newsCollection.url)}}" target="_blank" class="news__link news__link--small">
+<div class="news__info news__info--small">
+<div class="news__domain news__domain--small subnetwork news-domain">
+<img class="news__fav" alt="" src="https://www.google.com/s2/favicons?domain={{=newsCollection.domain}}">
+<span class="news-domain-text">{{=newsCollection.domain}}</span>
+<div class="close{{? helper.user}} confirm{{?}} news__close" data-source='{{=newsCollection.domain}}'></div>
+</div>
+<div class="news__time news__time--small">{{=newsCollection.createdAt}}</div>
+</div>
+<div class="news__title news__title--small">
+{{=newsCollection.title}}
+<span class="view-count">{{=newsCollection.clicks}}</span>
+<div class="news__share">
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=newsCollection.id}}" class="sharesoc none"></div>
+</div>
+</div>
+</div>
+</a>
+</li>
+<div class="news__line"></div>
+{{? (i == 8)}}
+</ul>
+{{?}}
+{{?}}
+{{ i++; }}
+{{~}}
+</div>
+<a class="news__more" href="{{=loadingNews.currentCategoryLink}}" target="_blank">
+{{=loadingNews.currentCategoryName}}: другие новости
+</a>
+</div>
+</div>
+<div id="news-template_old" class="robots-noindex">{{ var i = 0; }}
+{{~it : news}}
+{{? (loadingNews.category && loadingNews.pageNews == 1 && i == 0) }}
+<h1>главные новости</h1>
+<div class="part item w_2">
+<div class="topnews">
+{{?news.categoryId}}
+<a href="/category/{{=loadingNews.categories[news.categoryId]}}" class="category">{{=loadingNews.categoriesRu[news.categoryId]}}</a>
+{{?}}
+<div class="img">
+<a href="{{=loadingNews.getRedirectUrl(news.campaignId, news.url)}}" target='_blank'>
+<img class="news-img" src="{{=news.img_link}}" alt="{{=news.title}} | Lentainform" title="{{=news.title}} | Lentainform">
+</a>
+<div class="counter"><span class="eye"></span>{{=news.clicks}}</div>
+</div>
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=news.id}}" class="sharesoc none"></div>
+</div>
+<a href="{{=loadingNews.getRedirectUrl(news.campaignId, news.url)}}" target="_blank" class="title">{{=news.title}}</a>
+{{?news.description}}
+<p>{{=news.description}}...</p>
+{{?}}
+<div class="subnetwork">
+<a href="{{=loadingNews.getRedirectUrl(news.campaignId, news.url)}}" target="_blank">{{=news.domain}}</a> <div class="close{{? helper.user}} confirm{{?}}" data-source='{{=news.domain}}'></div>
+<div class="sub_popup none">
+Если Вы хотите заблокировать все новости данного источника, пожалуйста <a class="open-auth" data-source='{{=news.domain}}' href="javascript:;">Зарегистрируйтесь</a>
+</div>
+</div>
+<div class="time"><span>{{=news.createdAt}}</span></div>
+{{?news.similarNews}}
+<div class="more">
+<span>ещё</span>
+</div>
+<div class="more_block">
+{{~news.similarNews : similar}}
+<div class="daynews">
+<div class="source">
+<img src="{{=loadingNews.getIcon(similar.domain)}}" alt="">
+<a class="daynews-domain" target="_blank" href="http://{{=similar.domain}}">{{=similar.domain}}</a>
+</div>
+<div class="timeside">
+<span>{{=similar.createdAt}}</span>
+</div>
+<a target="_blank" href="{{=loadingNews.getRedirectUrl(similar.campaignId, similar.url)}}" class="titleside">{{=similar.title}}</a>
+</div>
+{{~}}
+</div>
+{{?}}
+</div>
+</div>
+{{?? (loadingNews.targetNews != news.id) }}
+{{? loadingNews.category}}
+<div class="item">
+<div class="news">
+{{?news.categoryId}}
+<a href="/category/{{=loadingNews.categories[news.categoryId]}}" class="category">{{=loadingNews.categoriesRu[news.categoryId]}}</a>
+{{?}}
+<div class="img">
+<a href="{{=loadingNews.getRedirectUrl(news.campaignId, news.url)}}" target='_blank'>
+<img class="news-img" src="{{=news.img_link}}" alt="{{=news.title}} | Lentainform" title="{{=news.title}} | Lentainform">
+</a>
+<div class="counter"><span class="eye"></span>{{=news.clicks}}</div>
+</div>
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=news.id}}" class="sharesoc none"></div>
+</div>
+<a href="{{=loadingNews.getRedirectUrl(news.campaignId, news.url)}}" class="title" target='_blank'>{{=news.title}}</a>
+{{?news.description}}
+<p>{{=news.description}}...</p>
+{{?}}
+<div class="subnetwork">
+<a href="{{=loadingNews.getRedirectUrl(news.campaignId, news.url)}}" target="_blank">{{=news.domain}}</a> <div class="close{{? helper.user}} confirm{{?}}" data-source='{{=news.domain}}'></div>
+<div class="sub_popup none">
+Если Вы хотите заблокировать все новости данного источника, пожалуйста <a class="open-auth" data-source='{{=news.domain}}' href="javascript:;">Зарегистрируйтесь</a>
+</div>
+</div>
+<div class="time">
+<span>{{=news.createdAt}}</span>
+</div>
+</div>
+</div>
+{{??}}
+{{? loadingNews.pageNews == 1 && i == 0 }}
+<div class="news-header hidden">
+<h2>Главное</h2>
+</div>
+{{?}}
+<div class="item news-main">
+<div class="news">
+<div class="news-main__bottom">
+<div class="subnetwork">
+<img src="https://www.google.com/s2/favicons?domain={{=news.domain}}" alt="">
+<a href="{{=loadingNews.getRedirectUrl(news.campaignId, news.url)}}" target="_blank">{{=news.domain}}</a> <div class="close{{? helper.user}} confirm{{?}}" data-source='{{=news.domain}}'></div>
+<div class="sub_popup none">
+Если Вы хотите заблокировать все новости данного источника, пожалуйста <a class="open-auth" data-source='{{=news.domain}}' href="javascript:;">Зарегистрируйтесь</a>
+</div>
+</div>
+<div class="time"><span>{{=news.createdAt}}</span></div>
+<p>
+<a href="{{=loadingNews.getRedirectUrl(news.campaignId, news.url)}}" class="news-main__text" target='_blank'>
+{{=news.title}}
+<span class="counter">{{=news.clicks}}</span>
+</a>
+</p>
+</div>
+</div>
+</div>
+{{?}}
+{{?}}
+{{ i++; }}
+{{~}}</div>
+<div id="target-news-template" class="robots-noindex">{{var i = 0; }}
+{{~it : targetNews}}
+{{? (i == 0) }}
+{{??(i > 0)}}
+<li class="related-news__item">
+<a href="{{=loadingNews.getRedirectUrl(targetNews.campaignId, targetNews.url)}}" class="related-news__link" target="_blank">
+<div class="related-news__text">
+<p class="related-news__domain">
+<img class="related-news__fav" alt="" src="https://www.google.com/s2/favicons?domain={{=targetNews.domain}}">
+{{=targetNews.domain}}
+</p>
+{{?targetNews.title}}
+<p class="related-news__title">{{=targetNews.title}}</p>
+<span class="view-count">8000</span>
+{{?}}
+</div>
+<div class="related-news__img">
+<img src="{{=targetNews.img_link}}" alt="{{=targetNews.title}} | Lentainform" title="{{=targetNews.title}} | Lentainform">
+</div>
+</a>
+</li>
+{{?}}
+{{i++;}}
+{{~}}</div>
+<div id="hot-template" class="robots-noindex">{{~it : hot}}
+<div class="hotnews__item">
+<div class="hotnews__info">
+<div class="source news-domain hotnews__domain">
+<img src="https://www.google.com/s2/favicons?domain={{=hot.domain}}" alt="">
+<a class="daynews-domain news-domain-text" target="_blank" href="http://{{=hot.domain}}">{{=hot.domain}}</a>
+</div>
+<div class="timeside hotnews__time">
+<span>{{=hot.createdAt}}</span>
+</div>
+</div>
+<a target="_blank" href="{{=loadingNews.getRedirectUrl(hot.campaignId, hot.url)}}" class="titleside hotnews__title">
+{{=hot.title}}
+<div class="news__share">
+<div class="share_popup">
+<div class="share_pic none"></div>
+<div id="social_hendler_{{=hot.id}}" class="sharesoc none"></div>
+</div>
+</div>
+</a>
+</div>
+{{~}}
+</div>
+<div id="search-template" class="robots-noindex">{{~it : search}}
+<div class="main search">
+<div class="line">
+<img src="{{=loadingNews.getIcon(search.domain)}}" alt="">
+<div class="timeline">{{=search.createdAt}}</div>
+<span><a target="_blank" href="{{=loadingNews.getRedirectUrl(search.campaignId, search.url)}}" class="titleside">{{=loadingNews.highlightTitle(search.title)}}</a></span>
+<div class="countline">{{=search.clicks}}</div>
+</div>
+</div>
+{{~}}</div>
+<!--googleon: all-->
+<script type="text/javascript" src="/lentainform.com/js/scripts.js?v=1.1"></script>
+
+<script type="text/javascript" src="/lentainform.com/js/olimpic-banner.js"></script>
+<script lang="javascript">
+    loadingNews.targetNews = 0;
+
+    loadingNews.categories = {"3":"showbiz","11":"sport","13":"society","15":"society","16":"politics","17":"society","21":"showbiz","22":"showbiz","30":"politics","31":"society","32":"society","33":"economics","34":"sport","35":"sport","36":"sport","37":"showbiz","38":"society","40":"society","41":"society","43":"society","46":"society","49":"society","50":"showbiz","52":"society","53":"society","60":"society","62":"society","64":"society","68":"society","72":"society","100":"politics","102":"politics","104":"economics","110":"society","111":"economics","112":"society","113":"economics","114":"sport","115":"society","118":"politics","119":"showbiz","120":"politics","121":"society","122":"society","123":"society","124":"politics","125":"politics","126":"politics","127":"politics","128":"society","129":"society","130":"politics","131":"politics","132":"politics","133":"society","134":"society","135":"politics","136":"politics","137":"society","138":"society","139":"economics","140":"politics","141":"politics","142":"society","143":"society","144":"economics"};
+    loadingNews.categoriesRu = {"3":"\u0428\u043e\u0443-\u0431\u0438\u0437\u043d\u0435\u0441","11":"\u0421\u043f\u043e\u0440\u0442","13":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","15":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","16":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","17":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","21":"\u0428\u043e\u0443-\u0431\u0438\u0437\u043d\u0435\u0441","22":"\u0428\u043e\u0443-\u0431\u0438\u0437\u043d\u0435\u0441","30":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","31":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","32":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","33":"\u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430","34":"\u0421\u043f\u043e\u0440\u0442","35":"\u0421\u043f\u043e\u0440\u0442","36":"\u0421\u043f\u043e\u0440\u0442","37":"\u0428\u043e\u0443-\u0431\u0438\u0437\u043d\u0435\u0441","38":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","40":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","41":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","43":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","46":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","49":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","50":"\u0428\u043e\u0443-\u0431\u0438\u0437\u043d\u0435\u0441","52":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","53":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","60":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","62":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","64":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","68":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","72":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","100":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","102":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","104":"\u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430","110":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","111":"\u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430","112":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","113":"\u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430","114":"\u0421\u043f\u043e\u0440\u0442","115":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","118":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","119":"\u0428\u043e\u0443-\u0431\u0438\u0437\u043d\u0435\u0441","120":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","121":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","122":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","123":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","124":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","125":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","126":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","127":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","128":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","129":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","130":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","131":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","132":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","133":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","134":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","135":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","136":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","137":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","138":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","139":"\u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430","140":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","141":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430","142":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","143":"\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e","144":"\u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430"};
+    loadingNews.category = 0;
+</script>
+</div>
+</div>
+
+<script type="text/javascript">new
+    Image().src = "//counter.yadro.ru/hit;Lentainform?r" +
+        escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+            ";s" + screen.width + "*" + screen.height + "*" +
+            (screen.colorDepth ? screen.colorDepth : screen.pixelDepth)) +
+        ";u" + escape(document.URL) + ";"
+        + Math.random();</script>
+
+
+<script>
+    var _gaq = _gaq || [];
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-35438815-1', 'auto');
+            ga('send', 'pageview', '/main_page');
+    </script>
+
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    ym(33331333, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33331333" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+</body>
+</html>

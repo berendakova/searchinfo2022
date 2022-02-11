@@ -1,0 +1,374 @@
+<!DOCTYPE html><html ng-app="tassApp" ng-controller="mainController"><head><!-- Anti-Flicker--><style>.async-hide { opacity: 0 !important}</style><script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-KPWNSWD':true});
+</script><!-- Google Tag Manager--><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
+j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KPWNSWD');</script><!-- End Google Tag Manager--><title>Страница не найдена - ТАСС</title><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content=""><meta http-equiv="X-UA-Compatible" content="IE=10"><meta name="yandex-verification" content="f91ce7b4a203a30a"><meta name="google-site-verification" content="PoyFi2APBqKw8uGePodmFqId646DYLqqS1qiMTh153w"><meta name="msvalidate.01" content="C05302AEC20336D89FE678451D9C5CDC"><meta property="fb:app_id" content="145834367435982"><meta property="fb:pages" content="144698628932572"><meta property="og:site_name" content="ТАСС"><meta property="og:type" content="article"><meta property="og:image" content="https://tass.ru/img/blocks/common/tass_logo_share_ru.png"><meta property="og:url" content="https://tass.ru/sport/13678089"><meta property="og:title" content="Страница не найдена - ТАСС"><meta property="og:description" content=""><meta property="twitter:site" content="@tass_agency"><meta property="twitter:site:id" content="285532415"><meta property="twitter:card" content="summary_large_image"><meta property="twitter:title" content="Страница не найдена - ТАСС"><meta property="twitter:description" content=""><meta property="twitter:image" content="https://tass.ru/img/blocks/common/tass_logo_share_ru.png"><meta property="vk:image" content="https://tass.ru/img/blocks/common/tass_logo_share_ru.png"><link rel="image_src" href="https://tass.ru/img/blocks/common/tass_logo_share_ru.png"><meta name="gtm-page-type" content="error-404"><link rel="canonical" href="https://tass.ru/sport/13678089"><link rel="apple-touch-icon" href="/img/blocks/common/apple-touch-icon.png"><link rel="apple-touch-icon" sizes="57x57" href="/img/blocks/common/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="72x72" href="/img/blocks/common/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="/img/blocks/common/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="/img/blocks/common/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="/img/blocks/common/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="/img/blocks/common/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="/img/blocks/common/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="/img/blocks/common/apple-touch-icon-180x180.png"><link href="//fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i|Noto+Serif:400,400i,700,700i&amp;amp;subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet"><link href="//fonts.googleapis.com/css?family=PT+Serif:,700&amp;amp;subset=cyrillic" rel="stylesheet"><script src="//platform.twitter.com/widgets.js" charset="utf-8" async></script><script src="//cdn.onthe.io/io.js/eqROJ8s7dhev" async></script><script>window._io_config = window._io_config || {};
+window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+window._io_config["0.2.0"].push({"page_url":"https://tass.ru/sport/13678089","page_url_canonical":"https://tass.ru/sport/13678089","page_type":"default","page_language":"ru","page_title":"Страница не найдена - ТАСС"});</script><script>localStorage.setItem('centrifugo', '{"host":"https://centrifugo.tass.ru","port":"443","user":"1","timestamp":"10","token":"87cf320d40b3d158222430b232ea6803c57e1290d414fcdd78a446615884092e"}')
+localStorage.setItem('webSocket', '{"host":"wss://comet.tass.ru:443","SID":"--b28c704f1435e1a5ac1a753810d40a57"}')
+localStorage.setItem('environment', 'production')</script><script src="//yastatic.net/pcode/adfox/header-bidding.js" async></script><script name="desktopHeaderBidding">window.YaHeaderBiddingSettings =
+    {
+        "adUnits": [{
+            "code": "adfox_sidebar",
+            "bids": [{
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "252003"
+                }
+            }, {
+                "bidder": "adriver",
+                "params": {
+                    "placementId": "14:tass_300x600"
+                }
+            }, {
+                "bidder": "relap",
+                "params": {
+                    "placementId": "hnmGzA3NBHOJ_FRU"
+                }
+            }, {
+                "bidder": "otm",
+                "params": {
+                    "placementId": "1759"
+                }
+            }, {
+                "bidder": "adfox_adsmart",
+                "params": {
+                    "p1": "cqgvl",
+                    "p2": "hhro"
+                }
+            }, {
+                "bidder": "rtbhouse",
+                "params": {
+                    "placementId": "k0RpgvzoIormNPpIAQT1"
+                }
+            }, {
+                "bidder": "bidvol",
+                "params": {
+                    "placementId": "13762"
+                }
+            }, {
+                "bidder": "adfox_imho-banners",
+                "params": {
+                    "p1": "buphw",
+                    "p2": "fhca"
+                }
+            }, {
+                "bidder": "buzzoola",
+                "params": {
+                    "placementId": "1224369"
+                }
+            }],
+            "sizes": [
+                [300, 600]
+            ]
+        }, {
+            "code": "inPageAdfox",
+            "bids": [{
+                "bidder": "buzzoola",
+                "params": {
+                    "placementId": "563777"
+                }
+            }, {
+                "bidder": "adriver",
+                "params": {
+                    "placementId": "14:tass_inpage_vast"
+                }
+            }, {
+                "bidder": "otm",
+                "params": {
+                    "placementId": "6515"
+                }
+            }],
+            "sizes": [],
+            "codeType": "inpage"
+        }, {
+            "code": "300x600_inline",
+            "bids": [{
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "685149"
+                }
+            }, {
+                "bidder": "adriver",
+                "params": {
+                    "placementId": "14:tass_300x600_inline"
+                }
+            }, {
+                "bidder": "relap",
+                "params": {
+                    "placementId": "PJeXEFyd3yTeERER"
+                }
+            }, {
+                "bidder": "otm",
+                "params": {
+                    "placementId": "1760"
+                }
+            }, {
+                "bidder": "bidvol",
+                "params": {
+                    "placementId": "13763"
+                }
+            }, {
+                "bidder": "buzzoola",
+                "params": {
+                    "placementId": "1224370"
+                }
+            }],
+            "sizes": [
+                [300, 600]
+            ]
+        }, {
+            "code": "300x250_tgb",
+            "bids": [{
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "628175"
+                }
+            }, {
+                "bidder": "adriver",
+                "params": {
+                    "placementId": "14:tass_300x250"
+                }
+            }, {
+                "bidder": "relap",
+                "params": {
+                    "placementId": "ddzchckI5R7kKioq"
+                }
+            }, {
+                "bidder": "otm",
+                "params": {
+                    "placementId": "1763"
+                }
+            }, {
+                "bidder": "bidvol",
+                "params": {
+                    "placementId": "13768"
+                }
+            }, {
+                "bidder": "gnezdo",
+                "params": {
+                    "placementId": "211783"
+                }
+            }],
+            "sizes": [
+                [300, 250],
+                [300, 300]
+            ]
+        }, {
+            "code": "970x250_1",
+            "bids": [{
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "628171"
+                }
+            }, {
+                "bidder": "adriver",
+                "params": {
+                    "placementId": "14:tass_970x250"
+                }
+            }, {
+                "bidder": "relap",
+                "params": {
+                    "placementId": "7BPs8THxcX2HQ0tL"
+                }
+            }, {
+                "bidder": "otm",
+                "params": {
+                    "placementId": "1761"
+                }
+            }, {
+                "bidder": "rtbhouse",
+                "params": {
+                    "placementId": "dtxCHFFVBztsXIBfD0mS"
+                }
+            }, {
+                "bidder": "adfox_adsmart",
+                "params": {
+                    "p1": "codpp",
+                    "p2": "ul"
+                }
+            }, {
+                "bidder": "bidvol",
+                "params": {
+                    "placementId": "13764"
+                }
+            }, {
+                "bidder": "buzzoola",
+                "params": {
+                    "placementId": "1224367"
+                }
+            }],
+            "sizes": [
+                [970, 250]
+            ]
+        }, {
+            "code": "970x250_inline",
+            "bids": [{
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "685151"
+                }
+            }, {
+                "bidder": "adriver",
+                "params": {
+                    "placementId": "14:tass_970x250_inline"
+                }
+            }, {
+                "bidder": "relap",
+                "params": {
+                    "placementId": "C1BQtYhJXaddGRkZ"
+                }
+            }, {
+                "bidder": "otm",
+                "params": {
+                    "placementId": "1762"
+                }
+            }, {
+                "bidder": "rtbhouse",
+                "params": {
+                    "placementId": "Kw80uqaTzkhumyAAlddx"
+                }
+            }, {
+                "bidder": "adfox_adsmart",
+                "params": {
+                    "p1": "codpq",
+                    "p2": "ul"
+                }
+            }, {
+                "bidder": "bidvol",
+                "params": {
+                    "placementId": "13765"
+                }
+            }, {
+                "bidder": "adfox_imho-banners",
+                "params": {
+                    "p1": "buphx",
+                    "p2": "fhcb"
+                }
+            }, {
+                "bidder": "gnezdo",
+                "params": {
+                    "placementId": "211784"
+                }
+            }, {
+                "bidder": "buzzoola",
+                "params": {
+                    "placementId": "1224368"
+                }
+            }],
+            "sizes": [
+                [970, 250]
+            ]
+        }],
+        "biddersMap": {
+            "myTarget": "828498",
+            "buzzoola": "1161755",
+            "adriver": "1166314",
+            "otm": "1444842",
+            "adfox_tn-inpool": "1197684",
+            "relap": "1166902",
+            "rtbhouse": "1338708",
+            "bidvol": "1535450",
+            "adfox_adsmart": "1593442",
+            "adfox_imho-banners": "1047258",
+            "Gnezdo": "1684454"
+        },
+        "timeout": 1500
+    };</script><script src="//yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script><script src="//an.yandex.ru/system/context.js" async="async"></script><script src="/newtass/javascript/polyfills/fullscreen-api-polyfill.min.js?v=153"></script><script>const objFitSupport = 'objectFit' in document.documentElement.style;
+
+document.addEventListener('DOMContentLoaded', function () {
+    if (!objFitSupport) {
+        document.body.classList.add('object-fit-not-support');
+    }
+});</script><script src="/newtass/javascript/libs/angular.min.js?v=153"></script><script src="/newtass/javascript/libs/angular-locale_ru-ru.js?v=153"></script><script src="/newtass/javascript/libs/angular-sanitize.min.js?v=153"></script><script src="/newtass/javascript/libs/angular-touch.min.js?v=153"></script><script src="/newtass/javascript/libs/angular-cookies.min.js?v=153"></script><script src="/newtass/javascript/libs/angular-mask.min.js?v=153"></script><script src="//cdn.jsdelivr.net/sockjs/1.1/sockjs.min.js"></script><script src="/newtass/javascript/libs/centrifuge.js?v=153"></script><script src="/newtass/javascript/app.js?v=153"></script><script src="/newtass/javascript/servises/overlord.js?v=153"></script><script src="/newtass/javascript/servises/centrifuge.js?v=153"></script><script src="/newtass/javascript/servises/websocket.js?v=153"></script><script src="https://unpkg.com/axios/dist/axios.min.js"></script><script src="//www.google.com/recaptcha/api.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script><script src="/firebase_app.js?v=153"></script><script src="/firebase_config.js"></script><script src="/firebase_subscribe.js?v=153"></script><script src="/newtass/javascript/controllers/mainController.js?v=153"></script><script src="/newtass/javascript/controllers/newsfeedController.js?v=153"></script><script src="/newtass/javascript/controllers/videoController.js?v=153"></script><script src="/newtass/javascript/controllers/audioController.js?v=153"></script><script src="/newtass/javascript/controllers/sliderController.js?v=153"></script><script src="/newtass/javascript/controllers/socialController.js?v=153"></script><script src="/newtass/javascript/controllers/headerController.js?v=153"></script><script src="/newtass/javascript/controllers/contentList.js?v=153"></script><script src="/newtass/javascript/controllers/whatsNewController.js?v=153"></script><script src="/newtass/javascript/controllers/mainMediaController.js?v=153"></script><script src="/newtass/javascript/controllers/menuController.js?v=153"></script><script src="/newtass/javascript/directives/fullscreenViewDirective.js?v=153"></script><script src="/newtass/javascript/directives/photoFullscreenViewDirective.js?v=153"></script><script src="/newtass/javascript/directives/expandableTextIncludes.js?v=153"></script><script src="/newtass/javascript/directives/dateFormatDirective.js?v=153"></script><script src="/newtass/javascript/directives/clickOutsideDirective.js?v=153"></script><script src="/newtass/javascript/directives/urgentDirective.js?v=153"></script><script src="/newtass/javascript/directives/headerTop0Directive.js?v=153"></script><script src="/newtass/javascript/directives/scrollToTopDirective.js?v=153"></script><script src="/newtass/javascript/directives/adfoxInlineDirective.js?v=153"></script><script src="/newtass/javascript/directives/adfoxBannerDirective.js?v=153"></script><script src="/newtass/javascript/directives/spoilerExpandDirective.js?v=153"></script><script src="/newtass/javascript/directives/sbLoadDirective.js?v=153"></script><script src="/newtass/javascript/directives/includeReplaceDirective.js?v=153"></script><script src="/newtass/javascript/directives/angular-loadscript.js?v=153"></script><script src="/newtass/javascript/directives/bannerInPageDirective.js?v=153"></script><script src="/newtass/javascript/directives/additionalInfoDirective.js?v=153"></script><script src="/newtass/javascript/directives/headerDirective.js?v=153"></script><script type="application/ld+json">{"@context":"https://schema.org/","@type":"Organization","url":"https://tass.ru","name":"ТАСС","logo":{"@type":"ImageObject","url":"https://tass.ru/newtass/img/blocks/common/tass-logo.jpg","width":60,"height":60},"sameAs":["https://www.facebook.com/tassagency","https://www.youtube.com/channel/UCEyGP84v6qbsZy9-pL6Jx2g","https://vk.com/tassagency","https://ok.ru/tassagency","https://www.instagram.com/tass_agency/","https://twitter.com/tass_agency"]}</script><link rel="preconnect" href="https://ads.betweendigital.com" crossorigin><link id="1link" rel="stylesheet" media="only screen and (min-width: 0px)" href="/newtass/stylesheets/error-page/error-page.css?v=153"><link id="2link" rel="stylesheet" media="only screen and (min-width: 960px)" href="/newtass/stylesheets/error-page/error-page_md.css?=153"><link id="3link" rel="stylesheet" media="only screen and (min-width: 1280px)" href="/newtass/stylesheets/error-page/error-page_lg.css?v=153"></head><body data-ng-class="{'lenta-opened': newsFeedMode, 'whats-new-opened': whatsNewOpened}"><!-- Google Tag Manager (noscript)--><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KPWNSWD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager--><!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function (d, w, c) {
+       (w[c] = w[c] || []).push(function() {
+           try {
+               w.yaCounter22765936 = new Ya.Metrika({
+                   id:22765936,
+                   clickmap:true,
+                   trackLinks:true,
+                   accurateTrackBounce:true,
+                   webvisor:true,
+                   trackHash:true
+               });
+           } catch(e) { }
+       });
+ 
+       var n = d.getElementsByTagName("script")[0],
+           s = d.createElement("script"),
+           f = function () { n.parentNode.insertBefore(s, n); };
+       s.type = "text/javascript";
+       s.async = true;
+       s.src = "https://mc.yandex.ru/metrika/watch.js";
+ 
+       if (w.opera == "[object Opera]") {
+           d.addEventListener("DOMContentLoaded", f, false);
+       } else { f(); }
+   })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/22765936" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit;TASS_total?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet--><img src="https://px.adhigh.net/p/tracking.gif?syncs=default&amp;site_id=6322" width="1" height="1" style="display: block; position: absolute; left: 0; top: 0;"><img src="https://px.adhigh.net/p/tracking.gif?syncs=bsw&amp;syncs_only=true" width="1" height="1" style="display: block; position: absolute; left: 0; top: 0;"><header class="header header-on_top" id="header" data-ng-controller="headerController" header-directive="header-directive" ng-class="{'header_hidden': $root.showArticle}"><div class="container" ng-init="counterTime = 520"><div class="header-inner"><div><a class="header-logo" href="/" data-header_logo="data-header_logo" ="" rel="nofollow"><div class="header-logo__logo"></div></a></div></div></div></header><banner bannerID="adfox_floorad_desktop" envType="production"></banner><div class="search-popup"><div class="search-popup__container"><header class="search-popup__header"><div class="search-popup__logo"></div><button class="search-popup__close-button" id="search-btn-close">Закрыть</button></header><form class="search-popup__search-form"><div class="search-input"><div class="search-input__wrapper"><input class="search-input__input-field" autofocus="autofocus" placeholder="Поиск" data-ng-model="sendParams.searchStr"/><button class="search-input__submit-button" data-ng-click="dispatch()" ng-if="!pending" data-header_menu_search_start="data-header_menu_search_start"></button><div class="search-input__spinner" ng-if="pending"></div></div><ul class="search-input__results-list"><li class="search-input__results-list-item"><button class="search-input__result-title">Экономика</button></li><li class="search-input__results-list-item"><button class="search-input__result-title">Спорт</button></li><li class="search-input__results-list-item"><button class="search-input__result-title">Культура</button></li></ul></div></form></div></div><div class="news-feed" data-ng-controller="newsFeedController" ng-init="init({isWeOnSuperRubric: undefined})"><div ng-class="{'news-feed-back': isOpened}"></div><div class="news-feed-column" ng-class="{'news-feed-column_opened': isOpened}"><div class="news-feed-close" ng-click="closeNewsFeed()" data-header_menu_feed_close="data-header_menu_feed_close"></div><div class="news-feed-content" id="news-feed-content"><div class="news-feed-list"><div class="news-feed-btn" ng-class="{'news-feed-btn_active': newsFeedCounter}" ng-click="loadmessages(true)"><div class="news-feed-btn__inner" ng-bind-html="getNewsFeedCounter()"></div></div><div class="news-feed-day-container" data-ng-repeat="dayPoint in newsFeed | orderObjectBy:'date':true"><div class="news-feed-daypoint">{{dayPoint.date | date : 'd MMMM yyyy'}}</div><a class="news-feed-item" data-ng-class="{'news-feed-item_flash': newsPoint.isFlash, 'news-feed-item_new': newsPoint.isNew}" data-ng-href="{{newsPoint.link}}" data-ng-repeat="newsPoint in dayPoint | orderObjectBy:'date':true" data-ng-if="newsPoint.id"><div class="news-feed-item__header"><div class="news-feed-item__date">{{newsPoint.date * 1000 | date : 'HH:mm'}} {{newsPoint.mark}}</div></div><div class="news-feed-item__title-wrap"><div class="news-feed-item__title" data-header_menu_feed_title="data-header_menu_feed_title" data-ng-if="!newsPoint.subtitle">{{newsPoint.title}}</div><div data-ng-if="newsPoint.subtitle" data-header_menu_feed_title="data-header_menu_feed_title"><div class="news-feed-item__title">{{newsPoint.title+ ' '}}</div><div class="news-feed-item__subtitle">{{newsPoint.subtitle}}</div></div><div class="news-feed-item__photo" data-ng-if="newsPoint.showPhoto &amp;&amp; newsPoint.image" data-header_menu_feed_photo="data-header_menu_feed_photo"><img data-ng-src="{{newsPoint.image}}" alt=""/></div></div></a></div></div><div class="news-feed-endpoint" id="news-feed-endpoint"></div></div><a class="news-feed-link" data-ng-href="/search" data-header_menu_feed_all="data-header_menu_feed_all">Все новости</a></div></div><main><div class="error-page"><div class="error-page__metadata">Ошибка 404</div><div class="error-page__title">Страница не найдена</div><div class="error-page__message"><p>Для поиска интересующего вас материала вы можете воспользоваться поиском или лентой материалов.</p></div><form class="search-input" action="/search" method="get" target=""><div class="search-input__wrapper"><input class="search-input__input-field" autofocus="autofocus" placeholder="Поиск" type="search" name="searchStr"/><input type="hidden" value="date" name="sort"/><button class="search-input__submit-button" data-ng-click="" data-header_menu_search_start="data-header_menu_search_start" type="submit"></button></div></form></div></main><footer class="footer" data-ng-hide="$root.footerHidden"><div class="container"><div class="footer-license-text">ТАСС, информационное агентство (св-во о регистрации СМИ №03247 выдано 02 апреля 1999 г. Государственным комитетом Российской Федерации по печати).<br/>Отдельные публикации могут содержать информацию, не предназначенную для пользователей до 16 лет.</div><div class="footer-action-buttons"><a class="footer-action-button footer-action-button_ios" href="https://itunes.apple.com/ru/app/tass-sejcas/id1052524695?mt=8" rel="nofollow" target="_blank"><div class="footer-action-button__icon"></div><div class="footer-action-button__text"><div class="footer-action-button__intro">Скачать в</div><div class="footer-action-button__platform-name">App Store</div></div></a></div><div class="footer-counters"><!-- LiveInternet logo--><a href="//www.liveinternet.ru/click;TASS_total" target="_blank" rel="nofollow"><img src="//counter.yadro.ru/logo;TASS_total?40.1" title="LiveInternet" alt="" border="0" width="31" height="31"/></a><!-- /LiveInternet--><!-- Top100 (Kraken) Counter -->
+<script>
+   (function (w, d, c) {
+   (w[c] = w[c] || []).push(function() {
+       var options = {
+           project: 2706484,
+       };
+       try {
+           w.top100Counter = new top100(options);
+       } catch(e) { }
+   });
+   var n = d.getElementsByTagName("script")[0],
+   s = d.createElement("script"),
+   f = function () { n.parentNode.insertBefore(s, n); };
+   s.type = "text/javascript";
+   s.async = true;
+   s.src =
+   (d.location.protocol == "https:" ? "https:" : "http:") +
+   "//st.top100.ru/top100/top100.js";
+ 
+   if (w.opera == "[object Opera]") {
+   d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript>
+ <img src="//counter.rambler.ru/top100.cnt?pid=2706484" alt="Топ-100" />
+</noscript>
+<!-- END Top100 (Kraken) Counter --></div></div></footer><div class="scroll-to-top_wrapper" scroll-to-top-directive="scroll-to-top-directive" data-ng-click="scrollToTop()" data-ng-class="{'scroll-to-top_wrapper_active': scrollToTopActive &amp;&amp; !$root.mainMenuStatus}" all_up="all_up"><div class="scroll-to-top"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 44 44"><g fill="none" fill-rule="evenodd"><rect width="100%" height="100%"></rect><circle cx="22" cy="22" r="16" fill="#FFF" stroke="#292759" stroke-opacity=".15"></circle><circle cx="22" cy="22" r="13" fill="#00077B"></circle><path fill="#FFF" d="M26.2928932,27.2928932 C26.845178,27.2928932 27.2928932,26.845178 27.2928932,26.2928932 L27.2928932,20.2928932 C27.2928932,19.7406085 26.845178,19.2928932 26.2928932,19.2928932 C25.7406085,19.2928932 25.2928932,19.7406085 25.2928932,20.2928932 L25.2928932,23.8786797 L18.4644661,17.0502525 C18.0739418,16.6597282 17.4407768,16.6597282 17.0502525,17.0502525 C16.6597282,17.4407768 16.6597282,18.0739418 17.0502525,18.4644661 L23.8786797,25.2928932 L20.2928932,25.2928932 C19.7406085,25.2928932 19.2928932,25.7406085 19.2928932,26.2928932 C19.2928932,26.845178 19.7406085,27.2928932 20.2928932,27.2928932 L26.2928932,27.2928932 Z M22,36 C14.2680135,36 8,29.7319865 8,22 C8,14.2680135 14.2680135,8 22,8 C29.7319865,8 36,14.2680135 36,22 C36,29.7319865 29.7319865,36 22,36 Z" transform="rotate(-135 22 22)"></path><path class="scroll-to-top_progress-bar" stroke="#00077B" stroke-linecap="round" d="M22 6 a 16 16 0 0 1 0 32 a 16 16 0 0 1 0 -32" style="stroke-dasharray: 100.53; stroke-dashoffset: 100.53;"></path></g></svg></div><div class="easter-egg"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 44 44"><g fill="none" fill-rule="evenodd"><rect width="100%" height="100%" fill="none"></rect><g transform="translate(5 5)"><circle cx="17" cy="17" r="16.3" fill="#00077B"></circle><polygon fill="#FFF" points="10.5 11.2 10.5 14.4 15.2 14.4 15.2 24.5 18.7 24.5 18.7 14.4 22.7 14.4 24.1 11.2"></polygon></g></g></svg></div></div><!-- tns-counter.ru -->
+<script type="text/javascript">
+   (function(win, doc, cb){
+       (win[cb] = win[cb] || []).push(function() {
+           try {
+               tnsCounterItartass_com = new TNS.TnsCounter({
+               'account':'itartass_com',
+               'tmsec': 'itartass_total'
+               });
+           } catch(e){}
+       });
+
+       var tnsscript = doc.createElement('script');
+       tnsscript.type = 'text/javascript';
+       tnsscript.async = true;
+       tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') + 
+           '//www.tns-counter.ru/tcounter.js';
+       var s = doc.getElementsByTagName('script')[0];
+       s.parentNode.insertBefore(tnsscript, s);
+   })(window, this.document,'tnscounter_callback');
+</script>
+<noscript>
+   <img src="//www.tns-counter.ru/V13a****itartass_com/ru/UTF-8/tmsec=itartass_total/" width="0" height="0" alt="" />
+</noscript><!--/ tns-counter.ru --></body></html>

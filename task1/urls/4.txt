@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="ru" class="phone-blur">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="✔ «Колеса Даром» — интернет-магазин шин и дисков от ведущих брендов. Бесплатная доставка в Москве, рассрочка 0%, 4000+ шин на любое авто. Шиномонтаж в подарок. Скидки до 70%" />
+             
+
+     <!-- Google Tag Manager -->
+
+<!-- End Google Tag Manager --> <meta name="google-site-verification" content="Y4TxzhrbehBJMhwMa2Pn9M426jPBxiyGsY1cjD2wFBQ" />
+<meta name="google-site-verification" content="MkMXHJ1167Q2dvNkwhGg6oM2bzSO_BDSFezCu6X-1l8" />
+<meta name="google-site-verification" content="fJUEIyffXbqiAZRaxWlPq1OFKgUB9TKhpwatRt8lzFI" />
+<meta name="yandex-verification" content="44b921b275d63e2c" /> <meta name="yandex-verification" content="aa88de670061fa63" /> <meta name="google-site-verification" content="Y4TxzhrbehBJMhwMa2Pn9M426jPBxiyGsY1cjD2wFBQ" /> <meta name="facebook-domain-verification" content="uz6t5bvqcxdls4wny699w0nzkxnetv" /> <meta name="google-site-verification" content="J0u4whV88hFHB3hWpOk8Rea53v0Uv1OUkmDmC2sZhtU" /> <!-- Flocktory -->
+<script type="text/javascript" data-skip-moving="true" src="https://api.flocktory.com/v2/loader.js?site_id=3292" async="async"></script>
+<!-- End Flocktory --> 
+ <script type="text/javascript" data-skip-moving="true">
+	var rrPartnerId = "60f810cc97a5251dd8f83160";
+	var rrApi = {};
+	var rrApiOnReady = rrApiOnReady || [];
+	rrApi.addToBasket = rrApi.order = rrApi.categoryView = rrApi.view =
+		rrApi.recomMouseDown = rrApi.recomAddToCart = function() {};
+	(function(d) {
+		var ref = d.getElementsByTagName('script')[0];
+		var apiJs, apiJsId = 'rrApi-jssdk';
+		if (d.getElementById(apiJsId)) return;
+		apiJs = d.createElement('script');
+		apiJs.id = apiJsId;
+		apiJs.async = true;
+		apiJs.src = "//cdn.retailrocket.ru/content/javascript/tracking.js";
+		ref.parentNode.insertBefore(apiJs, ref);
+	}(document));
+</script> <script data-skip-moving="true" src="https://www.googleoptimize.com/optimize.js?id=OPT-PXKC5XV"></script>
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>«Колеса Даром» — интернет-магазин шин, дисков и автотоваров в Москве с бесплатной доставкой</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui, user-scalable=no">
+	<meta content="telephone=no" name="format-detection">
+	<meta name="HandheldFriendly" content="true">
+    
+    	<link rel="apple-touch-icon" sizes="57x57" href="/local/templates/kd_lebedev/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/local/templates/kd_lebedev/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/local/templates/kd_lebedev/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/local/templates/kd_lebedev/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/local/templates/kd_lebedev/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/local/templates/kd_lebedev/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/local/templates/kd_lebedev/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/local/templates/kd_lebedev/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/local/templates/kd_lebedev/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/local/templates/kd_lebedev/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/local/templates/kd_lebedev/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/local/templates/kd_lebedev/favicon/favicon-16x16.png">
+	<link rel="icon" type="image/png" sizes="36x36" href="/local/templates/kd_lebedev/favicon/android-icon-36x36.png">
+	<link rel="icon" type="image/png" sizes="48x48" href="/local/templates/kd_lebedev/favicon/android-icon-48x48.png">
+	<link rel="icon" type="image/png" sizes="72x72" href="/local/templates/kd_lebedev/favicon/android-icon-72x72.png">
+	<link rel="icon" type="image/png" sizes="144x144" href="/local/templates/kd_lebedev/favicon/android-icon-144x144.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/local/templates/kd_lebedev/favicon/android-icon-192x192.png">
+	<link rel="shortcut icon" href="/local/templates/kd_lebedev/favicon/favicon.ico">
+	<meta name="msapplication-TileColor" content="#000000">
+	<meta name="msapplication-TileImage" content="/local/templates/kd_lebedev/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+    <link rel="preload" as="font" href="/local/templates/kd_lebedev/assets/font/OpenSans-Bold.woff" crossorigin>
+    <link rel="preload" as="font" href="/local/templates/kd_lebedev/assets/font/OpenSans-Bold.woff2" crossorigin>
+    <link rel="preload" as="font" href="/local/templates/kd_lebedev/assets/font/OpenSans-Light.woff" crossorigin>
+    <link rel="preload" as="font" href="/local/templates/kd_lebedev/assets/font/OpenSans-Light.woff2" crossorigin>
+    <link rel="preload" as="font" href="/local/templates/kd_lebedev/assets/font/OpenSans-Regular.woff" crossorigin>
+    <link rel="preload" as="font" href="/local/templates/kd_lebedev/assets/font/OpenSans-Regular.woff2" crossorigin>
+    <link rel="preload" as="font" href="/local/templates/kd_lebedev/assets/font/OpenSans-SemiBold.woff" crossorigin>
+    <link rel="preload" as="font" href="/local/templates/kd_lebedev/assets/font/OpenSans-SemiBold.woff2" crossorigin>
+
+        <link rel="stylesheet" href="/local/templates/kd_lebedev/assets/css/common.css?v=1644492336"/>
+<link rel="stylesheet" href="/local/templates/kd_lebedev/assets/css/main.css?v=1644492336">
+    
+
+
+    </head>
+<body>
+ <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH864R8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->         
+<div class="app bg" id="app" ref="application-container">
+            
+                    
+    
+
+
+
+
+    	<kdn-header
+		class="header"
+		search-query=""
+		is-main-page="1"
+	>
+		<div class="header__stretcher"><!--Уберется после рендеринга скриптов, нужно чтоб шапка держала форму при первоначальной загрузке--></div>
+	</kdn-header>
+    
+	<kd-last-hope-modal-show></kd-last-hope-modal-show>
+
+	<div class="page-content">
+		<kd-all-modals></kd-all-modals>
+
+            
+			            
+<div class="page-wrapper">
+        
+<div class="main-page-carousel">
+    <kd-main-page-carousel
+            pagination-id="#main-page-carousel-pagination"
+            transition-effect="fade"
+            loop="loop"
+            :autoplay="{delay: 5000}">
+
+                <div class="mainpage-slider-wrapper">
+            <div >
+                                    <div class="tabs-block-container">
+                        <div class="tabs-block">
+                            <div class="tabs tabs-links-list">
+                            <span
+                                  class="tabs-links-list__item tabs-links-list__item_active">Шины</span>
+                                <span class="tabs-links-list__item">Диски</span>
+                            </div>
+                            <div class="tabs-content-list">
+                                <div
+                                     class="tabs-content-list__item tabs-content-list__item-tire tabs-content-list__item_active">
+                                    <div class="tabs-content-form-wrapper">
+                                        <form  class="tabs-content-form">
+                                            <div  class="tabs-content-tablet-step-toggler">
+                                                <div  class="kd-toggler-wrapper">
+                                                <span
+                                                      class="kd-toggler__value kd-toggler__value_active">
+                                                    По параметрам
+                                                </span>
+                                                    <div  class="kd-toggler">
+                                                        <input type="radio" name="tire-search-type"
+                                                               class="kd-toggler__radio" value="params">
+                                                        <input type="radio" name="tire-search-type"
+                                                               class="kd-toggler__radio" value="car">
+                                                        <label class="kd-toggler__label kd-toggler__label_both"></label>
+                                                    </div>
+                                                    <span  class="kd-toggler__value">
+                                                    По автомобилю
+                                                </span>
+                                                </div>
+                                            </div>
+                                            <div  class="tabs-content-form__fields-container">
+                                                <div  class="tabs-content-form-fields">
+                                                    <div  class="tabs-content-form__item">
+                                                        <div  class="kd-select" style="width: 100%;">
+                                                            <div class="kd-select__toggle"
+                                                                 style="max-height: 46px; height: 46px; line-height: 46px;">
+                                                                <div class="kd-select__value kd-select__value_selected">
+                                                                    Ширина
+                                                                </div>
+                                                                
+            <svg class='icon kd-select__arrow ' width='10' height='6'>
+              <use xlink:href='/local/templates/kd_lebedev/assets/svg/svg-symbols.svg?v=1644492281#select-arrow'></use>
+            </svg>
+                                                                    </div>
+                                                        </div>
+                                                    </div>
+                                                    <div  class="tabs-content-form__item">
+                                                        <div  class="kd-select" style="width: 100%;">
+                                                            <div class="kd-select__toggle"
+                                                                 style="max-height: 46px; height: 46px; line-height: 46px;">
+                                                                <div class="kd-select__value kd-select__value_selected">
+                                                                    Профиль
+                                                                </div>
+                                                                
+            <svg class='icon kd-select__arrow ' width='10' height='6'>
+              <use xlink:href='/local/templates/kd_lebedev/assets/svg/svg-symbols.svg?v=1644492281#select-arrow'></use>
+            </svg>
+                                                                    </div>
+                                                        </div>
+                                                    </div>
+                                                    <div  class="tabs-content-form__item">
+                                                        <div  class="kd-select" style="width: 100%;">
+                                                            <div class="kd-select__toggle"
+                                                                 style="max-height: 46px; height: 46px; line-height: 46px;">
+                                                                <div class="kd-select__value kd-select__value_selected">
+                                                                    Диаметр
+                                                                </div>
+                                                                
+            <svg class='icon kd-select__arrow ' width='10' height='6'>
+              <use xlink:href='/local/templates/kd_lebedev/assets/svg/svg-symbols.svg?v=1644492281#select-arrow'></use>
+            </svg>
+                                                                    </div>
+                                                        </div>
+                                                    </div>
+                                                    <div  class="tabs-content-form__item">
+                                                        <div  class="kd-select" style="width: 100%;">
+                                                            <div class="kd-select__toggle"
+                                                                 style="max-height: 46px; height: 46px; line-height: 46px;">
+                                                                <div class="kd-select__value kd-select__value_selected">
+                                                                    Сезонность
+                                                                </div>
+                                                                
+            <svg class='icon kd-select__arrow ' width='10' height='6'>
+              <use xlink:href='/local/templates/kd_lebedev/assets/svg/svg-symbols.svg?v=1644492281#select-arrow'></use>
+            </svg>
+                                                                    </div>
+                                                        </div>
+                                                    </div>
+                                                    <div  class="tabs-content-form__item">
+                                                        <div  class="kd-select" style="width: 100%;">
+                                                            <div class="kd-select__toggle"
+                                                                 style="max-height: 46px; height: 46px; line-height: 46px;">
+                                                                <div class="kd-select__value kd-select__value_selected">
+                                                                    Производитель
+                                                                </div>
+                                                                
+            <svg class='icon kd-select__arrow ' width='10' height='6'>
+              <use xlink:href='/local/templates/kd_lebedev/assets/svg/svg-symbols.svg?v=1644492281#select-arrow'></use>
+            </svg>
+                                                                    </div>
+                                                        </div>
+                                                    </div>
+                                                    <div  class="tabs-content-form__item">
+                                                        <button  type="submit"
+                                                                class="kd-btn kd-btn_secondary kd-btn_disabled">
+                                                            Подобрать
+                                                        </button>
+                                                    </div>
+                                                    <a
+                                                       href="/articles/markirovka-shin/"
+                                                       class="more-info-link">
+                                                        <div  class="more-info-link__icon-wrapper">
+                                                            
+            <svg class='icon more-info-link__icon ' width='28' height='23'>
+              <use xlink:href='/local/templates/kd_lebedev/assets/svg/svg-symbols.svg?v=1644492281#tire-props'></use>
+            </svg>
+                                                                    <span  class="mini-label">?</span>
+                                                        </div>
+                                                        <div  class="more-info-link__text-wrapper">
+                                                            Где смотреть параметры
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+
+            <div class="swiper-slide--centered swiper-slide main-page-carousel__slide swiper-lazy"
+      style="background: url('/upload/iblock/73b/73b94a593f409ae8de15b27b5a0f2101.jpg')" 
+     data-background="/upload/iblock/73b/73b94a593f409ae8de15b27b5a0f2101.jpg"
+     data-background-tablet="/upload/iblock/5c5/5c51c856476d396fc908c934093ca184.jpg"
+     data-background-mobile="/upload/iblock/3ab/3ab59e4c0da09dcb659037102381c7b4.jpg"
+>
+    <div class="main-page-carousel__slide-inner">
+        <h3 class="main-page-carousel__slide-title"></h3>
+        <p class="main-page-carousel__slide-text"></p>
+                    <a class="main-page-carousel__promo-link"
+                                                                onclick="integrations.bannerPromotionClick({
+                                id: '4167489',
+                                name: 'Первая распродажа года!',
+                                creative: '',
+                                position: '#CATALOG_CATEGORY_NAME#Большой слайдер под главным меню',
+                                href: '/actions/pervaya-rasprodazha-goda/',
+                                });"
+                        href="javascript:void(0)"
+                    
+            >
+                                <span class="main-page-carousel__promo-link-text">
+                    Подробнее
+                </span>
+                <span class="main-page-carousel__promo-link-arrow">
+                <svg-loader
+                        name="arrow-right"
+                        class="promo-link-arrow-svg"
+                        :width="5"
+                        :height="8"
+                ></svg-loader>
+            </span>
+            </a>
+            </div>
+</div>
+
+        </div>
+
+                    <!--noindex-->
+                <template slot="swiper">
+            <div class="swiper-slide--centered swiper-slide main-page-carousel__slide swiper-lazy"
+     placeholder_for_slot
+     data-background="/upload/iblock/73b/73b94a593f409ae8de15b27b5a0f2101.jpg"
+     data-background-tablet="/upload/iblock/5c5/5c51c856476d396fc908c934093ca184.jpg"
+     data-background-mobile="/upload/iblock/3ab/3ab59e4c0da09dcb659037102381c7b4.jpg"
+>
+    <div class="main-page-carousel__slide-inner">
+        <h3 class="main-page-carousel__slide-title"></h3>
+        <p class="main-page-carousel__slide-text"></p>
+                    <a class="main-page-carousel__promo-link"
+                                                                onclick="integrations.bannerPromotionClick({
+                                id: '4167489',
+                                name: 'Первая распродажа года!',
+                                creative: '',
+                                position: 'Большой слайдер под главным меню',
+                                href: '/actions/pervaya-rasprodazha-goda/',
+                                });"
+                        href="javascript:void(0)"
+                    
+            >
+                                <span class="main-page-carousel__promo-link-text">
+                    Подробнее
+                </span>
+                <span class="main-page-carousel__promo-link-arrow">
+                <svg-loader
+                        name="arrow-right"
+                        class="promo-link-arrow-svg"
+                        :width="5"
+                        :height="8"
+                ></svg-loader>
+            </span>
+            </a>
+            </div>
+</div>
+<div class="swiper-slide--centered swiper-slide main-page-carousel__slide swiper-lazy"
+     placeholder_for_slot
+     data-background="/upload/iblock/af6/af61643c0800ebb30374792dbda773a9.jpg"
+     data-background-tablet="/upload/iblock/887/887d6aa224e3aaafd3c8fb5273526e67.jpg"
+     data-background-mobile="/upload/iblock/aa3/aa311ea45498eafe6fe74712b6d0aee1.jpg"
+>
+    <div class="main-page-carousel__slide-inner">
+        <h3 class="main-page-carousel__slide-title"></h3>
+        <p class="main-page-carousel__slide-text"></p>
+                    <a class="main-page-carousel__promo-link"
+                                                                onclick="integrations.bannerPromotionClick({
+                                id: '4167905',
+                                name: 'Распродажа шин!',
+                                creative: '',
+                                position: 'Большой слайдер под главным меню',
+                                href: '/catalog/avto/shiny/discounts/',
+                                });"
+                        href="javascript:void(0)"
+                    
+            >
+                                <span class="main-page-carousel__promo-link-text">
+                    Подробнее
+                </span>
+                <span class="main-page-carousel__promo-link-arrow">
+                <svg-loader
+                        name="arrow-right"
+                        class="promo-link-arrow-svg"
+                        :width="5"
+                        :height="8"
+                ></svg-loader>
+            </span>
+            </a>
+            </div>
+</div>
+<div class="swiper-slide--centered swiper-slide main-page-carousel__slide swiper-lazy"
+     placeholder_for_slot
+     data-background="/upload/iblock/c70/c7021e5c3beeb761833391f67256bdde.jpg"
+     data-background-tablet="/upload/iblock/5af/5af30331e1f5516054f575e09dd4c96a.jpg"
+     data-background-mobile="/upload/iblock/34e/34e458a46efcc40dab192a14b629f0ff.jpg"
+>
+    <div class="main-page-carousel__slide-inner">
+        <h3 class="main-page-carousel__slide-title"></h3>
+        <p class="main-page-carousel__slide-text"></p>
+                    <a class="main-page-carousel__promo-link"
+                                                                onclick="integrations.bannerPromotionClick({
+                                id: '4159361',
+                                name: 'Успей купить выгодно!',
+                                creative: '',
+                                position: 'Большой слайдер под главным меню',
+                                href: '/catalog/avto/shiny/leto/',
+                                });"
+                        href="javascript:void(0)"
+                    
+            >
+                                <span class="main-page-carousel__promo-link-text">
+                    Подробнее
+                </span>
+                <span class="main-page-carousel__promo-link-arrow">
+                <svg-loader
+                        name="arrow-right"
+                        class="promo-link-arrow-svg"
+                        :width="5"
+                        :height="8"
+                ></svg-loader>
+            </span>
+            </a>
+            </div>
+</div>
+<div class="swiper-slide--centered swiper-slide main-page-carousel__slide swiper-lazy"
+     placeholder_for_slot
+     data-background="/upload/iblock/e66/e66cccef5b31a3db8e5002903603719b.jpg"
+     data-background-tablet="/upload/iblock/6ce/6ce7c2fc939ea1b8dfcd7d64fcca8e65.jpg"
+     data-background-mobile="/upload/iblock/d51/d51357cedb8c4ac69f005f19b231a4da.jpg"
+>
+    <div class="main-page-carousel__slide-inner">
+        <h3 class="main-page-carousel__slide-title"></h3>
+        <p class="main-page-carousel__slide-text"></p>
+                    <a class="main-page-carousel__promo-link"
+                                                                onclick="integrations.bannerPromotionClick({
+                                id: '3980795',
+                                name: 'АКБ Switch',
+                                creative: '',
+                                position: 'Большой слайдер под главным меню',
+                                href: '/catalog/avto/akkumulyatory/switch/',
+                                });"
+                        href="javascript:void(0)"
+                    
+            >
+                                <span class="main-page-carousel__promo-link-text">
+                    Подробнее
+                </span>
+                <span class="main-page-carousel__promo-link-arrow">
+                <svg-loader
+                        name="arrow-right"
+                        class="promo-link-arrow-svg"
+                        :width="5"
+                        :height="8"
+                ></svg-loader>
+            </span>
+            </a>
+            </div>
+</div>
+<div class="swiper-slide--centered swiper-slide main-page-carousel__slide swiper-lazy"
+     placeholder_for_slot
+     data-background="/upload/iblock/8e6/8e6ba3e23451b5d8836944f93e91940e.jpg"
+     data-background-tablet="/upload/iblock/8cd/8cd3e5677e82303db9cc6c81c400a26c.jpg"
+     data-background-mobile="/upload/iblock/e02/e02d42f5f04100aa9d98644e36bdbdba.jpg"
+>
+    <div class="main-page-carousel__slide-inner">
+        <h3 class="main-page-carousel__slide-title"></h3>
+        <p class="main-page-carousel__slide-text"></p>
+                    <a class="main-page-carousel__promo-link"
+                                                                onclick="integrations.bannerPromotionClick({
+                                id: '4043396',
+                                name: 'Гарантия лучшей цены на легковые АКБ',
+                                creative: '',
+                                position: 'Большой слайдер под главным меню',
+                                href: 'https://www.kolesa-darom.ru/actions/garantiya-luchshey-tseny-na-legkovye-akb/',
+                                });"
+                        href="javascript:void(0)"
+                    
+            >
+                                <span class="main-page-carousel__promo-link-text">
+                    Подробнее
+                </span>
+                <span class="main-page-carousel__promo-link-arrow">
+                <svg-loader
+                        name="arrow-right"
+                        class="promo-link-arrow-svg"
+                        :width="5"
+                        :height="8"
+                ></svg-loader>
+            </span>
+            </a>
+            </div>
+</div>
+        </template>
+
+        <div class="swiper-pagination main-page-carousel__pagination"
+             id="main-page-carousel-pagination"
+             slot="pagination"></div>
+                    <!--/noindex-->
+            </kd-main-page-carousel>
+</div>
+	<div class="promoblock-wrapper">
+            <a class="promoblock promoblock_content-left tire-fitting" 
+
+            onclick="integrations.bannerPromotionClick({
+                    id: '639606',
+                    name: 'Запись на шиномонтаж',
+                    creative: '',
+                    position: 'Промоблоки под большим слайдером',
+                    href: '/service/registration/',
+                    });"
+            href="javascript:void(0)"
+        
+>
+    <div class="promoblock__content">
+                <div class="promoblock__title">Запись на шиномонтаж</div>                <div class="promoblock__text"><img src="/upload/iblock/8f1/8f180cfdd3b228a5039b4ba721077463.png" alt="записаться на шиномонтаж"/></div>        <div  href="/service/registration/" class="kd-btn kd-btn_min kd-btn_secondary">Записаться</div>    </div>
+    <img class="promoblock__image" src="/upload/iblock/8f1/8f180cfdd3b228a5039b4ba721077463.png"/></a>    <a class="promoblock promoblock_dark-bg promoblock_content-middle feedback" 
+
+            onclick="integrations.bannerPromotionClick({
+                    id: '1366953',
+                    name: 'Отзывы покупателей',
+                    creative: '',
+                    position: 'Промоблоки под большим слайдером',
+                    href: '/otzyv/stores/',
+                    });"
+            href="javascript:void(0)"
+        
+>
+    <div class="promoblock__content">
+                <div class="promoblock__title">Отзывы покупателей Колёса Даром</div>                <div class="promoblock__text"><kd-rating-stars-count></kd-rating-stars-count></div>        <div  href="/otzyv/stores/" class="kd-btn kd-btn_min kd-btn_secondary">Читать все отзывы</div>    </div>
+    </a>    <a class="promoblock promoblock_dark-bg promoblock_content-right addresses" 
+
+            onclick="integrations.bannerPromotionClick({
+                    id: '2819543',
+                    name: 'Адреса магазинов new',
+                    creative: '',
+                    position: 'Промоблоки под большим слайдером',
+                    href: '/contacts/',
+                    });"
+            href="javascript:void(0)"
+        
+>
+    <div class="promoblock__content">
+                <div class="promoblock__title">Адреса магазинов в вашем городе</div>                <div class="promoblock__text"><img src="/upload/iblock/fe5/fe5abd80988ae114c46949f70948fc50.png" alt="адреса магазинов" style="margin-top: 0;" /></div>        <div  href="/contacts/" class="kd-btn kd-btn_min kd-btn_secondary">Посмотреть на карте</div>    </div>
+    </a>	</div>
+    		<div v-lazyload="{loadContent: true}" style="min-height: 200px;" data-src="indexServices"></div>
+    	<div data-retailrocket-markup-block-selector="61095e1c97a5252680428520"></div>
+	<!--<kd-catalog-set v-lazyload="{loadContent: true}" data-src="catalogSet" data-settype="tire"></kd-catalog-set>-->
+	<div data-retailrocket-markup-block-selector="61095e2b97a5252680428521"></div>
+	<!--<kd-catalog-set v-lazyload="{loadContent: true}" data-src="catalogSet" data-settype="rim"></kd-catalog-set>-->
+	<div data-retailrocket-markup-block-selector="61095e3497a5252680428522"></div>
+	<kd-actions-slider v-lazyload="{loadContent: true}" data-src="actionsSlider"></kd-actions-slider>
+    <div class="section-logoline-all-brands">
+            <!--noindex-->
+        <a href="/brands/shina/" class="section-logoline-all-brands__link" rel="nofollow"><span>Все бренды</span>
+        <svg width="5" height="8" class="icon icon_arrow-right-min">
+            <use href="/local/templates/kd/assets/svg/svg-symbols.svg?v=1644492281#arrow-right-min"></use>
+        </svg>
+    </a>
+            <!--/noindex-->
+    </div>
+<div class="section-logoline">
+    	    		    <kd-logoline-item v-lazyload>
+
+                				    <a href="/catalog/avto/shiny/nokian/">
+					    <img class="section-logoline__image"
+					         data-src="/upload/uf/15a/15a307078fa3e2d5ec79adbb1309b64d.jpg"
+					         src="data:image/gif;base64,R0lGODlhlgAyAIAAAP///wAAACH5BAEAAAEALAAAAACWADIAAAJgjI+py+0Po5y02ouz3rz7D4biSJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKpfMpvMJjUqn1Kr1is1qt9yu9wsOi8fksvmMTqvX7Lb7DY/L5/S6/Y7P6/f8/r4AADs="
+					         alt="Nokian"
+					    />
+				    </a>
+                
+		    </kd-logoline-item>
+            	    		    <kd-logoline-item v-lazyload>
+
+                				    <a href="/catalog/avto/shiny/michelin/">
+					    <img class="section-logoline__image"
+					         data-src="/upload/uf/eb4/eb4e0b34fcf12ae4f4a7502d02374271.jpg"
+					         src="data:image/gif;base64,R0lGODlhlgAyAIAAAP///wAAACH5BAEAAAEALAAAAACWADIAAAJgjI+py+0Po5y02ouz3rz7D4biSJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKpfMpvMJjUqn1Kr1is1qt9yu9wsOi8fksvmMTqvX7Lb7DY/L5/S6/Y7P6/f8/r4AADs="
+					         alt="Michelin"
+					    />
+				    </a>
+                
+		    </kd-logoline-item>
+            	    		    <kd-logoline-item v-lazyload>
+
+                				    <a href="/catalog/avto/shiny/bridgestone/">
+					    <img class="section-logoline__image"
+					         data-src="/upload/uf/a7b/a7b0096b5e4166f09be979770b6232fd.jpg"
+					         src="data:image/gif;base64,R0lGODlhlgAyAIAAAP///wAAACH5BAEAAAEALAAAAACWADIAAAJgjI+py+0Po5y02ouz3rz7D4biSJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKpfMpvMJjUqn1Kr1is1qt9yu9wsOi8fksvmMTqvX7Lb7DY/L5/S6/Y7P6/f8/r4AADs="
+					         alt="Bridgestone"
+					    />
+				    </a>
+                
+		    </kd-logoline-item>
+            	    		    <kd-logoline-item v-lazyload>
+
+                				    <a href="/catalog/avto/shiny/dunlop/">
+					    <img class="section-logoline__image"
+					         data-src="/upload/uf/02e/02eff500fbb179b131de4a2e40505afd.jpg"
+					         src="data:image/gif;base64,R0lGODlhlgAyAIAAAP///wAAACH5BAEAAAEALAAAAACWADIAAAJgjI+py+0Po5y02ouz3rz7D4biSJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKpfMpvMJjUqn1Kr1is1qt9yu9wsOi8fksvmMTqvX7Lb7DY/L5/S6/Y7P6/f8/r4AADs="
+					         alt="Dunlop"
+					    />
+				    </a>
+                
+		    </kd-logoline-item>
+            	    		    <kd-logoline-item v-lazyload>
+
+                				    <a href="/catalog/avto/shiny/continental/">
+					    <img class="section-logoline__image"
+					         data-src="/upload/uf/7b5/7b5ca8712ea909ba304aaf4dfd43567a.jpg"
+					         src="data:image/gif;base64,R0lGODlhlgAyAIAAAP///wAAACH5BAEAAAEALAAAAACWADIAAAJgjI+py+0Po5y02ouz3rz7D4biSJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKpfMpvMJjUqn1Kr1is1qt9yu9wsOi8fksvmMTqvX7Lb7DY/L5/S6/Y7P6/f8/r4AADs="
+					         alt="Continental"
+					    />
+				    </a>
+                
+		    </kd-logoline-item>
+            	    		    <kd-logoline-item v-lazyload>
+
+                				    <a href="/catalog/avto/shiny/hankook/">
+					    <img class="section-logoline__image"
+					         data-src="/upload/uf/ca2/ca2fe31dac5bdd7f6ed3db1ddabb8388.jpg"
+					         src="data:image/gif;base64,R0lGODlhlgAyAIAAAP///wAAACH5BAEAAAEALAAAAACWADIAAAJgjI+py+0Po5y02ouz3rz7D4biSJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKpfMpvMJjUqn1Kr1is1qt9yu9wsOi8fksvmMTqvX7Lb7DY/L5/S6/Y7P6/f8/r4AADs="
+					         alt="Hankook"
+					    />
+				    </a>
+                
+		    </kd-logoline-item>
+            </div>
+</div>
+
+<div class="prefooter">
+			<div class="page-wrapper">
+	
+                    <kd-collapse-text class="prefooter__collapse">
+                <div class="prefooter__collapse__intro-text" slot="collapse-intro-text" >
+                        <h1>Магазин шин и дисков в Москве</h1>
+    <p>В компании «Колёса Даром» представлен широкий ассортимент шин для легковых и грузовых автомобилей, индустриальной техники и спецтехники, мотошин, диски, АКБ, масла, различные аксессуары и расходные материалы. В каталоге продукция от отечественных и зарубежных производителей, есть бюджетные варианты и автотовары премиум-класса.</p>
+    <p>На сайте «Колёса Даром» просто совершать покупки: безналичная или наличная оплата, покупка в кредит, рассрочка, оплата от юрлица, возможна доставка до шинного центра, где шины поставят на автомобиль, а также доставка до подъезда или отдела транспортной компании.</p>
+    
+                </div>
+                <span class="prefooter__collapse-toggle" slot="collapse-toggle">
+                    Читать дальше
+                    <span slot="collapse-icon">
+                        <svg class="icon icon_arrow-right prefooter__more-link-arrow" width="5" height="9">
+                            <use xlink:href="/local/templates/kd/assets/svg/svg-symbols.svg?v=1644492281#arrow-right"></use>
+                        </svg>
+                    </span>
+                </span>
+            </kd-collapse-text>
+            <div class="prefooter__collapse__full-text">    <h1>Магазин шин и дисков в Москве</h1>
+    <p>В компании «Колёса Даром» представлен широкий ассортимент шин для легковых и грузовых автомобилей, индустриальной техники и спецтехники, мотошин, диски, АКБ, масла, различные аксессуары и расходные материалы. В каталоге продукция от отечественных и зарубежных производителей, есть бюджетные варианты и автотовары премиум-класса.</p>
+    <p>На сайте «Колёса Даром» просто совершать покупки: безналичная или наличная оплата, покупка в кредит, рассрочка, оплата от юрлица, возможна доставка до шинного центра, где шины поставят на автомобиль, а также доставка до подъезда или отдела транспортной компании.</p>
+    
+    <h2>Ассортимент магазина «Колёса Даром»</h2>
+    <p>«Колёса Даром» — это магазин шин, в котором можно купить:</p>
+    <ul class="kd-marked-list">
+       <li><a href="/catalog/avto/shiny/leto/">Летние шины</a>: для обеспечения надежного сцепления с сухой и мокрой дорогой при температуре не ниже +7°С.</li>
+       <li><a href="/catalog/avto/shiny/zima/">Зимние шины</a>: гарантируют хорошую управляемость и быстрое торможение при отрицательных температурах, не забиваются снегом.</li>
+       <li><a href="/catalog/moto/shiny/">Мотошины</a> для различных условий эксплуатации — спорт, трек, кросс. В ассортименте шины для мотоциклов, скутеров, квадроциклов от Michelin, Mitas, Bridgestone, Maxxis и других производителей.</li>
+       <li><a href="/catalog/gruzoviki-i-spetstekhnika/shiny/">Шины</a> для индустриальной техники и спецтехники.</li>
+    </ul>
+    <p>А чтобы шины обеспечивали надежность и всегда выглядели как новые, в магазине «Колёса Даром» большой выбор расходных материалов: <a href="/catalog/avto/aksessuary-dlya-shin-diskov/ochistiteli-dlya-shin-i-diskov/">очистители</a> и <a href="/catalog/avto/aksessuary-dlya-shin-diskov/cherniteli-shin/">чернители</a>, а также <a href="/catalog/avto/aksessuary-dlya-shin-diskov/chekhly-dlya-koles/">чехлы для хранения шин</a>. Нужно проверить давление? Для вас представлены <a href="/catalog/avto/aksessuary-dlya-shin-diskov/datchiki-davleniya-shin/">датчики давления</a> различных модификаций. Также в ассортименте — <a href="/catalog/avto/aksessuary-dlya-shin-diskov/sekretki-i-krepezh/">крепежи</a>, <a href="/catalog/avto/aksessuary-dlya-shin-diskov/ustanovochnye-koltsa/">центровочные кольца</a>, <a href="/catalog/avto/aksessuary-dlya-shin-diskov/prostavki-shpilki-kolpachki/prostavki/">проставки</a> и многое другое.</p>
+    <p>Компания «Колёса Даром» — это и магазин дисков. Выбирайте <a href="/catalog/avto/diski/kovanyy/">кованые</a>, <a href="/catalog/avto/diski/shtampovannyy/">штампованные</a>, <a href="/catalog/avto/diski/litoy/">литые диски</a> в зависимости от стиля вождения, эстетического эффекта, планируемого срока эксплуатации. А чтобы улучшить вид штампованных дисков, можно приобрести <a href="/catalog/avto/aksessuary-dlya-shin-diskov/kolpaki-kolesnye/">колпаки</a>.</p>
+    <p>Нужные аксессуары на автомобиль? И тут компания «Колёса Даром» придет на выручку. В магазинах в Москве можно подобрать <a href="/catalog/avto/avtotovary/avtomobilnye-detskie-tovary/detskie-avtokresla/">детские кресла</a>, товары для комфорта (<a href="/catalog/avto/avtotovary/bagazhniki/">багажники</a>, <a href="/catalog/avto/avtotovary/shtorki-solntsezashchitnye/">солнцезащитные шторки</a>, <a href="/catalog/avto/avtotovary/autosumki/">органайзеры</a>), <a href="/catalog/avto/avtotovary/zaryadnoe-ustroystvo-avtomobilnoe/">зарядные устройства</a>, различные крепления, <a href="/catalog/avto/avtokhimiya-i-avtokosmetika/">средства для уборки автомобиля</a> и многое другое.</p>
+    <p>А еще в «Колёса Даром» представлены <a href="/catalog/avto/akkumulyatory/">АКБ</a>, колеса в сборе и другие автотовары.</p>
+    <h2>Почему стоит обратиться в «Колёса Даром»</h2>
+    <p>Компания «Колёса Даром» — это:</p>
+    <ul class="kd-marked-list">
+       <li>надежность — гарантия на все товары;</li>
+       <li>широкий ассортимент — регулярно появляются новинки;</li>
+       <li>выгодное сотрудничество — акции со скидками до 80%, сезонные предложения.</li>
+    </ul>
+    <p>С интернет-магазином «Колёса Даром» сделать заказ можно в несколько кликов. С помощью шинного калькулятора подберите шины или диски именно к вашему автомобилю. Внимание! Подбор предварительный, позволит оценить внешний вид. Дополнительно рекомендуем консультацию менеджера.</p>
+    <p>Покупки в «Колёса Даром» в Москве — это комфорт и безопасность. Ведь если возникнут сложности, то горячая линия работает в режиме 24/7.</p></div>            
+    		</div>
+    </div>
+
+	
+	
+	
+	<!-- /.page-content -->
+	</div>
+
+<kd-footer v-lazyload="{loadContent: true}" data-src="footer" :phones="{'MASK':'+78002509860','FORMATTED':'8 800 250 98 60'}"></kd-footer>
+<!-- /.app -->
+</div>
+
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="/bitrix/cache/css/s1/kd_lebedev/kernel_main/kernel_main_v1.css?164450063128585" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/kd_lebedev/template_9ae4305409d8c63a013fb1f2a409e4e4/template_9ae4305409d8c63a013fb1f2a409e4e4_v1.css?164450061820738" type="text/css"  data-template-style="true" rel="stylesheet" />
+
+
+    <!--  MINDBOX  -->
+
+        <!-- AnyQuery  -->
+      
+
+<meta name="AdsBot-Google" content="noindex">
+<meta name="AdsBot-Google" content="index">
+                      <script>window.dataLayer = [{ "websiteType":"new","environmentType":"production", "user":{"userId":"","email":""},"locationId":"MOSKVA","locationNameOriginal":"\u041c\u043e\u0441\u043a\u0432\u0430","locationNameTrans":"moskva", "pageType":"Main", }]; 
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PH864R8');</script><script charset='UTF-8'>
+window['adrum-start-time'] = new Date().getTime();
+(function(config){
+    config.appKey = 'EUM-AAB-AUC';
+    config.adrumExtUrlHttp = 'http://cdn.appdynamics.com';
+    config.adrumExtUrlHttps = 'https://cdn.appdynamics.com';
+    config.beaconUrlHttp = 'http://col.eum-appdynamics.com';
+    config.beaconUrlHttps = 'https://appdyn2.kolesa-darom.ru';
+     config.useHTTPSAlways = true;
+    config.xd = {enable : false};
+})(window['adrum-config'] || (window['adrum-config'] = {}));
+</script><script src='//cdn.appdynamics.com/adrum/adrum-20.12.0.3360.js'></script><script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1644570205','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'3f13486711e8e9691f58822a8b7d57d4'});</script><script type="text/javascript"  src="/bitrix/cache/js/s1/kd_lebedev/kernel_main/kernel_main_v1.js?1644502860311995"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/kd_lebedev/kernel_main_polyfill_promise/kernel_main_polyfill_promise_v1.js?16445006182506"></script>
+<script type="text/javascript" src="/bitrix/js/main/loadext/loadext.min.js?1644492351810"></script>
+<script type="text/javascript" src="/bitrix/js/main/loadext/extension.min.js?16444923511304"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/js/main/polyfill/promise/js/promise.js']); </script>
+
+
+<script type="text/javascript">window.FIRST_REGISTRY = {"CATALOG":{"CATALOG_ITEMS":[],"RETAIL_SHOPS":{"44":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0412\u0442\u043e\u0440\u0430\u044f \u041e\u0441\u0442\u0430\u043d\u043a\u0438\u043d\u0441\u043a\u0430\u044f 1, \u0441\u0442\u0440 2","ID":"38"},"264":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u041c\u0430\u0440\u0448\u0430\u043b\u0430 \u041f\u0440\u043e\u0448\u043b\u044f\u043a\u043e\u0432\u0430, 14 \u043a.2","ID":"252"},"562":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0413\u043e\u043b\u0443\u0431\u0438\u043d\u0441\u043a\u0430\u044f, \u0434. 16","ID":"606"},"274":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f, 66\u043a2","ID":"262"},"431":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, 1-\u044f \u0443\u043b. \u0418\u0437\u043c\u0430\u0439\u043b\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0437\u0432\u0435\u0440\u0438\u043d\u0446\u0430, 19\u0410, \u0441\u0442\u0440. 4 (\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022\u0413\u0440\u0443\u0437\u043f\u0440\u043e\u043a\u0430\u0442\u0022)","ID":"477"},"475":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u041c\u0438\u0447\u0443\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u043f\u0440-\u043a\u0442, \u0434. 27, \u043a\u043e\u0440\u043f. 4 (\u0410\u0432\u0442\u043e\u043c\u043e\u0439\u043a\u0430\/\u0448\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022NOVA\u0022)","ID":"519"},"481":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u042f\u043a\u043e\u0440\u043d\u0430\u044f, \u0434. 1","ID":"525"},"564":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u041e\u043a\u0440\u0443\u0436\u043d\u0430\u044f, \u0434. 17\u0410 (\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 24)","ID":"608"},"483":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u041a\u0440\u0443\u0442\u0438\u0446\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f, \u0434. 19 (\u0410\u0432\u0442\u043e\u043c\u043e\u0439\u043a\u0430\/\u0448\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022NOVA\u0022)","ID":"527"},"493":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u043e\u0435 \u0448., \u0434. 124 (\u0410\u0432\u0442\u043e\u043c\u043e\u0439\u043a\u0430\/\u0448\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022NOVA\u0022)","ID":"537"},"495":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. 1-\u044f \u041c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f, \u0434. 10 (\u0410\u0432\u0442\u043e\u043c\u043e\u0439\u043a\u0430\/\u0448\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022NOVA\u0022)","ID":"539"},"497":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0412\u0410\u041e, \u0440\u0430\u0439\u043e\u043d \u0421\u043e\u043a\u043e\u043b\u0438\u043d\u0430\u044f \u0433\u043e\u0440\u0430, \u0443\u043b. \u041c\u0438\u0440\u043e\u043d\u043e\u0432\u0441\u043a\u0430\u044f, \u0432\u043b. 46, \u043a. \u041a-2 (\u0410\u0432\u0442\u043e\u043c\u043e\u0439\u043a\u0430\/\u0448\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022NOVA\u0022)","ID":"541"},"499":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0421\u043a\u043e\u043b\u043a\u043e\u0432\u0441\u043a\u043e\u0435 \u0448., \u0434. 31, \u0441\u0442\u0440. 9 (\u0411\u043e\u0448\u0410\u0432\u0442\u043e\u0421\u0435\u0440\u0432\u0438\u0441)","ID":"543"},"501":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0413\u043e\u043b\u043e\u0432\u0430\u0447\u0451\u0432\u0430, \u0432\u043b. 7 (\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022\u041c\u0430\u0441\u0442\u0435\u0440\u0448\u0438\u043d\u0022)","ID":"545"},"570":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u041f\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f, \u0434. 68\u0411 (\u0421\u0435\u0440\u0432\u0438\u0441-\u0446\u0435\u043d\u0442\u0440 \u0022\u041f\u0440\u0435\u043c\u0438\u043e\u0022)","ID":"614"},"503":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u041f\u044f\u0442\u043d\u0438\u0446\u043a\u043e\u0435 \u0448., \u0434. 2, \u0441\u0442\u0440.1. (\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 24)","ID":"547"},"505":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0434\u043d\u0430\u044f, \u0434. 14, \u0441\u0442\u0440.1 (\u0410\u0432\u0442\u043e\u0441\u0435\u0440\u0432\u0438\u0441 \u0022\u042f\u0443\u0437\u0430 \u041c\u043e\u0442\u043e\u0440\u0441\u0022)","ID":"549"},"511":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u043f\u0435\u0440. \u0421\u0435\u043c\u0435\u043d\u043e\u0432\u0441\u043a\u0438\u0439, \u0434. 4\u0410, \u0441.1 (\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022SM24\u0022)","ID":"555"},"571":{"NAME":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b., \u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440-\u043d, \u0420\u0430\u0437\u0432\u0438\u043b\u043a\u043e\u0432\u0441\u043a\u043e\u0435 \u0441\/\u043f, \u0441. \u0411\u0435\u0441\u0435\u0434\u044b, \u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u0437\u0434, \u0441\u0442\u0440. 8 (\u041f\u043e\u043a\u0440\u0430\u0441\u043a\u0430 \u0434\u0438\u0441\u043a\u043e\u0432 NAYADA) (\u0412 \u0432\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435 \u0448\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442!)","ID":"615"},"513":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0414\u0435\u043a\u0430\u0431\u0440\u0438\u0441\u0442\u043e\u0432, \u0434. 45, \u043a. \u0413 (\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022SM24\u0022)","ID":"557"},"581":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u043a\u0430 \u0412\u0430\u0440\u0433\u0438, 8, \u043a\u043e\u0440\u043f. 1","ID":"625"},"515":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0420\u0435\u0447\u043d\u0438\u043a\u043e\u0432, \u0434. 19 (\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022SM24\u0022)","ID":"559"},"573":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0412\u0430\u0432\u0438\u043b\u043e\u0432\u0430, \u0434. 13\u0430 (\u041f\u043e\u043a\u0440\u0430\u0441\u043a\u0430 \u0434\u0438\u0441\u043a\u043e\u0432 NAYADA)","ID":"617"},"517":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0418\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434, \u0434. 7, \u0441\u0442\u0440. 6 (\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 (\u0431\u043e\u043a\u0441 40))","ID":"561"},"539":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0410\u043d\u0430\u0434\u044b\u0440\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434, \u0434. 12, \u0441\u0442\u0440. 8, \u0431\u043e\u043a\u0441 205 (\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 24)","ID":"583"},"521":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u041d\u043e\u0432\u043e\u043e\u0441\u0442\u0430\u043f\u043e\u0432\u0441\u043a\u0430\u044f, \u0434. 6\u0430, \u0441\u0442\u0440. 8. (\u0420\u0435\u043c\u043e\u043d\u0442 \u0434\u0438\u0441\u043a\u043e\u0432. \u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436)","ID":"565"},"531":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0425\u043e\u0434\u044b\u043d\u0441\u043a\u0438\u0439 \u0431-\u0440, \u0434. 9 (\u041c\u043e\u0439\u043a\u0430\/\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022888\u0022)","ID":"575"},"545":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0412\u0430\u0440\u0448\u0430\u0432\u0441\u043a\u043e\u0435 \u0448., \u0434. 132\/5 (GRIZZLY-service)","ID":"589"},"574":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f, \u0434. 13, \u0441\u0442\u0440. 1 (\u0410\u0432\u0442\u043e\u0441\u0435\u0440\u0432\u0438\u0441 \u0022\u0421\u0432\u043e\u0439 \u0421\u0435\u0440\u0432\u0438\u0441\u0022)","ID":"618"},"578":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f, \u0434. 31 \u0411, \u0441\u0442\u0440.1","ID":"622"},"547":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440-\u0434, \u0434. \u21161, \u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435 3-4 (\u0410\u0432\u0442\u043e\u0441\u0435\u0440\u0432\u0438\u0441 \u0022\u042f\u0443\u0437\u0430 \u041c\u043e\u0442\u043e\u0440\u0441\u0022)","ID":"591"},"553":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u043a\u0430 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0430, \u0434. 15\u0410 (\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022SM24\u0022)","ID":"597"},"551":{"NAME":"\u041c\u043e\u0441\u043a\u0432\u0430, \u0443\u043b. \u041e\u0441\u0435\u043d\u043d\u044f\u044f, \u0434. 17, \u043a\u043e\u0440\u043f. 2 (\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u0022SM24\u0022)","ID":"595"}}},"bitrixCsrfToken":"3f13486711e8e9691f58822a8b7d57d4","CONFIRMED_PHONES":null,"smallcart":{"QUANTITY":0,"PRICE":0,"OFFER_IDS":[]},"favorite":[],"SHOW_BLOCKS":{"SHOW_PROMO_EMAIL_COLLECTING":"N","SHOW_BACK_CALL":"Y"},"region":{"NEED_CONFIRM":true,"IS_NOT_HOME_REGION":false,"PROPOSED_REGION":{"NAME":"\u041a\u0430\u0437\u0430\u043d\u044c","DOMAIN":"kazan.kolesa-darom.ru","CODE":"KAZAN","DISPLAY_ACTUAL_NAME":"\u041c\u043e\u0441\u043a\u0432\u0430","TRANSLIT_NAME":"moskva"},"CURRENT_REGION":{"COUNTRY_SHORT_NAME":"RU","CURRENCY":"RUB","DOMAIN_OLD":"old.kolesa-darom.ru\/moskva\/","NAME":"\u041c\u043e\u0441\u043a\u0432\u0430","ID":1,"TRANSLIT_NAME":"moskva","CODE":"MOSKVA","IS_EXTERNAL_DELIVERY":false,"IS_FRTT":false,"CITY_FIAS_ID":"0c5b2444-70a0-4932-980c-b4dc0d3f02b5","AREA_FIAS_ID":"","REGION_FIAS_ID":"0c5b2444-70a0-4932-980c-b4dc0d3f02b5"}},"user":{"IS_AUTHORIZED":false,"USER_INFO":{"MINDBOX":{"TIME_ZONE":"Europe\/Moscow"}},"PARAMS":{"USER_CATALOG_SORT_FIELD":null,"USER_CATALOG_SORT_ORDER":null,"USER_MODELS_SORT_FIELD":"hit","USER_MODELS_SORT_ORDER":"desc","USER_CATALOG_VIEW":"full","INFO_PANEL_VISIBILITY":true},"GROUPS":[2],"MANAGERS":[],"IS_MANAGER":false,"IS_ADMIN":false,"IS_EXTENDED_RIGHTS_SHM":false,"IS_CALLCENTER":false,"ORDER_CONFIRM_PHONE_ADMIN":false,"ORDER_CONFIRM_PHONE_MANAGER":false,"ORDER_CONFIRM_PHONE_CALLCENTER":false,"IP2LONG":84119726},"headerBrands":[{"name":"Nokian","link":"\/catalog\/avto\/shiny\/nokian\/","logo":"\/upload\/uf\/cc8\/cc8bad1fcaa5412b2b0e0ef5b2c686a2.jpg"},{"name":"Michelin","link":"\/catalog\/avto\/shiny\/michelin\/","logo":"\/upload\/uf\/81e\/81e61baed5f05e899bdde4cacacc4ba1.jpg"},{"name":"Continental","link":"\/catalog\/avto\/shiny\/continental\/","logo":"\/upload\/uf\/108\/10868836fc8f284e221d7cc86ea1c6e5.jpg"}],"catalogMenu":[{"TEXT":"\u0410\u0432\u0442\u043e","LINK":"\/catalog\/avto\/","SVG_ICON":{"svg_id":"car","svg_class":{"svg_id":"car","svg_class":"icon_car","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":1,"CHILDREN":[{"TEXT":"\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0448\u0438\u043d\u044b","LINK":"\/catalog\/avto\/shiny\/","SVG_ICON":{"svg_id":"tire","svg_class":{"svg_id":"tire","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0434\u0438\u0441\u043a\u0438","LINK":"\/catalog\/avto\/diski\/","SVG_ICON":{"svg_id":"disk","svg_class":{"svg_id":"disk","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u041a\u043e\u043b\u0435\u0441\u0430 \u0432 \u0441\u0431\u043e\u0440\u0435","LINK":"\/catalog\/avto\/kolesa-v-sbore\/","SVG_ICON":{"svg_id":"tire-disk","svg_class":{"svg_id":"tire-disk","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0410\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u044b \u0434\u043b\u044f \u0448\u0438\u043d, \u0434\u0438\u0441\u043a\u043e\u0432 \u0438 \u0448\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436\u0430","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/","SVG_ICON":{"svg_id":"disk","svg_class":{"svg_id":"disk","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2,"CHILDREN":[{"TEXT":"\u0414\u0430\u0442\u0447\u0438\u043a\u0438 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0448\u0438\u043d","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/datchiki-davleniya-shin\/","SVG_ICON":{"svg_id":"service-tire2-usage","svg_class":{"svg_id":"service-tire2-usage","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":3},{"TEXT":"\u0410\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u044b \u0434\u0430\u0442\u0447\u0438\u043a\u043e\u0432 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/aksessuary-datchikov-davleniya\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0410\u0432\u0442\u043e\u043a\u0430\u043c\u0435\u0440\u044b","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/avtokamery\/","SVG_ICON":{"svg_id":"circle","svg_class":{"svg_id":"circle","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":3},{"TEXT":"\u0427\u0435\u0440\u043d\u0438\u0442\u0435\u043b\u0438 \u0448\u0438\u043d","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/cherniteli-shin\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u041e\u0447\u0438\u0441\u0442\u0438\u0442\u0435\u043b\u0438 \u0434\u043b\u044f \u0448\u0438\u043d \u0438 \u0434\u0438\u0441\u043a\u043e\u0432","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/ochistiteli-dlya-shin-i-diskov\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u041a\u043e\u043b\u0451\u0441\u043d\u044b\u0435 \u043a\u043e\u043b\u043f\u0430\u043a\u0438","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/kolpaki-kolesnye\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u041f\u0430\u043a\u0435\u0442\u044b \u0438 \u0447\u0435\u0445\u043b\u044b \u0434\u043b\u044f \u043a\u043e\u043b\u0435\u0441","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/chekhly-dlya-koles\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0426\u0435\u043d\u0442\u0440\u043e\u0432\u043e\u0447\u043d\u044b\u0435 \u043a\u043e\u043b\u044c\u0446\u0430","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/ustanovochnye-koltsa\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u041a\u0440\u0435\u043f\u0451\u0436 \u043a\u043e\u043b\u0435\u0441\u0430, \u0441\u0435\u043a\u0440\u0435\u0442\u043a\u0438","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/sekretki-i-krepezh\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0412\u0441\u0442\u0430\u0432\u043a\u0438","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/vstavki\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u041f\u0440\u043e\u0441\u0442\u0430\u0432\u043a\u0438, \u0448\u043f\u0438\u043b\u044c\u043a\u0438, \u043a\u043e\u043b\u043f\u0430\u0447\u043a\u0438","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/prostavki-shpilki-kolpachki\/","SVG_ICON":null,"DEPTH_LEVEL":3}]},{"TEXT":"\u0410\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u044b","LINK":"\/catalog\/avto\/akkumulyatory\/","SVG_ICON":{"svg_id":"battery","svg_class":{"svg_id":"battery","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0410\u0432\u0442\u043e\u043c\u0430\u0441\u043b\u0430","LINK":"\/catalog\/avto\/masla\/","SVG_ICON":{"svg_id":"oil","svg_class":{"svg_id":"oil","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u041a\u043e\u043c\u043f\u0440\u0435\u0441\u0441\u043e\u0440\u044b","LINK":"\/catalog\/avto\/kompressor\/","SVG_ICON":{"svg_id":"cistern","svg_class":{"svg_id":"cistern","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0410\u0432\u0442\u043e\u0437\u0430\u043f\u0447\u0430\u0441\u0442\u0438","LINK":"\/catalog\/avto\/avtozapchasti\/","SVG_ICON":{"svg_id":"checkengine","svg_class":{"svg_id":"checkengine","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2,"CHILDREN":[{"TEXT":"\u0410\u0432\u0442\u043e\u043b\u0430\u043c\u043f\u044b","LINK":"\/catalog\/avto\/avtozapchasti\/avtolampy\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0422\u043e\u0440\u043c\u043e\u0437\u043d\u044b\u0435 \u043a\u043e\u043b\u043e\u0434\u043a\u0438","LINK":"\/catalog\/avto\/avtozapchasti\/tormoznye-kolodki\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0417\u0430\u043f\u0447\u0430\u0441\u0442\u0438","LINK":"\/catalog\/avto\/avtozapchasti\/zapchasti\/","SVG_ICON":{"svg_id":"gear","svg_class":{"svg_id":"gear","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":3}]},{"TEXT":"\u041f\u0440\u043e\u0442\u0438\u0432\u043e\u0443\u0433\u043e\u043d\u043d\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430","LINK":"\/catalog\/avto\/protivougonnye-ustroystva\/","SVG_ICON":{"svg_id":"signaling","svg_class":{"svg_id":"signaling","svg_class":"","svg_width":"20","svg_height":"20"},"svg_width":"20","svg_height":"20"},"DEPTH_LEVEL":2,"CHILDREN":[{"TEXT":"\u0411\u043b\u043e\u043a\u0438\u0440\u0430\u0442\u043e\u0440\u044b","LINK":"\/catalog\/avto\/protivougonnye-ustroystva\/blokiratory\/","SVG_ICON":{"svg_id":"lock","svg_class":{"svg_id":"lock","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":3}]},{"TEXT":"\u0410\u0432\u0442\u043e\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0430","LINK":"\/catalog\/avto\/avtoelektronika\/","SVG_ICON":{"svg_id":"auto-elect","svg_class":{"svg_id":"auto-elect","svg_class":"","svg_width":"20","svg_height":"20"},"svg_width":"20","svg_height":"20"},"DEPTH_LEVEL":2,"CHILDREN":[{"TEXT":"\u0412\u0438\u0434\u0435\u043e\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u044b","LINK":"\/catalog\/avto\/avtoelektronika\/videoregistratory\/","SVG_ICON":{"svg_id":"monitor","svg_class":{"svg_id":"monitor","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":3,"CHILDREN":[{"TEXT":"\u0412\u0438\u0434\u0435\u043e\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440","LINK":"\/catalog\/avto\/avtoelektronika\/videoregistratory\/videoregistrator\/","SVG_ICON":null,"DEPTH_LEVEL":4},{"TEXT":"\u041a\u043e\u043c\u0431\u043e\u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e","LINK":"\/catalog\/avto\/avtoelektronika\/videoregistratory\/komboustroystvo\/","SVG_ICON":null,"DEPTH_LEVEL":4}]},{"TEXT":"\u0420\u0430\u0434\u0430\u0440-\u0434\u0435\u0442\u0435\u043a\u0442\u043e\u0440\u044b","LINK":"\/catalog\/avto\/avtoelektronika\/radar-detektory\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0410\u0432\u0442\u043e\u0441\u0438\u0433\u043d\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438","LINK":"\/catalog\/avto\/avtoelektronika\/avtosignalizatsii\/","SVG_ICON":{"svg_id":"buzzer","svg_class":{"svg_id":"buzzer","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":3},{"TEXT":"\u0420\u0430\u0437\u0432\u0435\u0442\u0432\u0438\u0442\u0435\u043b\u0438, \u0430\u0434\u0430\u043f\u0442\u0435\u0440\u044b \u0438 \u043a\u0430\u0431\u0435\u043b\u0438","LINK":"\/catalog\/avto\/avtoelektronika\/razvetviteli-adaptery-i-kabeli\/","SVG_ICON":null,"DEPTH_LEVEL":3}]},{"TEXT":"\u0410\u0432\u0442\u043e\u0430\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u044b","LINK":"\/catalog\/avto\/avtotovary\/","SVG_ICON":{"svg_id":"avtotovary","svg_class":{"svg_id":"avtotovary","svg_class":"","svg_width":"30","svg_height":"20"},"svg_width":"30","svg_height":"20"},"DEPTH_LEVEL":2,"CHILDREN":[{"TEXT":"\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0434\u0435\u0442\u0441\u043a\u0438\u0435 \u0442\u043e\u0432\u0430\u0440\u044b","LINK":"\/catalog\/avto\/avtotovary\/avtomobilnye-detskie-tovary\/","SVG_ICON":{"svg_id":"avtotovary","svg_class":{"svg_id":"avtotovary","svg_class":"","svg_width":"30","svg_height":"20"},"svg_width":"30","svg_height":"20"},"DEPTH_LEVEL":3,"CHILDREN":[{"TEXT":"\u0414\u0435\u0442\u0441\u043a\u0438\u0435 \u0430\u0432\u0442\u043e\u043a\u0440\u0435\u0441\u043b\u0430 \u0438 \u0431\u0443\u0441\u0442\u0435\u0440\u044b","LINK":"\/catalog\/avto\/avtotovary\/avtomobilnye-detskie-tovary\/detskie-avtokresla\/","SVG_ICON":null,"DEPTH_LEVEL":4}]},{"TEXT":"\u0411\u0430\u0433\u0430\u0436\u043d\u0438\u043a\u0438","LINK":"\/catalog\/avto\/avtotovary\/bagazhniki\/","SVG_ICON":null,"DEPTH_LEVEL":3,"CHILDREN":[{"TEXT":"\u0411\u0430\u0433\u0430\u0436\u043d\u0438\u043a \u0432 \u0441\u0431\u043e\u0440\u0435","LINK":"\/catalog\/avto\/avtotovary\/bagazhniki\/bagazhnik-v-sbore\/","SVG_ICON":null,"DEPTH_LEVEL":4},{"TEXT":"\u0411\u043e\u043a\u0441\u044b","LINK":"\/catalog\/avto\/avtotovary\/bagazhniki\/boksy\/","SVG_ICON":null,"DEPTH_LEVEL":4},{"TEXT":"\u0414\u0443\u0433\u0438","LINK":"\/catalog\/avto\/avtotovary\/bagazhniki\/dugi\/","SVG_ICON":null,"DEPTH_LEVEL":4},{"TEXT":"\u041a\u0418\u0422 (\u043a\u0440\u0435\u043f\u0435\u0436\u043d\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442)","LINK":"\/catalog\/avto\/avtotovary\/bagazhniki\/kit-krepezhnyy-komplekt\/","SVG_ICON":null,"DEPTH_LEVEL":4},{"TEXT":"\u041a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u044f \u0434\u043b\u044f \u0441\u043d\u0430\u0440\u044f\u0436\u0435\u043d\u0438\u044f (\u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u044b, \u043b\u044b\u0436\u0438 \u0438 \u0442.\u0434.)","LINK":"\/catalog\/avto\/avtotovary\/bagazhniki\/krepleniya-dlya-snaryazheniya-velosipedy-lyzhi-i-td\/","SVG_ICON":null,"DEPTH_LEVEL":4},{"TEXT":"\u0423\u043f\u043e\u0440\u044b","LINK":"\/catalog\/avto\/avtotovary\/bagazhniki\/upory\/","SVG_ICON":null,"DEPTH_LEVEL":4}]},{"TEXT":"\u0412\u0441\u0435 \u0434\u043b\u044f \u0442\u0435\u0445\u043e\u0441\u043c\u043e\u0442\u0440\u0430","LINK":"\/catalog\/avto\/avtotovary\/vse-dlya-tekhosmotra\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u041a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u044f \u0438 \u0434\u0435\u0440\u0436\u0430\u0442\u0435\u043b\u0438","LINK":"\/catalog\/avto\/avtotovary\/krepleniya-i-derzhateli\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u041e\u0434\u0435\u044f\u043b\u0430 \u0434\u043b\u044f \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044f","LINK":"\/catalog\/avto\/avtotovary\/odeyala-dlya-dvigatelya\/","SVG_ICON":{"svg_id":"envelope","svg_class":{"svg_id":"envelope","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":3},{"TEXT":"\u0421\u0430\u043b\u0444\u0435\u0442\u043a\u0438 \u0438 \u0433\u0443\u0431\u043a\u0438","LINK":"\/catalog\/avto\/avtotovary\/salfetki-i-gubki\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0421\u0443\u043c\u043a\u0438, \u043e\u0440\u0433\u0430\u043d\u0430\u0439\u0437\u0435\u0440\u044b, \u0441\u0435\u0442\u043a\u0438","LINK":"\/catalog\/avto\/avtotovary\/autosumki\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0428\u0442\u043e\u0440\u043a\u0438 \u0441\u043e\u043b\u043d\u0446\u0435\u0437\u0430\u0449\u0438\u0442\u043d\u044b\u0435","LINK":"\/catalog\/avto\/avtotovary\/shtorki-solntsezashchitnye\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0429\u0435\u0442\u043a\u0438 \u0441\u0442\u0435\u043a\u043b\u043e\u043e\u0447\u0438\u0441\u0442\u0438\u0442\u0435\u043b\u044f","LINK":"\/catalog\/avto\/avtotovary\/shchetki-stekloochistitelya\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0429\u0451\u0442\u043a\u0438, \u0441\u043a\u0440\u0435\u0431\u043a\u0438, \u043b\u043e\u043f\u0430\u0442\u044b","LINK":"\/catalog\/avto\/avtotovary\/shchyetki-skrebki-lopaty\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0410\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u044b \u0434\u043b\u044f \u0441\u0430\u043b\u043e\u043d\u0430","LINK":"\/catalog\/avto\/avtotovary\/aksessuary-dlya-salona\/","SVG_ICON":{"svg_id":"avtotovary","svg_class":{"svg_id":"avtotovary","svg_class":"","svg_width":"30","svg_height":"20"},"svg_width":"30","svg_height":"20"},"DEPTH_LEVEL":3,"CHILDREN":[{"TEXT":"\u0410\u0440\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0442\u043e\u0440\u044b","LINK":"\/catalog\/avto\/avtotovary\/aksessuary-dlya-salona\/aromatizatory\/","SVG_ICON":{"svg_id":"christmas-tree","svg_class":{"svg_id":"christmas-tree","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":4},{"TEXT":"\u041f\u043e\u0434\u043b\u043e\u043a\u043e\u0442\u043d\u0438\u043a\u0438","LINK":"\/catalog\/avto\/avtotovary\/aksessuary-dlya-salona\/podlokotniki\/","SVG_ICON":null,"DEPTH_LEVEL":4},{"TEXT":"\u041e\u043f\u043b\u0435\u0442\u043a\u0438 \u043d\u0430 \u0440\u0443\u043b\u044c","LINK":"\/catalog\/avto\/avtotovary\/aksessuary-dlya-salona\/opletki-na-rul\/","SVG_ICON":null,"DEPTH_LEVEL":4},{"TEXT":"\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u043a\u043e\u0432\u0440\u0438\u043a\u0438","LINK":"\/catalog\/avto\/avtotovary\/aksessuary-dlya-salona\/avtomobilnye-kovriki\/","SVG_ICON":null,"DEPTH_LEVEL":4},{"TEXT":"\u0427\u0435\u0445\u043b\u044b, \u043c\u0430\u0439\u043a\u0438, \u043d\u0430\u043a\u0438\u0434\u043a\u0438 \u0434\u043b\u044f \u0441\u0438\u0434\u0435\u043d\u0438\u0439","LINK":"\/catalog\/avto\/avtotovary\/aksessuary-dlya-salona\/chekhly-mayki-nakidki-dlya-sideniy\/","SVG_ICON":null,"DEPTH_LEVEL":4}]},{"TEXT":"\u0410\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u044b \u0434\u043b\u044f \u043a\u0443\u0437\u043e\u0432\u0430","LINK":"\/catalog\/avto\/avtotovary\/aksessuary-dlya-kuzova\/","SVG_ICON":{"svg_id":"avtotovary","svg_class":{"svg_id":"avtotovary","svg_class":"","svg_width":"30","svg_height":"20"},"svg_width":"30","svg_height":"20"},"DEPTH_LEVEL":3,"CHILDREN":[{"TEXT":"\u0414\u0435\u0444\u043b\u0435\u043a\u0442\u043e\u0440\u044b","LINK":"\/catalog\/avto\/avtotovary\/aksessuary-dlya-kuzova\/deflektory\/","SVG_ICON":null,"DEPTH_LEVEL":4},{"TEXT":"\u041d\u0430\u043a\u043b\u0430\u0434\u043a\u0438","LINK":"\/catalog\/avto\/avtotovary\/aksessuary-dlya-kuzova\/nakladki\/","SVG_ICON":null,"DEPTH_LEVEL":4}]}]},{"TEXT":"\u0410\u0432\u0442\u043e\u0445\u0438\u043c\u0438\u044f \u0438 \u0430\u0432\u0442\u043e\u043a\u043e\u0441\u043c\u0435\u0442\u0438\u043a\u0430","LINK":"\/catalog\/avto\/avtokhimiya-i-avtokosmetika\/","SVG_ICON":{"svg_id":"oil","svg_class":{"svg_id":"oil","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0412\u043d\u0435\u0448\u043d\u0438\u0439 \u0434\u0435\u043a\u043e\u0440, \u0442\u044e\u043d\u0438\u043d\u0433, \u0437\u0430\u0449\u0438\u0442\u0430","LINK":"\/catalog\/avto\/vneshniy-dekor-tyuning-zashchita\/","SVG_ICON":{"svg_id":"christmas-tree","svg_class":{"svg_id":"christmas-tree","svg_class":"","svg_width":"17","svg_height":"22"},"svg_width":"17","svg_height":"22"},"DEPTH_LEVEL":2,"CHILDREN":[{"TEXT":"\u0411\u0440\u044b\u0437\u0433\u043e\u0432\u0438\u043a\u0438","LINK":"\/catalog\/avto\/vneshniy-dekor-tyuning-zashchita\/bryzgoviki\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u041f\u043e\u0434\u043a\u0440\u044b\u043b\u043a\u0438","LINK":"\/catalog\/avto\/vneshniy-dekor-tyuning-zashchita\/podkrylki\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0417\u0430\u0449\u0438\u0442\u0430 \u0440\u0430\u0434\u0438\u0430\u0442\u043e\u0440\u0430","LINK":"\/catalog\/avto\/vneshniy-dekor-tyuning-zashchita\/zashchita-radiatora\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u041f\u043e\u0440\u043e\u0433\u0438","LINK":"\/catalog\/avto\/vneshniy-dekor-tyuning-zashchita\/porogi\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0421\u0438\u043b\u043e\u0432\u044b\u0435 \u0437\u0430\u0449\u0438\u0442\u044b","LINK":"\/catalog\/avto\/vneshniy-dekor-tyuning-zashchita\/silovye-zashchity\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0424\u0430\u0440\u043a\u043e\u043f\u044b","LINK":"\/catalog\/avto\/vneshniy-dekor-tyuning-zashchita\/farkopy\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0417\u0430\u0449\u0438\u0442\u0430 \u043a\u0430\u0440\u0442\u0435\u0440\u0430, \u041a\u041f\u041f, \u0440\u0435\u0434\u0443\u043a\u0442\u043e\u0440\u0430","LINK":"\/catalog\/avto\/vneshniy-dekor-tyuning-zashchita\/zashchita-kartera-kpp-reduktora\/","SVG_ICON":null,"DEPTH_LEVEL":3}]},{"TEXT":"\u0417\u0430\u0440\u044f\u0434\u043a\u0430 \u0438 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u043e\u0432","LINK":"\/catalog\/avto\/zaryadka-i-obsluzhivanie-akkumulyatorov\/","SVG_ICON":{"svg_id":"tester","svg_class":{"svg_id":"tester","svg_class":"","svg_width":"30","svg_height":"30"},"svg_width":"30","svg_height":"30"},"DEPTH_LEVEL":2,"CHILDREN":[{"TEXT":"\u041f\u0443\u0441\u043a\u043e-\u0437\u0430\u0440\u044f\u0434\u043d\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430","LINK":"\/catalog\/avto\/zaryadka-i-obsluzhivanie-akkumulyatorov\/zaryadnoe-ustroystvo-avtomobilnoe\/","SVG_ICON":{"svg_id":"tester","svg_class":{"svg_id":"tester","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":3}]},{"TEXT":"\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0438 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u043c\u043e\u0449\u044c","LINK":"\/catalog\/avto\/instrumenty-i-tekhnicheskaya-pomoshch\/","SVG_ICON":null,"DEPTH_LEVEL":2,"CHILDREN":[{"TEXT":"\u0410\u0432\u0442\u043e\u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b","LINK":"\/catalog\/avto\/instrumenty-i-tekhnicheskaya-pomoshch\/avtoinstrumenty\/","SVG_ICON":null,"DEPTH_LEVEL":3,"CHILDREN":[{"TEXT":"\u041a\u043b\u044e\u0447\u0438","LINK":"\/catalog\/avto\/instrumenty-i-tekhnicheskaya-pomoshch\/avtoinstrumenty\/klyuchi\/","SVG_ICON":null,"DEPTH_LEVEL":4}]},{"TEXT":"\u0414\u043e\u043c\u043a\u0440\u0430\u0442\u044b","LINK":"\/catalog\/avto\/instrumenty-i-tekhnicheskaya-pomoshch\/domkraty\/","SVG_ICON":null,"DEPTH_LEVEL":3},{"TEXT":"\u0411\u0443\u043a\u0441\u0438\u0440\u043e\u0432\u043e\u0447\u043d\u044b\u0435 \u0442\u0440\u043e\u0441\u044b \u0438 \u0441\u0442\u0440\u043e\u043f\u044b","LINK":"\/catalog\/avto\/instrumenty-i-tekhnicheskaya-pomoshch\/buksirovochnye-trosy-i-stropy\/","SVG_ICON":null,"DEPTH_LEVEL":3}]}]},{"TEXT":"\u041c\u043e\u0442\u043e","LINK":"\/catalog\/moto\/","SVG_ICON":{"svg_id":"moto","svg_class":{"svg_id":"moto","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":1,"CHILDREN":[{"TEXT":"\u041c\u043e\u0442\u043e\u0448\u0438\u043d\u044b","LINK":"\/catalog\/moto\/shiny\/","SVG_ICON":{"svg_id":"tire","svg_class":{"svg_id":"tire","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u041c\u043e\u0442\u043e\u043a\u0430\u043c\u0435\u0440\u044b","LINK":"\/catalog\/moto\/motokamery\/","SVG_ICON":{"svg_id":"tire","svg_class":{"svg_id":"tire","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0410\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u044b \u0434\u043b\u044f \u043c\u043e\u0442\u043e\u0446\u0438\u043a\u043b\u0430","LINK":"\/catalog\/moto\/akkumulyatory\/","SVG_ICON":{"svg_id":"battery","svg_class":{"svg_id":"battery","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u041c\u043e\u0442\u043e\u043c\u0430\u0441\u043b\u0430","LINK":"\/catalog\/moto\/masla\/","SVG_ICON":{"svg_id":"oil","svg_class":{"svg_id":"oil","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0417\u0430\u043f\u0447\u0430\u0441\u0442\u0438","LINK":"\/catalog\/moto\/zapchasti\/","SVG_ICON":{"svg_id":"gear","svg_class":{"svg_id":"gear","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u041c\u043e\u0442\u043e\u0445\u0438\u043c\u0438\u044f","LINK":"\/catalog\/moto\/motokhimiya\/","SVG_ICON":{"svg_id":"chemistry","svg_class":{"svg_id":"chemistry","svg_class":"","svg_width":"30","svg_height":"20"},"svg_width":"30","svg_height":"20"},"DEPTH_LEVEL":2}]},{"TEXT":"\u041a\u0432\u0430\u0434\u0440\u043e","LINK":"\/catalog\/kvadro\/","SVG_ICON":{"svg_id":"quad","svg_class":{"svg_id":"quad","svg_class":"","svg_width":"30","svg_height":"20"},"svg_width":"30","svg_height":"20"},"DEPTH_LEVEL":1,"CHILDREN":[{"TEXT":"\u041a\u0432\u0430\u0434\u0440\u043e\u0448\u0438\u043d\u044b","LINK":"\/catalog\/kvadro\/kvadroshiny\/","SVG_ICON":{"svg_id":"tire-disk","svg_class":{"svg_id":"tire-disk","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2}]},{"TEXT":"\u0412\u0435\u043b\u043e","LINK":"\/catalog\/velo\/","SVG_ICON":{"svg_id":"bicycle","svg_class":{"svg_id":"bicycle","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":1,"CHILDREN":[{"TEXT":"\u0412\u0435\u043b\u043e\u043f\u043e\u043a\u0440\u044b\u0448\u043a\u0438","LINK":"\/catalog\/velo\/velopokryshki\/","SVG_ICON":{"svg_id":"tire","svg_class":{"svg_id":"tire","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0412\u0435\u043b\u043e\u043a\u0430\u043c\u0435\u0440\u044b","LINK":"\/catalog\/velo\/velokamery\/","SVG_ICON":{"svg_id":"circle","svg_class":{"svg_id":"circle","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0412\u0435\u043b\u043e\u0437\u0430\u043f\u0447\u0430\u0441\u0442\u0438","LINK":"\/catalog\/velo\/velozapchasti\/","SVG_ICON":{"svg_id":"gear","svg_class":{"svg_id":"gear","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2,"CHILDREN":[{"TEXT":"\u041a\u043e\u043b\u0435\u0441\u0430","LINK":"\/catalog\/velo\/velozapchasti\/kolesa\/","SVG_ICON":null,"DEPTH_LEVEL":3,"CHILDREN":[{"TEXT":"\u041e\u0431\u043e\u0434\u043d\u044b\u0435 \u043b\u0435\u043d\u0442\u044b (\u0424\u043b\u0438\u043f\u043f\u0435\u0440\u044b)","LINK":"\/catalog\/velo\/velozapchasti\/kolesa\/obodnye-lenty\/","SVG_ICON":{"svg_id":"circle","svg_class":{"svg_id":"circle","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":4}]}]},{"TEXT":"\u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u044b","LINK":"\/catalog\/velo\/velosipedy\/","SVG_ICON":{"svg_id":"bicycle","svg_class":{"svg_id":"bicycle","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u044b","LINK":"\/catalog\/velo\/elektrovelosipedy\/","SVG_ICON":{"svg_id":"bicycle","svg_class":{"svg_id":"bicycle","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2}]},{"TEXT":"\u0413\u0440\u0443\u0437\u043e\u0432\u0438\u043a\u0438","LINK":"\/catalog\/gruzoviki-i-spetstekhnika\/","SVG_ICON":{"svg_id":"truck","svg_class":{"svg_id":"truck","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":1,"CHILDREN":[{"TEXT":"\u0413\u0440\u0443\u0437\u043e\u0432\u044b\u0435 \u0448\u0438\u043d\u044b","LINK":"\/catalog\/gruzoviki-i-spetstekhnika\/shiny\/","SVG_ICON":{"svg_id":"tire-disk","svg_class":{"svg_id":"tire-disk","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0413\u0440\u0443\u0437\u043e\u0432\u044b\u0435 \u0434\u0438\u0441\u043a\u0438","LINK":"\/catalog\/gruzoviki-i-spetstekhnika\/diski\/","SVG_ICON":{"svg_id":"disk","svg_class":{"svg_id":"disk","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0413\u0440\u0443\u0437\u043e\u0432\u044b\u0435 \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u044b","LINK":"\/catalog\/gruzoviki-i-spetstekhnika\/akkumulyatory\/","SVG_ICON":{"svg_id":"battery","svg_class":{"svg_id":"battery","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0413\u0440\u0443\u0437\u043e\u0432\u044b\u0435 \u043c\u0430\u0441\u043b\u0430","LINK":"\/catalog\/gruzoviki-i-spetstekhnika\/masla\/","SVG_ICON":{"svg_id":"oil","svg_class":{"svg_id":"oil","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0417\u0430\u043f\u0447\u0430\u0441\u0442\u0438","LINK":"\/catalog\/gruzoviki-i-spetstekhnika\/zapchasti\/","SVG_ICON":{"svg_id":"gear","svg_class":{"svg_id":"gear","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2}]},{"TEXT":"\u0421\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0430","LINK":"\/catalog\/spetstekhnika\/","SVG_ICON":{"svg_id":"tractor","svg_class":{"svg_id":"tractor","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":1,"CHILDREN":[{"TEXT":"\u0428\u0438\u043d\u044b \u0434\u043b\u044f \u0441\/x \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438","LINK":"\/catalog\/spetstekhnika\/agroshiny\/","SVG_ICON":{"svg_id":"tire","svg_class":{"svg_id":"tire","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2},{"TEXT":"\u0428\u0438\u043d\u044b \u0434\u043b\u044f \u0438\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438","LINK":"\/catalog\/spetstekhnika\/industrialshiny\/","SVG_ICON":{"svg_id":"tire-disk","svg_class":{"svg_id":"tire-disk","svg_class":"","svg_width":"30","svg_height":"15"},"svg_width":"30","svg_height":"15"},"DEPTH_LEVEL":2}]}],"showAllMenuItems":false,"headerBanners":[],"actionsMenu":{"TEXT":"\u0410\u043a\u0446\u0438\u0438 \u0438 \u0441\u043a\u0438\u0434\u043a\u0438","LEVEL":"1","SVG_ICON":{"svg_id":"percent","svg_width":"30","svg_height":"18"},"CHILDREN":[{"TEXT":"\u0410\u043a\u0446\u0438\u0438","TYPE":null,"LINK":"\/actions\/","LEVEL":2},{"TEXT":"\u0420\u0430\u0441\u043f\u0440\u043e\u0434\u0430\u0436\u0430","TYPE":null,"LINK":"\/rasprodazha\/","LEVEL":2}]},"catalogFavMenu":[{"TEXT":"\u0428\u0438\u043d\u044b","LINK":"\/catalog\/avto\/shiny\/","DEPTH_LEVEL":1,"IS_PARENT":false,"SVG_ICON":{"svg_id":"tire","svg_class":"header-categories-icon","svg_width":24,"svg_height":24}},{"TEXT":"\u0414\u0438\u0441\u043a\u0438","LINK":"\/catalog\/avto\/diski\/","DEPTH_LEVEL":1,"IS_PARENT":false,"SVG_ICON":{"svg_id":"disk","svg_class":"header-categories-icon","svg_width":21,"svg_height":21}},{"TEXT":"\u0410\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u044b","LINK":"\/catalog\/avto\/akkumulyatory\/","DEPTH_LEVEL":1,"IS_PARENT":false,"SVG_ICON":{"svg_id":"battery","svg_class":"header-categories-icon","svg_width":28,"svg_height":17}},{"TEXT":"\u041c\u043e\u0442\u043e\u0448\u0438\u043d\u044b","LINK":"\/catalog\/moto\/shiny\/","DEPTH_LEVEL":1,"IS_PARENT":false,"SVG_ICON":{"svg_id":"moto","svg_class":"header-categories-icon","svg_width":24,"svg_height":24}},{"TEXT":"\u0413\u0440\u0443\u0437\u043e\u0432\u044b\u0435 \u0448\u0438\u043d\u044b","LINK":"\/catalog\/gruzoviki-i-spetstekhnika\/shiny\/","DEPTH_LEVEL":1,"IS_PARENT":false,"SVG_ICON":{"svg_id":"truck","svg_class":"header-categories-icon","svg_width":22,"svg_height":16}},{"TEXT":"\u041c\u0430\u0441\u043b\u0430","LINK":"\/catalog\/avto\/masla\/","DEPTH_LEVEL":1,"IS_PARENT":false,"SVG_ICON":{"svg_id":"oil","svg_class":"header-categories-icon","svg_width":19,"svg_height":20}},{"TEXT":"\u0410\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u044b","LINK":"\/catalog\/avto\/avtotovary\/","DEPTH_LEVEL":1,"IS_PARENT":false,"SVG_ICON":{"svg_id":"accessory","svg_class":"header-categories-icon","svg_width":19,"svg_height":20}},{"TEXT":"\u0420\u0430\u0441\u0445\u043e\u0434\u043d\u0438\u043a\u0438","LINK":"\/catalog\/avto\/aksessuary-dlya-shin-diskov\/","DEPTH_LEVEL":1,"IS_PARENT":false,"SVG_ICON":{"svg_id":"accessory","svg_class":"header-categories-icon","svg_width":19,"svg_height":20}},{"TEXT":"\u0410\u043a\u0446\u0438\u0438","LINK":"\/actions\/","DEPTH_LEVEL":1,"IS_PARENT":false,"SVG_ICON":{"svg_id":"percent","svg_class":"header-categories-icon","svg_width":15,"svg_height":15}}],"serviceUserMenu":{"TEXT":"\u0421\u0435\u0440\u0432\u0438\u0441","LINK":"\/service\/","SELECTED":false,"PERMISSION":"R","ADDITIONAL_LINKS":[],"ITEM_TYPE":"D","ITEM_INDEX":0,"PARAMS":{"mobile_sort":40,"show_default_link":"Y","svg_id":"service","svg_class":"icon_service","svg_width":20,"svg_height":17},"CHAIN":["\u0421\u0435\u0440\u0432\u0438\u0441"],"DEPTH_LEVEL":1,"IS_PARENT":true,"MD5":"cb4d5bc2cdbea554f02d1971d171d9e7","ITEM_NUM":1,"PARENT_MD5":"ASDF","SVG_ICON":{"svg_id":"service","svg_class":"header-tools__icon","svg_width":20,"svg_height":17},"CHILDS":{"1":{"TEXT":"\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436","LINK":"\/service\/shinomontazh\/","SELECTED":false,"PERMISSION":"R","ADDITIONAL_LINKS":[],"ITEM_TYPE":"D","ITEM_INDEX":0,"PARAMS":{"svg_id":"service-tire","svg_class":"","svg_width":"21","svg_height":"20","TARGET":"","REL":"","LINK":null},"CHAIN":["\u0421\u0435\u0440\u0432\u0438\u0441","\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436"],"DEPTH_LEVEL":2,"IS_PARENT":false,"MD5":"e619b4a7287771ec137903c59123d994","ITEM_NUM":1,"PARENT_MD5":"cb4d5bc2cdbea554f02d1971d171d9e7","SVG_ICON":{"svg_id":"service-tire","svg_class":"header-tools__icon","svg_width":"21","svg_height":"20"}},"2":{"TEXT":"\u0412\u0441\u0451 \u0434\u043b\u044f \u0448\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436\u0430","LINK":"https:\/\/rashodniki.kolesa-darom.ru","SELECTED":false,"PERMISSION":"R","ADDITIONAL_LINKS":[],"ITEM_TYPE":"D","ITEM_INDEX":1,"PARAMS":{"TARGET":"_blank","REL":"nofollow","LINK":"https:\/\/rashodniki.kolesa-darom.ru"},"CHAIN":["\u0421\u0435\u0440\u0432\u0438\u0441","\u0412\u0441\u0451 \u0434\u043b\u044f \u0448\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436\u0430"],"DEPTH_LEVEL":2,"IS_PARENT":false,"MD5":"45a472b9cfb9c0b3223b2e30a6297086","ITEM_NUM":2,"PARENT_MD5":"cb4d5bc2cdbea554f02d1971d171d9e7"},"3":{"TEXT":"\u0420\u0435\u043c\u043e\u043d\u0442 \u0438 \u043f\u0440\u0430\u0432\u043a\u0430 \u0434\u0438\u0441\u043a\u043e\u0432","LINK":"\/service\/remont-i-pravka-diskov\/","SELECTED":false,"PERMISSION":"R","ADDITIONAL_LINKS":[],"ITEM_TYPE":"D","ITEM_INDEX":2,"PARAMS":{"svg_id":"disk","svg_class":"","svg_width":"20","svg_height":"20","TARGET":"","REL":"","LINK":null},"CHAIN":["\u0421\u0435\u0440\u0432\u0438\u0441","\u0420\u0435\u043c\u043e\u043d\u0442 \u0438 \u043f\u0440\u0430\u0432\u043a\u0430 \u0434\u0438\u0441\u043a\u043e\u0432"],"DEPTH_LEVEL":2,"IS_PARENT":false,"MD5":"ccd9b777e509bba65c5428e01cc24048","ITEM_NUM":3,"PARENT_MD5":"cb4d5bc2cdbea554f02d1971d171d9e7","SVG_ICON":{"svg_id":"disk","svg_class":"header-tools__icon","svg_width":"20","svg_height":"20"}},"4":{"TEXT":"\u041e\u0448\u0438\u043f\u043e\u0432\u043a\u0430 \u0437\u0438\u043c\u043d\u0438\u0445 \u0448\u0438\u043d","LINK":"\/service\/oshipovka-zimnikh-shin\/","SELECTED":false,"PERMISSION":"R","ADDITIONAL_LINKS":[],"ITEM_TYPE":"D","ITEM_INDEX":3,"PARAMS":{"svg_id":"service-spikes","svg_class":"","svg_width":"19","svg_height":"20","TARGET":"","REL":"","LINK":null},"CHAIN":["\u0421\u0435\u0440\u0432\u0438\u0441","\u041e\u0448\u0438\u043f\u043e\u0432\u043a\u0430 \u0437\u0438\u043c\u043d\u0438\u0445 \u0448\u0438\u043d"],"DEPTH_LEVEL":2,"IS_PARENT":false,"MD5":"75e2c90acf47210a9b689ce46ccb9925","ITEM_NUM":4,"PARENT_MD5":"cb4d5bc2cdbea554f02d1971d171d9e7","SVG_ICON":{"svg_id":"service-spikes","svg_class":"header-tools__icon","svg_width":"19","svg_height":"20"}},"5":{"TEXT":"\u0421\u0435\u0437\u043e\u043d\u043d\u043e\u0435 \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435","LINK":"\/service\/sezonnoe-khranenie\/","SELECTED":false,"PERMISSION":"R","ADDITIONAL_LINKS":[],"ITEM_TYPE":"D","ITEM_INDEX":4,"PARAMS":{"svg_id":"service-storage","svg_class":"","svg_width":"21","svg_height":"19","TARGET":"","REL":"","LINK":null},"CHAIN":["\u0421\u0435\u0440\u0432\u0438\u0441","\u0421\u0435\u0437\u043e\u043d\u043d\u043e\u0435 \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435"],"DEPTH_LEVEL":2,"IS_PARENT":false,"MD5":"5db2038396a1a3db5381da92adf17ba1","ITEM_NUM":5,"PARENT_MD5":"cb4d5bc2cdbea554f02d1971d171d9e7","SVG_ICON":{"svg_id":"service-storage","svg_class":"header-tools__icon","svg_width":"21","svg_height":"19"}},"6":{"TEXT":"\u0420\u0435\u043c\u043e\u043d\u0442 \u0448\u0438\u043d","LINK":"\/service\/remont-shin\/","SELECTED":false,"PERMISSION":"R","ADDITIONAL_LINKS":[],"ITEM_TYPE":"D","ITEM_INDEX":5,"PARAMS":{"svg_id":"service-tire2","svg_class":"","svg_width":"21","svg_height":"19","TARGET":"","REL":"","LINK":null},"CHAIN":["\u0421\u0435\u0440\u0432\u0438\u0441","\u0420\u0435\u043c\u043e\u043d\u0442 \u0448\u0438\u043d"],"DEPTH_LEVEL":2,"IS_PARENT":false,"MD5":"8fdc560371f17b3afa302bff275ef351","ITEM_NUM":6,"PARENT_MD5":"cb4d5bc2cdbea554f02d1971d171d9e7","SVG_ICON":{"svg_id":"service-tire2","svg_class":"header-tools__icon","svg_width":"21","svg_height":"19"}},"7":{"TEXT":"\u041c\u043e\u0442\u043e\u0448\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436","LINK":"\/service\/motoshinomontazh\/","SELECTED":false,"PERMISSION":"R","ADDITIONAL_LINKS":[],"ITEM_TYPE":"D","ITEM_INDEX":6,"PARAMS":{"svg_id":"moto","svg_class":"","svg_width":"21","svg_height":"19","TARGET":"","REL":"","LINK":null},"CHAIN":["\u0421\u0435\u0440\u0432\u0438\u0441","\u041c\u043e\u0442\u043e\u0448\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436"],"DEPTH_LEVEL":2,"IS_PARENT":false,"MD5":"594f14ec5816056a4f2cd665ff36c81b","ITEM_NUM":7,"PARENT_MD5":"cb4d5bc2cdbea554f02d1971d171d9e7","SVG_ICON":{"svg_id":"moto","svg_class":"header-tools__icon","svg_width":"21","svg_height":"19"}},"8":{"TEXT":"\u041c\u0435\u043b\u043a\u043e\u0441\u0440\u043e\u0447\u043d\u044b\u0439 \u0440\u0435\u043c\u043e\u043d\u0442","LINK":"\/service\/melkosrochnyy-remont\/","SELECTED":false,"PERMISSION":"R","ADDITIONAL_LINKS":[],"ITEM_TYPE":"D","ITEM_INDEX":7,"PARAMS":{"svg_id":"drill","svg_class":"","svg_width":"20","svg_height":"20","TARGET":"","REL":"","LINK":null},"CHAIN":["\u0421\u0435\u0440\u0432\u0438\u0441","\u041c\u0435\u043b\u043a\u043e\u0441\u0440\u043e\u0447\u043d\u044b\u0439 \u0440\u0435\u043c\u043e\u043d\u0442"],"DEPTH_LEVEL":2,"IS_PARENT":false,"MD5":"84789c6754c1afc40ec584a39bc2a71f","ITEM_NUM":8,"PARENT_MD5":"cb4d5bc2cdbea554f02d1971d171d9e7","SVG_ICON":{"svg_id":"drill","svg_class":"header-tools__icon","svg_width":"20","svg_height":"20"}},"9":{"TEXT":"\u041e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c TPMS \u043f\u0440\u044f\u043c\u043e\u0433\u043e \u0442\u0438\u043f\u0430","LINK":"\/service\/obsluzhivanie-sistem-tpms-pryamogo-tipa\/","SELECTED":false,"PERMISSION":"R","ADDITIONAL_LINKS":[],"ITEM_TYPE":"D","ITEM_INDEX":8,"PARAMS":{"svg_id":"pressure","svg_class":"","svg_width":"20","svg_height":"20","TARGET":"","REL":"","LINK":null},"CHAIN":["\u0421\u0435\u0440\u0432\u0438\u0441","\u041e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c TPMS \u043f\u0440\u044f\u043c\u043e\u0433\u043e \u0442\u0438\u043f\u0430"],"DEPTH_LEVEL":2,"IS_PARENT":false,"MD5":"4112c2b73e740658daa1a81c7b79baf8","ITEM_NUM":9,"PARENT_MD5":"cb4d5bc2cdbea554f02d1971d171d9e7","SVG_ICON":{"svg_id":"pressure","svg_class":"header-tools__icon","svg_width":"20","svg_height":"20"}}}},"helpMenu":[{"TEXT":"\u041a\u0430\u043a \u043a\u0443\u043f\u0438\u0442\u044c","LINK":"\/pokupatelyu\/kak-kupit\/","PARAMS":[]},{"TEXT":"\u041e\u043f\u043b\u0430\u0442\u0430","LINK":"\/pokupatelyu\/oplata\/","PARAMS":[]},{"TEXT":"\u0413\u0430\u0440\u0430\u043d\u0442\u0438\u044f","LINK":"\/pokupatelyu\/garantiya\/","PARAMS":[]},{"TEXT":"\u041a\u0440\u0435\u0434\u0438\u0442","LINK":"\/pokupatelyu\/kredit\/","PARAMS":[]},{"TEXT":"\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430","LINK":"\/pokupatelyu\/dostavka\/","PARAMS":[]},{"TEXT":"\u041e\u043f\u0442\u043e\u0432\u044b\u043c \u043a\u043b\u0438\u0435\u043d\u0442\u0430\u043c","LINK":"\/pokupatelyu\/optovikam\/","PARAMS":[]},{"TEXT":" \u041a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u043c \u043a\u043b\u0438\u0435\u043d\u0442\u0430\u043c","LINK":"https:\/\/corp.brinex.ru\/","PARAMS":{"noindex":"Y","target":"_blank"}},{"TEXT":"\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438","LINK":"\/pokupatelyu\/politika-konfidentsialnosti\/","PARAMS":[]},{"TEXT":"\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436 \u043e\u043d\u043b\u0430\u0439\u043d","LINK":"\/pokupatelyu\/shinomontazh-online\/","PARAMS":[]},{"TEXT":"\u0412\u043e\u0437\u0432\u0440\u0430\u0442 \u0442\u043e\u0432\u0430\u0440\u0430","LINK":"\/pokupatelyu\/vozvrat-tovara\/","PARAMS":[]},{"TEXT":"\u0413\u0430\u0440\u0430\u043d\u0442\u0438\u044f \u043d\u0430 \u0443\u0441\u043b\u0443\u0433\u0438","LINK":"\/pokupatelyu\/garantiya-uslugi\/","PARAMS":[]},{"TEXT":"\u041e\u0444\u0435\u0440\u0442\u0430","LINK":"\/pokupatelyu\/oferta\/","PARAMS":[]},{"TEXT":"\u0417\u0430\u043a\u0430\u0437 \u0434\u0438\u0441\u043a\u043e\u0432 \u043f\u043e \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0434\u0438\u0437\u0430\u0439\u043d\u0443","LINK":"\/pokupatelyu\/individualnyj-dizajn-diskov\/","PARAMS":[]},{"TEXT":"\u041f\u043e\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0435 \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u044b","LINK":"\/pokupatelyu\/podarochnyye-sertifikaty\/","PARAMS":[]},{"TEXT":"\u0418\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043a\u0430\u0437","LINK":"\/pokupatelyu\/individual-order\/","PARAMS":[]},{"TEXT":"\u0428\u0438\u043d\u043d\u044b\u0439 \u043a\u0430\u043b\u044c\u043a\u0443\u043b\u044f\u0442\u043e\u0440","LINK":"\/pokupatelyu\/shinnykalkulator\/","PARAMS":[]},{"TEXT":"\u041e\u0442\u0437\u044b\u0432\u044b","LINK":"\/otzyv\/stores\/","PARAMS":[]}],"X_HEADERS":{"Page-Type":"mainpage"},"isMain":true,"site_rating":{"rating_value":"4.7","review_num":7835},"header_info":{"hot_line_phone":"8 800 250 98 60"},"socialLinks":[{"link":"https:\/\/www.facebook.com\/KolesaDaromOfficial","svg":{"id":"social-fb-new","class":"icon_social-fb","width":"30","height":"30"},"title":"Facebook"},{"link":"https:\/\/vk.com\/kolesa_darom","svg":{"id":"social-vk-new","class":"icon_social-vk","width":"30","height":"30"},"title":"\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435"},{"link":"https:\/\/instagram.com\/kolesa_darom\/","svg":{"id":"social-ig-new","class":"icon_social-ig","width":"30","height":"30"},"title":"Instagram"},{"link":"https:\/\/vm.tiktok.com\/ZSJ3ckDbs\/","svg":{"id":"social-tiktok-new","class":"","width":"30","height":"30"},"title":"TikTok"},{"link":"https:\/\/www.drive2.ru\/o\/Kolesa-darom","svg":{"id":"social-drive2-new","class":"","width":"30","height":"30"},"title":"Drive2"}],"season_texts":{"CART":"","CONFIRM":"","NONAUTH_CONFIRM":"","ONE_CLICK":"","BEST_PRICE":"","RECALL":""}} </script><script type="text/javascript">
+        window.onload = function() {
+            let scriptMindBox = document.createElement('script');
+            scriptMindBox.async = true;
+            scriptMindBox.src = '//api.mindbox.ru/scripts/v1/tracker.js';
+            document.body.append(scriptMindBox);
+
+            window.mindbox = window.mindbox || function() { mindbox.queue.push(arguments); };
+            mindbox.queue = mindbox.queue || [];
+
+            mindbox('create', {
+                firebaseMessagingSenderId: "782317744158"
+            });
+        };
+    </script>
+<script type="text/javascript">
+        var digiScript = document.createElement('script');
+        digiScript.src = '//cdn.diginetica.net/1491/client.js';
+        digiScript.async = true;
+        document.body.appendChild(digiScript);
+    </script>
+
+<script defer type="text/javascript" src="/local/templates/kd_lebedev/assets/js/common.js?v=1644492336"></script>
+<script defer type="text/javascript" src="/local/templates/kd_lebedev/assets/js/main.js?v=1644492336"></script>
+
+<script defer type="text/javascript" src="/local/templates/kd_lebedev/performance.js"></script>
+<script>
+    BX.Browser = BX.browser;
+    BX.Browser.isIE11 = BX.browser.IsIE11;
+</script>
+</body>
+</html>

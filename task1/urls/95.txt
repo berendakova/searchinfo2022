@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+  <script>
+    function copy() {
+        document.oncopy = function(event) {
+            let report = {
+                report: {
+                    datetime: "2022-02-11 09:04:16 +0000",
+                    ip: "5.3.144.174",
+                    id: "G4L0pZh7P4Y1"
+                }
+            };
+            event.clipboardData.setData("text", JSON.stringify(report));
+            event.preventDefault();
+        };
+        document.execCommand("copy");
+    }
+  </script>
+  <h1 align="center">Forbidden</h1>
+  <p align="center">ÐÑÐ»Ð¸ Ð²Ñ ÑÐµÐ»Ð¾Ð²ÐµÐº, Ð¿Ð¾Ð¶Ð°Ð»ÑÐ¹ÑÑÐ°, ÑÐºÐ¾Ð¿Ð¸ÑÑÐ¹ÑÐµ Ð¾ÑÑÐµÑ Ð¸ Ð¿ÐµÑÐµÐ´Ð°Ð¹ÑÐµ ÐµÐ³Ð¾ Ð½Ð°ÑÐµÐ¹ ÑÐ»ÑÐ¶Ð±Ðµ ÑÐµÑÐ½Ð¸ÑÐµÑÐºÐ¾Ð¹ Ð¿Ð¾Ð´Ð´ÐµÑÐ¶ÐºÐ¸.</p>
+  <p align="center"><button onclick="copy()">ÐÐ¾Ð¿Ð¸ÑÐ¾Ð²Ð°ÑÑ</button></p>
+</body>
+</html>

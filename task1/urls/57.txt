@@ -1,0 +1,3639 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=970">
+    <meta name="MobileOptimized" content="970"/>
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name='yandex-verification' content=3abf4baff46cf587/>
+    <meta name="w1-verification" content="134441462401"/>
+    <meta name="verify-paysera" content="7dab0249e0ab427c16985a8872f92bac">
+	<link rel="apple-touch-icon" href="/common/maskable_icon.png" />
+	<link rel="manifest" href="/manifest.json" />
+	
+        
+            <meta name="description" content="Самая крупная литературная платформа и библиотека книг. Более 40.000 книг, которые можно бесплатно читать онлайн и скачать. Удобно читать с телефона, есть мобильная версия."/>
+        <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="MnbBfTB4bGvRbAe87iPaSIG_LjWKTjs32t8xcXIrlMNBTogNQhddXOddSduaFO4nxMpMQ9IXTEWegEIoGB-j-w==">
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com/">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://www.googleadservices.com/">
+<link rel="dns-prefetch" href="https://www.googleadservices.com/">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com/">
+<link rel="dns-prefetch" href="https://googleads.g.doubleclick.net/">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com/">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net/">
+<link rel="dns-prefetch" href="https://connect.facebook.net/">
+<link rel="dns-prefetch" href="https://code.directadvert.ru/">
+<link rel="dns-prefetch" href="https://mc.yandex.ru/">
+<link rel="dns-prefetch" href="https://mc.webvisor.org/">
+    <link rel="dns-prefetch" href="https://rust.litnet.com/">
+    <link rel="preconnect" href="https://rust.litnet.com/" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <title>Читать книги онлайн бесплатно - Литнет</title>
+    <!--[if IE]>
+    <script src="https://rust.litnet.com/common/js/jquery-1.11.3.min.js"></script><![endif]-->
+    <meta property="og:title" content="Читать книги онлайн бесплатно - Литнет">
+<meta property="og:description" content="Самая крупная литературная платформа и библиотека книг. Более 40.000 книг, которые можно бесплатно читать онлайн и скачать. Удобно читать с телефона, есть мобильная версия.">
+<meta name="Accept-Language" content="ru-ru">
+<link type="image/png" href="https://litnet.com/favicon.ico" rel="icon">
+<link href="https://litnet.com/" rel="canonical">
+<link href="https://rust.litnet.com/common/css/about_litnet_guests.css?v=1544783118" rel="stylesheet">
+<link href="https://rust.litnet.com/common/plugins/bxslider/jquery.bxslider.css?v=1466973274" rel="stylesheet">
+<link href="https://rust.litnet.com/assets/ec9df54/css/widget-bxslider.css?v=1531047793" rel="stylesheet">
+<link href="https://rust.litnet.com/assets/2d38b9b8/css/bootstrap.min.css?v=1550073398" rel="stylesheet">
+<link href="https://rust.litnet.com/common/css/font-awesome.min.css?v=1.1" rel="stylesheet">
+<link href="https://rust.litnet.com/common/css/litnet-icon-font.css?v=1.1" rel="stylesheet">
+<link href="https://rust.litnet.com/common/css/grids.css?v=1.1" rel="stylesheet">
+<link href="https://rust.litnet.com/common/css/site.css?v=1632993450" rel="stylesheet">
+<link href="https://rust.litnet.com/common/css/social-likes_classic.css?v=1.1" rel="stylesheet">
+<link href="https://rust.litnet.com/common/css/flags16.css?v=1.1" rel="stylesheet">
+<link href="https://rust.litnet.com/common/css/showLoading.css?v=1.1" rel="stylesheet">
+<link href="https://rust.litnet.com/common/css/jquery.jgrowl.min.css?v=1.1" rel="stylesheet">
+<link href="https://rust.litnet.com/dist/main.css?v=1639405073" rel="stylesheet">
+<link href="https://rust.litnet.com/assets/751e66ed/css/eauth.css?v=1491769441" rel="stylesheet">
+<script src="https://rust.litnet.com/assets/c747a73/jquery.min.js?v=1463765143"></script>
+<script src="https://rust.litnet.com/assets/11d285f7/yii.js?v=1556023766"></script>
+<script src="https://rust.litnet.com/assets/2d38b9b8/js/bootstrap.min.js?v=1550073398"></script>
+<script src="https://rust.litnet.com/common/mobile_v2/dist/js/vendor/svg4everybody.min.js?v=1.1"></script>
+<script src="https://rust.litnet.com/common/js/jquery.cookie.min.js?v=1.1"></script>
+<script src="https://rust.litnet.com/common/js/social-likes.min.js?v=1.1"></script>
+<script src="https://rust.litnet.com/common/js/common.js?v=9.6"></script>
+<script src="https://rust.litnet.com/common/js/lozad.js?v=1.1"></script>
+<script src="https://rust.litnet.com/common/js/jquery.showLoading.js?v=1.1"></script>
+<script src="https://rust.litnet.com/common/js/jquery.jgrowl.min.js?v=1.1"></script>
+<script src="https://rust.litnet.com/dist/main.js?v=1.1"></script>
+    <meta id="ga-isLoggedIn" value="0"><!--
+<script
+    src="https://browser.sentry-cdn.com/5.15.0/bundle.min.js"
+    integrity="sha384-+ysfQckQvwCB5SppH41IScIz/Iynt2pePnJNMl+D7ZOzDJ+VYhQEuwB0pA60IDM0"
+    crossorigin="anonymous">
+</script>
+<script>
+    Sentry.init({ dsn: 'https://4045475110a449a48005a10409870b88@sentry.io/2610559' });
+    </script>
+-->
+
+
+    <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?161",t.onload=function(){VK.Retargeting.Init("VK-RTRG-7830-5EOIX"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-7830-5EOIX" style="position:fixed; left:-999px;" alt=""/></noscript>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MQVJKTX');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+            dataLayer.push({'event': 'lang_ru'});
+    
+    let isMobile = '';
+</script>
+
+<meta name="facebook-domain-verification" content="wjtdllnn4zc0aw55n6bx64eb7ez3zk" />
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '548406668872768');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=548406668872768&ev=PageView&noscript=1"
+        /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+<script>
+    window.lang = 'ru';
+</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9588773273113222",
+    enable_page_level_ads: true
+  });
+</script>
+
+    <!--  PUSH notification -->
+
+    </head>
+<body>
+<img src="//code.directadvert.ru/track/349140.gif" style="display: none" width="1" height="1" />
+
+            
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQVJKTX"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="ln_topbar-indent"></div>
+<div class="ln_topbar">
+    <div class="ln_topbar_container container">
+
+        <div class="l_ln_topbar">
+            <div class="l_ln_topbar-left">
+                <div class="ln_topbar_logo">
+                    <a href="/ru">
+                                                    <svg class=""><use xlink:href="/common/img/ln_svg-sprite.svg?v=3#litnet-logo"></use></svg>
+                            <!--<svg class=""><use xlink:href="/common/img/ln_svg-sprite.svg?v=3#christmas-logo-ru"></use></svg>-->
+                                            </a>
+                </div><!--ln_topbar_logo-->
+
+                <ul class="ln_topbar_nav">
+                    <li class="ln_topbar_nav-item"><a class="ln_topbar_nav-lnk" id="choose_genre" href="#!">Книги <i class="material-icons">&#xe313;</i></a>
+
+                                                                    <div class="ln_topbar_genres">
+                            <div class="container">
+                                <div class="ln_topbar_genres_box">
+                                    <div class="ln_topbar_genres_sec" style="width: 522px;">
+                                        <h4 class="ln_topbar_genres_title">Жанры</h4>
+
+                                        <div class="ln_topbar_genres_list">
+                                            <a href="/ru/top/all">Все жанры</a>
+
+                                                                                            <a href="/ru/top/fentezi">Фэнтези</a>
+                                                                                            <a href="/ru/top/litrpg">ЛитРПГ</a>
+                                                                                            <a href="/ru/top/lyubovnye-romany">Любовные романы</a>
+                                                                                            <a href="/ru/top/fantastika">Фантастика</a>
+                                                                                            <a href="/ru/top/istoricheskiy-roman">Исторический роман</a>
+                                                                                            <a href="/ru/top/molodejnaya-proza">Молодежная проза</a>
+                                                                                            <a href="/ru/top/popadancy">Попаданцы</a>
+                                                                                            <a href="/ru/top/jenskaya-proza">Женский роман</a>
+                                                                                            <a href="/ru/top/fanfik">Фанфик</a>
+                                                                                            <a href="/ru/top/detektivy">Детективы</a>
+                                                                                            <a href="/ru/top/proza">Проза</a>
+                                                                                            <a href="/ru/top/boevik">Боевик</a>
+                                                                                            <a href="/ru/top/trillery">Триллеры</a>
+                                                                                            <a href="/ru/top/mistikaujasy">Мистика/Ужасы</a>
+                                                                                            <a href="/ru/top/raznoe">Разное</a>
+                                                                                    </div>
+                                    </div>
+
+                                    <div class="ln_topbar_genres_sec" style="width: 174px;">
+                                        <h4 class="ln_topbar_genres_title">Подборки</h4>
+                                        <div class="ln_topbar_genres_list">
+                                            <a href="/ru/top/all">По популярности</a>
+                                            <a href="/ru/top/latest">По обновлениям </a>
+                                            <a href="/ru/top/latest-new">Новинки</a>
+                                            <a href="/ru/top/best">Бестселлеры</a>
+
+                                                                                            <a href="/ru/rental-books">Книги в прокате</a>
+                                            
+                                                                                            <a href="/ru/top/audio">Книги с аудио</a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!--ln_topbar_genres-->
+                                        </li>
+                    <li class="ln_topbar_nav-item"><a class="ln_topbar_nav-lnk" href="/ru/contests">Конкурсы</a></li>
+                    <li class="ln_topbar_nav-item"><a class="ln_topbar_nav-lnk" href="/ru/blogs">Блоги</a></li>
+                                            <li class="ln_topbar_nav-item"><a class="ln_topbar_nav-lnk" href="/ru/site/library">Моя библиотека</a></li>
+                                    </ul><!--ln_topbar_nav-->
+            </div><!--l_ln_topbar-left-->
+
+            <div class="l_ln_topbar-right">
+                <div class="ln_topbar_search">
+                    <form class="ln_topbar_search_form" id="search-form" action="/ru/search" method="get">
+                        <i class="ln_topbar_search-icon" onclick="$('#search-form').submit();">
+                            <svg class="svg-icon"><use xlink:href="/common/img/ln_svg-sprite.svg#ln_search"></use></svg>
+                        </i>
+                        <input type="text" autocomplete="off" name="q" placeholder="Найти" data-not-found="Данные не найдены" />
+                    </form>
+                </div><!--ln_topbar_search-->
+
+                <div class="ln_topbar_login">
+                                            <a href="#!" class="ln_topbar_nav-lnk" onclick="showLoginPopup();">Вход</a>
+                        <a href="#!" class="ln_btn ln_btn-brand ln_topbar-reg" onclick="showRegisterPopup(); yaCounter31672391.reachGoal('register-open'); return true;">Регистрация</a>
+                                    </div>
+            </div><!--l_ln_topbar-right-->
+        </div><!--l_ln_topbar-->
+    </div><!--ln_topbar_container-->
+</div><!--ln_topbar-->
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $(document).click(function (event) {
+            if ($(event.target).closest(".ln_topbar_genres").length) return;
+            if ($(event.target).closest(".submenu-tops").length) return;
+            if ($(event.target).closest("#notice-popup").length) return;
+            $(".ln_topbar_genres").slideUp("fast");
+            $(".submenu-tops").slideUp("fast");
+            if ($('#notice-popup').is(':visible')) {
+                $('#notice-popup').fadeOut("normal");
+            }
+            event.stopPropagation();
+        });
+        $("#choose_genre").click(function () {
+            $(".ln_topbar_genres").slideToggle('fast');
+            $(".submenu-tops").slideUp("fast");
+            if ($('#notice-popup').is(':visible')) {
+                $('#notice-popup').fadeOut("normal");
+            }
+            return false;
+        });
+        $("#choose_top").click(function () {
+            $(".submenu-tops").slideToggle('fast');
+            $(".ln_topbar_genres").slideUp("fast");
+            if ($('#notice-popup').is(':visible')) {
+                $('#notice-popup').fadeOut("normal");
+            }
+            return false;
+        })
+    });
+</script>
+        
+<div class="wrap">
+    <div class="content-wrapper">
+        <div class="container">
+                            
+<div class="literature2-w">
+    <div class="literature2 literature2-easy">
+        <div class="literature2-i">
+            <section class="l-literature2-content">
+                <h1 class="literature2-title">Читать книги онлайн</h1>
+                <span style="font-weight: bold">Авторы сами выкладывают свои произведения</span>
+                <ul class='literature2-arguments-list'>
+                    <li><span>На Литнет есть все популярные жанры: Любовный роман, Фентези, Фантастика и другие</span></li>
+                    <li><span>Книги можно читать в процессе создания либо завершенные</span></li>
+                    <li><span>Общайтесь с авторами напрямую в блогах и комментариях</span></li>
+                </ul>
+
+                <a class="literature2-btn pulse" onclick="showRegisterPopup('ru')" href="#/">Присоединиться!</a>
+            </section><!-- /.l-literature2-content -->
+
+            <div class="literature2-lnk-block">
+                <div class="l-literature2-img">
+                    <div style="background-image: url('/common/img/girl-with-tablet.png');"></div>
+                </div>
+
+                <div class="l-literature2-bar">
+                    <span class="literature2-tag corner"><span>Читай и общайся!</span></span>
+
+                    <section class="literature2-halp-lnk">
+                        <h4 class="halp-lnk-title">В помощь новичку:</h4>
+                        <ul class="halp-lnk-list">
+                            <li><a href="/ru/info/spravka-chitatelyam">Справка для читателей</a></li>
+                            <li><a href="/ru/info/spravka-avtoram">Справка для авторов</a></li>
+                        </ul>
+                    </section>
+                </div><!-- /.l-literature2-bar -->
+            </div><!-- /.literature2-lnk-block -->
+        </div><!-- /.literature2-i -->
+    </div><!-- /.literature2 -->
+</div><!-- /.literature2-w -->                        <div class="content">
+                
+<div class="white-container">
+    <div class="container-inner">
+        
+
+
+        
+        
+        <style>
+    .selectize-input{
+        border-radius: 0!important;
+        height: 33px!important;
+    }
+    .tag-select-label{
+        float: left;
+        top: 17px;
+        position: relative;
+        margin-right: 5px;
+        color: #923a65;
+        font-family: 'Arial Narrow', Arial, sans-serif;
+        font-stretch: condensed;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .tag-input-container{
+        position: relative;
+        width: 100%;
+        display: inline-block;
+        padding-left: 133px;
+        margin-top: -20px;
+    }
+</style>
+
+<div style="/*margin-top: -33px*/">
+    <link rel="stylesheet" href="https://rust.litnet.com/common/css/selectize.default.css">
+    <script type="text/javascript" src="https://rust.litnet.com/common/js/selectize/selectize.min.js"></script>
+    <label class="control-label tag-select-label" style="" for="tags">В тексте есть:</label>
+    <div class="tag-input-container">
+        <input type="text" name="tags" id="tags" maxlength="30" value="" />
+    </div>
+    </div>        
+    <div class="block b-categories">
+        <div class="no-under-link">
+            <div class="box">
+                <ul>
+                                                                <li>
+                            <a href="/ru/top/fentezi">
+                                Фэнтези                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/litrpg">
+                                ЛитРПГ                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/lyubovnye-romany">
+                                Любовные романы                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/fantastika">
+                                Фантастика                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/istoricheskiy-roman">
+                                Исторический роман                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/molodejnaya-proza">
+                                Молодежная проза                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/popadancy">
+                                Попаданцы                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/jenskaya-proza">
+                                Женский роман                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/fanfik">
+                                Фанфик                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/detektivy">
+                                Детективы                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/proza">
+                                Проза                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/boevik">
+                                Боевик                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/trillery">
+                                Триллеры                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/mistikaujasy">
+                                Мистика/Ужасы                            </a>
+                        </li>
+                                            <li>
+                            <a href="/ru/top/raznoe">
+                                Разное                            </a>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+    <a href="/genres" class="box-footer-btn pull-right">Полный список жанров</a>
+    <div class="clearfix"></div>
+    </div>
+
+            
+    <div class="block b-popular widget-block">
+        <span class="widget-heading">
+            <a href="/ru/top/all?sort=rate">ТОП в разных жанрах</a>        </span>
+
+        <div class="block-inner">
+            <ul class="books-widget bxslider" id="bxslider-popular">
+                                    
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/disgardium-11-vne-igry-b373633"
+               title="Читать книгу Дисгардиум 11. Вне игры онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1637573213_5.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                ЛитРПГ            </span>
+                    <div id="bookId" class="select-book hidden">373633</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/disgardium-11-vne-igry-b373633"
+               class="bw-title"
+               title="Читать книгу Дисгардиум 11. Вне игры онлайн">
+                Дисгардиум 11. Вне игры            </a>
+        </div>
+    
+            <span class="bw-author">Данияр Сугралинов</span>
+    
+            <span class="count-views">202996</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/put-xranitelya-1-klyuchevoi-mir-b375046"
+               title="Читать книгу Путь Хранителя-1. Ключевой мир онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1638304875_64.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                ЛитРПГ            </span>
+                    <div id="bookId" class="select-book hidden">375046</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/put-xranitelya-1-klyuchevoi-mir-b375046"
+               class="bw-title"
+               title="Читать книгу Путь Хранителя-1. Ключевой мир онлайн">
+                Путь Хранителя-1. Ключевой мир            </a>
+        </div>
+    
+            <span class="bw-author">Андрей Ефремов</span>
+    
+            <span class="count-views">92975</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/imperskoe-nasledstvo-zabytyi-oskolok-b36674"
+               title="Читать книгу Имперское наследство. Забытый осколок онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1580748503_97.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Боевая фантастика            </span>
+                    <div id="bookId" class="select-book hidden">36674</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/imperskoe-nasledstvo-zabytyi-oskolok-b36674"
+               class="bw-title"
+               title="Читать книгу Имперское наследство. Забытый осколок онлайн">
+                Имперское наследство. Забытый осколок            </a>
+        </div>
+    
+            <span class="bw-author">Константин Федоров</span>
+    
+            <span class="count-views">1653596</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/xozyaika-zvezdnogo-medpunkta-b371717"
+               title="Читать книгу Хозяйка звёздного медпункта онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1640162002_45.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Фантастика            </span>
+                    <div id="bookId" class="select-book hidden">371717</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/xozyaika-zvezdnogo-medpunkta-b371717"
+               class="bw-title"
+               title="Читать книгу Хозяйка звёздного медпункта онлайн">
+                Хозяйка звёздного медпункта            </a>
+        </div>
+    
+            <span class="bw-author">Санна Сью</span>
+    
+            <span class="count-views">1099983</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/provincialka-ili-brachnyi-kontrakt-b378168"
+               title="Читать книгу Провинциалка, или Брачный Контракт онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1639976515_55.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Попаданцы            </span>
+                    <div id="bookId" class="select-book hidden">378168</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/provincialka-ili-brachnyi-kontrakt-b378168"
+               class="bw-title"
+               title="Читать книгу Провинциалка, или Брачный Контракт онлайн">
+                Провинциалка, или Брачный Контракт            </a>
+        </div>
+    
+            <span class="bw-author">Оксана Гринберга</span>
+    
+            <span class="count-views">907206</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/nablyudatel-b368897"
+               title="Читать книгу Наблюдатель онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1635163063_65.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Научная фантастика            </span>
+                    <div id="bookId" class="select-book hidden">368897</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/nablyudatel-b368897"
+               class="bw-title"
+               title="Читать книгу Наблюдатель онлайн">
+                Наблюдатель            </a>
+        </div>
+    
+            <span class="bw-author">Сергей Котов</span>
+    
+            <span class="count-views">58061</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/tri-d-dlya-milliardera-svadebnyi-salon-b384325"
+               title="Читать книгу Три "Д" для миллиардера. Свадебный салон онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642905179_21.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">384325</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/tri-d-dlya-milliardera-svadebnyi-salon-b384325"
+               class="bw-title"
+               title="Читать книгу Три "Д" для миллиардера. Свадебный салон онлайн">
+                Три "Д" для миллиардера. Свадебный салон            </a>
+        </div>
+    
+            <span class="bw-author">Тала Тоцка</span>
+    
+            <span class="count-views">1103408</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/vernut-nevestu-lovushka-dlya-popadanki-2-b367310"
+               title="Читать книгу Вернуть невесту. Ловушка для попаданки 2 онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1634280137_52.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Любовное фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">367310</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/vernut-nevestu-lovushka-dlya-popadanki-2-b367310"
+               class="bw-title"
+               title="Читать книгу Вернуть невесту. Ловушка для попаданки 2 онлайн">
+                Вернуть невесту. Ловушка для попаданки 2            </a>
+        </div>
+    
+            <span class="bw-author">Алиса Ардова</span>
+    
+            <span class="count-views">4298517</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/naezdnik-4-bez-granic-b376375"
+               title="Читать книгу Наездник - 4. Без границ онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1639028215_62.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Боевая фантастика            </span>
+                    <div id="bookId" class="select-book hidden">376375</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/naezdnik-4-bez-granic-b376375"
+               class="bw-title"
+               title="Читать книгу Наездник - 4. Без границ онлайн">
+                Наездник - 4. Без границ            </a>
+        </div>
+    
+            <span class="bw-author">Владимир Комаров (Vladkom)</span>
+    
+            <span class="count-views">27345</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/ego-velichestvo-bastard-b367753"
+               title="Читать книгу Его величество бастард онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1634500953_37.jpeg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Постапокалипсис            </span>
+                    <div id="bookId" class="select-book hidden">367753</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/ego-velichestvo-bastard-b367753"
+               class="bw-title"
+               title="Читать книгу Его величество бастард онлайн">
+                Его величество бастард            </a>
+        </div>
+    
+            <span class="bw-author">Нинель Мягкова</span>
+    
+            <span class="count-views">201507</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/edinstvennaya-tvoya-b378111"
+               title="Читать книгу Единственная. Твоя онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1639946245_56.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Мистический триллер            </span>
+                    <div id="bookId" class="select-book hidden">378111</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/edinstvennaya-tvoya-b378111"
+               class="bw-title"
+               title="Читать книгу Единственная. Твоя онлайн">
+                Единственная. Твоя            </a>
+        </div>
+    
+            <span class="bw-author">Эми Мун</span>
+    
+            <span class="count-views">353207</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/dikarka-u-varvarov-pesn-pylayushchih-stepei-b372333"
+               title="Читать книгу Дикарка у варваров. Песнь Пылающих Степей онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1636843085_65.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Уся (Wuxia)            </span>
+                    <div id="bookId" class="select-book hidden">372333</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/dikarka-u-varvarov-pesn-pylayushchih-stepei-b372333"
+               class="bw-title"
+               title="Читать книгу Дикарка у варваров. Песнь Пылающих Степей онлайн">
+                Дикарка у варваров. Песнь Пылающих Степей            </a>
+        </div>
+    
+            <span class="bw-author">Ирина Тигиева</span>
+    
+            <span class="count-views">268459</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/ranenye-zvezdy-4-apokalipsis-b367990"
+               title="Читать книгу Раненые звёзды - 4: Апокалипсис онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1634647311_25.jpeg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Научная фантастика            </span>
+                    <div id="bookId" class="select-book hidden">367990</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/ranenye-zvezdy-4-apokalipsis-b367990"
+               class="bw-title"
+               title="Читать книгу Раненые звёзды - 4: Апокалипсис онлайн">
+                Раненые звёзды - 4: Апокалипсис            </a>
+        </div>
+    
+            <span class="bw-author">Сергей Котов</span>
+    
+            <span class="count-views">237671</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/popadanka-s-ogonkom-ili-ispytanie-dlya-temnogo-b373622"
+               title="Читать книгу Попаданка с огоньком, или Испытание для Тёмного онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1637560116_90.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Попаданцы в другие миры            </span>
+                    <div id="bookId" class="select-book hidden">373622</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/popadanka-s-ogonkom-ili-ispytanie-dlya-temnogo-b373622"
+               class="bw-title"
+               title="Читать книгу Попаданка с огоньком, или Испытание для Тёмного онлайн">
+                Попаданка с огоньком, или Испытание для Тёмного            </a>
+        </div>
+    
+            <span class="bw-author">Счастная Елена</span>
+    
+            <span class="count-views">1467701</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/devochka-dlya-beshenogo-b373080"
+               title="Читать книгу Девочка для Бешеного онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1637241758_64.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Подростковая проза            </span>
+                    <div id="bookId" class="select-book hidden">373080</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/devochka-dlya-beshenogo-b373080"
+               class="bw-title"
+               title="Читать книгу Девочка для Бешеного онлайн">
+                Девочка для Бешеного            </a>
+        </div>
+    
+            <span class="bw-author">Валерия Ангелос</span>
+    
+            <span class="count-views">1874496</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/zhivoi-b369237"
+               title="Читать книгу Живой онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1635331594_49.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Боевик            </span>
+                    <div id="bookId" class="select-book hidden">369237</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/zhivoi-b369237"
+               class="bw-title"
+               title="Читать книгу Живой онлайн">
+                Живой            </a>
+        </div>
+    
+            <span class="bw-author">Тимофей Царенко</span>
+    
+            <span class="count-views">68547</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/desyat-tysyach-stilei-kniga-shestaya-b369645"
+               title="Читать книгу Десять тысяч стилей. Книга шестая онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1635534173_71.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Уся (Wuxia)            </span>
+                    <div id="bookId" class="select-book hidden">369645</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/desyat-tysyach-stilei-kniga-shestaya-b369645"
+               class="bw-title"
+               title="Читать книгу Десять тысяч стилей. Книга шестая онлайн">
+                Десять тысяч стилей. Книга шестая            </a>
+        </div>
+    
+            <span class="bw-author">Илья Головань (Krayhir)</span>
+    
+            <span class="count-views">179603</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/nepravilnaya-nevesta-k-krayu-zemli-i-dalshe-b373442"
+               title="Читать книгу Неправильная невеста. К краю земли и дальше онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1637828067_6.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Боевое фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">373442</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/nepravilnaya-nevesta-k-krayu-zemli-i-dalshe-b373442"
+               class="bw-title"
+               title="Читать книгу Неправильная невеста. К краю земли и дальше онлайн">
+                Неправильная невеста. К краю земли и дальше            </a>
+        </div>
+    
+            <span class="bw-author">Алекс Найт</span>
+    
+            <span class="count-views">446746</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/magicheskie-bliznecy-v-nasledstvo-b383120"
+               title="Читать книгу Магические близнецы в наследство онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642285294_23.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Любовная фантастика            </span>
+                    <div id="bookId" class="select-book hidden">383120</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/magicheskie-bliznecy-v-nasledstvo-b383120"
+               class="bw-title"
+               title="Читать книгу Магические близнецы в наследство онлайн">
+                Магические близнецы в наследство            </a>
+        </div>
+    
+            <span class="bw-author">Юлия Зимина</span>
+    
+            <span class="count-views">241900</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/ego-tainye-nasledniki-b377163"
+               title="Читать книгу Его тайные наследники онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1639458010_60.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">377163</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_TopInGenres');"
+               href="/ru/book/ego-tainye-nasledniki-b377163"
+               class="bw-title"
+               title="Читать книгу Его тайные наследники онлайн">
+                Его тайные наследники            </a>
+        </div>
+    
+            <span class="bw-author">Дана Стар</span>
+    
+            <span class="count-views">2338131</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                </ul>
+        </div>
+    </div>
+
+    
+            
+    <div class="block b-selling widget-block">
+        <span class="widget-heading">
+            <a href="/ru/top/best?period=1days">Бестселлеры</a>        </span>
+
+        <div class="block-inner">
+            <ul class="books-widget bxslider" id="bxslider-selling">
+                                    
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/ego-tainye-nasledniki-b377163"
+               title="Читать книгу Его тайные наследники онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1639458010_60.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">377163</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/ego-tainye-nasledniki-b377163"
+               class="bw-title"
+               title="Читать книгу Его тайные наследники онлайн">
+                Его тайные наследники            </a>
+        </div>
+    
+            <span class="bw-author">Дана Стар</span>
+    
+            <span class="count-views">2338295</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/magicheskie-bliznecy-v-nasledstvo-b383120"
+               title="Читать книгу Магические близнецы в наследство онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642285294_23.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Любовная фантастика            </span>
+                    <div id="bookId" class="select-book hidden">383120</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/magicheskie-bliznecy-v-nasledstvo-b383120"
+               class="bw-title"
+               title="Читать книгу Магические близнецы в наследство онлайн">
+                Магические близнецы в наследство            </a>
+        </div>
+    
+            <span class="bw-author">Юлия Зимина</span>
+    
+            <span class="count-views">241917</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/ego-tainaya-doch-b381710"
+               title="Читать книгу Его тайная дочь онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1641652808_57.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Короткий любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">381710</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/ego-tainaya-doch-b381710"
+               class="bw-title"
+               title="Читать книгу Его тайная дочь онлайн">
+                Его тайная дочь            </a>
+        </div>
+    
+            <span class="bw-author">Дина Исаева</span>
+    
+            <span class="count-views">982549</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/chernoe-plamya-ragrana-kniga-2-b384746"
+               title="Читать книгу Черное пламя Раграна. Книга 2 онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643118939_12.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Приключенческое фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">384746</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/chernoe-plamya-ragrana-kniga-2-b384746"
+               class="bw-title"
+               title="Читать книгу Черное пламя Раграна. Книга 2 онлайн">
+                Черное пламя Раграна. Книга 2            </a>
+        </div>
+    
+            <span class="bw-author">Марина Индиви</span>
+    
+            <span class="count-views">38106</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/sluchainaya-mat-b382560"
+               title="Читать книгу Случайная мать онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642017794_81.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">382560</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/sluchainaya-mat-b382560"
+               class="bw-title"
+               title="Читать книгу Случайная мать онлайн">
+                Случайная мать            </a>
+        </div>
+    
+            <span class="bw-author">Надежда Мельникова</span>
+    
+            <span class="count-views">218417</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/svistat-vseh-na-dno-ili-kto-podstavil-princessu-b381839"
+               title="Читать книгу Свистать всех на дно! или Кто подставил принцессу? онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1641705068_87.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Юмористическое фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">381839</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/svistat-vseh-na-dno-ili-kto-podstavil-princessu-b381839"
+               class="bw-title"
+               title="Читать книгу Свистать всех на дно! или Кто подставил принцессу? онлайн">
+                Свистать всех на дно! или Кто подставил принцессу?            </a>
+        </div>
+    
+            <span class="bw-author">Леси Филеберт</span>
+    
+            <span class="count-views">109276</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/popadanka-s-ogonkom-ili-ispytanie-dlya-temnogo-b373622"
+               title="Читать книгу Попаданка с огоньком, или Испытание для Тёмного онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1637560116_90.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Попаданцы в другие миры            </span>
+                    <div id="bookId" class="select-book hidden">373622</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/popadanka-s-ogonkom-ili-ispytanie-dlya-temnogo-b373622"
+               class="bw-title"
+               title="Читать книгу Попаданка с огоньком, или Испытание для Тёмного онлайн">
+                Попаданка с огоньком, или Испытание для Тёмного            </a>
+        </div>
+    
+            <span class="bw-author">Счастная Елена</span>
+    
+            <span class="count-views">1467728</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/dvoinya-v-podarok-b378424"
+               title="Читать книгу Двойня в подарок онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1640102662_21.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Молодежная проза            </span>
+                    <div id="bookId" class="select-book hidden">378424</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/dvoinya-v-podarok-b378424"
+               class="bw-title"
+               title="Читать книгу Двойня в подарок онлайн">
+                Двойня в подарок            </a>
+        </div>
+    
+            <span class="bw-author">Виктория Волкова </span>
+    
+            <span class="count-views">1560123</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/ne-sirota-doch-oligarha-b377750"
+               title="Читать книгу Не сирота. Дочь олигарха онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1639846426_9.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Женский роман            </span>
+                    <div id="bookId" class="select-book hidden">377750</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/ne-sirota-doch-oligarha-b377750"
+               class="bw-title"
+               title="Читать книгу Не сирота. Дочь олигарха онлайн">
+                Не сирота. Дочь олигарха            </a>
+        </div>
+    
+            <span class="bw-author">Анна Бигси</span>
+    
+            <span class="count-views">1273298</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/nas-budet-troe-b384337"
+               title="Читать книгу Нас будет трое  онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642917392_66.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Женский роман            </span>
+                    <div id="bookId" class="select-book hidden">384337</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BestSellers');"
+               href="/ru/book/nas-budet-troe-b384337"
+               class="bw-title"
+               title="Читать книгу Нас будет трое  онлайн">
+                Нас будет трое             </a>
+        </div>
+    
+            <span class="bw-author">Амелия Борн</span>
+    
+            <span class="count-views">65760</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                </ul>
+        </div>
+    </div>
+    
+            
+    <div class="block b-popular widget-block">
+        <span class="widget-heading">
+            <a href="/ru/top/audio">Популярные книги с аудио</a>        </span>
+
+        <div class="block-inner">
+            <ul class="books-widget bxslider" id="bxslider-popular">
+                                    
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/xvostatym-zdes-ne-mesto-b180968"
+               title="Читать книгу Хвостатым здесь не место! онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1638621343_9.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Городское фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">180968</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/xvostatym-zdes-ne-mesto-b180968"
+               class="bw-title"
+               title="Читать книгу Хвостатым здесь не место! онлайн">
+                Хвостатым здесь не место!            </a>
+        </div>
+    
+            <span class="bw-author">Екатерина Вострова</span>
+    
+            <span class="count-views">3495973</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/nervnye-kletki-s-zapasom-b157666"
+               title="Читать книгу Нервные клетки с запасом онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1603204053_77.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Юмористическое фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">157666</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/nervnye-kletki-s-zapasom-b157666"
+               class="bw-title"
+               title="Читать книгу Нервные клетки с запасом онлайн">
+                Нервные клетки с запасом            </a>
+        </div>
+    
+            <span class="bw-author">Рина Ских</span>
+    
+            <span class="count-views">1759350</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/neotec-moego-rebenka-b201290"
+               title="Читать книгу (не)отец моего ребенка онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1585411207_23.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">201290</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/neotec-moego-rebenka-b201290"
+               class="bw-title"
+               title="Читать книгу (не)отец моего ребенка онлайн">
+                (не)отец моего ребенка            </a>
+        </div>
+    
+            <span class="bw-author">Арина Вильде</span>
+    
+            <span class="count-views">2507330</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/nevesta-na-prodazhu-b171155"
+               title="Читать книгу Невеста на продажу онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1586187274_20.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Любовное фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">171155</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/nevesta-na-prodazhu-b171155"
+               class="bw-title"
+               title="Читать книгу Невеста на продажу онлайн">
+                Невеста на продажу            </a>
+        </div>
+    
+            <span class="bw-author">Ольга Герр</span>
+    
+            <span class="count-views">1044217</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/zamuzh-za-drakona-b386559"
+               title="Читать книгу Замуж за Дракона онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643993929_11.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Любовное фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">386559</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/zamuzh-za-drakona-b386559"
+               class="bw-title"
+               title="Читать книгу Замуж за Дракона онлайн">
+                Замуж за Дракона            </a>
+        </div>
+    
+            <span class="bw-author">Кария Гросс</span>
+    
+            <span class="count-views">68212</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/chudovishche-navi-ili-zavtra-eshche-poidu-b384160"
+               title="Читать книгу Чудовище Нави, или Завтра еще пойду! онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642822904_87.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Юмористическое фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">384160</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/chudovishche-navi-ili-zavtra-eshche-poidu-b384160"
+               class="bw-title"
+               title="Читать книгу Чудовище Нави, или Завтра еще пойду! онлайн">
+                Чудовище Нави, или Завтра еще пойду!            </a>
+        </div>
+    
+            <span class="bw-author">Кристина Юраш</span>
+    
+            <span class="count-views">40465</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/otec-po-oshibke-b217562"
+               title="Читать книгу Отец по ошибке онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1585659938_65.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Женский роман            </span>
+                    <div id="bookId" class="select-book hidden">217562</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/otec-po-oshibke-b217562"
+               class="bw-title"
+               title="Читать книгу Отец по ошибке онлайн">
+                Отец по ошибке            </a>
+        </div>
+    
+            <span class="bw-author">Арина Вильде</span>
+    
+            <span class="count-views">1889083</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/chudo-dlya-generalnogo-b385432"
+               title="Читать книгу Чудо для генерального онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643487043_15.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">385432</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/chudo-dlya-generalnogo-b385432"
+               class="bw-title"
+               title="Читать книгу Чудо для генерального онлайн">
+                Чудо для генерального            </a>
+        </div>
+    
+            <span class="bw-author">Лавли Рос, Арина Вильде</span>
+    
+            <span class="count-views">124060</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/moi-byvshii-temnyi-b346329"
+               title="Читать книгу Мой бывший темный онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1637447567_41.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Любовное фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">346329</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/moi-byvshii-temnyi-b346329"
+               class="bw-title"
+               title="Читать книгу Мой бывший темный онлайн">
+                Мой бывший темный            </a>
+        </div>
+    
+            <span class="bw-author">Екатерина Лира, Екатерина Вострова</span>
+    
+            <span class="count-views">1752316</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/nevesta-na-podmenu-b144864"
+               title="Читать книгу Невеста на подмену онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1559016615_76.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Любовное фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">144864</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_AudioBooks');"
+               href="/ru/book/nevesta-na-podmenu-b144864"
+               class="bw-title"
+               title="Читать книгу Невеста на подмену онлайн">
+                Невеста на подмену            </a>
+        </div>
+    
+            <span class="bw-author">Ольга Герр</span>
+    
+            <span class="count-views">1833693</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                </ul>
+        </div>
+    </div>
+    
+            
+    <div class="block b-popular widget-block">
+        <span class="widget-heading">
+            Горячие новинки        </span>
+
+        <div class="block-inner">
+            <ul class="books-widget bxslider" id="bxslider-popular">
+                                    
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/ee-svodnyi-koshmar-b384004"
+               title="Читать книгу Ее сводный кошмар онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642731204_85.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Молодежная проза            </span>
+                    <div id="bookId" class="select-book hidden">384004</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/ee-svodnyi-koshmar-b384004"
+               class="bw-title"
+               title="Читать книгу Ее сводный кошмар онлайн">
+                Ее сводный кошмар            </a>
+        </div>
+    
+            <span class="bw-author">Джулия Ромуш</span>
+    
+            <span class="count-views">149696</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/pohishchennaya-nevesta-dlya-ego-nagleishestva-b385494"
+               title="Читать книгу Похищенная невеста для Его Наглейшества онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643519038_9.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Любовное фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">385494</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/pohishchennaya-nevesta-dlya-ego-nagleishestva-b385494"
+               class="bw-title"
+               title="Читать книгу Похищенная невеста для Его Наглейшества онлайн">
+                Похищенная невеста для Его Наглейшества            </a>
+        </div>
+    
+            <span class="bw-author">Алисия Эванс</span>
+    
+            <span class="count-views">43898</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/opasnyi-naslednik-b384274"
+               title="Читать книгу Опасный наследник онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642876059_56.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Короткий любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">384274</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/opasnyi-naslednik-b384274"
+               class="bw-title"
+               title="Читать книгу Опасный наследник онлайн">
+                Опасный наследник            </a>
+        </div>
+    
+            <span class="bw-author">Полина Лоранс</span>
+    
+            <span class="count-views">463969</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/edinstvennaya-dlya-plohogo-b384483"
+               title="Читать книгу Единственная для Плохого онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642998896_5.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Молодежная проза            </span>
+                    <div id="bookId" class="select-book hidden">384483</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/edinstvennaya-dlya-plohogo-b384483"
+               class="bw-title"
+               title="Читать книгу Единственная для Плохого онлайн">
+                Единственная для Плохого            </a>
+        </div>
+    
+            <span class="bw-author">Алиса Франц</span>
+    
+            <span class="count-views">528048</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/doch-po-zaveshchaniyu-b383327"
+               title="Читать книгу Дочь по завещанию онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642386835_53.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">383327</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/doch-po-zaveshchaniyu-b383327"
+               class="bw-title"
+               title="Читать книгу Дочь по завещанию онлайн">
+                Дочь по завещанию            </a>
+        </div>
+    
+            <span class="bw-author">Аниса Таниева</span>
+    
+            <span class="count-views">273395</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/akademiya-chetyreh-stihii-volshebstvo-na-konchikah-palcev-b384618"
+               title="Читать книгу Академия четырёх стихий. Волшебство на кончиках пальцев онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643795105_26.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Приключенческое фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">384618</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/akademiya-chetyreh-stihii-volshebstvo-na-konchikah-palcev-b384618"
+               class="bw-title"
+               title="Читать книгу Академия четырёх стихий. Волшебство на кончиках пальцев онлайн">
+                Академия четырёх стихий. Волшебство на кончиках пальцев            </a>
+        </div>
+    
+            <span class="bw-author">Анастасия Княжева</span>
+    
+            <span class="count-views">491130</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/malenkaya-taina-ot-moego-bossa-b382770"
+               title="Читать книгу Маленькая тайна от моего босса онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642176277_60.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Молодежная проза            </span>
+                    <div id="bookId" class="select-book hidden">382770</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/malenkaya-taina-ot-moego-bossa-b382770"
+               class="bw-title"
+               title="Читать книгу Маленькая тайна от моего босса онлайн">
+                Маленькая тайна от моего босса            </a>
+        </div>
+    
+            <span class="bw-author">Татьяна Адриевская</span>
+    
+            <span class="count-views">393296</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/nepristoinoe-predlozhenie-b383790"
+               title="Читать книгу Непристойное предложение онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642624370_19.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Юмористическое фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">383790</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/nepristoinoe-predlozhenie-b383790"
+               class="bw-title"
+               title="Читать книгу Непристойное предложение онлайн">
+                Непристойное предложение            </a>
+        </div>
+    
+            <span class="bw-author">Лана Кроу</span>
+    
+            <span class="count-views">265241</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/tainaya-doch-prezidenta-b385911"
+               title="Читать книгу Тайная дочь президента онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643711513_37.jpeg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">385911</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/tainaya-doch-prezidenta-b385911"
+               class="bw-title"
+               title="Читать книгу Тайная дочь президента онлайн">
+                Тайная дочь президента            </a>
+        </div>
+    
+            <span class="bw-author">Дана Стар</span>
+    
+            <span class="count-views">160416</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/tri-d-dlya-milliardera-svadebnyi-salon-b384325"
+               title="Читать книгу Три "Д" для миллиардера. Свадебный салон онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642905179_21.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">384325</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/tri-d-dlya-milliardera-svadebnyi-salon-b384325"
+               class="bw-title"
+               title="Читать книгу Три "Д" для миллиардера. Свадебный салон онлайн">
+                Три "Д" для миллиардера. Свадебный салон            </a>
+        </div>
+    
+            <span class="bw-author">Тала Тоцка</span>
+    
+            <span class="count-views">1085066</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/chudo-dlya-generalnogo-b385432"
+               title="Читать книгу Чудо для генерального онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643487043_15.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">385432</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/chudo-dlya-generalnogo-b385432"
+               class="bw-title"
+               title="Читать книгу Чудо для генерального онлайн">
+                Чудо для генерального            </a>
+        </div>
+    
+            <span class="bw-author">Лавли Рос, Арина Вильде</span>
+    
+            <span class="count-views">119893</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/darenomu-drakonu-v-zuby-ne-smotryat-b384995"
+               title="Читать книгу Дареному дракону в зубы не смотрят онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643251882_34.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Юмористическое фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">384995</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/darenomu-drakonu-v-zuby-ne-smotryat-b384995"
+               class="bw-title"
+               title="Читать книгу Дареному дракону в зубы не смотрят онлайн">
+                Дареному дракону в зубы не смотрят            </a>
+        </div>
+    
+            <span class="bw-author">Рина Ских</span>
+    
+            <span class="count-views">100638</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/sluchainaya-beremennost-b384035"
+               title="Читать книгу Случайная беременность онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643119768_51.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">384035</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/sluchainaya-beremennost-b384035"
+               class="bw-title"
+               title="Читать книгу Случайная беременность онлайн">
+                Случайная беременность            </a>
+        </div>
+    
+            <span class="bw-author">Виктория Вишневская</span>
+    
+            <span class="count-views">232533</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/na-grani-razvoda-vernut-lyubov-b384331"
+               title="Читать книгу На грани развода. Вернуть любовь онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642897674_95.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Короткий любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">384331</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/na-grani-razvoda-vernut-lyubov-b384331"
+               class="bw-title"
+               title="Читать книгу На грани развода. Вернуть любовь онлайн">
+                На грани развода. Вернуть любовь            </a>
+        </div>
+    
+            <span class="bw-author">Злата Романова, Яна Невинная</span>
+    
+            <span class="count-views">209144</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/dvoinyashki-po-oshibke-sluchainaya-vstrecha-b386312"
+               title="Читать книгу Двойняшки по ошибке. Случайная встреча онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1644483313_17.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Короткий любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">386312</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/dvoinyashki-po-oshibke-sluchainaya-vstrecha-b386312"
+               class="bw-title"
+               title="Читать книгу Двойняшки по ошибке. Случайная встреча онлайн">
+                Двойняшки по ошибке. Случайная встреча            </a>
+        </div>
+    
+            <span class="bw-author">Вероника Лесневская</span>
+    
+            <span class="count-views">130564</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/my-ne-tvoi-b384037"
+               title="Читать книгу Мы не твои онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1642761264_13.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Короткий любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">384037</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/my-ne-tvoi-b384037"
+               class="bw-title"
+               title="Читать книгу Мы не твои онлайн">
+                Мы не твои            </a>
+        </div>
+    
+            <span class="bw-author">Элен Блио</span>
+    
+            <span class="count-views">336858</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/konsultaciyu-vashe-koteishestvo-b385016"
+               title="Читать книгу Консультацию, Ваше Котейшество? онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643267888_8.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Юмористическое фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">385016</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/konsultaciyu-vashe-koteishestvo-b385016"
+               class="bw-title"
+               title="Читать книгу Консультацию, Ваше Котейшество? онлайн">
+                Консультацию, Ваше Котейшество?            </a>
+        </div>
+    
+            <span class="bw-author">Лира Алая</span>
+    
+            <span class="count-views">87945</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/pravo-na-doch-b385121"
+               title="Читать книгу Право на дочь  онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643309711_74.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Молодежная проза            </span>
+                    <div id="bookId" class="select-book hidden">385121</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/pravo-na-doch-b385121"
+               class="bw-title"
+               title="Читать книгу Право на дочь  онлайн">
+                Право на дочь             </a>
+        </div>
+    
+            <span class="bw-author">Чарли Маар, Полина Довлатова</span>
+    
+            <span class="count-views">167334</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/sluchainaya-zhena-dlya-mazhora-b383701"
+               title="Читать книгу Случайная жена для мажора онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1644069809_39.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современный любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">383701</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/sluchainaya-zhena-dlya-mazhora-b383701"
+               class="bw-title"
+               title="Читать книгу Случайная жена для мажора онлайн">
+                Случайная жена для мажора            </a>
+        </div>
+    
+            <span class="bw-author">Мила Реброва</span>
+    
+            <span class="count-views">197407</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/trofei-generala-drakonov-b384489"
+               title="Читать книгу Трофей генерала драконов онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643001904_18.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Любовное фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">384489</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_BEST_HOT_NEW_BOOKS');"
+               href="/ru/book/trofei-generala-drakonov-b384489"
+               class="bw-title"
+               title="Читать книгу Трофей генерала драконов онлайн">
+                Трофей генерала драконов            </a>
+        </div>
+    
+            <span class="bw-author">Мария Лунёва</span>
+    
+            <span class="count-views">117598</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                </ul>
+        </div>
+    </div>
+    
+            
+    <div class="block b-latest widget-block">
+        <span class="widget-heading">
+            <a href="/ru/top/latest">Обновления книг</a>        </span>
+
+        <div class="block-inner">
+            <ul class="books-widget bxslider" id="bxslider-latest">
+                                    
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/nepokornaya-dlya-princa-b386995"
+               title="Читать книгу Непокорная для принца онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1644188884_23.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Юмористическое фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">386995</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/nepokornaya-dlya-princa-b386995"
+               class="bw-title"
+               title="Читать книгу Непокорная для принца онлайн">
+                Непокорная для принца            </a>
+        </div>
+    
+            <span class="bw-author">Наталья Самартцис, Марина Стариченко</span>
+    
+            <span class="count-views">857</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/balet-po-ponedelnikam-b387731"
+               title="Читать книгу Балет по понедельникам онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1644568132_60.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Короткий любовный роман            </span>
+                    <div id="bookId" class="select-book hidden">387731</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/balet-po-ponedelnikam-b387731"
+               class="bw-title"
+               title="Читать книгу Балет по понедельникам онлайн">
+                Балет по понедельникам            </a>
+        </div>
+    
+            <span class="bw-author">Иван Вересов</span>
+    
+            <span class="count-views">122</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/mezhdu-gorizontami-b385320"
+               title="Читать книгу Между горизонтами онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643403366_89.png"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">385320</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/mezhdu-gorizontami-b385320"
+               class="bw-title"
+               title="Читать книгу Между горизонтами онлайн">
+                Между горизонтами            </a>
+        </div>
+    
+            <span class="bw-author">Иван Картельян</span>
+    
+            <span class="count-views">269</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/rycar-ordena-pangolin-2-proklyataya-koroleva-b380159"
+               title="Читать книгу Рыцарь Ордена Панголин 2. Проклятая королева онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1640954908_18.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Попаданцы в другие миры            </span>
+                    <div id="bookId" class="select-book hidden">380159</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/rycar-ordena-pangolin-2-proklyataya-koroleva-b380159"
+               class="bw-title"
+               title="Читать книгу Рыцарь Ордена Панголин 2. Проклятая королева онлайн">
+                Рыцарь Ордена Панголин 2. Проклятая королева            </a>
+        </div>
+    
+            <span class="bw-author">Зелена Крыж</span>
+    
+            <span class="count-views">2140</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/nazad-v-erdberrot-b308670"
+               title="Читать книгу Назад в Эрдберрот онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1643278005_100.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современная проза            </span>
+                    <div id="bookId" class="select-book hidden">308670</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/nazad-v-erdberrot-b308670"
+               class="bw-title"
+               title="Читать книгу Назад в Эрдберрот онлайн">
+                Назад в Эрдберрот            </a>
+        </div>
+    
+            <span class="bw-author">Евгения Высоковская</span>
+    
+            <span class="count-views">909</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/tainy-divnozerya-b375130"
+               title="Читать книгу Тайны Дивнозёрья онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1638697465_91.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Городское фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">375130</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/tainy-divnozerya-b375130"
+               class="bw-title"
+               title="Читать книгу Тайны Дивнозёрья онлайн">
+                Тайны Дивнозёрья            </a>
+        </div>
+    
+            <span class="bw-author">Алан Чароит</span>
+    
+            <span class="count-views">154271</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/roza-dlya-moroza-b377674"
+               title="Читать книгу Роза для Мороза онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1639717155_88.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Современная проза            </span>
+                    <div id="bookId" class="select-book hidden">377674</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/roza-dlya-moroza-b377674"
+               class="bw-title"
+               title="Читать книгу Роза для Мороза онлайн">
+                Роза для Мороза            </a>
+        </div>
+    
+            <span class="bw-author">Алиса Рассл</span>
+    
+            <span class="count-views">9874</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/zabvenie-b387301"
+               title="Читать книгу Забвение онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1644338109_22.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Молодежная проза            </span>
+                    <div id="bookId" class="select-book hidden">387301</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/zabvenie-b387301"
+               class="bw-title"
+               title="Читать книгу Забвение онлайн">
+                Забвение            </a>
+        </div>
+    
+            <span class="bw-author">Rickson</span>
+    
+            <span class="count-views">80</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/krasnyi-drakon-imperii-b381011"
+               title="Читать книгу Красный Дракон Империи онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1641365777_73.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Альтернативная история            </span>
+                    <div id="bookId" class="select-book hidden">381011</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/krasnyi-drakon-imperii-b381011"
+               class="bw-title"
+               title="Читать книгу Красный Дракон Империи онлайн">
+                Красный Дракон Империи            </a>
+        </div>
+    
+            <span class="bw-author">Евгений Панов</span>
+    
+            <span class="count-views">1802</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                        
+                        <li class="bw-item">
+    <div class="bw-book-card">
+        <div class="book-img">
+
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/proklyate-so-vkusom-elfiiskogo-poceluya-b387754"
+               title="Читать книгу Проклятье со вкусом эльфийского поцелуя онлайн"
+               class="bw-img">
+                <img src="https://rust.litnet.com/uploads/covers/120/1644568229_75.jpg"/>
+            </a>
+
+        <!--            <span class="rental-book-mark" style="background: #6fbd49;"><i class="icon-time"></i><span>50%</span></span>-->
+<!--        <span class="rental-book-mark" style="background: #fb8c00;"><i class="icon-time"></i><span>100%</span></span>-->
+        </div>
+
+                        <span class="bl-genre">
+                Юмористическое фэнтези            </span>
+                    <div id="bookId" class="select-book hidden">387754</div>
+
+            <div class="bw-title-wr">
+            <a onclick="ln.track('Click', 'Widget_RecentlyUpdatedBooks');"
+               href="/ru/book/proklyate-so-vkusom-elfiiskogo-poceluya-b387754"
+               class="bw-title"
+               title="Читать книгу Проклятье со вкусом эльфийского поцелуя онлайн">
+                Проклятье со вкусом эльфийского поцелуя            </a>
+        </div>
+    
+            <span class="bw-author">yanika nox</span>
+    
+            <span class="count-views">10</span>
+    
+    
+        </div><!--bw-book-card-->
+</li>
+                                                </ul>
+        </div>
+    </div>
+    
+    
+        
+
+    <div class="container-inner">
+            </div>
+</div>
+
+    <div>
+        <h4>Подборки книг</h4>
+        <a class="tag-link" href="/ru/tag/юмор-t255">юмор</a> <a class="tag-link" href="/ru/tag/первая любовь-t307">первая любовь</a> <a class="tag-link" href="/ru/tag/оборотни-t152">оборотни</a> <a class="tag-link" href="/ru/tag/сложные отношения-t2455">сложные отношения</a> <a class="tag-link" href="/ru/tag/драконы-t154">драконы</a> <a class="tag-link" href="/ru/tag/противостояние характеров-t92615">противостояние характеров</a> <a class="tag-link" href="/ru/tag/война-t210">война</a> <a class="tag-link" href="/ru/tag/сильные чувства-t57468">сильные чувства</a> <a class="tag-link" href="/ru/tag/тайны прошлого-t13755">тайны прошлого</a> <a class="tag-link" href="/ru/tag/магический мир-t195">магический мир</a> <a class="tag-link" href="/ru/tag/убийство-t3961">убийство</a> <a class="tag-link" href="/ru/tag/выживание-t2181">выживание</a> <a class="tag-link" href="/ru/tag/адекватная героиня-t54769">адекватная героиня</a> <a class="tag-link" href="/ru/tag/боль-t173">боль</a> <a class="tag-link" href="/ru/tag/противостояние героев-t2767">противостояние героев</a> <a class="tag-link" href="/ru/tag/история-t877">история</a> <a class="tag-link" href="/ru/tag/сильные герои-t29908">сильные герои</a> <a class="tag-link" href="/ru/tag/друзья-t174">друзья</a> <a class="tag-link" href="/ru/tag/оборотень-t2265">оборотень</a> <a class="tag-link" href="/ru/tag/магия и приключения-t2855">магия и приключения</a> <a class="tag-link" href="/ru/tag/судьба-t1493">судьба</a> <a class="tag-link" href="/ru/tag/принцесса-t155">принцесса</a> <a class="tag-link" href="/ru/tag/дружба и любовь-t73229">дружба и любовь</a> <a class="tag-link" href="/ru/tag/дерзкая героиня-t65363">дерзкая героиня</a> <a class="tag-link" href="/ru/tag/потеря памяти-t1785">потеря памяти</a> <a class="tag-link" href="/ru/tag/экшн-t98">экшн</a> <a class="tag-link" href="/ru/tag/роботы-t135">роботы</a> <a class="tag-link" href="/ru/tag/любовь и приключения-t45216">любовь и приключения</a> <a class="tag-link" href="/ru/tag/сатира-t215">сатира</a> <a class="tag-link" href="/ru/tag/властный мужчина-t1037">властный мужчина</a> <a class="tag-link" href="/ru/tag/прошлое-t198">прошлое</a> <a class="tag-link" href="/ru/tag/любовная драма-t28305">любовная драма</a> <a class="tag-link" href="/ru/tag/перая любовь-t147849">перая любовь</a> <a class="tag-link" href="/ru/tag/любовь  магия-t7886763">любовь  магия</a> <a class="tag-link" href="/ru/tag/авторская раса-t4410">авторская раса</a> <a class="tag-link" href="/ru/tag/сон-t9417">сон</a> <a class="tag-link" href="/ru/tag/сюрреализм-t222">сюрреализм</a> <a class="tag-link" href="/ru/tag/любовный роман-t3623">любовный роман</a> <a class="tag-link" href="/ru/tag/вампиры и оборотни-t4037">вампиры и оборотни</a> <a class="tag-link" href="/ru/tag/романтика и юмор-t159591">романтика и юмор</a>     </div>
+
+<h2 class="block-heading narrow">Читать онлайн на Литнет</h2><p>Литнет - это популярный литературный портал. В нашей электронной библиотеке можно как <strong>читать книги онлайн</strong>, так и <strong>скачать книги бесплатно</strong>, а также <strong>купить книги</strong> популярных жанров. У нас есть мобильная версия сайта, благодаря чему удобно читать книги онлайн с телефона или планшета. На Литнет вы можете читать:</p>
+
+<ul>
+	<li><a href="https://litnet.com/ru/top/lyubovnye-romany">Любовные романы</a>;</li>
+	<li><a href="https://litnet.com/ru/top/fentezi">Фэнтези</a>;</li>
+	<li><a href="https://litnet.com/ru/top/fantastika">Фантастику</a>;</li>
+	<li><a href="https://litnet.com/ru/top/litrpg">ЛитРПГ</a>;</li>
+	<li><a href="https://litnet.com/ru/top/jenskaya-proza">Женскую прозу</a>;</li>
+	<li><a href="https://litnet.com/ru/top/all">Другие жанры</a>;</li>
+</ul>
+
+<p>Наша удобная читалка предназначена как для windows, так и для системы андроид, и для обычного компьютера с планшетом. У нас легко скачать и читать книги для подростков в формате fb2, боевики, детективы, а также триллеры.</p>
+
+<p>Вам интересны фанфики? Юмор? Различные жанры произведений? - Вы можете читать на нашей литературной платформе онлайн, а можете и бесплатно скачать книги. Кроме того у наших читателей есть возможность купить электронные книги. Наша бесплатная библиотека электронных книг непрерывно пополняется <strong>новыми произведениями</strong> от популярных авторов и молодых талантов. Подростковая проза соседствует с любовными романами, а вместе с книгами о попаданцах вы увидите фантастику, современную прозу и боевик.</p>
+
+<p>Есть уникальная возможность для молодых авторов или уже популярных писателей &ndash; когда ваш аккаунт достигнет коммерческого статуса, вы сможете публиковать книги онлайн.</p>
+
+<p>Хотите найти самые популярные книги? - вам поможет удобная система рейтингов и поиск книг. Хотите читать <a href="https://litnet.com/ru/top/korotkiy-lyubovnyy-roman">короткие любовные романы</a>? Запросто! В библиотеке электронных книг Литнет вы найдете множество романов про миллионеров, а также другие направления любовных романов, к тому же вы сможете читать бесплатно книги онлайн без регистрации. Выбор книг онлайн еще никогда не был так прост. Исторические романы, женские книги, книги для девочек и книги для подростков также очень легко найти на Литнет.&nbsp;</p>
+            </div>
+            <div class="sidebar">
+                                    
+    <div class="block b-recommend recommended">
+        <span class="default_h2 block-heading narrow">
+            Набирают популярность        </span>
+
+        <div class="block-inner">
+            <ul>
+                                    
+<li class="bl-item">
+    <div class="book-img-square">
+
+        <a onclick="ln.track('Click', 'Widget_GainingPopularity');"
+           href="/ru/book/nasledstvo-miral-b264408">
+            <img src="https://rust.litnet.com/uploads/covers/60/1598281635_12.jpg"/>
+        </a>
+    </div>
+
+    <div class="bl-info">
+        <span class="bl-genre">
+            Приключенческое фэнтези        </span>
+
+        <a onclick="ln.track('Click', 'Widget_GainingPopularity');"
+           href="/ru/book/nasledstvo-miral-b264408"
+           class="bl-title">Наследство Мираль</a>
+        <span class="bl-author">Ирис Ленская</span>
+
+        <div class="item-price" style="font-size: 11px;text-align: left;width: 120px">
+                                                Цена:
+                
+                                            <span class="old-price-discount ">
+                            119 RUB                        </span>
+
+                        <span class="new-price-discount ">
+                            95.2 RUB                        </span>
+                    
+                    </div>
+    </div>
+</li>                                    
+<li class="bl-item">
+    <div class="book-img-square">
+
+        <a onclick="ln.track('Click', 'Widget_GainingPopularity');"
+           href="/ru/book/za-granicei-tumannyh-gor-b372889">
+            <img src="https://rust.litnet.com/uploads/covers/60/1637142908_92.png"/>
+        </a>
+    </div>
+
+    <div class="bl-info">
+        <span class="bl-genre">
+            Попаданцы в другие миры        </span>
+
+        <a onclick="ln.track('Click', 'Widget_GainingPopularity');"
+           href="/ru/book/za-granicei-tumannyh-gor-b372889"
+           class="bl-title">За границей туманных гор</a>
+        <span class="bl-author">Милена Романова</span>
+
+        <div class="item-price" style="font-size: 11px;text-align: left;width: 120px">
+                            Бесплатно                    </div>
+    </div>
+</li>                                    
+<li class="bl-item">
+    <div class="book-img-square">
+
+        <a onclick="ln.track('Click', 'Widget_GainingPopularity');"
+           href="/ru/book/pod-senyu-temnyh-krylev-b382893">
+            <img src="https://rust.litnet.com/uploads/covers/60/1644319070_4.jpg"/>
+        </a>
+    </div>
+
+    <div class="bl-info">
+        <span class="bl-genre">
+            Любовное фэнтези        </span>
+
+        <a onclick="ln.track('Click', 'Widget_GainingPopularity');"
+           href="/ru/book/pod-senyu-temnyh-krylev-b382893"
+           class="bl-title">Под сенью тёмных крыльев</a>
+        <span class="bl-author">Тая Ан</span>
+
+        <div class="item-price" style="font-size: 11px;text-align: left;width: 120px">
+                            Бесплатно                    </div>
+    </div>
+</li>                            </ul>
+        </div>
+    </div>
+
+    
+    <div class="block b-recommend recommended">
+        <span class="default_h2 block-heading narrow">
+            Сегодняшние скидки        </span>
+
+        <div class="block-inner">
+            <ul>
+                                    
+<li class="bl-item">
+    <div class="book-img-square">
+
+        <a onclick="ln.track('Click', 'Widget_TodaysDiscounts');"
+           href="/ru/book/vasilisk-v-akademii-magii-b365387">
+            <img src="https://rust.litnet.com/uploads/covers/60/1633179886_27.jpg"/>
+        </a>
+    </div>
+
+    <div class="bl-info">
+        <span class="bl-genre">
+            Любовное фэнтези        </span>
+
+        <a onclick="ln.track('Click', 'Widget_TodaysDiscounts');"
+           href="/ru/book/vasilisk-v-akademii-magii-b365387"
+           class="bl-title">Василиск в Академии магии</a>
+        <span class="bl-author">Ллина Айс</span>
+
+        <div class="item-price" style="font-size: 11px;text-align: left;width: 120px">
+                                                Цена:
+                
+                                            <span class="old-price-discount ">
+                            99 RUB                        </span>
+
+                        <span class="new-price-discount ">
+                            79.2 RUB                        </span>
+                    
+                    </div>
+    </div>
+</li>                                    
+<li class="bl-item">
+    <div class="book-img-square">
+
+        <a onclick="ln.track('Click', 'Widget_TodaysDiscounts');"
+           href="/ru/book/semya-v-dolg-b360041">
+            <img src="https://rust.litnet.com/uploads/covers/60/1630054926_36.png"/>
+        </a>
+    </div>
+
+    <div class="bl-info">
+        <span class="bl-genre">
+            Современная проза        </span>
+
+        <a onclick="ln.track('Click', 'Widget_TodaysDiscounts');"
+           href="/ru/book/semya-v-dolg-b360041"
+           class="bl-title">Семья в долг</a>
+        <span class="bl-author">Александра Багирова</span>
+
+        <div class="item-price" style="font-size: 11px;text-align: left;width: 120px">
+                                                Цена:
+                
+                                            <span class="old-price-discount ">
+                            139 RUB                        </span>
+
+                        <span class="new-price-discount ">
+                            118.15 RUB                        </span>
+                    
+                    </div>
+    </div>
+</li>                                    
+<li class="bl-item">
+    <div class="book-img-square">
+
+        <a onclick="ln.track('Click', 'Widget_TodaysDiscounts');"
+           href="/ru/book/akademiya-vysshego-sveta-2-nasledie-drakonei-krovi-b213932">
+            <img src="https://rust.litnet.com/uploads/covers/60/1584331812_87.jpg"/>
+        </a>
+    </div>
+
+    <div class="bl-info">
+        <span class="bl-genre">
+            Любовное фэнтези        </span>
+
+        <a onclick="ln.track('Click', 'Widget_TodaysDiscounts');"
+           href="/ru/book/akademiya-vysshego-sveta-2-nasledie-drakonei-krovi-b213932"
+           class="bl-title">Академия Высшего света-2. Наследие драконьей крови</a>
+        <span class="bl-author">Анна Минаева</span>
+
+        <div class="item-price" style="font-size: 11px;text-align: left;width: 120px">
+                                                Цена:
+                
+                                            <span class="old-price-discount ">
+                            139 RUB                        </span>
+
+                        <span class="new-price-discount ">
+                            118.15 RUB                        </span>
+                    
+                    </div>
+    </div>
+</li>                            </ul>
+        </div>
+    </div>
+
+            <div class="pull-right">
+            <a href="/discounts" class="btn btn-xs purp">Все скидки сегодня</a>
+        </div>
+        <div class="clearfix"></div>
+    
+    <div class="block b-recommend recommended">
+        <span class="default_h2 block-heading narrow">
+            Литнет рекомендует        </span>
+
+        <div class="block-inner">
+            <ul>
+                                    
+<li class="bl-item">
+    <div class="book-img-square">
+
+        <a onclick="ln.track('Click', 'Widget_LitnetRecommends');"
+           href="/ru/book/karnaval-ili-venecianskaya-popadanka-b384463">
+            <img src="https://rust.litnet.com/uploads/covers/60/1642975084_75.jpg"/>
+        </a>
+    </div>
+
+    <div class="bl-info">
+        <span class="bl-genre">
+            Попаданцы в другие миры        </span>
+
+        <a onclick="ln.track('Click', 'Widget_LitnetRecommends');"
+           href="/ru/book/karnaval-ili-venecianskaya-popadanka-b384463"
+           class="bl-title">Карнавал, или Венецианская попаданка</a>
+        <span class="bl-author">Кристина Кальчук</span>
+
+        <div class="item-price" style="font-size: 11px;text-align: left;width: 120px">
+                                                Подписка:
+                
+                                            99 RUB                    
+                    </div>
+    </div>
+</li>                                    
+<li class="bl-item">
+    <div class="book-img-square">
+
+        <a onclick="ln.track('Click', 'Widget_LitnetRecommends');"
+           href="/ru/book/ego-tainye-nasledniki-b377163">
+            <img src="https://rust.litnet.com/uploads/covers/60/1639458010_60.png"/>
+        </a>
+    </div>
+
+    <div class="bl-info">
+        <span class="bl-genre">
+            Современный любовный роман        </span>
+
+        <a onclick="ln.track('Click', 'Widget_LitnetRecommends');"
+           href="/ru/book/ego-tainye-nasledniki-b377163"
+           class="bl-title">Его тайные наследники</a>
+        <span class="bl-author">Дана Стар</span>
+
+        <div class="item-price" style="font-size: 11px;text-align: left;width: 120px">
+                                                Подписка:
+                
+                                            99 RUB                    
+                    </div>
+    </div>
+</li>                                    
+<li class="bl-item">
+    <div class="book-img-square">
+
+        <a onclick="ln.track('Click', 'Widget_LitnetRecommends');"
+           href="/ru/book/ne-tvoya-ili-svadba-vslepuyu-b384644">
+            <img src="https://rust.litnet.com/uploads/covers/60/1643084379_56.jpg"/>
+        </a>
+    </div>
+
+    <div class="bl-info">
+        <span class="bl-genre">
+            Женский роман        </span>
+
+        <a onclick="ln.track('Click', 'Widget_LitnetRecommends');"
+           href="/ru/book/ne-tvoya-ili-svadba-vslepuyu-b384644"
+           class="bl-title"> ( Не) твоя, или Свадьба вслепую</a>
+        <span class="bl-author">Валентина Элиме</span>
+
+        <div class="item-price" style="font-size: 11px;text-align: left;width: 120px">
+                            Бесплатно                    </div>
+    </div>
+</li>                            </ul>
+        </div>
+    </div>
+
+        <script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script>
+
+    <!-- VK Widget -->
+    <div id="vk_groups"></div>
+
+    <script type="text/javascript">
+        VK.Widgets.Group("vk_groups", {mode: 0, width: "220", height: "400", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 90962773);
+
+        VK.Widgets.Subscribe("vk_subscribe", {soft: 1,width: "200", height: "30"}, -90962773);
+        VK.Widgets.Subscribe("vk_subscribe_book", {soft: 1,width: "200", height: "30"}, -90962773);
+        VK.Observer.subscribe('widgets.subscribed',function(){
+            if($('.book_subscribe').text() == 1){
+                document.location.reload(true);
+            }else{
+                $('.bottom-area').fadeOut(1000);
+            }
+        });
+    </script>
+
+
+<br />  <div id="ok_group_widget"></div>
+  <script>
+  !function (d, id, did, st) {
+    var js = d.createElement("script");
+    js.src = "https://connect.ok.ru/connect.js";
+    js.onload = js.onreadystatechange = function () {
+    if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") {
+      if (!this.executed) {
+        this.executed = true;
+        setTimeout(function () {
+          OK.CONNECT.insertGroupWidget(id,did,st);
+        }, 0);
+      }
+    }}
+    d.documentElement.appendChild(js);
+  }(document,"ok_group_widget","54889209135114","{width:220,height:335}");
+  </script>
+<br />    <div class="fb-page" data-href="https://www.facebook.com/pages/Lit-Era/106197966395484" data-width="220"
+         data-height="360" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true"
+         data-show-facepile="true" data-show-posts="false">
+        <div class="fb-xfbml-parse-ignore">
+            <blockquote cite="https://www.facebook.com/pages/Lit-Era/106197966395484">
+                <a href="https://www.facebook.com/pages/Lit-Era/106197966395484">
+                    Литнет                </a>
+            </blockquote>
+        </div>
+    </div>
+
+    <script src="//connect.facebook.net/ru_RU/all.js"></script>
+
+    <div id="fb-root"></div>
+
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v5.0&appId=1397753043869188";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+<br />                            </div>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    .cookies-w {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        z-index: 10000;
+    }
+    .cookies-message {
+        padding: 10px;
+        text-align: left;
+        background-color: #e7e7e7;
+        color: black;
+    }
+    .cookies-message h3 {
+        font-size: 14px;
+        font-weight: bold;
+        margin: 0;
+    }
+    .cookies-message {
+        font-size: 12px;
+    }
+    .save-success {
+        background: rgba(0,200,83,.8);
+    }
+</style>
+
+<div class="cookies-w" style="display: none">
+
+    <div class="cookies-message">
+        <h3>Подтверждение использования Cookies</h3>
+
+        <p>На сайте Литнет используются файлы cookie. Cookie обеспечивают правильную работу сайта и предоставляют вам больше возможностей при его использовании. Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie.         </p>
+        <p>
+        <div>
+
+            <a id="cookieSave" class="btn btn-purp btn-xs" href="#!" onclick="localStorage.setItem(&quot;agreeCookie&quot;, 1);return true;"><i class="fa fa-check"></i> Да, я согласен</a>            <a class="btn btn-xs" href="/ru/info/privacy-cookies">Нет, предоставьте мне больше информации</a>        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        try {
+            if (parseInt($.cookie('isCookies') || localStorage.getItem('agreeCookie')) !== 1) {
+                $('.cookies-w').css('display', 'block');
+            }
+
+            $('#cookieSave').on('click', function () {
+                $('.cookies-w').css('display', 'none');
+                $.cookie('isCookies', 1, {
+                    path: "/"
+                });
+                localStorage.setItem("agreeCookie", 1);
+            });
+        } catch (e) {}
+    });
+</script>
+<!-- ============================================================
+FOOTER
+===============================================================-->
+
+
+<footer class="main_footer 12345">
+    <div class="container">
+        <div class="content">
+            <!-- inform ========================================= -->
+            <section class="main_footer-inform pull-left" style="width: 500px;">
+                <h2 class="main_footer-inform-title">Информация</h2>
+                <div class="inform-nav-w col-xs-6">
+                    <nav class="main_footer-inform-nav">
+                                                                                    <a href="/ru/news" rel="nofollow">Новости</a>                                                                                                                <a href="/ru/info/rightholders" rel="nofollow">Правообладателям</a>                                                                                                                <a href="/ru/info/spravka-chitatelyam" rel="nofollow">Справка читателям</a>                                                                                                                <a href="/ru/info/spravka-avtoram" rel="nofollow">Справка авторам</a>                                                                                                                <a href="/ru/info/oplata" rel="nofollow">Оплата</a>                                                                                                                                                                    <a href="/ru/about" rel="nofollow">О Литнет</a>                                                                                                                <a href="/ru/info/audio-help" rel="nofollow">Справка для создателей аудио</a>                                                                        </nav>
+                </div>
+
+                <div class="inform-nav-w col-xs-6">
+                    <nav class="main_footer-inform-nav">
+                                                                                    <a href="/ru/info/terms" rel="nofollow">Пользовательское соглашение</a>                                                                                                                <a href="/ru/info/confidental" rel="nofollow">Соглашение о конфиденциальности</a>                                                                                                                <a href="/ru/info/rules" rel="nofollow">Правила размещения авторского контента</a>                                                                                                                <a href="/ru/info/privacy-policy-gdpr" rel="nofollow">Privacy policy</a>                                                                                                        <a href="/ru/site/audio">Правообладателям аудиокниг</a>                                            </nav>
+                </div>
+            </section>
+
+            <!-- action ========================================= -->
+            <div class="main_footer-action pull-right" style="width: 210px;">
+                <div class="footer-action">
+                    <a href="/ru/feedback">
+                        <i class="fa fa-life-ring fa-2x" aria-hidden="true"></i>
+                        Техническая поддержка                    </a>
+                    <a href="/ru/user-search">
+                        <i class="fa fa-search fa-2x" aria-hidden="true"></i>
+                        Поиск по пользователям                    </a>
+                    <a href="/ru/site/switch-theme?goto=mobile_v2" title="Читать книги онлайн на телефоне, мобильная версия">
+                        <i class="fa fa-mobile fa-3x" aria-hidden="true"></i>
+                        На мобильную версию                    </a>
+                </div><!-- /.footer-action-w -->
+            </div><!-- /.main_footer-action -->
+        </div>
+
+        <div class="sidebar">
+            <!-- society ========================================= -->
+            <div class="main_footer-society">
+                <div class="social">
+    <h4 class="social-title">Мы в соц.сетях:</h4>
+    <a class="vk-lnk" href="https://vk.com/club90962773" target="_blank" rel="nofollow"><i class="fa fa-vk" aria-hidden="true"></i></a>
+    <a class="i-lnk" href="https://www.instagram.com/litnet.book/" target="_blank" rel="nofollow">
+        <i class="fa fa-instagram" aria-hidden="true"></i>
+    </a>
+    <a class="f-lnk" href="https://www.facebook.com/pages/Lit-Era/106197966395484?ref=bookmarks" target="_blank" rel="nofollow"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+</div>
+                <p class="warning-notice"><span class="label label-danger">18+</span>Внимание! Сайт может содержать материалы, не предназначенные для просмотра лицами, не достигшими 18 лет!</p>
+                <div>
+                    <img src="https://rust.litnet.com/common/img/visa_mc.png"/>
+                </div>
+            </div><!-- /.main_footer-society -->
+        </div>
+    </div><!-- /.container -->
+
+    <!-- footer-bottom ========================================= -->
+    <div class="main_footer-bottom">
+        <div class="container">
+
+            <p class="pull-left">
+                <span style="color: #777;">
+                    Все права защищены. Бизнес адрес: Грива Дигени 51, офис 1, Ларнака, 6036, Кипр.  Email: help@lit-era.com                </span>
+
+                <span style="padding-left: 50px">
+                    PR-отдел: pr@litnet.com                </span>
+            </p>
+        </div><!-- /.container -->
+    </div><!-- /.main_footer-bottom -->
+</footer>
+
+
+
+<div class="modal fade" id="modal-change-lang-content" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Изменение языковой версии</h4>
+            </div>
+            <div class="modal-body">
+                <div class="modal-container" style="overflow-y:hidden">
+                    <p id="textWith"></p>
+                    <p id="textTo"></p>
+
+                    <p style="text-align: center">
+                        <img src="/common/img/change_lang.png" alt="change_lang">
+                    </p>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="checked-change-lang-content" class="btn btn-default">Не показывать</button>
+                <button type="button" class="btn btn-purp" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function(){
+        var contentLang = 'ru';
+        var storageLang = localStorage.getItem('contentLang');
+        var dontShowChangeLang = localStorage.getItem('dontShowChangeLang');
+
+        $('#checked-change-lang-content').click(function(){
+            localStorage.setItem("dontShowChangeLang", 1);
+            $('#modal-change-lang-content').modal('hide');
+        });
+
+        if(!storageLang) {
+            localStorage.setItem("contentLang", contentLang);
+        } else {
+            dontShowChangeLang = !dontShowChangeLang || dontShowChangeLang == 0;
+
+            if (storageLang && contentLang && storageLang.length === 2 && contentLang !== storageLang && dontShowChangeLang ) {
+                $.ajax({
+                    type: 'GET',
+                    url: '/site/get-translate-by-langs',
+                    data: {
+                        withLang: storageLang,
+                        toLang: contentLang
+                    },
+                    dataType: 'json',
+                    success: function (data) {
+                        localStorage.setItem("contentLang", contentLang);
+                        $('#textWith').text(data.textWith);
+                        $('#textTo').text(data.textTo);
+                        $('#modal-change-lang-content').modal();
+                    }
+                });
+            }
+        }
+    });
+</script>
+<!-- Modal -->
+<div class="modal fade" id="adult_popup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Ограниченный доступ</h4>
+            </div>
+            <div class="modal-body">
+                                    <p class="alert alert-danger">Данное произведение доступно только зарегистрированным пользователям</p>
+                    <h4>Войдите с помощью аккаунта одной из соц.сетей.</h4>
+
+                        <div class="adult-reg-block">
+        <div class="eauth" id="w0">
+            <a class="fa-lnk reg-facebook" href="/auth/login?service=facebook&amp;link=https%3A%2F%2Flitnet.com%2F"><i class="fa fa-facebook" aria-hidden="true"></i>Facebook</a><a class="fa-lnk reg-vkontakte" href="/auth/login?service=vkontakte&amp;link=https%3A%2F%2Flitnet.com%2F"><i class="fa fa-vkontakte" aria-hidden="true"></i>Vkontakte</a><a class="fa-lnk reg-odnoklassniki" href="/auth/login?service=odnoklassniki&amp;link=https%3A%2F%2Flitnet.com%2F"><i class="fa fa-odnoklassniki" aria-hidden="true"></i>Odnoklassniki</a><a class="fa-lnk reg-google" href="/auth/login?service=google&amp;link=https%3A%2F%2Flitnet.com%2F"><i class="fa fa-google" aria-hidden="true"></i>Google</a>        </div>
+    </div>
+
+                    <p></p>
+
+                    <p>
+                        Регистрируясь на портале <a href="/">Литнет</a> , я подтверждаю, что ознакомлен с <a href="/ru/info/terms">Пользовательским соглашением</a> и согласен с ним.
+                    </p>
+                            </div>
+
+        </div>
+    </div>
+</div>
+
+    <script>
+        $(document).on('show.bs.modal', '#buyModal,#payModal', function () {
+            $.cookie('tryBuy', '1', {
+                path: "/"
+            });
+            $.cookie('dontShowAnsModal', '1', {
+                path: "/",
+                expires: 60 * 30
+            });
+        });
+
+        if (getCookie('tryBuy') === '1' && getCookie('dontShowAnsModal') !== '1') {
+            $.get('/user-questions/no-buy', function (result) {
+                $('#no-buy-modal').remove();
+                $('body').append($(result));
+                $('#no-buy-modal').modal('show');
+            });
+        }
+    </script>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.show_adult_only').click(function () {
+            $("#adult_popup").modal();
+            return false;
+        });
+
+        var link = $("#checkeds a");
+
+        link.addClass('disable');
+        $('#checkboxReg').change(function () {
+            link.toggleClass('disable');
+        });
+    });
+</script>
+
+
+    <!-- Google re-marketing tag RU -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 821517271;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/821517271/?guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+
+
+<script src="https://rust.litnet.com/common/js/tags-search.js?v=1568277523"></script>
+<script src="https://rust.litnet.com/common/js/language/convert_lang.js?v=1539857133"></script>
+<script src="https://rust.litnet.com/assets/4ef54b13/ru-RU.js?v=1634117312"></script>
+<script src="https://rust.litnet.com/assets/25dffdec/javascripts/md5.js?v=1593847238"></script>
+<script src="https://rust.litnet.com/assets/25dffdec/javascripts/lajax.js?v=1593847238"></script>
+<script src="https://rust.litnet.com/common/plugins/bxslider/jquery.bxslider.min.js?v=1466973274"></script>
+<script src="https://rust.litnet.com/assets/ec9df54/js/widget-bxslider.js?v=1531047793"></script>
+<script src="https://rust.litnet.com/assets/751e66ed/js/eauth.js?v=1491769441"></script>
+<script>jQuery(function ($) {
+
+(function(){
+    window.ln = {
+        track: function(name, category, label) {
+            if (!label) {
+                label = name;
+            }
+            
+            dataLayer.push({
+                'event': 'autoEvent', 
+                'eventCategory': category, 
+                'eventAction': name, 
+                'eventLabel': label
+            });
+            
+            if(name == 'Start reading') {
+                fbq('track', 'ViewContent');
+            }
+			if(name == 'Start buy') {
+                fbq('track', 'StartBuy');
+            }
+            if(name == 'Create book') {
+                fbq('track', 'CreateBook');
+            }
+            if (name == 'Start reg') {
+                fbq('track', 'StartRegistration');
+            }
+            if (name == 'Finish read') {
+                fbq('track', 'FinishRead');
+            }
+            if(name == 'Finish buy') {
+                fbq('track', 'FinishBuy');
+            }
+        }
+    };
+})();
+
+lozad('.lozad', {
+    load: function(el) {
+        el.src = el.dataset.src;
+        el.onload = function() {
+            el.classList.add('img_fade_in')
+        }
+    }
+}).observe()
+
+
+    $('select[name="content-language"]').on('change', function () {
+        location.href = '/site/change-lang-content?lang=' + $(this).val();
+    });
+
+$("#w0").eauth({"facebook":{"popup":{"width":585,"height":290}},"vkontakte":{"popup":{"width":585,"height":350}},"odnoklassniki":{"popup":{"width":680,"height":500}},"google_oauth":{"popup":{"width":500,"height":450}}});
+});</script>
+<script>jQuery(window).on('load', function () {
+ln.track('Show', 'Widget_GainingPopularity');
+ln.track('Show', 'Widget_TodaysDiscounts');
+ln.track('Show', 'Widget_LitnetRecommends');
+ln.track('Show', 'Widget_TopInGenres');
+ln.track('Show', 'Widget_BestSellers');
+ln.track('Show', 'Widget_AudioBooks');
+ln.track('Show', 'Widget_BEST_HOT_NEW_BOOKS');
+ln.track('Show', 'Widget_RecentlyUpdatedBooks');
+ln.track('Show', 'Widget_LastViewed');
+});</script></body>
+</html>

@@ -1,0 +1,1588 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ru" prefix="og: http://ogp.me/ns#">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+	  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  <title>Телеканал Царьград последние новости онлайн</title>
+  <meta name="description" content="Смотрите онлайн прямой эфир на официальном сайте Царьград ТВ. Главный редактор – Токарева Д.И. Учредитель – НАО «Царьград медиа». Свежие новости России и в мире, аналитика, расследования, эксклюзивные интервью. Политика, культура, церковь, общество, экономика.
+"/>
+
+  <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta property="og:site_name" content="Телеканал Царьград"/>
+  <meta property="og:locale" content="ru_RU"/>
+
+
+  <link rel="stylesheet" href="/fonts/fonts.css?s1"/>
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/main.css?s66b"/>
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+<link href="/favicon.ico?s2" rel="icon" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png?s2"/>
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png?s2"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png?s2"/>
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png?s2"/>
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png?s2"/>
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png?s2"/>
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png?s2"/>
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-152x152.png?s2"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon-180x180.png?s2"/>
+<link rel="icon" type="image/png" href="/favicons/favicon-32x32.png?s2" sizes="32x32"/>
+<link rel="icon" type="image/png" href="/favicons/android-chrome-192x192.png?s2" sizes="192x192"/>
+<link rel="icon" type="image/png" href="/favicons/favicon-16x16.png?s2" sizes="16x16"/>
+<link rel="manifest" href="/favicons/manifest_.json"/>
+
+
+<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?167",t.onload=function(){VK.Retargeting.Init("VK-RTRG-91544-2W5hB"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script>
+<noscript><img src="https://vk.com/rtrg?p=VK-RTRG-91544-2W5hB" style="position:fixed; left:-999px;" alt=""/></noscript>
+
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+
+<meta property="og:url" content="https://tsargrad.tv/"/>
+<meta property="og:title" content="Телеканал Царьград последние новости онлайн"/>
+<meta property="og:image" content="https://tsargrad.tv/favicons/android-chrome-256x256.png?s2"/>
+<meta property="og:image:width" content="256"/>
+<meta property="og:image:height" content="256"/>
+<meta name="msvalidate.01" content="04586A24F93F7FC7B1E98CC2D4750BBD" />
+<meta name="google-site-verification" content="pwAfJ9ilam3ZarVX6Gtsc4S6Gyw6U8PiF7Nc5AybPzc" />
+<meta name="yandex-verification" content="5c1b955b44fa327e" />
+<meta name="google-site-verification" content="pwAfJ9ilam3ZarVX6Gtsc4S6Gyw6U8PiF7Nc5AybPzc" />
+<meta name="google-site-verification" content="yS4WLs--OeVKTH8UdZuxxUCa5i3SjQDCX8Rqa9eltBM" />
+<meta name="pmail-verification" content="df04fdab0aad819dd55cf5a3cde460fb">
+<meta name="robots" content="noyaca"/>
+<meta name="yandex-verification" content="e728a3f4918fe027" />
+
+</head>
+
+<body>
+  <div id="wrap">
+
+	
+
+	   
+<noscript>
+  <img src="//counter.rambler.ru/top100.cnt?pid=4479361" alt="Топ-100" />
+</noscript>
+
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(27738642, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/27738642" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5YVL84WW9W"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5YVL84WW9W');
+</script>
+
+
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit;tsargradtv?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+
+";"+Math.random();</script><!--/LiveInternet-->
+
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2895057", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=2895057;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+
+    <header class="header">
+      <div class="header__top">
+        <div class="container">
+            <a href="/user" class="header__auth">
+            <div class="header__auth-icon">
+              <svg class="header__auth-logo">
+                <use xlink:href="#icon-logo-black"></use>
+              </svg>
+              <!-- <svg class="header__auth-user">
+                <use xlink:href="#icon-user"></use>
+              </svg> -->
+            </div>
+            <span>Авторизация</span>
+          </a>
+
+          <div class="header__location">
+            <div class="header__location-current js-location-open">
+            	<span>Москва</span>
+              <svg>
+                <use xlink:href="#icon-arrow-down"></use>
+              </svg>
+            </div>
+          </div>
+
+          <div class="header__aside">
+            <a href="https://vk.com/tsargradtv" class="link-social-vk" target="_blank">
+              <svg>
+                <use xlink:href="#icon-vkontakte"></use>
+              </svg>
+            </a>
+            <a href="https://www.facebook.com/tsargradtv" class="link-social-fb" target="_blank">
+              <svg>
+                <use xlink:href="#icon-facebook"></use>
+              </svg>
+            </a>
+            <a href="https://ttttt.me/joinchat/AAAAAEKrEBGKW2fifoQo_w" class="link-social-telegram" target="_blank">
+              <svg>
+                <use xlink:href="#icon-telegram"></use>
+              </svg>
+            </a>
+            <a href="https://www.instagram.com/tsargradtv" class="link-social-instagram" target="_blank">
+              <svg>
+                <use xlink:href="#icon-instagram"></use>
+              </svg>
+            </a>
+            <a href="http://www.ok.ru/tsargradtv" class="link-social-ok" target="_blank">
+              <svg>
+                <use xlink:href="#icon-odnoclassniki"></use>
+              </svg>
+            </a>
+            <a href="https://twitter.com/tsargradtv" class="link-social-twitter" target="_blank">
+              <svg>
+                <use xlink:href="#icon-twitter"></use>
+              </svg>
+            </a>
+
+            <div class="header__18plus">18+</div>
+          </div>
+        </div>
+      </div>
+      <div class="header__center">
+        <div class="container">
+          <a href="/" class="header__logo-text-1">
+            Первый русский
+          </a>
+
+          <a href="/" class="header__logo-text-2">
+            Царьград
+          </a>
+
+				<a href="/user?help" class="header__btn-small btn-yellow-small" onclick="yaCounter27738642.reachGoal('top_click_disable_ads');return true;">Отключить рекламу</a>
+        </div>
+      </div>
+    </header>
+
+
+      <div class="header__bottom">
+        <div class="container">
+          <nav class="header__bottom-aside">
+            <a href="#" class="header__burger js-menu-open">
+              <svg>
+                <use xlink:href="#icon-burger"></use>
+              </svg>
+              <span>Рубрики</span></a>
+            <a href="/news"><span>Новости</span></a>
+            <a href="/articles"><span>Статьи</span></a>
+          </nav>
+          <a href="/">
+            <img src="/img/logo-tsargrad_134x134.png" srcset="/img/logo-tsargrad_268x268.png 2x, /img/logo-tsargrad_402x402.png 3x" alt="Первый русский" class="header__logo-yellow">
+          </a>
+          <nav class="header__bottom-aside">
+			<a href="/petitions"><span>Петиции</span></a>
+            <!--//<a href="/investigations"><span>Расследования</span></a>//-->
+            <a href="/polls"><span>Опросы</span></a>
+            <a href="/shows" class="link-special"><span>Эфир</span></a>
+            <a href="#" class="header__search-button js-search-open">
+              <svg>
+                <use xlink:href="#icon-search"></use>
+              </svg>
+            </a>
+          </nav>
+        </div>
+      </div>
+
+
+     <div class="header__dropdown header__dropdown_menu js-location">
+      <div class="header__dropdown-content">
+        <div class="header__dropdown-close js-location-close">
+          <svg>
+            <use xlink:href="#icon-close"></use>
+          </svg>
+        </div>
+        <section class="news-group">
+          <div class="news-group__title">
+            <span>Ваш регион</span>
+          </div>
+
+          <ul class="header__menu-location">
+
+                <li><a href="https://am.tsargrad.tv/?set_region">Армения</a></li>
+                <li><a href="https://by.tsargrad.tv/?set_region">Беларусь</a></li>
+                <li><a href="https://vladimir.tsargrad.tv/?set_region">Владимир/Иваново</a></li>
+                <li><a href="https://ekb.tsargrad.tv/?set_region">Екатеринбург</a></li>
+                <li><a href="https://chita.tsargrad.tv/?set_region">Забайкалье</a></li>
+                <li><a href="https://kz.tsargrad.tv/?set_region">Казахстан</a></li>
+                <li><a href="https://kemerovo.tsargrad.tv/?set_region">Кузбасс</a></li>
+                <li><a href="https://md.tsargrad.tv/?set_region">Молдова</a></li>
+                <li class="header__menu-location-active"><a href="https://tsargrad.tv/?set_region">Москва</a></li>
+                <li><a href="https://nn.tsargrad.tv/?set_region">Нижний Новгород</a></li>
+                <li><a href="https://nsk.tsargrad.tv/?set_region">Новосибирск</a></li>
+                <li><a href="https://mo.tsargrad.tv/?set_region">Подмосковье</a></li>
+                <li><a href="https://rostov.tsargrad.tv/?set_region">Ростов-на-Дону</a></li>
+                <li><a href="https://samara.tsargrad.tv/?set_region">Самара</a></li>
+                <li><a href="https://spb.tsargrad.tv/?set_region">Санкт-Петербург</a></li>
+				<li><a href="https://ug.tsargrad.tv/?set_region">Юг</a></li>
+                <li><a href="https://ural.tsargrad.tv/?set_region">Южный Урал</a></li>
+
+          </ul>
+        </section>
+      </div>
+    </div>
+
+     <div class="header__dropdown header__dropdown_menu js-menu">
+      <div class="header__dropdown-content">
+        <div class="header__dropdown-close js-menu-close">
+          <svg>
+            <use xlink:href="#icon-close"></use>
+          </svg>
+        </div>
+
+        <ul class="header__menu-primary">
+          <li><a href="/news" class="header__menu-primary-link">Новости</a></li>
+          <li><a href="/articles" class="header__menu-primary-link">Статьи</a></li>
+          <!--//<li><a href="/experts" class="header__menu-primary-link">Мнения</a></li>//-->
+          <li><a href="/tests" class="header__menu-primary-link">Тесты</a></li>
+          <!--//<li><a href="/tags/novyj-god-2021" class="link-btn link-btn_white">Новый год 2021</a></li>//-->
+          <!--//<li><a href="/polls/148" class="link-btn link-btn_yellow">Народное голосование</a></li>//-->
+          <li><a href="/special_projects" class="header__menu-primary-link">Спецпроекты</a></li>
+          <li><a href="/konkurs" class="header__menu-primary-link">Конкурс</a></li>
+          <li><a href="/materials/rubric/russkij-geroj" class="header__menu-primary-link">Русский герой</a></li>
+        </ul>
+
+
+        <div class="header__menu-tabs js-tab-list">
+          <ul class="header__menu-tabs-list js-list">
+			            <li data-tab-index="0" class="active">
+            						<a href="/onlytext/rubric/obshhestvo">Общество</a>
+            	
+            </li>
+                        <li data-tab-index="1">
+            						<a href="/onlytext/rubric/politika-2">Политика</a>
+            	
+            </li>
+                        <li data-tab-index="2">
+            						<a href="/onlytext/rubric/ideologiya">Идеология</a>
+            	
+            </li>
+                        <li data-tab-index="3">
+            						<a href="/investigations">Расследования</a>
+            	
+            </li>
+                        <li data-tab-index="4">
+            						<a href="/onlytext/rubric/jekonomika">Экономика</a>
+            	
+            </li>
+            
+          </ul>
+
+          <div class="header__menu-tabs-content js-content">
+			            <div class="tab active" style="background-image: url(https://img.tsargrad.tv/cache/8/e/4_articles-background.jpg/w627h353fill.jpg)" data-tab-index="0">
+              <div class="tab__content">
+                «Люди, события, факты» - вы делаете те новости, которые происходят вокруг нас. А мы о них говорим. Это рубрика о самых актуальных событиях. Интересные сюжеты и горячие репортажи, нескучные интервью и яркие мнения.
+              </div>
+            </div>
+			            <div class="tab" style="background-image: url(https://img.tsargrad.tv/cache/8/e/5_articles-background.jpg/w627h353fill.jpg)" data-tab-index="1">
+              <div class="tab__content">
+                События внутренней, внешней и международной политики, политические интриги и тайны, невидимые рычаги принятия публичных решений, закулисье переговоров, аналитика по произошедшим событиям и прогнозы на ближайшее будущее и перспективные тенденции, публичные лица мировой политики и их "серые кардиналы", заговоры против России и разоблачения отечественной "пятой колонны" – всё это и многое вы найдёте в материалах отдела политики Царьграда.
+              </div>
+            </div>
+			            <div class="tab" style="background-image: url(https://img.tsargrad.tv/cache/8/e/6_articles-background.jpg/w627h353fill.jpg)" data-tab-index="2">
+              <div class="tab__content">
+                Идеологический отдел Царьграда – это фабрика русских смыслов. Мы не раскрываем подковёрные интриги, не "изобретаем велосипеды" и не "открываем Америку". Мы возвращаем утраченные смыслы очевидным вещам. Россия – великая православная держава с тысячелетней историей. Русская Церковь – основа нашей государственности и культуры. Москва – Третий Рим. Русский – тот, кто искренне любит Россию, её историю и культуру. Семья – союз мужчины и женщины. И их дети. Желательно, много детей. Народосбережение – ключевая задача государства. Задача, которую невозможно решить без внятной идеологии.
+              </div>
+            </div>
+			            <div class="tab" style="background-image: url(https://img.tsargrad.tv/cache/8/e/7_articles-background.jpg/w627h353fill.jpg)" data-tab-index="3">
+              <div class="tab__content">
+                Расследования Царьграда – плод совместной работы группы аналитиков и экспертов. Мы вскрываем механизм работы олигархических корпораций, анатомию подготовки цветных революций, структуру преступных этнических группировок. Мы обнажаем неприглядные факты и показываем опасные тенденции, не даём покоя прокуратуре и следственным органам, губернаторам и "авторитетам". Мы защищаем Россию не просто словом, а свидетельствами и документами.
+              </div>
+            </div>
+			            <div class="tab" style="background-image: url(https://img.tsargrad.tv/cache/8/e/8_articles-background.jpg/w627h353fill.jpg)" data-tab-index="4">
+              <div class="tab__content">
+                Экономический отдел телеканала «Царьград» является единственным среди всех крупных СМИ, который отвергает либерально-монетаристские принципы. Мы являемся противниками встраивания России в глобалисткую систему мироустройства, выступаем за экономический суверенитет и независимость нашего государства.
+              </div>
+            </div>
+			          </div>
+        </div>
+
+          </div>
+       </div>
+
+
+     <div class="header__dropdown header__dropdown_search js-search">
+      <div class="header__dropdown-content">
+        <form action="/search">
+          <div class="header__search-row">
+            <input type="text" name="q" placeholder="Поиск"/>
+            <button type="submit">Искать</button>
+            <div class="header__dropdown-close js-search-close">
+              <svg>
+                <use xlink:href="#icon-close"></use>
+              </svg>
+            </div>
+          </div>
+
+          <div class="header__search-filter">
+            <label>
+              <input type="radio" name="section" value="all" class="radio" checked>
+              <span>Все публикации</span>
+            </label>
+            <label>
+              <input type="radio" name="section" value="articles" class="radio">
+              <span>Статьи</span>
+            </label>
+                        </div>
+        </form>
+      </div>
+    </div>
+
+
+
+    <main class="main">
+
+
+
+      <div class="container">
+
+
+		        <div class="main-menu">
+          <ul class="main-menu__list">
+            <li class="_active"><a href="/news/rubric/important">Важное</a></li>
+                        <li><a href="/materials/rubric/olimpiada-v-pekine">Олимпиада&#160;в&#160;Пекине</a></li>
+                        <li><a href="/materials/rubric/ukraina">Украина</a></li>
+                        <li><a href="/materials/rubric/izvrashhency-protiv-detej">Извращенцы&#160;против&#160;детей</a></li>
+                      </ul>
+
+		          <div class="main-menu__dropdown">
+            <div class="main-menu__dropdown-current">
+              <span>Ещё</span>
+              <svg>
+                <use xlink:href="#icon-arrow-down"></use>
+              </svg>
+            </div>
+            <ul class="main-menu__dropdown-list">
+
+				              <li><a href="/materials/rubric/svobodu-tajchibekovu">Свободу&#160;Тайчибекову!</a></li>
+				              <li><a href="/materials/rubric/donbass-jeto-rossija">Донбасс&#160;-&#160;это&#160;Россия</a></li>
+				              <li><a href="/materials/rubric/zashhitim-semju">Защитим&#160;Семью</a></li>
+				              <li><a href="/materials/rubric/horoshie-novosti">Хорошие&#160;новости</a></li>
+				
+            </ul>
+          </div>
+		        </div>
+
+        <div class="layout-inner">
+
+			          <div class="layout-inner__column">
+            <div class="news-main-today">
+              <section class="news-group">
+                <div class="news-group__title">
+                  <span>Главное сегодня</span>
+                </div>
+
+                <article class="news-item news-item_main">
+                                  <a href="/news/prezident-okr-nazval-strannyj-fakt-v-doping-skandale-s-valievoj_493571" class="news-item__link news-item__link_with-time">
+                    <time datetime="2022-02-11">10:48</time>
+                    <h4>Президент ОКР назвал &quot;странный факт&quot; в допинг-скандале с Валиевой</h4>
+                  </a>
+                                  <a href="/news/nastojashhaja-cel-the-times-raskryla-o-chjom-ministr-oborony-britanii-pogovorit-s-shojgu_493540" class="news-item__link news-item__link_with-time">
+                    <time datetime="2022-02-11">09:43</time>
+                    <h4>Настоящая цель: о чём министр обороны Британии поговорит с Шойгу</h4>
+                  </a>
+                                  <a href="/news/priznanie-lnr-i-dnr-volodin-raskryl-itogi-konsultacij-est-radikalnye-idei_493473" class="news-item__link news-item__link_with-time">
+                    <time datetime="2022-02-11">08:10</time>
+                    <h4>Признание ЛНР и ДНР: итоги консультаций - есть радикальные идеи</h4>
+                  </a>
+                                  <a href="/news/tri-fakta-o-rossii-kotorye-vas-udivjat-glavnoe-za-noch-11-fevralja_493462" class="news-item__link news-item__link_with-time">
+                    <time datetime="2022-02-11">07:43</time>
+                    <h4>Три факта о России, которые вас удивят: Главное за ночь 11 февраля</h4>
+                  </a>
+                                  <a href="/news/krushenie-an-2-na-kamchatke-podrobnosti-video-versii-tragedii_493418" class="news-item__link news-item__link_with-time">
+                    <time datetime="2022-02-11">05:08</time>
+                    <h4>Крушение Ан-2 на Камчатке: Подробности, видео, версии трагедии</h4>
+                  </a>
+                                  <a href="/news/lavrov-borrelju-ne-pisal-zaharova-vysmejala-kollektivnyj-razum-es_493369" class="news-item__link news-item__link_with-time">
+                    <time datetime="2022-02-10">23:37</time>
+                    <h4>&quot;Лавров Боррелю не писал&quot;: Захарова высмеяла коллективный разум ЕС</h4>
+                  </a>
+                                  <a href="/news/nikakih-pomeh-peskov-objasnil-manjovry-russkih-korablej-v-chjornom-more_493292" class="news-item__link news-item__link_with-time">
+                    <time datetime="2022-02-10">20:13</time>
+                    <h4>Никаких помех. Песков объяснил манёвры русских кораблей в Чёрном море</h4>
+                  </a>
+                                  <a href="/news/russkoe-vtorzhenie-ni-pri-chjom-britanija-zaranee-podgotovilas-k-vojne-s-rossiej_493240" class="news-item__link news-item__link_with-time">
+                    <time datetime="2022-02-10">18:40</time>
+                    <h4>&quot;Русское вторжение&quot; ни при чём. Британия заранее подготовилась к войне с Россией</h4>
+                  </a>
+                
+                </article>
+              </section>
+
+            </div>
+          </div>
+
+			          <div class="layout-inner__column">
+            <div class="news-main-today">
+              <section class="news-group">
+                <div class="news-group__title">
+                  <span>Самое читаемое</span>
+                </div>
+
+                <article class="news-item news-item_main">
+                                  <a href="/articles/styd-olimpiady-v-pekine-kto-zakazal-unizhenie-russkih_492540" class="news-item__link">
+                    <h4>Стыд Олимпиады в Пекине. Кто заказал унижение русских</h4>
+                  </a>
+                                  <a href="/articles/kto-pokryval-iskusstvennyj-kovid-i-pochemu-virus-stanovitsja-ruchnym_491950" class="news-item__link">
+                    <h4>Кто покрывал искусственный ковид и почему вирус становится ручным</h4>
+                  </a>
+                                  <a href="/articles/pronko-pechalno-no-fakt-jelita-rossii-jeto-pozor-rossii_491928" class="news-item__link">
+                    <h4>Пронько: &quot;Печально, но факт. Элита России – это позор России&quot;</h4>
+                  </a>
+                                  <a href="/articles/ofshornyj-huk-rossija-nashla-upravu-i-na-ssha-i-na-oligarhov_491281" class="news-item__link">
+                    <h4>Офшорный хук: Россия нашла управу и на США, и на олигархов</h4>
+                  </a>
+                                  <a href="/articles/pronko-napomnil-o-rassledovanii-v-otnoshenii-golikovoj-i-popovoj_493258" class="news-item__link">
+                    <h4>Пронько напомнил о расследовании в отношении Голиковой и Поповой</h4>
+                  </a>
+                                  <a href="/articles/hvatit-obmana-i-vranja-bojkot-rossiej-mjunhenskoj-konferencii-jeto-tolko-nachalo_493181" class="news-item__link">
+                    <h4>Хватит обмана и вранья. Бойкот Россией Мюнхенской конференции – это только начало</h4>
+                  </a>
+                                  <a href="/articles/ptency-gnezda-usaid-v-dele-rakovoj-zueva-vskrylis-novye-detali_492369" class="news-item__link">
+                    <h4>Птенцы гнезда USAID*: В деле Раковой-Зуева вскрылись новые детали</h4>
+                  </a>
+                                  <a href="/articles/a-esli-zavtra-nas-otkljuchat-vyderzhit-li-rossija-ubijstvennye-sankcii-na-samom-dele_491921" class="news-item__link">
+                    <h4>А если завтра нас отключат? Выдержит ли Россия &quot;убийственные&quot; санкции на самом деле</h4>
+                  </a>
+                                </article>
+              </section>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="layout">
+          <div class="layout__main">
+			            <div class="news-slider news-slider_only-one">
+              <div class="news-slider__container">
+                <ul class="news-slider__list">
+                  <li class="news-slider__list-item">
+                    <a href="/articles/vy-chto-hotite-kak-v-razvityh-stranah-minfin-otkazyvaetsja-potroshit-bogachej_493211" class="news-slider__link">
+                      <img src="https://img.tsargrad.tv/cache/0/7/1_photo_2022-02-10_17-31-48.jpg/w1056h594fill.jpg" alt="" class="news-slider__image">
+                      <h1 class="news-slider__title">Вы что, хотите, как в развитых странах? Минфин отказывается &quot;потрошить&quot; богачей</h1>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+          </div>
+
+
+          <aside class="layout__aside">
+
+						            <div class="video-aside">
+              <div class="video-aside__top-panel">
+                <div class="news-item__category">
+                  <a href="#" class="news-item__category-name">Царьград.Трансляция</a>
+                </div>
+
+<!--//                <div class="video-label-live">Live</div>//-->
+              </div>
+
+              <div class="video-aside__container">
+                <iframe src="https://frontend.vh.yandex.ru/player/45e60cc2cd16b5db9cb3b4b632dcb9ae?from=partner&mute=1&autoplay=1&tv=0&play_on_visible=false" allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" width="360" height="235" frameborder="0" scrolling="no" allowfullscreen></iframe>
+              </div>
+            </div>
+
+			
+                        <div class="inform-widget">
+              <div class="aside-date">
+                <div class="aside-date__value">11 февраля 2022</div>
+              </div>
+
+              <div class="inform-widget__group">
+                <div class="inform-widget__item">
+                  <div class="_title">USD</div>
+                  <div class="_time">12:00</div>
+                  <div class="_direction">
+                    <svg>
+                      <use xlink:href="#icon-up"></use>
+                    </svg>
+                  </div>
+                  <div class="_value">75.05</div>
+                  <div class="_value">+0.03</div>
+                </div>
+
+                <div class="inform-widget__item">
+                  <div class="_title">EUR</div>
+                  <div class="_time">12:00</div>
+                  <div class="_direction">
+                    <svg>
+                      <use xlink:href="#icon-down"></use>
+                    </svg>
+                  </div>
+                  <div class="_value">85.53</div>
+                  <div class="_value">-0.27</div>
+                </div>
+
+                <div class="inform-widget__item">
+                  <div class="_title">Brent</div>
+                  <div class="_time">12:00</div>
+                  <div class="_direction">
+                    <svg>
+                      <use xlink:href="#icon-down"></use>
+                    </svg>
+                  </div>
+                  <div class="_value">91.28</div>
+                  <div class="_value">-0.13</div>
+                </div>
+              </div>
+            </div>
+
+<!--//<div class="aside-free">
+	<a href="https://ag.mos.ru/poll/10351"><img src="/img/pamyatnik_promo.jpg"  alt="" /></a>
+</div>//-->
+	<!--//			<a href="#" class="link-more">75 новостей</a>//-->
+
+
+
+
+          </aside>
+        </div>
+      </div>
+
+
+			      <div class="breaking-news">
+        <div class="breaking-news__container">
+          <ul class="breaking-news__list">
+
+			            <li class="breaking-news__item">
+              <a href="/materials/rubric/koronavirus" class="breaking-news__category">Коронавирус</a>
+              <a href="/news/v-rossii-novyj-kovidnyj-antirekord-zabolevshih-bolshe-dvuhsot-tysjach-v-sutki_493601" class="breaking-news__link">
+                <h5>В России новый ковидный антирекорд: Заболевших больше двухсот тысяч в сутки</h5>
+              </a>
+            </li>
+			            <li class="breaking-news__item">
+              <a href="/materials/rubric/olimpiada-v-pekine" class="breaking-news__category">Олимпиада в Пекине</a>
+              <a href="/news/dvenadcataja-medal-olimpiady-russkij-lyzhnik-zavoeval-serebro_493597" class="breaking-news__link">
+                <h5>Двенадцатая медаль Олимпиады: Русский лыжник завоевал серебро</h5>
+              </a>
+            </li>
+			            <li class="breaking-news__item">
+              <a href="/materials/rubric/olimpiada-v-pekine" class="breaking-news__category">Олимпиада в Пекине</a>
+              <a href="/news/sbornaja-rossii-po-hokkeju-vtoroj-raz-oderzhala-pobedu-na-olimpiade_493512" class="breaking-news__link">
+                <h5>Сборная России по хоккею второй раз одержала победу на Олимпиаде</h5>
+              </a>
+            </li>
+			            <li class="breaking-news__item">
+              <a href="/materials/rubric/obshhestvo" class="breaking-news__category">Общество</a>
+              <a href="/news/nikto-ne-znal-chto-ona-boleet-zhurnalistka-soobshhila-o-smerti-zvezdy-stiljag_493506" class="breaking-news__link">
+                <h5>&quot;Никто не знал, что она болеет&quot;: Журналистка сообщила о смерти звезды &quot;Стиляг&quot;</h5>
+              </a>
+            </li>
+			            <li class="breaking-news__item">
+              <a href="/materials/rubric/olimpiada-v-pekine" class="breaking-news__category">Олимпиада в Пекине</a>
+              <a href="/news/okr-obnulil-popytku-lishit-russkih-figuristov-zolota-olimpiady-iz-za-doping-skandala_493491" class="breaking-news__link">
+                <h5>ОКР свёл на нет попытку лишить русских фигуристов золота Олимпиады из-за допинг-скандала</h5>
+              </a>
+            </li>
+			          </ul>
+        </div>
+      </div>
+
+
+      <div class="container">
+        <div class="layout">
+          <div class="layout__main">
+
+
+                        <div class="news-slider">
+              <div class="news-slider__container">
+                <ul class="news-slider__list">
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/nevidimyj-car-velikaja-tajna-boga-raskrytaja-hristom-i-apostolom-pavlom-otec-andrej-tkachjov_493389" class="news-slider__link">
+
+					
+                      <img src="https://img.tsargrad.tv/cache/3/8/Svyata_pravda_tsar.jpg/w627h353fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/russkij-it-strashny-li-sankcii_493263" class="news-slider__link">
+
+					
+                      <img src="https://img.tsargrad.tv/cache/3/7/IT.png/w627h353fill.png" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/strojmaterialy-podorozhajut-eshhe-silnee-chto-proishodit_493269" class="news-slider__link">
+
+					
+                      <img src="https://img.tsargrad.tv/cache/7/4/7_ND_cover_01_1.jpg/w627h353fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/pronko-rassledovanie-v-otnoshenii-teh-kto-ugrobil-medicinu-ostraja-neobhodimost-dlja-rossii_493215" class="news-slider__link">
+
+					
+                      <img src="https://img.tsargrad.tv/cache/a/f/SO_bolnica_01.jpg/w627h353fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/novaja-zolotaja-zhila-dlja-zhulikov-i-vorov-na-modernizaciju-zhkh-napravjat-4-trln-rublej_493182" class="news-slider__link">
+
+					
+                      <img src="https://img.tsargrad.tv/cache/5/4/tsgl_glavnoe_-_ytecka_deneg.jpg/w627h353fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/novaja-normalnost-protiv-russkih-finalnaja-bitva-nachalas_493118" class="news-slider__link">
+
+					
+                      <img src="https://img.tsargrad.tv/cache/0/7/shafran_new_normalnost.jpg/w627h353fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/ocherednaja-rasprava-nad-russkimi-migranty-priehali-ubivat_493023" class="news-slider__link">
+
+					
+                      <img src="https://img.tsargrad.tv/cache/3/c/NMM_rasprava.jpg/w627h353fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/nochnoj-naljot-migrantov-ubita-prodavec-kassir-odnako-120-tysjach-grazhdan-tadzhikistana-amnistirovany_492542" class="news-slider__link">
+
+					
+                      <img src="https://img.tsargrad.tv/cache/8/3/rp_nalet_migrantov.jpg/w627h353fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				               </ul>
+              </div>
+            </div>
+
+
+
+
+
+			            <section class="news-group">
+              <div class="news-group__title">
+                <a href="/articles">Статьи</a>
+              </div>
+
+              <div class="layout-inner">
+                <div class="layout-inner__column">
+					
+                  <article class="news-item news-item_with-media">
+                    <a href="/articles/nedetskie-voprosy-chem-tysjacha-junyh-dobrovolcev-napugala-milliony-russkih-roditelej_493194" class="news-item__link">
+                      <img src="https://img.tsargrad.tv/cache/e/5/photo_2022-02-10_15-07-26.jpg/w370h208fill.jpg" alt="">
+                      <h4>Недетские вопросы: чем тысяча юных добровольцев напугала миллионы русских родителей?</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+					</div>
+				
+                    <!--//<time class="news-item__date" datetime="2022-02-11">09:00</time>//-->
+
+                    <div class="news-item__description">На горизонте забрезжил конец пандемии, некоторые главы регионов в России даже начали аккуратно снимать...</div>
+                  </article>
+					
+                  <article class="news-item news-item_with-media">
+                    <a href="/articles/pronko-napomnil-o-rassledovanii-v-otnoshenii-golikovoj-i-popovoj_493258" class="news-item__link">
+                      <img src="https://img.tsargrad.tv/cache/a/d/646966.jpg/w370h208fill.jpg" alt="">
+                      <h4>Пронько напомнил о расследовании в отношении Голиковой и Поповой</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/politika-2" class="news-item__category-name">Политика</a>
+					</div>
+				
+                    <!--//<time class="news-item__date" datetime="2022-02-11">07:01</time>//-->
+
+                    <div class="news-item__description">Каждый второй житель России заявил, что за последний год ситуация в сфере отечественной медицины резко...</div>
+                  </article>
+					                </div>
+                <div class="layout-inner__column">
+
+					
+                  <article class="news-item news-item_with-media">
+                    <a href="/articles/naslednik-apostolov-svjashhennomuchenik-ignatij-bogonosec-pravoslavnyj-kalendar-na-11-fevralja_492441" class="news-item__link">
+                      <img src="https://img.tsargrad.tv/cache/a/2/651_w720h405fill_12.jpg/w370h208fill.jpg" alt="">
+                      <h4>&quot;Наследник апостолов&quot;. Священномученик Игнатий Богоносец. Православный календарь на 11 февраля</h4>
+				
+										<span class="news-item__group">
+											<i class="icon-video">
+							<svg>
+								<use xlink:href="#icon-video"></use>
+							</svg>
+						</i>
+											</span>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/pravoslavnyj-kalendar" class="news-item__category-name">Православный календарь</a>
+					</div>
+				
+                    <!--//<time class="news-item__date" datetime="2022-02-11">01:00</time>//-->
+
+                    <div class="news-item__description">11 февраля (29 января по старому стилю – церковному юлианскому календарю). Пятница 34-й седмицы по...</div>
+                  </article>
+					
+                  <article class="news-item news-item_with-media">
+                    <a href="/articles/hvatit-obmana-i-vranja-bojkot-rossiej-mjunhenskoj-konferencii-jeto-tolko-nachalo_493181" class="news-item__link">
+                      <img src="https://img.tsargrad.tv/cache/3/5/photo_2022-02-10_17-46-22.jpg/w370h208fill.jpg" alt="">
+                      <h4>Хватит обмана и вранья. Бойкот Россией Мюнхенской конференции – это только начало</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/politika-2" class="news-item__category-name">Политика</a>
+					</div>
+				
+                    <!--//<time class="news-item__date" datetime="2022-02-10">10 Февраля 21:45</time>//-->
+
+                    <div class="news-item__description">Россия объявила о бойкоте Мюнхенской конференции. Это случилось через 15 лет после того как президент Путин...</div>
+                  </article>
+					
+                </div>
+              </div>
+              <div class="layout-inner">
+                <div class="layout-inner__column">
+					
+                  <article class="news-item news-item_with-media">
+                    <a href="/articles/komanda-fas-kak-google-i-youtube-stali-glavnymi-narushiteljami-zakonov-rossii_493260" class="news-item__link">
+                      <img src="https://img.tsargrad.tv/cache/9/5/photo_2022-02-10_19-13-00.jpg/w370h208fill.jpg" alt="">
+                      <h4>Команда ФАС: Как Google и YouTube стали главными нарушителями законов России</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+					</div>
+				
+                    <!--//<time class="news-item__date" datetime="2022-02-10">10 Февраля 19:45</time>//-->
+
+                    <div class="news-item__description">10 февраля 2022 года Федеральная антимонопольная служба (ФАС) приняла первое в мировой практике решение о...</div>
+                  </article>
+					
+                  <article class="news-item news-item_with-media">
+                    <a href="/articles/pochemu-ssha-ne-puskali-prezidenta-brazilii-v-moskvu-i-pochemu-on-objazatelno-priedet_492995" class="news-item__link">
+                      <img src="https://img.tsargrad.tv/cache/6/6/Bolson.jpg/w370h208fill.jpg" alt="">
+                      <h4>Почему США не пускали президента Бразилии в Москву. И почему он обязательно приедет</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/politika-2" class="news-item__category-name">Политика</a>
+					</div>
+				
+                    <!--//<time class="news-item__date" datetime="2022-02-10">10 Февраля 19:00</time>//-->
+
+                    <div class="news-item__description">США устроили выволочку президенту Бразилии Жаиру Болсонару за то, что тот засобирался с визитом в Россию....</div>
+                  </article>
+					                </div>
+                <div class="layout-inner__column">
+
+					
+                  <article class="news-item news-item_with-media">
+                    <a href="/articles/novoj-shkole-rossii-gotovjat-vakcinu-ot-teraktov-kto-v-krasnoj-zone_492593" class="news-item__link">
+                      <img src="https://img.tsargrad.tv/cache/6/6/zlo-2.jpg/w370h208fill.jpg" alt="">
+                      <h4>Новой школе России готовят вакцину от терактов. Кто в &quot;красной зоне&quot;?</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+					</div>
+				
+                    <!--//<time class="news-item__date" datetime="2022-02-10">10 Февраля 17:00</time>//-->
+
+                    <div class="news-item__description">Дети готовят теракты, приходят в школы с оружием, толпами идут на запрещённые акции. И даже если удаётся...</div>
+                  </article>
+					
+                  <article class="news-item news-item_with-media">
+                    <a href="/articles/nikolaj-azarov-po-donbassu-gotovjat-udar-no-vojny-mozhno-izbezhat_492580" class="news-item__link">
+                      <img src="https://img.tsargrad.tv/cache/0/9/16_armi.jpg/w370h208fill.jpg" alt="">
+                      <h4>Николай Азаров: По Донбассу готовят удар, но войны можно избежать</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/ukraina" class="news-item__category-name">Украина</a>
+					</div>
+				
+                    <!--//<time class="news-item__date" datetime="2022-02-10">10 Февраля 15:00</time>//-->
+
+                    <div class="news-item__description">Западные медиа с упорством продолжают нагнетать своими публикациями ситуацию вокруг Украины. То Bild &quot;план...</div>
+                  </article>
+					
+                </div>
+              </div>
+            </section>
+
+
+
+
+			<!--//сделать//-->
+			
+			<!--//сделать//-->
+			            <div class="layout-inner">
+
+			              <div class="layout-inner__column">
+                <section class="news-group">
+                  <div class="news-group__title">
+                    <a href="/materials/rubric/proisshestvija">Происшествия</a>
+                  </div>
+
+				
+					                  <article class="news-item news-item_full">
+                    <a href="/news/v-cheljabinskoj-oblasti-klient-sajta-znakomstv-umelo-vymanival-dengi-u-zhenshhin_493630" class="news-item__media">
+                      <img src="https://img.tsargrad.tv/cache/8/d/5_xKvzYOCTrzw.jpg/w508h286fill.jpg" alt="">
+                    </a>
+
+                    <time class="news-item__date" datetime="2022-02-11T11:59">11:59</time>
+
+                    <a href="/news/v-cheljabinskoj-oblasti-klient-sajta-znakomstv-umelo-vymanival-dengi-u-zhenshhin_493630" class="news-item__link">
+                      <h4>В Челябинской области клиент сайта знакомств умело выманивал деньги у женщин</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+					</div>
+				
+                    <!--//<div class="news-item__description"></div>//-->
+                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T11:55">11:55</time>
+
+                    <a href="/news/21-letnjaja-devushka-bez-vesti-propala-pod-novosibirskom_493603" class="news-item__link">
+                      <h4>21-летняя девушка без вести пропала под Новосибирском</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+					</div>
+				                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T11:54">11:54</time>
+
+                    <a href="/news/osuzhdjonnyj-v-novosibirske-kardiohirurg-pokushalov-poprosil-pomoshhi-u-putina_493611" class="news-item__link">
+                      <h4>Осуждённый в Новосибирске кардиохирург Покушалов попросил помощи у Путина</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+					</div>
+				                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T11:35">11:35</time>
+
+                    <a href="/news/v-moskve-desjatki-migrantov-ustroili-massovuju-draku-s-bitami_493615" class="news-item__link">
+                      <h4>В Москве десятки мигрантов с битами устроили массовую драку</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+					</div>
+				                  </article>
+					
+				                  <a href="/materials/rubric/proisshestvija" class="link-more link-more_gray">Все материалы</a>
+                </section>
+              </div>
+			              <div class="layout-inner__column">
+                <section class="news-group">
+                  <div class="news-group__title">
+                    <a href="/materials/rubric/obshhestvo">Общество</a>
+                  </div>
+
+				
+					                  <article class="news-item news-item_full">
+                    <a href="/news/v-vyhodnye-perepad-temperatur-v-cheljabinskoj-oblasti-sostavit-20_493410" class="news-item__media">
+                      <img src="https://img.tsargrad.tv/cache/d/8/1_lkTCXiA4tYM.jpeg/w508h286fill.jpeg" alt="">
+                    </a>
+
+                    <time class="news-item__date" datetime="2022-02-11T12:02">12:02</time>
+
+                    <a href="/news/v-vyhodnye-perepad-temperatur-v-cheljabinskoj-oblasti-sostavit-20_493410" class="news-item__link">
+                      <h4>В выходные перепад температур в Челябинской области составит 20°</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+					</div>
+				
+                    <!--//<div class="news-item__description"></div>//-->
+                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T11:56">11:56</time>
+
+                    <a href="/news/svalilsja-s-neba-v-sovsem-druguju-stranu-opublikovano-redkoe-foto-znamenitogo-kosmonavta_493629" class="news-item__link">
+                      <h4>Свалился с неба в совсем другую страну: Опубликовано редкое  фото знаменитого космонавта</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+					</div>
+				                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T11:51">11:51</time>
+
+                    <a href="/news/vice-admiral-vydal-nato-poslednee-preduprezhdenie-diplomatija-zakanchivaetsja_493625" class="news-item__link">
+                      <h4>Вице-адмирал выдал НАТО последнее предупреждение: &quot;Дипломатия заканчивается&quot;</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+					</div>
+				                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T11:51">11:51</time>
+
+                    <a href="/news/na-remont-juzhnogo-podezda-k-rostovu-potratjat-bolee-polumilliarda-rublej_493628" class="news-item__link">
+                      <h4>На ремонт Южного подъезда к Ростову потратят более полумиллиарда рублей</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+					</div>
+				                  </article>
+					
+				                  <a href="/materials/rubric/obshhestvo" class="link-more link-more_gray">Все материалы</a>
+                </section>
+              </div>
+			
+            </div>
+
+            <div class="layout-inner">
+			              <div class="layout-inner__column">
+                <section class="news-group">
+                  <div class="news-group__title">
+                    <a href="/materials/rubric/sport-3">Спорт</a>
+                  </div>
+
+				
+					                  <article class="news-item news-item_full">
+                    <a href="/news/vtoraja-medal-bolshunova-na-olimpiade-2022-serebro-v-gonke-na-15-km_493622" class="news-item__media">
+                      <img src="https://img.tsargrad.tv/cache/2/9/20220206_gaf_x99_760.jpg/w508h286fill.jpg" alt="">
+                    </a>
+
+                    <time class="news-item__date" datetime="2022-02-11T11:43">11:43</time>
+
+                    <a href="/news/vtoraja-medal-bolshunova-na-olimpiade-2022-serebro-v-gonke-na-15-km_493622" class="news-item__link">
+                      <h4>Вторая медаль Большунова на Олимпиаде 2022: серебро в гонке на 15 км</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/olimpiada-v-pekine" class="news-item__category-name">Олимпиада в Пекине</a>
+					</div>
+				
+                    <div class="news-item__description"></div>
+                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T11:17">11:17</time>
+
+                    <a href="/news/dvenadcataja-medal-olimpiady-russkij-lyzhnik-zavoeval-serebro_493597" class="news-item__link">
+                      <h4>Двенадцатая медаль Олимпиады: Русский лыжник завоевал серебро</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/olimpiada-v-pekine" class="news-item__category-name">Олимпиада в Пекине</a>
+					</div>
+				                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T11:02">11:02</time>
+
+                    <a href="/news/dzhaksybekov-pokidaet-post-glavy-kazahstanskoj-federacii-futbola_493582" class="news-item__link">
+                      <h4>Джаксыбеков покидает пост главы Казахстанской федерации футбола</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/sport-3" class="news-item__category-name">Спорт</a>
+					</div>
+				                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T10:30">10:30</time>
+
+                    <a href="/news/doping-testirovanie-figuristki-valievoj-okazalos-polozhitelnym_493553" class="news-item__link">
+                      <h4>Допинг-тестирование фигуристки Валиевой оказалось положительным</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/sport-3" class="news-item__category-name">Спорт</a>
+					</div>
+				                  </article>
+					
+				                  <a href="/materials/rubric/sport-3" class="link-more link-more_gray">Все материалы</a>
+                </section>
+              </div>
+			              <div class="layout-inner__column">
+                <section class="news-group">
+                  <div class="news-group__title">
+                    <a href="/materials/rubric/politika-2">Политика</a>
+                  </div>
+
+				
+					                  <article class="news-item news-item_full">
+                    <a href="/news/vsu-usilili-sarmatom-i-s-300-v-dnr-ukazali-na-novye-priznaki-podgotovki-vojny_493636" class="news-item__media">
+                      <img src="https://img.tsargrad.tv/cache/8/e/20220209_gaf_u39_546.jpg/w508h286fill.jpg" alt="">
+                    </a>
+
+                    <time class="news-item__date" datetime="2022-02-11T12:01">12:01</time>
+
+                    <a href="/news/vsu-usilili-sarmatom-i-s-300-v-dnr-ukazali-na-novye-priznaki-podgotovki-vojny_493636" class="news-item__link">
+                      <h4>ВСУ усилили &quot;Сарматом&quot; и С-300: В ДНР указали на новые признаки подготовки войны</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/ukraina" class="news-item__category-name">Украина</a>
+					</div>
+				
+                    <div class="news-item__description"></div>
+                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T11:56">11:56</time>
+
+                    <a href="/news/vy-vmeste-egje-sdavali-postpred-ssha-popolnila-kollekciju-perlov-po-povodu-ukrainy_493632" class="news-item__link">
+                      <h4>Вы вместе ЕГЭ сдавали? Постпред США пополнила коллекцию “перлов“ по поводу Украины</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/politika-2" class="news-item__category-name">Политика</a>
+					</div>
+				                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T11:40">11:40</time>
+
+                    <a href="/news/vyjasnilos-pochemu-putin-ne-pozhal-ruku-makronu-i-otpravil-ego-podalshe_493606" class="news-item__link">
+                      <h4>Выяснилось, почему Путин не пожал руку Макрону и отправил его подальше</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/politika-2" class="news-item__category-name">Политика</a>
+					</div>
+				                  </article>
+					
+				
+					                  <article class="news-item news-item_short">
+                    <time class="news-item__date" datetime="2022-02-11T10:55">10:55</time>
+
+                    <a href="/news/post-vrio-pervogo-zamgubernatora-po-vnutrennej-politiki-vladimirskoj-oblasti-zanjal-dmitrij-lyzlov_493578" class="news-item__link">
+                      <h4>Пост врио первого замгубернатора по внутренней политики Владимирской области занял Дмитрий Лызлов</h4>
+				                    </a>
+
+									<div class="news-item__category">
+						<a href="/materials/rubric/politika-2" class="news-item__category-name">Политика</a>
+					</div>
+				                  </article>
+					
+				                  <a href="/materials/rubric/politika-2" class="link-more link-more_gray">Все материалы</a>
+                </section>
+              </div>
+			            </div>
+
+
+          </div>
+          <aside class="layout__aside">
+
+			              <div class="news-group__title">
+                <a href="/news">Последние новости</a>
+              </div>
+
+			
+            <article class="news-item">
+              <a href="/news/vsu-usilili-sarmatom-i-s-300-v-dnr-ukazali-na-novye-priznaki-podgotovki-vojny_493636" class="news-item__link">
+                <h4>ВСУ усилили &quot;Сарматом&quot; и С-300: В ДНР указали на новые признаки подготовки войны</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T12:01">12:01</time>
+                      <a href="/materials/rubric/ukraina" class="news-item__category-name">Украина</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item">
+              <a href="/news/svalilsja-s-neba-v-sovsem-druguju-stranu-opublikovano-redkoe-foto-znamenitogo-kosmonavta_493629" class="news-item__link">
+                <h4>Свалился с неба в совсем другую страну: Опубликовано редкое  фото знаменитого космонавта</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T11:56">11:56</time>
+                      <a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item">
+              <a href="/news/vice-admiral-vydal-nato-poslednee-preduprezhdenie-diplomatija-zakanchivaetsja_493625" class="news-item__link">
+                <h4>Вице-адмирал выдал НАТО последнее предупреждение: &quot;Дипломатия заканчивается&quot;</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T11:51">11:51</time>
+                      <a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item">
+              <a href="/news/v-moskve-desjatki-migrantov-ustroili-massovuju-draku-s-bitami_493615" class="news-item__link">
+                <h4>В Москве десятки мигрантов с битами устроили массовую драку</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T11:35">11:35</time>
+                      <a href="/materials/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item">
+              <a href="/news/na-semimesjachnogo-rebjonka-v-moskve-s-kryshi-upal-sneg_493617" class="news-item__link">
+                <h4>На семимесячного ребёнка в Москве с крыши упал снег</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T11:34">11:34</time>
+                      <a href="/materials/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item">
+              <a href="/news/mogilnyj-zapret-narushen-nazvana-novaja-versija-gibeli-jestonii_493607" class="news-item__link">
+                <h4>&quot;Могильный запрет&quot; нарушен: Названа новая версия гибели &quot;Эстонии&quot;</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T11:31">11:31</time>
+                      <a href="/materials/rubric/proisshestvija" class="news-item__category-name">Происшествия</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item">
+              <a href="/news/pojavilis-pervye-podrobnosti-smerti-aktrisy-brik_493616" class="news-item__link">
+                <h4>Появились первые подробности смерти актрисы Брик</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T11:31">11:31</time>
+                      <a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item">
+              <a href="/news/pochemu-otsadili-makrona-reuters-razgadal-tajnu-dlinnogo-stola-putina_493594" class="news-item__link">
+                <h4>Почему &quot;отсадили&quot; Макрона? Reuters разгадал тайну &quot;длинного стола&quot; Путина</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T11:25">11:25</time>
+                      <a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item news-item_important">
+              <a href="/news/v-rossii-novyj-kovidnyj-antirekord-zabolevshih-bolshe-dvuhsot-tysjach-v-sutki_493601" class="news-item__link">
+                <h4>В России новый ковидный антирекорд: Заболевших больше двухсот тысяч в сутки</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T11:21">11:21</time>
+                      <a href="/materials/rubric/koronavirus" class="news-item__category-name">Коронавирус</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item news-item_important">
+              <a href="/news/dvenadcataja-medal-olimpiady-russkij-lyzhnik-zavoeval-serebro_493597" class="news-item__link">
+                <h4>Двенадцатая медаль Олимпиады: Русский лыжник завоевал серебро</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T11:17">11:17</time>
+                      <a href="/materials/rubric/olimpiada-v-pekine" class="news-item__category-name">Олимпиада в Пекине</a>
+                    </div>
+				            </article>
+			
+			            <section class="news-group news-group_aside">
+              <div class="news-group__title">
+                <a href="/experts">Мнения</a>
+              </div>
+
+			              <a href="/experts/15-let-spustja-rossija-nachala-bojkot-mjunhenskoj-konferencii-no-jetogo-malo-2_493266" class="opinion">
+                <div class="opinion__card">
+                  <div class="opinion__card-photo">
+                    <img src="https://img.tsargrad.tv/cache/b/9/1_IMG_5969.JPG/w500h500.JPG" alt="">
+                  </div>
+                  <div class="opinion__card-content">
+                    <h4 class="opinion__card-name">Сергей Латышев</h4>
+                    <div class="opinion__card-description">Журналист-международник, кандидат исторических наук</div>
+                    <!--//<a href="/experts/author/21">Все мнения автора</a>//-->
+                  </div>
+                </div>
+                <div class="telega-item__title">15 лет спустя. Россия начала бойкот Мюнхенской конференции, но этого мало</div>
+                <div class="opinion__body">
+                  <p>Безусловно, бойкот Россией Мюнхенской конференции означает только одно: полную утрату доверия Москвы к этому форуму, где русских дурачили и обманывали долгие годы. Где так бессовестно проигнорировали призыв Владимира Путина к Западу и НАТО в 2007 году остановить экспансию на восток, начать взаимодействовать с Россией на равных, прекратить навязывать миру однополярность. Тем не менее Москва пыталась добиться этого ещё целых долгих 15 лет. Увы, безуспешно.</p>
+                </div>
+              </a>
+
+			              <a href="/experts/ostanovit-ottok-kapitala-iz-rossii-mat-oligarham-v-dva-hoda_493234" class="opinion">
+                <div class="opinion__card">
+                  <div class="opinion__card-photo">
+                    <img src="https://img.tsargrad.tv/cache/5/c/30886_jpg.jpeg/w500h500.jpeg" alt="">
+                  </div>
+                  <div class="opinion__card-content">
+                    <h4 class="opinion__card-name">Василий Колташов</h4>
+                    <div class="opinion__card-description">Руководитель центра политэкономических исследований</div>
+                    <!--//<a href="/experts/author/296">Все мнения автора</a>//-->
+                  </div>
+                </div>
+                <div class="telega-item__title">Остановить отток капитала из России: Мат олигархам в два хода</div>
+                <div class="opinion__body">
+                  <p>Я не думаю, что собираемость налогов уменьшится, если мы изменим налоговую политику. Понятно, что у нас большое количество капиталов вывезено и упаковано под видом офшорных фирм, которые владеют здесь уже пакетами ценных бумаг и с них получают доходы, представляя себя как иностранных инвесторов. Они должны тоже облагаться налогом по более высокой ставке. Более того, может быть разумно сделать так, чтобы конечное физическое лицо, которое получает прибыли в России и зарегистрировано в России, а не прячется за офшорами – налог для него может быть меньше.</p>
+                </div>
+              </a>
+
+			              <a href="/experts/zachem-rossii-bitva-za-ukrainu-azy-kotorye-ot-nas-skryvajut_493161" class="opinion">
+                <div class="opinion__card">
+                  <div class="opinion__card-photo">
+                    <img src="https://img.tsargrad.tv/cache/5/c/28111_jpg.jpeg/w500h500.jpeg" alt="">
+                  </div>
+                  <div class="opinion__card-content">
+                    <h4 class="opinion__card-name">Александр Дугин</h4>
+                    <div class="opinion__card-description">Доктор политических и социологических наук, кандидат философских наук, профессор.</div>
+                    <!--//<a href="/experts/author/40">Все мнения автора</a>//-->
+                  </div>
+                </div>
+                <div class="telega-item__title">Зачем России битва за Украину? Азы, которые от нас скрывают</div>
+                <div class="opinion__body">
+                  <p>Однополярный мир сопротивляется, он не хочет отступать, Байден и глобалисты – сторонники как раз однополярности любой ценой. Они пытаются не позволить России стать самостоятельным полюсом.</p>
+                </div>
+              </a>
+
+			            </section>
+
+
+			              <div class="news-group__title">
+                <a href="/materials/rubric/horoshie-novosti">Хорошие новости</a>
+              </div>
+
+			
+            <article class="news-item news-item_important">
+              <a href="/news/dvenadcataja-medal-olimpiady-russkij-lyzhnik-zavoeval-serebro_493597" class="news-item__link">
+                <h4>Двенадцатая медаль Олимпиады: Русский лыжник завоевал серебро</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T11:17">11:17</time>
+                      <a href="/materials/rubric/olimpiada-v-pekine" class="news-item__category-name">Олимпиада в Пекине</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item news-item_important">
+              <a href="/news/sbornaja-rossii-po-hokkeju-vtoroj-raz-oderzhala-pobedu-na-olimpiade_493512" class="news-item__link">
+                <h4>Сборная России по хоккею второй раз одержала победу на Олимпиаде</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-11T09:22">09:22</time>
+                      <a href="/materials/rubric/olimpiada-v-pekine" class="news-item__category-name">Олимпиада в Пекине</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item">
+              <a href="/news/est-pervaja-pobeda-russkie-obygrali-neudobnogo-hokkejnogo-sopernika_492403" class="news-item__link">
+                <h4>Есть первая победа: Русские обыграли неудобного хоккейного соперника</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-09T14:11">09 Февраля 14:11</time>
+                      <a href="/materials/rubric/olimpiada-v-pekine" class="news-item__category-name">Олимпиада в Пекине</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item">
+              <a href="/news/pensionerka-geroicheski-prygnula-v-ledjanuju-vodu-chtoby-spasti-sobaku_491294" class="news-item__link">
+                <h4>Пенсионерка героически прыгнула в ледяную воду, чтобы спасти собаку</h4>
+              </a>
+
+				                    <div class="news-item__category">
+                      <time datetime="2022-02-07T19:58">07 Февраля 19:58</time>
+                      <a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                    </div>
+				            </article>
+			
+            <article class="news-item">
+              <a href="/news/russkie-sreli-luchshih-v-monaka-zavershilas-krasivejshaja-regata_491126" class="news-item__link">
+                <h4>Русские - среди лучших. В Монако завершилась красивейшая регата</h4>
+              </a>
+
+				
+				<div class="news-item__meta">
+                    <div class="news-item__category">
+                      <time datetime="2022-02-07T15:26">07 Февраля 15:26</time>
+                      <a href="/materials/rubric/obshhestvo" class="news-item__category-name">Общество</a>
+                    </div>
+
+										<span class="news-item__group">
+											<i class="icon-photo">
+							<svg>
+								<use xlink:href="#icon-photo"></use>
+							</svg>
+						</i>
+											</span>
+				</div>
+				            </article>
+			
+			
+			            <div class="news-slider news-slider_aside">
+              <div class="news-slider__container">
+                <ul class="news-slider__list">
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/svjataja-pravda" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Святая Правда</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/b/2/2_sp.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/prjamaja-transljacija" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Прямая трансляция</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/2/d/cover-Stream.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/novosti-dnja" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Новости дня</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/1/d/ND_cover_02.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/suhoj-ostatok" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Сухой остаток</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/6/a/2_ostatok.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/cargrad-glavnoe" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Царьград. Главное</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/4/1/13_glavnoe.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/shafran" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Шафран</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/1/3/2_shafran.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				                  <li class="news-slider__list-item">
+                    <a href="/shows/rubric/ne-mogu-molchat" class="news-slider__link">
+                      <!--//<div class="news-item__category">
+                        <div class="news-item__category-name">Не могу молчать</div>
+                      </div>//-->
+                      <img src="https://img.tsargrad.tv/cache/7/0/ne-mogu-molchat-cover.jpg/w508h286fill.jpg" alt="" class="news-slider__image">
+                    </a>
+                  </li>
+				               </ul>
+              </div>
+            </div>
+
+
+							             <div class="aside__fly">
+
+                <div class="aside-banner">
+
+<!-- Yandex.RTB R-A-230529-47 -->
+<div id="yandex_rtb_R-A-230529-47"></div>
+<script>
+  window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+                blockId: "R-A-230529-47",
+                renderTo: "yandex_rtb_R-A-230529-47"
+    })
+  })
+</script>
+
+                </div>
+            </div>			         </aside>
+        </div>
+      </div>
+
+    </main>
+
+
+
+
+
+		
+      	<footer class="footer">
+
+		
+      <div class="footer__content">
+        <div class="container">
+          <div class="footer__aside">
+            <img src="/img/logo-tsargrad2.png" alt="Первый русский" class="footer__logo-yellow">
+            <img src="/img/first-russian.png" alt="Первый русский" class="footer__logo-name">
+
+              <address>
+                115093, г. Москва, переулок Партийный, д.1, к.57, стр.3, эт.1, пом.I, ком.45<br>
+                Тел.: <a href="tel:+74953747773">+7 (495) 374-77-73</a><br/>
+                <a href="mailto:info@tsargrad.tv">info@tsargrad.tv</a>
+                <br/>Адрес для пресс-релизов <a href="mailto:press@tsargrad.tv">press@tsargrad.tv</a>
+              </address>
+          </div>
+
+          <div class="footer__description">
+            <p>Средство массовой информации сетевое издание &laquo;Царьград/Tsargrad&raquo; зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций. Регистрационный номер и дата принятия решения о регистрации СМИ: серия Эл  № ФС77-81359 от 30 июня 2021 г.</p>
+                <p>
+                  Главный редактор &mdash; Токарева Д.И.<br>
+                  Учредитель &mdash; НАО &laquo;Царьград медиа&raquo;<br>
+                  Адрес редакции &mdash; 115093, г. Москва, переулок Партийный, д.1, к.57, стр.3, эт.1, пом.I, ком.45
+                </p>
+                <p>Копирование и использование полных материалов запрещено, частичное цитирование возможно только при условии гиперссылки на сайт tsargrad.tv. Гиперссылка должна размещаться непосредственно в тексте, воспроизводящем оригинальный материал tsargrad.tv. Редакция не несет ответственности за информацию и мнения, высказанные в комментариях читателей и новостных материалах, составленных на основе сообщений читателей.</p>
+                <p>&copy; 2022, все права защищены. НАО &laquo;Царьград медиа&raquo;.</p>
+                <p>
+                  <a href="/privacy_policy.docx" style="color:#8A8A8A">Политика обработки персональных данных</a><!--//<br/>
+                  <a href="/agitation">Прайс-лист на размещение агитационных материалов, 2020 год</a>//-->
+
+                </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer__bottom">
+        <div class="container">
+          <div class="footer__social">
+            <a href="https://vk.com/tsargradtv" class="link-social-vk" target="_blank">
+              <svg>
+                <use xlink:href="#icon-vkontakte"></use>
+              </svg>
+            </a>
+            <a href="https://www.facebook.com/tsargradtv" class="link-social-fb" target="_blank">
+              <svg>
+                <use xlink:href="#icon-facebook"></use>
+              </svg>
+            </a>
+            <a href="https://ttttt.me/joinchat/AAAAAEKrEBGKW2fifoQo_w" class="link-social-telegram" target="_blank">
+              <svg>
+                <use xlink:href="#icon-telegram"></use>
+              </svg>
+            </a>
+            <a href="https://www.instagram.com/tsargradtv" class="link-social-instagram" target="_blank">
+              <svg>
+                <use xlink:href="#icon-instagram"></use>
+              </svg>
+            </a>
+            <a href="http://www.ok.ru/tsargradtv" class="link-social-ok" target="_blank">
+              <svg>
+                <use xlink:href="#icon-odnoclassniki"></use>
+              </svg>
+            </a>
+            <a href="https://twitter.com/tsargradtv" class="link-social-twitter" target="_blank">
+              <svg>
+                <use xlink:href="#icon-twitter"></use>
+              </svg>
+            </a>
+          </div>
+
+          <div class="footer__useful-links">
+            <a href="/contacts">Контакты</a>
+            <a href="/advertisers">Рекламодателям</a>
+            <a href="/pervyi_russkij">О телеканале</a>
+          </div>
+        </div>
+      </div>
+
+		    </footer>
+
+  </div>
+
+  <button class="page-up js-page-up">наверх</button>
+
+	<!--//popup, сейчас в эфире//-->
+    <div class="sticky-bottom">
+    <div class="container sticky-bottom__container">
+      <button type="button" class="sticky-bottom__close">
+        <span onclick="yaCounter27738642.reachGoal('click_close');return true;">Закрыть</span>
+        <svg>
+          <use xlink:href="#icon-close-black"></use>
+        </svg>
+      </button>
+
+      <h4 class="sticky-bottom__title">У вас есть возможность бесплатно отключить рекламу</h4>
+      <div class="sticky-bottom__description">
+        <a href="/user?help" class="btn-dark-small" onclick="yaCounter27738642.reachGoal('click_disable_ads');return true;">Отключить рекламу</a>
+        <p>Ознакомиться с условиями отключения рекламы можно <a href="/user?help">здесь</a></p>
+      </div>
+    </div>
+  </div>
+  <script src="/js/svg.js?s9"></script>
+  <script src="/js/vendor/modernizr-3.11.2.min.js?s1"></script>
+  <script src="/js/vendor/jquery.js?s1"></script>
+  <script src="/js/plugins.js?s1"></script>
+  <script src="/js/main.js?s19"></script>
+  <script src="/js/header.js?s2"></script>
+  <script src="/js/fly-news.js"></script>
+  <script src="/js/textError.js"></script>
+
+</body>
+
+</html>

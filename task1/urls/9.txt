@@ -1,0 +1,1896 @@
+
+
+
+<!DOCTYPE html>
+<html class="tdc mobile-friendly"
+      prefix="og: http://ogp.me/ns# ya: http://webmaster.yandex.ru/vocabularies/"
+      lang="ru">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+        <meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.icra.org/pics/vocabularyv03/" l gen true r (n 0 s 0 v 0 l 0) "http://www.icra.org/ratingsv02.html" l gen true r (nz 1 vz 1 lz 1 oz 1 cz 1) "http://www.rsac.org/ratingsv01.html" l gen true r (n 0 s 0 v 0 l 0))'/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta content="Контур - ведущий разработчик онлайн сервисов для бухгалтерии и бизнеса. SAAS-продукты от Контур выбирают тысячи предприятий по всей России для сдачи отчетности, обмена электронными документами и ведения бухгалтерии." name="description" /><link href="https://kontur.ru/" rel="canonical" /><meta content="summary" name="twitter:card" />
+<meta content="@skbkontur" name="twitter:site" />
+<meta content="@skbkontur" name="twitter:creator" /><meta content="article" property="og:type" />
+<meta content="https://kontur.ru/" property="og:url" />
+<meta content="Контур — экосистема продуктов для бизнеса" property="og:title" />
+<meta content="СКБ Контур" property="og:site_name" />
+<meta content="Контур - ведущий разработчик онлайн сервисов для бухгалтерии и бизнеса. SAAS-продукты от Контур выбирают тысячи предприятий по всей России для сдачи отчетности, обмена электронными документами и ведения бухгалтерии." property="og:description" />
+<meta content="https://s.kontur.ru/common-v2/icons-products/kontur/avatar/kontur-avatar-512.png" property="og:image" />
+<link href="https://s.kontur.ru/common-v2/icons-products/kontur/avatar/kontur-avatar-512.png" rel="image_src" /><link href="/press/news/all/rss" rel="alternate" title="СКБ Контур RSS" type="application/rss+xml" />
+
+    
+
+
+    <link rel="preconnect" href="https://s.kontur.ru" crossorigin>
+    <link rel="dns-prefetch" href="https://s.kontur.ru">
+
+    <link rel="preload" href="https://s.kontur.ru/common-v2/fonts/LabGrotesque/LabGrotesque-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+    <link rel="preload" href="https://s.kontur.ru/common-v2/fonts/LabGrotesque/LabGrotesque-Medium.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+    <link rel="preload" href="https://s.kontur.ru/common-v2/fonts/LabGrotesque/LabGrotesque-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+
+    <link rel="preload" href="https://s.kontur.ru/web-sites/libs/konturIconic/1.0.346/konturIconic20/Kontur-Iconic-eco-20px.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+    <link rel="preload" href="https://s.kontur.ru/web-sites/libs/konturIconic/1.0.346/konturIconic/Kontur-Iconic-eco-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+
+
+    <link rel="icon" href="https://s.kontur.ru/common-v2/icons-products/kontur/favicon/favicon.ico" sizes="any"/>
+    <link rel="icon" href="https://s.kontur.ru/common-v2/icons-products/kontur/favicon/kontur-favicon.svg" type="image/svg+xml"/>
+    <link rel="apple-touch-icon" href="https://s.kontur.ru/common-v2/icons-products/kontur/favicon/kontur-favicon-180.png">
+        <link rel="manifest" href="/theme/ver-2124752218/manifest.json"/>
+
+
+
+
+<link rel="stylesheet" href="/front/ver-797639941/build/css/_common/page-template.css"/>
+<link rel="stylesheet" href="/front/ver-797639941/build/css/_common/fonts.css"/>
+
+    <link rel="preload" href="/front/ver-797639941/build/css/_common/main-part-1.css" as="style" onload="this.rel='stylesheet'" >
+    <link rel="stylesheet" href="/front/ver-797639941/build/css/_common/main-part-1.css" media="print" onload="this.media='all'" >
+    <noscript><link rel="stylesheet" href="/front/ver-797639941/build/css/_common/main-part-1.css"></noscript>
+
+    <link rel="preload" href="/front/ver-797639941/build/css/_common/main-part-2.css" as="style" onload="this.rel='stylesheet'" >
+    <link rel="stylesheet" href="/front/ver-797639941/build/css/_common/main-part-2.css" media="print" onload="this.media='all'" >
+    <noscript><link rel="stylesheet" href="/front/ver-797639941/build/css/_common/main-part-2.css"></noscript>
+
+    <link rel="preload" href="/front/ver-797639941/build/css/_common/main-part-3.css" as="style" onload="this.rel='stylesheet'" >
+    <link rel="stylesheet" href="/front/ver-797639941/build/css/_common/main-part-3.css" media="print" onload="this.media='all'" >
+    <noscript><link rel="stylesheet" href="/front/ver-797639941/build/css/_common/main-part-3.css"></noscript>
+
+
+<link data-css-vars-ponyfill rel="stylesheet" href="/front/ver-797639941/build/css/_common/header.css"/>
+
+
+<link media="print" rel="stylesheet" href="/front/ver-797639941/build/css/print.css"/>
+
+
+
+    <script id="referalLinksStatistics" type="application/json">
+    {
+       "siteUrl": "https://kontur.ru",
+       "statisticsUrl": "/ajax/partnership/linkConversion",
+       "debug" : "False"
+    }
+    </script>
+
+
+<script type="text/javascript" src="/front/ver-797639941/build/js/_common/kontur-bundle-common.js"></script>
+<script defer type="text/javascript" src="/front/ver-797639941/build/js/_common/header.js"></script>
+<script type="text/javascript" src="/front/ver-797639941/build/js/webpack-runtime.js"></script>
+
+
+<script src="/script/partial/SiteUrlSetter" defer></script>
+
+<script src="/script/partial/DomainChecker" defer></script>
+        <script>
+        var data = {};
+            data['userRegionId'] = '16';
+                        data['isStaff'] = 0;
+
+        dataLayer = [data];
+    </script>
+<link rel="preconnect" href="https://mc.yandex.ru" />
+<link rel="preconnect" href="https://www.google-analytics.com" />
+
+<meta name="google-site-verification" content="ghPciw-Z-OGUFXy3B64yA4rePI-Hq61wRaMZhk-u2-g" />
+<meta name="google-site-verification" content="jQDMm3pKdfpGqf6ocYjc2o5rIdH_eTqivK3hytrEVpg" />
+<meta name="google-site-verification" content="kwIXnWcJ2n2R1ee34o5nY36RkYTMSUUxWaSKGul4VLI" />
+<meta name="google-site-verification" content="j7rdN6nk6AaX6D2qWhfYHGvK0EdXSkllkRL6nzx5Cic" />
+<meta name="yandex-verification" content="43acf0690c9ca29d" />
+<meta name="yandex-verification" content="a3beca8ed330da51" />
+<meta name="mailru-verification" content="f1fa2c95f986cb78" />
+<meta name="facebook-domain-verification" content="gw37mon1vab4jq04xrx2s4a2osgf1j" />
+
+<script>
+var footerContactsRemove = function () {
+    var products = ['elba'];
+    var pathName = document.location.pathname.split('/')[1];
+    
+    products.forEach(function (item) {
+        if (item === pathName) {
+            var footerContacts = document.querySelector('[data-footer-contacts]');
+            if (footerContacts) {
+                var mail = footerContacts.querySelector('[data-support-callback-link]').remove();
+                mail && mail.remove();
+                
+                var tel = footerContacts.querySelector('a[href*="tel:"]');
+                tel && tel.parentElement.remove();
+            }
+            
+        }
+    })
+};
+document.addEventListener("DOMContentLoaded", footerContactsRemove);
+</script>
+
+    
+    
+    <link rel="stylesheet" href="/front/ver-797639941/build/css/home/ru/main.css"/>
+    <script type="text/javascript" src="/front/ver-797639941/build/js/home/home.js"></script>
+
+<script type="text/javascript" src="/front/ver-797639941/build/js/home/main-visual.js"></script><link rel="stylesheet" href="/front/ver-797639941/build/css/home/ru/main-visual-animated.css"/>
+
+
+    
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NR6K2M');</script>
+
+
+<!-- Anti-flicker snippet (recommended) -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>if (/^(\/market\/kits\/(profitable|mobile|mob-ekvayring))|(\/articles\/(5996|5677))|(focus\/price)/.test(document.location.pathname)) {
+    (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+        h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-NR6K2M':true});
+}</script>
+
+<!-- Kontur.Metrika counter --> 
+<script>
+    var web_sitesQueue = web_sitesQueue || [];
+    var _paq = web_sitesQueue;
+</script>
+<script src="https://metrika.kontur.ru/tracker/web_sites.js" async></script>
+<!--/Kontur.Metrika counter -->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+    document.write("<a href='//www.liveinternet.ru/click' " +
+    "target=_blank><img src='//counter.yadro.ru/hit?t44.1;r" +
+    escape(document.referrer) + ((typeof (screen) == "undefined") ? "" :
+    ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+    screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+    ";" + Math.random() +
+    "' alt='' title='LiveInternet' " +
+    "border='0' width='31' height='31' style='position:absolute; left:-9999px;'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<script>
+    if(document.domain.indexOf('playsmallgame') != -1) {
+        window.location.replace('https://ko' + 'ntur.ru' + window.location.pathname + window.location.search);
+    }
+</script>
+
+    <noindex>
+        <style>
+    @media screen and (min-width: 768px) {.main-header__inner {
+            min-height: 80px;
+        }
+    }
+    
+    /* WS-88959 */
+    [data-chat-place] [data-chat-button] {
+        background: #f03b36!important;
+    }
+    
+    /* WS-90285 */.lp-styles.text.invert.button:not(.button_transparent):not(.button_link):hover {
+        color: #222;
+    }
+    
+    /* WS-90557 */.invert.termTitle:after {
+        color: white!important;
+    }
+</style>
+        <script src="/script/text/CrutchManagerJS" async></script>
+    </noindex>
+    <title>Контур — экосистема продуктов для бизнеса</title>
+</head>
+<body
+    data-authenticated="false"
+    data-theme-path="/theme/ver-2124752218"
+    class="">
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NR6K2M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <svg version="1.1" width="0" height="0" viewBox="0 0 0 0" display="none">
+        <defs>
+            
+            
+            
+            
+            <g id="svg-chevrons" stroke="none" stroke-width="1" fill="currentColor" fill-rule="evenodd">
+                
+                <g id="svg-chevron-up" transform="translate(-180.000000, -61.000000)" fill="currentColor">
+                    <path d="M199.565118,76 L190.60872,66.8629876 L190,66.2419917 L191.217441,65 L191.826161,65.6209959 L201.39128,75.3790041 L202,76 L201.69564,76.3104979 L201.39128,76.6209959 L191.826161,86.3790041 L191.217441,87 L190,85.7580083 L190.60872,85.1370124 L199.565118,76 L199.565118,76 Z" transform="translate(196.000000, 76.000000) scale(-1, -1) rotate(-270.000000) translate(-196.000000, -76.000000) "></path>
+                </g>
+                
+                <g id="svg-chevron-down" transform="translate(-220.000000, -61.000000)" fill="currentColor">
+                    <path d="M239.565118,78 L230.60872,68.8629876 L230,68.2419917 L231.217441,67 L231.826161,67.6209959 L241.39128,77.3790041 L242,78 L241.69564,78.3104979 L241.39128,78.6209959 L231.826161,88.3790041 L231.217441,89 L230,87.7580083 L230.60872,87.1370124 L239.565118,78 L239.565118,78 Z" transform="translate(236.000000, 78.000000) scale(-1, 1) rotate(-270.000000) translate(-236.000000, -78.000000) "></path>
+                </g>
+                
+                <g id="svg-chevron-left" transform="translate(-140.000000, -61.000000)" fill="currentColor">
+                    <path d="M158.565118,77 L149.60872,67.8629876 L149,67.2419917 L150.217441,66 L150.826161,66.6209959 L160.39128,76.3790041 L161,77 L160.69564,77.3104979 L160.39128,77.6209959 L150.826161,87.3790041 L150.217441,88 L149,86.7580083 L149.60872,86.1370124 L158.565118,77 L158.565118,77 Z" transform="translate(155.000000, 77.000000) scale(-1, 1) translate(-155.000000, -77.000000) "></path>
+                </g>
+                
+                <g id="svg-chevron-right" transform="translate(-260.000000, -61.000000)" fill="currentColor">
+                    <path d="M280.565118,77 L271.60872,67.8629876 L271,67.2419917 L272.217441,66 L272.826161,66.6209959 L282.39128,76.3790041 L283,77 L282.69564,77.3104979 L282.39128,77.6209959 L272.826161,87.3790041 L272.217441,88 L271,86.7580083 L271.60872,86.1370124 L280.565118,77 L280.565118,77 Z"></path>
+                </g>
+            </g>
+            
+            <g id="svg-arrows" stroke="none" stroke-width="1" fill="currentColor" fill-rule="evenodd">
+                <g id="svg-arrow-to-right" fill="none">
+                    <path d="M15 5L24 14L15 23" stroke="currentColor" stroke-width="2"/>
+                    <path d="M23.5 14L2 14" stroke="currentColor" stroke-width="2"/>
+                </g>
+            </g>
+            
+            <g id="svg-check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g transform="translate(-100.000000, -61.000000)" stroke="currentColor" stroke-width="1.39999998">
+                    <g transform="translate(105.000000, 64.000000)">
+                        <path d="M16.6182806,3.54101428 C14.9738855,2.5621996 13.0525971,2 11,2 C4.92486775,2 0,6.92486775 0,13 C0,19.0751322 4.92486775,24 11,24 C17.0751322,24 22,19.0751322 22,13 C22,11.6104574 21.742352,10.2810917 21.2722228,9.05706984" />
+                        <path d="M5.74511719,11.9272461 L10.262207,17.1264648 L22.7993164,0.911621094" />
+                    </g>
+                </g>
+            </g>
+            
+            <g id="svg-lupe" stroke="none" stroke-width="1" fill="none">
+                <circle cx="17.5" cy="17.5" r="11.25" stroke="#fff" stroke-width="2.5"/>
+                <path d="M34.9393 37.0607C35.5251 37.6464 36.4749 37.6464 37.0607 37.0607C37.6464 36.4749 37.6464 35.5251 37.0607 34.9393L34.9393 37.0607ZM23.9393 26.0607L34.9393 37.0607L37.0607 34.9393L26.0607 23.9393L23.9393 26.0607Z" fill="#fff"/>
+            </g>
+            
+            <g id="svg-play" stroke="none" stroke-width="1" fill="none">
+                <path d="M37.3794 19.8507C37.8789 20.1395 37.8789 20.8605 37.3794 21.1493L11.3754 36.1829C10.8754 36.4719 10.25 36.1111 10.25 35.5336L10.25 5.46643C10.25 4.88888 10.8754 4.52806 11.3754 4.81712L37.3794 19.8507Z" stroke="#fff" stroke-width="2.5"/>
+            </g>
+            
+            <g id="svg-arrow-to-forward" fill="none">
+                <path d="M4.80078 1.59961L11.2008 7.99961L4.80078 14.3996" stroke="currentColor" stroke-width="2"></path>
+            </g>
+             
+            <g id="svg-mail" fill="none">
+                <path d="M22.9941 14.0039C22.985 14.569 22.7891 15.043 22.4062 15.4258C22.0234 15.8086 21.554 16 20.998 16H3.00586C2.44987 16 1.97591 15.8041 1.58398 15.4121C1.19206 15.0202 0.996094 14.5508 0.996094 14.0039V3.05275L6.05469 6.94924C7.16667 8.00653 8.19206 8.78127 9.13086 9.27346C10.0697 9.76564 11.0221 9.98439 11.9883 9.92971C12.9544 9.87502 13.9115 9.61525 14.8594 9.15041C15.8073 8.67645 16.9147 7.94273 18.1816 6.94924L22.9941 3.24416V14.0039ZM20.998 0.00392433C21.39 0.00392433 21.7773 0.1452 22.1602 0.427752L14.7227 6.30666C13.9935 6.87176 13.1276 7.17254 12.125 7.209C11.1224 7.24546 10.252 6.9857 9.51367 6.42971L1.93945 0.345721C2.30404 0.108742 2.65951 -0.00519025 3.00586 0.00392433H20.998Z" fill="currentColor"/>
+            </g>
+             
+            <g id="quote" fill="none">
+                <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M19.6534 19.8832C18.4516 20.3716 17.1103 20.5649 15.732 20.3846C11.4929 19.83 8.50896 15.9513 9.06713 11.7213C9.6253 7.49132 13.5142 4.51182 17.7533 5.06642C17.8387 5.0776 17.9237 5.09014 18.0081 5.104L18.0085 5.10203C23.2765 5.93436 29.1024 10.4525 27.0936 21.0973C25.687 28.5507 19.6567 33.2223 15.8147 35.5954C14.582 36.3568 12.988 36.0059 12.1049 34.8581C11.111 33.5662 11.3931 31.7665 12.7377 30.8435C14.9714 29.3102 17.5944 27.2101 18.9814 23.41C19.4326 22.1739 19.6326 20.9907 19.6534 19.8832ZM42.8585 19.8832C41.6567 20.3716 40.3154 20.5649 38.9371 20.3846C34.698 19.83 31.7141 15.9513 32.2722 11.7213C32.8304 7.49132 36.7193 4.51182 40.9584 5.06642C41.0438 5.0776 41.1288 5.09014 41.2132 5.104L41.2136 5.10203C46.4816 5.93436 52.3075 10.4525 50.2987 21.0973C48.8921 28.5507 42.8618 33.2223 39.0198 35.5954C37.7871 36.3568 36.1931 36.0059 35.31 34.8581C34.3161 33.5662 34.5982 31.7665 35.9428 30.8435C38.1765 29.3102 40.7995 27.2101 42.1865 23.41C42.6377 22.1739 42.8377 20.9907 42.8585 19.8832Z"></path>
+            </g>
+            
+             <g id="svg-arrow-right" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1575 9.99997L0.713871 10L0.713867 8L17.1574 7.99997L11.1503 1.99283L12.5645 0.578613L20.9859 9.00001L12.5645 17.4214L11.1503 16.0072L17.1575 9.99997Z" fill="currentColor"/>
+            </g>
+         
+
+        </defs>
+    </svg>
+
+            <div id="pageWrapper" class="page-layout">
+        <div class="page-layout__inner">
+                <div class="page-layout__header">
+                    
+
+<header class="header header_main-page header_old-layout"
+        data-header 
+        data-header-sticky="false">
+    <div class="header__inner">
+        <div class="header__item header__item_area-logo">
+                <div class="kontur-logo  kontur-logo_main" data-logo>
+        <span class="kontur-logo__item">    <img src="/theme/ver-2124752218/images/logo/kontur-36.svg" alt="Контур" width="106" height="36" class="kontur-logo-image"/>
+</span>
+    </div>
+
+        </div>
+        <nav class="header__item header__item_area-main-navigation">
+            
+
+
+<ul class="header-menu header-menu_align-right" aria-label="navigation" data-desktop-menu role="menubar">
+        <li
+            class="header-menu__item header-menu__item_desktop"
+            data-desktop-menu-item
+            data-id="b4df82c9-1acd-447a-b2bd-89b020936159"
+            data-type="simple"
+            role="none"
+            style="order: 0">
+                <a href="/products"
+       class="header-menu__link"
+       
+       
+       
+       role="menuitem"
+       tabindex="0">
+        Все продукты
+    </a>
+
+        </li>
+        <li
+            class="header-menu__item header-menu__item_desktop"
+            data-desktop-menu-item
+            data-id="34b70724-2bff-4d1e-a132-d5943c7ab6c6"
+            data-type="simple"
+            role="none"
+            style="order: 1">
+                <a href="/support"
+       class="header-menu__link"
+       
+       
+       
+       role="menuitem"
+       tabindex="0">
+        Техподдержка
+    </a>
+
+        </li>
+    
+    <li
+        class="header-menu__item header-menu__item_adaptive is-hidden"
+        data-flex-menu-parent
+        role="none"
+        style="order: 2">
+            <button
+        type="button"
+        class="header-menu__link header-menu__link_submenu-control"
+        data-header-submenu-control
+        data-id="78fdc3af-8609-4f50-8473-72ae6d1ca2a7"
+        aria-label="Контролл выпадающего десктопного меню"
+        tabindex="-1"
+        role="menuitem">
+        <span
+            data-flex-menu-toggle
+            data-locale="ru">
+            Ещё
+        </span>
+    </button>
+
+            <button
+        type="button"
+        class="burger "
+        data-header-submenu-control
+        data-id="78fdc3af-8609-4f50-8473-72ae6d1ca2a7"
+        aria-label="Контролл основного меню">
+        <span class="burger__top"></span>
+        <span class="burger__middle"></span>
+        <span class="burger__bottom"></span>
+    </button>
+
+            <div id="78fdc3af-8609-4f50-8473-72ae6d1ca2a7" class="header-flex-menu header-flex-menu_sm-align-right" data-flex-menu-popup hidden>
+        <ul class="header-flex-menu__body" data-flex-menu data-type="simple" role="tree">
+                <li class="header-flex-menu__group is-hidden" role="treeitem" data-flex-menu-item>
+                            <a href="/products"
+           
+           
+           class="header-flex-menu__item header-flex-menu__item_title"
+           role="menuitem">
+            Все продукты
+        </a>
+
+
+                </li>
+                <li class="header-flex-menu__group is-hidden" role="treeitem" data-flex-menu-item>
+                            <a href="/support"
+           
+           
+           class="header-flex-menu__item header-flex-menu__item_title"
+           role="menuitem">
+            Техподдержка
+        </a>
+
+
+                </li>
+        </ul>
+            <div class="header-flex-menu__footer">
+                
+
+
+<ul class="header-menu header-menu_target-buttons">
+                    <li class="header-menu__item">
+            <a class="header-menu__button header-menu__button_secondary" href="/enter">Вход в сервисы</a>
+        </li>
+        </ul>
+            </div>
+    </div>
+
+    </li>
+</ul>
+        </nav>
+            <div class="header__item header__item_area-target-buttons">
+                
+
+<ul class="header-menu header-menu_target-buttons" aria-label="Дополнительная навигация" data-target-buttons-menu>
+        
+
+
+<li class="header-menu__item header-menu__item_enter">
+    <a href="/enter"
+       id="entry-links-open-button"
+       data-id="9602873d-b9a1-47a0-a7e8-81214e011184"
+       data-entries-url="/ajax/products/entrylinks"
+       class="header-menu__button header-menu__button_secondary">
+        Вход в сервисы
+    </a>
+<!--noindex-->        <div id="9602873d-b9a1-47a0-a7e8-81214e011184" 
+             class="entry-links-block"
+             aria-live="assertive"
+             aria-labelledby="entry-links-close-button"
+             hidden>
+            <div class="entry-links-block__inner">
+                <button id="entry-links-close-button"
+                        aria-label="Закрыть"
+                        type="button" 
+                        class="entry-links-block__close"
+                        aria-haspopup="true" 
+                        aria-expanded="false">
+                    <svg width="32" height="32" viewBox="0 0 32 32">
+    <path d="M 0 0L 29.5 29.5" stroke-width="2" transform="translate(1.5 1)" stroke="currentColor"></path>
+    <path d="M 0 0L 29.5 29.5" stroke-width="2" transform="translate(31 1) scale(-1 1)" stroke="currentColor"></path>
+</svg>
+                </button>
+                <div class="entry-links-block__title">Вход в сервисы Контура</div>
+                <div class="entry-links-block__areas">
+                    <div class="entry-links-block__main-area" data-bind="content"></div>
+                    <div class="entry-links-block__extra-area">
+                        
+
+
+<div class="entry-links-block__list">
+    <div class="entry-links-block__list-item">
+        <a data-uses-opener href="https://cabinet.kontur.ru" target="_blank">Личный кабинет</a>
+    </div>
+    <div class="entry-links-block__list-item">
+        <a data-uses-opener href="https://kontur.ru/bonus/registration" target="_self">Бонусная программа</a>
+    </div>
+    <div class="entry-links-block__list-item">
+        <a data-uses-opener href="https://kontur.ru/account/partnership" target="_self">Кабинет партнера</a>
+    </div>
+            <div class="entry-links-block__list-item">
+                <a href="https://kontur.ru/account/registration?returnUrl=%2F" data-href="/" data-auth-default="registration">Регистрация</a>
+            </div>
+            <div class="entry-links-block__list-item">
+                    <a href="https://kontur.ru/account/login?returnUrl=%2F"
+       data-href="/"
+
+       
+       
+       class="">
+            <span class="visible-xs-inline">Вход</span>
+            <span class="hidden-xs">Войти</span>
+    </a>
+
+            </div>
+</div>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+<!--/noindex--></li>
+
+<link rel="stylesheet" href="/front/ver-797639941/build/css/enter-product/entry-links-block.css"/>
+<script type="text/javascript" src="/front/ver-797639941/build/js/enter-product/entry-links-block.js"></script>            </ul>
+            </div>
+    </div>
+</header>
+
+    <script
+        src="/theme/ver-2124752218/blocks/browser-update-toolbar/js/browser-update-toolbar.js"
+        data-update-browser-toolbar=".page-layout">
+    </script>
+
+                </div>
+                            <div class="page-layout__content">
+                    
+
+
+
+
+    <div class="home-visual">
+        <div class="home-visual__animation">
+<div class="main-visual__wrap">
+    <div class="main-visual" data-main-visial>
+        <div class="main-visual__table" data-background-retina="url(/Files/userfiles/image/slider/table-laptop@2x.png)"
+             data-background="url(/Files/userfiles/image/slider/table-laptop@1x.png)"
+        ></div>
+
+        <div data-frame="1" class="main-visual__frame">
+            <div class="main-visual__screen" data-background-retina="url(/Files/userfiles/image/slider/01-default/01-default-screen@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/01-default/01-default-screen@1x.png)"
+            ></div>
+            <div class="main-visual__cards" data-background-retina="url(/Files/userfiles/image/slider/01-default/01-default-cards@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/01-default/01-default-cards@1x.png)"
+            ></div>
+            <div class="main-visual__set" data-background-retina="url(/Files/userfiles/image/slider/01-default/01-default-items@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/01-default/01-default-items@1x.png)"
+            ></div>
+        </div>
+
+        <div data-frame="2" class="main-visual__frame">
+            <div class="main-visual__screen" data-background-retina="url(/Files/userfiles/image/slider/02-extern/02-extern-screen@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/02-extern/02-extern-screen@1x.png)"
+            ></div>
+            <div class="main-visual__cards" data-background-retina="url(/Files/userfiles/image/slider/02-extern/02-extern-cards@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/02-extern/02-extern-cards@1x.png)"
+            ></div>
+            <div class="main-visual__set" data-background-retina="url(/Files/userfiles/image/slider/02-extern/02-extern-items@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/02-extern/02-extern-items@1x.png)"
+            ></div>
+        </div>
+
+        <div data-frame="3" class="main-visual__frame">
+            <div class="main-visual__screen" data-background-retina="url(/Files/userfiles/image/slider/03-ip/03-ip-screen@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/03-ip/03-ip-screen@1x.png)"
+            ></div>
+            <div class="main-visual__cards" data-background-retina="url(/Files/userfiles/image/slider/03-ip/03-ip-cards@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/03-ip/03-ip-cards@1x.png)"
+            ></div>
+            <div class="main-visual__set" data-background-retina="url(/Files/userfiles/image/slider/03-ip/03-ip-items@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/03-ip/03-ip-items@1x.png)"
+            ></div>
+        </div>
+
+        <div data-frame="4" class="main-visual__frame">
+            <div class="main-visual__screen" data-background-retina="url(/Files/userfiles/image/slider/04-diadoc/04-diadoc-screen@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/04-diadoc/04-diadoc-screen@1x.png)"
+            ></div>
+            <div class="main-visual__cards" data-background-retina="url(/Files/userfiles/image/slider/04-diadoc/04-diadoc-cards@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/04-diadoc/04-diadoc-cards@1x.png)"
+            ></div>
+            <div class="main-visual__set" data-background-retina="url(/Files/userfiles/image/slider/04-diadoc/04-diadoc-items@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/04-diadoc/04-diadoc-items@1x.png)"
+            ></div>
+        </div>
+
+        <div data-frame="5" class="main-visual__frame">
+            <div class="main-visual__screen" data-background-retina="url(/Files/userfiles/image/slider/05-market/05-market-screen@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/05-market/05-market-screen@1x.png)"
+            ></div>
+            <div class="main-visual__cards" data-background-retina="url(/Files/userfiles/image/slider/05-market/05-market-cards@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/05-market/05-market-cards@1x.png)"
+            ></div>
+            <div class="main-visual__set" data-background-retina="url(/Files/userfiles/image/slider/05-market/05-market-items@2x.png)"
+                 data-background="url(/Files/userfiles/image/slider/05-market/05-market-items@1x.png)"
+            ></div>
+        </div>
+
+    </div>
+</div>                <script>
+                    Kontur.MainVisualAnimation.init();
+                </script>
+        </div>
+        <div class="home-visual__content">
+                <section class="content-block m-y-0" >
+            <div class="container">
+
+
+                    <h1 class="home-visual__title text-left">
+Экосистема <br/>продуктов <br/>для&nbsp;бизнеса
+                    </h1>
+                    <div class="reverse-on-mobile">
+    <div class="category-menu-list" aria-label="category-list" role="list">
+            <div class="category-menu-list__group">
+    <div class="category-menu-list__item" aria-label="category-list-item">
+            <a href="https://kontur.ru/products/reporting"
+               class="category-menu-list__link"
+               data-event-name="main-rubric-click-reporting"
+               >
+                Отчетность
+                <svg
+    id=""
+    width="26"
+    height="26"
+    viewBox="0 0 32 32"
+    class="category-menu-list__arrow"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-right"></use>
+</svg>
+
+
+            </a>
+    </div>
+    <div class="category-menu-list__item" aria-label="category-list-item">
+            <a href="https://kontur.ru/products/accounting"
+               class="category-menu-list__link"
+               data-event-name="main-rubric-click-accounting"
+               >
+                Бухучет, зарплата и&#160;кадры
+                <svg
+    id=""
+    width="26"
+    height="26"
+    viewBox="0 0 32 32"
+    class="category-menu-list__arrow"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-right"></use>
+</svg>
+
+
+            </a>
+    </div>
+    <div class="category-menu-list__item" aria-label="category-list-item">
+            <a href="https://kontur.ru/products/certificates"
+               class="category-menu-list__link"
+               data-event-name="main-rubric-click-certificates"
+               >
+                Электронная подпись
+                <svg
+    id=""
+    width="26"
+    height="26"
+    viewBox="0 0 32 32"
+    class="category-menu-list__arrow"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-right"></use>
+</svg>
+
+
+            </a>
+    </div>
+            </div>
+            <div class="category-menu-list__group">
+    <div class="category-menu-list__item" aria-label="category-list-item">
+            <a href="https://kontur.ru/products/check"
+               class="category-menu-list__link"
+               data-event-name="main-rubric-click-check"
+               >
+                Проверка контрагентов
+                <svg
+    id=""
+    width="26"
+    height="26"
+    viewBox="0 0 32 32"
+    class="category-menu-list__arrow"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-right"></use>
+</svg>
+
+
+            </a>
+    </div>
+    <div class="category-menu-list__item" aria-label="category-list-item">
+            <a href="https://kontur.ru/products/docs"
+               class="category-menu-list__link"
+               data-event-name="main-rubric-click-docs"
+               >
+                Электронный документооборот
+                <svg
+    id=""
+    width="26"
+    height="26"
+    viewBox="0 0 32 32"
+    class="category-menu-list__arrow"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-right"></use>
+</svg>
+
+
+            </a>
+    </div>
+    <div class="category-menu-list__item" aria-label="category-list-item">
+            <a href="https://kontur.ru/products/retail"
+               class="category-menu-list__link"
+               data-event-name="main-rubric-click-retail"
+               >
+                Торговля, онлайн‑кассы
+                <svg
+    id=""
+    width="26"
+    height="26"
+    viewBox="0 0 32 32"
+    class="category-menu-list__arrow"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-right"></use>
+</svg>
+
+
+            </a>
+    </div>
+            </div>
+            <div class="category-menu-list__group">
+    <div class="category-menu-list__item" aria-label="category-list-item">
+            <a href="https://kontur.ru/products/trades"
+               class="category-menu-list__link"
+               data-event-name="main-rubric-click-trades"
+               >
+                Торги и&#160;закупки
+                <svg
+    id=""
+    width="26"
+    height="26"
+    viewBox="0 0 32 32"
+    class="category-menu-list__arrow"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-right"></use>
+</svg>
+
+
+            </a>
+    </div>
+    <div class="category-menu-list__item" aria-label="category-list-item">
+            <a href="https://kontur.ru/products/business"
+               class="category-menu-list__link"
+               data-event-name="main-rubric-click-business"
+               >
+                Ведение бизнеса
+                <svg
+    id=""
+    width="26"
+    height="26"
+    viewBox="0 0 32 32"
+    class="category-menu-list__arrow"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-right"></use>
+</svg>
+
+
+            </a>
+    </div>
+    <div class="category-menu-list__item" aria-label="category-list-item">
+            <a href="https://kontur.ru/products/gis"
+               class="category-menu-list__link"
+               data-event-name="main-rubric-click-gis"
+               >
+                Работа с&#160;ГИС
+                <svg
+    id=""
+    width="26"
+    height="26"
+    viewBox="0 0 32 32"
+    class="category-menu-list__arrow"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-right"></use>
+</svg>
+
+
+            </a>
+    </div>
+    <div class="category-menu-list__item" aria-label="category-list-item">
+            <a href="https://kontur.ru/products/education"
+               class="category-menu-list__link"
+               data-event-name="main-rubric-click-education"
+               >
+                Обучение
+                <svg
+    id=""
+    width="26"
+    height="26"
+    viewBox="0 0 32 32"
+    class="category-menu-list__arrow"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-right"></use>
+</svg>
+
+
+            </a>
+    </div>
+            </div>
+    </div>
+
+
+                        
+                        <div class="mobile-horizontal-scrolled-box flagman-link-layout" data-home-hot-product-links>
+                            <div class="mobile-horizontal-scrolled-box__scroll-box">
+                                <div class="flagman-link-layout__inner">
+<a href="https://kontur.ru/extern" class="flagman-link" style="color: rgba(255, 128, 0, 0.3)" data-event-name="main-product-click-extern">
+    <img src="https://s.kontur.ru/common-v2/icons-products/extern/extern-32.svg" alt="">
+    <span>Экстерн</span>
+</a>
+<a href="https://kontur.ru/elba" class="flagman-link" style="color: rgba(30, 121, 190, 0.3)" data-event-name="main-product-click-elba">
+    <img src="https://s.kontur.ru/common-v2/icons-products/elba/elba-32.svg" alt="">
+    <span>Эльба</span>
+</a>
+<a href="https://kontur.ru/diadoc" class="flagman-link" style="color: rgba(0, 170, 144, 0.3)" data-event-name="main-product-click-diadoc">
+    <img src="https://s.kontur.ru/common-v2/icons-products/diadoc/diadoc-32.svg" alt="">
+    <span>Диадок</span>
+</a>
+<a href="https://kontur.ru/focus" class="flagman-link" style="color: rgba(0, 170, 144, 0.3)" data-event-name="main-product-click-focus">
+    <img src="https://s.kontur.ru/common-v2/icons-products/focus/focus-32.svg" alt="">
+    <span>Фокус</span>
+</a>
+<a href="https://kontur.ru/market" class="flagman-link" style="color: rgba(30, 121, 190, 0.3)" data-event-name="main-product-click-market">
+    <img src="https://s.kontur.ru/common-v2/icons-products/market/market-32.svg" alt="">
+    <span>Маркет</span>
+</a>
+<a href="https://kontur.ru/ofd" class="flagman-link" style="color: rgba(116, 184, 83, 0.3)" data-event-name="main-product-click-ofd">
+    <img src="https://s.kontur.ru/common-v2/icons-products/ofd/ofd-32.svg" alt="">
+    <span>ОФД</span>
+</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+<div class="mobile-horizontal-scrolled-box action-block__wrapper">
+    <div class="mobile-horizontal-scrolled-box__scroll-box action-block__list">
+    <div class="action-block action-block_md action-block_invert link-icon" style="color: #618AFF;">
+        <span class="action-block__inner">
+            <span class="action-block__label">Продукт</span>
+            <span class="action-block__title">Контур.CRM — интуитивно понятная система для управления продажами в малом и среднем бизнесе</span>
+            <span class="action-block__icon">
+                <img src="/Files/Modules/MainPageSlide/72_hr.svg?t=1632243346" alt="Контур.CRM — интуитивно понятная система для управления продажами в малом и среднем бизнесе" />
+            </span>
+        </span>
+        <a data-advertising-banner
+           data-show-event="event_slider_72_show"
+           data-event-name="event_slider_72_clicked"
+           href="https://kontur.ru/crm"
+           class="fullsize-link"></a>
+    </div>
+    <div class="action-block action-block_sm action-block_invert link-icon" style="color: #4FD8C3;">
+        <span class="action-block__inner">
+            <span class="action-block__label">Продукт</span>
+            <span class="action-block__title">Контур.Сайн – позволяет удаленно выпустить ЭЦП и&#160;обмениваться юридически значимыми документами</span>
+            <span class="action-block__icon">
+                <img src="/Files/Modules/MainPageSlide/74_hr.svg?t=1632321268" alt="Контур.Сайн – позволяет удаленно выпустить ЭЦП и&#160;обмениваться юридически значимыми документами" />
+            </span>
+        </span>
+        <a data-advertising-banner
+           data-show-event="event_slider_74_show"
+           data-event-name="event_slider_74_clicked"
+           href="/sign"
+           class="fullsize-link"></a>
+    </div>
+    <div class="action-block action-block_sm action-block_invert link-icon" style="color: #4FD8C3;">
+        <span class="action-block__inner">
+            <span class="action-block__label">Акция</span>
+            <span class="action-block__title">Контур.Диадок – отправка документов или&#160;интеграция с&#160;1С в&#160;подарок</span>
+            <span class="action-block__icon">
+                <img src="/Files/Modules/MainPageSlide/47_hr.svg?t=1524127923" alt="Контур.Диадок – отправка документов или&#160;интеграция с&#160;1С в&#160;подарок" />
+            </span>
+        </span>
+        <a data-advertising-banner
+           data-show-event="event_slider_49_show"
+           data-event-name="event_slider_49_clicked"
+           href="/diadoc/actions/313?from=mainpage"
+           class="fullsize-link"></a>
+    </div>
+    </div>
+</div>
+
+
+<script>
+    $(function() {
+        Kontur.Advertising.Banner.init();
+    });
+</script>
+
+
+
+                    </div>
+                     </div>
+
+    </section>
+
+        </div>
+    </div>
+
+
+
+                </div>
+                            <div class="page-layout__footer">
+                    
+
+<link rel="stylesheet" href="/front/ver-797639941/build/css/_common/footer-v2.css"/><script async type="text/javascript" src="/front/ver-797639941/build/js/_common/footer.js"></script>    <div class="footer">
+        <div class="footer__inner">
+            <div class="footer__nav">
+                
+
+<div class="footer-nav">
+        <div class="footer-nav__item">
+                <div class="footer-menu-title">
+        <button type="button"
+                class="arrow-control"
+                data-footer-collapse="70102c51-622e-45f8-bae0-e31a70685eb1">
+            <svg
+    id=""
+    width="18"
+    height="18"
+    viewBox="0 0 32 32"
+    class="arrow-control__item-open"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-down"></use>
+</svg>
+
+            <svg
+    id=""
+    width="18"
+    height="18"
+    viewBox="0 0 32 32"
+    class="arrow-control__item-close"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-up"></use>
+</svg>
+
+        </button>
+        <a href="/about"
+           class="footer-menu-title__link">
+            Компания
+        </a>
+    </div>
+
+            <ul id="70102c51-622e-45f8-bae0-e31a70685eb1" class="footer-menu" hidden>
+                    <li class="footer-menu__item">
+                            <a href="/about/info" class="footer-link">О&#160;компании</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/press/news" class="footer-link">Новости</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="https://kontur.ru/lp/konyukhov" class="footer-link">Кругосветка Конюхова</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/about/zakupki" class="footer-link">Наши закупки</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/about/contacts" class="footer-link">Контакты</a>
+    <button type="button"
+            data-lb-open-link
+            data-lb-selector="#main-contacts-lightbox"
+            data-lb-show-footer="false"
+            data-lb-auto-open="false">
+        <svg
+    id=""
+    width="16"
+    height="16"
+    viewBox="0 0 32 32"
+    class=""
+    role=&quot;img&quot;
+    
+    >
+    <use xlink:href="#svg-chevron-down"></use>
+</svg>
+
+    </button>
+
+                    </li>
+            </ul>
+        </div>
+        <div class="footer-nav__item">
+                <div class="footer-menu-title">
+        <button type="button"
+                class="arrow-control"
+                data-footer-collapse="d1e88613-d4b1-47fc-956f-7a3a51fdc654">
+            <svg
+    id=""
+    width="18"
+    height="18"
+    viewBox="0 0 32 32"
+    class="arrow-control__item-open"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-down"></use>
+</svg>
+
+            <svg
+    id=""
+    width="18"
+    height="18"
+    viewBox="0 0 32 32"
+    class="arrow-control__item-close"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-up"></use>
+</svg>
+
+        </button>
+        <a href="/career"
+           class="footer-menu-title__link">
+            Работа у&#160;нас
+        </a>
+    </div>
+
+            <ul id="d1e88613-d4b1-47fc-956f-7a3a51fdc654" class="footer-menu" hidden>
+                    <li class="footer-menu__item">
+                            <a href="/career/vacancies" class="footer-link">Вакансии</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/career/vacancies/conditions" class="footer-link">Кандидатам</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/education/programs" class="footer-link">IT-студентам</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/education/programs/intern" class="footer-link">Стажировка</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/praktika" class="footer-link">Практика</a>
+
+                    </li>
+            </ul>
+        </div>
+        <div class="footer-nav__item">
+                <div class="footer-menu-title">
+        <button type="button"
+                class="arrow-control"
+                data-footer-collapse="5fe58a6a-80c7-49e3-bdf3-1d8c517d794b">
+            <svg
+    id=""
+    width="18"
+    height="18"
+    viewBox="0 0 32 32"
+    class="arrow-control__item-open"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-down"></use>
+</svg>
+
+            <svg
+    id=""
+    width="18"
+    height="18"
+    viewBox="0 0 32 32"
+    class="arrow-control__item-close"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-up"></use>
+</svg>
+
+        </button>
+        <a href="/products"
+           class="footer-menu-title__link">
+            Продукты
+        </a>
+    </div>
+
+            <ul id="5fe58a6a-80c7-49e3-bdf3-1d8c517d794b" class="footer-menu" hidden>
+                    <li class="footer-menu__item">
+                            <a href="/products" class="footer-link">Все продукты</a>
+    <button type="button"
+            data-lb-open-link
+            data-lb-selector="#seo-products"
+            data-lb-show-footer="false"
+            data-lb-auto-open="false">
+        <svg
+    id=""
+    width="16"
+    height="16"
+    viewBox="0 0 32 32"
+    class=""
+    role=&quot;img&quot;
+    
+    >
+    <use xlink:href="#svg-chevron-down"></use>
+</svg>
+
+    </button>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/products/banks" class="footer-link">Банкам</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/business/big" class="footer-link">Крупному бизнесу</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/bonus" class="footer-link">Бонусная программа</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/products/new-ip-ooo?from=footer" class="footer-link">Новому бизнесу</a>
+
+                    </li>
+            </ul>
+        </div>
+        <div class="footer-nav__item">
+                <div class="footer-menu-title">
+        <button type="button"
+                class="arrow-control"
+                data-footer-collapse="13e22246-4a0e-4c8d-95f5-803463a03913">
+            <svg
+    id=""
+    width="18"
+    height="18"
+    viewBox="0 0 32 32"
+    class="arrow-control__item-open"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-down"></use>
+</svg>
+
+            <svg
+    id=""
+    width="18"
+    height="18"
+    viewBox="0 0 32 32"
+    class="arrow-control__item-close"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-up"></use>
+</svg>
+
+        </button>
+        <a href="/articles"
+           class="footer-menu-title__link">
+            Журнал
+        </a>
+    </div>
+
+            <ul id="13e22246-4a0e-4c8d-95f5-803463a03913" class="footer-menu" hidden>
+                    <li class="footer-menu__item">
+                            <a href="/articles/ideas" class="footer-link">Идеи для бизнеса</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/qa/new" class="footer-link">Вопрос эксперту</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/spravka" class="footer-link">Справочная</a>
+
+                    </li>
+            </ul>
+        </div>
+        <div class="footer-nav__item">
+                <div class="footer-menu-title">
+        <button type="button"
+                class="arrow-control"
+                data-footer-collapse="48ba2a60-590d-4ce3-a406-23ec61119054">
+            <svg
+    id=""
+    width="18"
+    height="18"
+    viewBox="0 0 32 32"
+    class="arrow-control__item-open"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-down"></use>
+</svg>
+
+            <svg
+    id=""
+    width="18"
+    height="18"
+    viewBox="0 0 32 32"
+    class="arrow-control__item-close"
+    
+    
+    >
+    <use xlink:href="#svg-chevron-up"></use>
+</svg>
+
+        </button>
+        <a href="/partnership"
+           class="footer-menu-title__link">
+            Партнёрство
+        </a>
+    </div>
+
+            <ul id="48ba2a60-590d-4ce3-a406-23ec61119054" class="footer-menu" hidden>
+                    <li class="footer-menu__item">
+                            <a href="/partnership/online" class="footer-link">Реферальная программа</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/partnership/sclegal" class="footer-link">Представитель</a>
+
+                    </li>
+                    <li class="footer-menu__item">
+                            <a href="/partnership/tools" class="footer-link">Инструменты</a>
+
+                    </li>
+            </ul>
+        </div>
+    <div class="footer-nav__item footer-nav__item_contacts">
+        <div class="footer-menu-title">
+            <a href="/support"
+               class="footer-menu-title__link">
+                Техподдержка
+            </a>
+        </div>
+            <ul class="footer-menu" data-footer-contacts>
+    <li class="footer-menu__item">
+        
+                <a href="tel:88005005080"
+                   
+                   class="footer-link" >
+8&nbsp;800&nbsp;500-50-80
+                </a>
+
+         
+    </li>
+    <li class="footer-menu__item">
+        
+                <button type="button" class="footer-link" data-support-callback-link>Заказать звонок</button>
+
+         
+    </li>
+    <li class="footer-menu__item">
+        
+                <button type="button" class="footer-link" data-support-chat-link>Написать в чат</button>
+
+         
+    </li>
+    <li class="footer-menu__item">
+        
+                <button type="button" class="footer-link" data-support-mail-link>Написать письмо</button>
+
+         
+    </li>
+    </ul>
+
+    </div>
+</div>
+
+
+
+            </div>
+            <div class="footer__service-area">
+                    <div class="footer-service-area footer-service-area_grid-variant-1">
+            <div class="footer-service-area__item footer-service-area__item_other">
+                
+                    <div class="footer-social-icon-wrapper">
+            <a href="https://vk.com/skbkontur"
+       class="footer-social-icon footer-social-icon_vkontakte"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Перейти на vkontakte">
+        <svg width="24" height="24" focusable="false" role="img" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" d="M0 8c0-4.41828 3.58172-8 8-8h8c4.4183 0 8 3.58172 8 8v8c0 4.4183-3.5817 8-8 8H8c-4.41828 0-8-3.5817-8-8V8Z"/>
+                    <path fill="#fff" d="M12.7827 16c-4.38033 0-6.87879-3.003-6.9829-8H7.994c.07207 3.6677 1.68965 5.2212 2.9709 5.5415V8h2.0662v3.1632C14.2963 11.027 15.6255 9.58559 16.074 8h2.0661c-.3444 1.95395-1.7858 3.3954-2.8108 3.988 1.025.4805 2.6667 1.7377 3.2913 4.012h-2.2743c-.4885-1.5215-1.7056-2.6987-3.3152-2.8589V16h-.2484Z"/>
+        </svg>
+    </a>
+
+            <a href="https://www.facebook.com/skbkontur"
+       class="footer-social-icon footer-social-icon_facebook"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Перейти на facebook">
+        <svg width="24" height="24" focusable="false" role="img" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" d="M0 8c0-4.41828 3.58172-8 8-8h8c4.4183 0 8 3.58172 8 8v8c0 4.4183-3.5817 8-8 8H8c-4.41828 0-8-3.5817-8-8V8Z"/>
+                    <path fill="#fff" d="m14.7374 13 .5-3H13V9c0-.67111-.0483-1.5.9682-1.5H15V5.16575S14.0636 5 13.1683 5C11.2992 5 10 6.05047 10 8.17733V10H8v3h2v6h3v-6h1.7374Z"/>
+        </svg>
+    </a>
+
+            <a href="https://ok.ru/skbkontur"
+       class="footer-social-icon footer-social-icon_odnoklassniki"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Перейти на odnoklassniki">
+        <svg width="24" height="24" focusable="false" role="img" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" d="M0 8c0-4.41828 3.58172-8 8-8h8c4.4183 0 8 3.58172 8 8v8c0 4.4183-3.5817 8-8 8H8c-4.41828 0-8-3.5817-8-8V8Z"/>
+                    <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.99203" d="m9.14404 17.9334 2.85626-2.8563 2.8562 2.8563"/><path stroke="#fff" stroke-linecap="round" stroke-width="1.99203" d="M8.74121 13.4087c.9403.5817 2.05879.919 3.25899.919 1.2002 0 2.3186-.3373 3.2589-.919"/><circle cx="12.0004" cy="8.51118" r="2.46137" stroke="#fff" stroke-width="1.99203"/>
+        </svg>
+    </a>
+
+            <a href="https://www.youtube.com/user/skbkontur2009"
+       class="footer-social-icon footer-social-icon_youtube"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Перейти на youtube">
+        <svg width="24" height="24" focusable="false" role="img" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" d="M0 8c0-4.41828 3.58172-8 8-8h8c4.4183 0 8 3.58172 8 8v8c0 4.4183-3.5817 8-8 8H8c-4.41828 0-8-3.5817-8-8V8Z"/>
+                    <path fill="#fff" fill-rule="evenodd" d="M16.6883 7.76869c.5164.14785.9229.58355 1.0609 1.13669C18 9.90808 18 12 18 12s0 2.092-.2508 3.0947c-.138.5531-.5445.9888-1.0609 1.1367C15.7525 16.5 12 16.5 12 16.5s-3.75252 0-4.68839-.2686c-.51627-.1479-.92291-.5836-1.06091-1.1367C6 14.092 6 12 6 12s0-2.09192.2507-3.09462c.138-.55314.54464-.98884 1.06091-1.13669C8.24748 7.5 12 7.5 12 7.5s3.7525 0 4.6883.26869ZM14.6615 12 10 14.0902V9.90967L14.6615 12Z" clip-rule="evenodd"/>
+        </svg>
+    </a>
+
+            <a href="https://www.instagram.com/skbkontur/"
+       class="footer-social-icon footer-social-icon_instagram"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="Перейти на instagram">
+        <svg width="24" height="24" focusable="false" role="img" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" d="M0 8c0-4.41828 3.58172-8 8-8h8c4.4183 0 8 3.58172 8 8v8c0 4.4183-3.5817 8-8 8H8c-4.41828 0-8-3.5817-8-8V8Z"/>
+                    <rect width="12.4926" height="12.4926" x="5.75391" y="5.75391" stroke="#fff" stroke-width="1.5" rx="3.25"/><circle cx="15.5" cy="8.50002" r=".824239" fill="#fff"/><circle cx="12.0004" cy="12.0102" r="2.49843" stroke="#fff" stroke-width="1.4"/>
+        </svg>
+    </a>
+
+        
+        
+    </div>
+
+                    <a href="https://kontur-inc.com" rel='noopener noreferrer nofollow' target='_blank' class="footer-change-lang">
+        <svg class="footer-change-lang__icon" width="16" height="16" viewBox="0 0 16 16" fill="none" focusable="false" role="img">
+                <defs>
+                    <path id="reuse-0" fill="#fff" d="M0 0h16v16H0z"/>
+                </defs>
+                <g clip-path="url(#a)">
+                    <mask id="b" width="16" height="16" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+                        <circle cx="8" cy="8" r="8" fill="#C4C4C4"/>
+                    </mask>
+                    <g mask="url(#b)">
+                        <use xlink:href="#reuse-0"/>
+                        <mask id="c" width="16" height="16" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+                            <path fill="#C4C4C4" d="M0 0h16v16H0z"/>
+                        </mask>
+                        <g mask="url(#c)">
+                            <path fill="#0059C6" d="M0 0v16h16V0H0Z"/><path fill="#fff" d="m-12.2619-2.12738-.0035 2.291947L3.46255 8.0228-12.261 15.874l-.0056 2.2511 4.52947.0055 15.72772-7.8482 15.75561 7.8483 4.5195.0027-.0001-2.2381L12.52 8.02282 28.2647.162884l.002-2.295374-4.5035-.00081L7.99055 5.76194-7.81102-2.12945l-4.45088.00207Z"/><path fill="#DE2038" d="m7.98217 8.02512 3.02103-.01088 17.2635 8.65186-.0283 1.4557L7.98217 8.02512ZM25.2069-2.13327l2.9276.00419L7.98054 8.02989l-.00135-1.52252L25.2069-2.13327ZM-3.66318 3.65779-12.2666-.656613V-2.1333L7.98486 8.02167l-2.98455.00392-8.66349-4.3678Zm11.64436 4.364v1.47668L-9.24448 18.1315l-3.01242.0019L7.98118 8.02179Z"/><path fill="#fff" d="M5.3334 0v5.33333h-9.6v5.33337h9.6V16h5.3333v-5.3333h9.9556V5.33333h-9.9556V0H5.3334Z"/><path fill="#DE2038" d="M6.40007 0v6.4H-4.2666v3.2H6.40007V16h3.19999V9.6H20.6223V6.4H9.60006V0H6.40007Z"/>
+                        </g><rect width="15" height="15" x=".5" y=".5" stroke="#ECECEC" rx="7.5"/>
+                    </g>
+                </g>
+                <defs>
+                    <clipPath id="a">
+                        <use xlink:href="#reuse-0"/>
+                    </clipPath>
+                </defs>
+        </svg>
+        <span class="footer-change-lang__text">In English</span>
+    </a>
+
+            </div>
+
+                <div class="footer-service-area__item footer-service-area__item_search">
+                    
+
+
+
+
+<form action="/search" class="footer-search" method="get">
+    <input 
+        type="text"
+        name="query"
+        class="footer-search__input" 
+        placeholder="Поиск по сайту"
+        autocomplete="off"
+        aria-label="Поиск по сайту"
+    />
+    <input 
+        type="hidden"
+        name="site"
+        value="portal"
+    />
+</form>
+                </div>
+
+        <div class="footer-service-area__item footer-service-area__item_info">
+            <div class="footer-companyname">©&nbsp;1988–2022 СКБ&nbsp;Контур</div>
+            <div class="footer-policy">
+    Используем cookies для&nbsp;корректной работы сайта, персонализации пользователей и&nbsp;других целей, предусмотренных
+    <a href="https://kontur.ru/about/policy" class="footer-policy__link" target="_blank" rel="noopener noreferrer nofollow">
+        политикой обработки персональных данных
+    </a>.
+</div>
+        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+
+
+<div hidden>
+    <div id="main-contacts-lightbox" class="region-choice-lightbox" data-event-name="footer-contacts">
+        <span class="h2">Выберите город</span>
+        <ul class="region-choice-lightbox__region-list">
+                <li class="region-choice-lightbox__region">
+                    <a class="text-bold" href="/about/contacts#5574">Казань</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5939">Набережные Челны</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5457">Екатеринбург</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5919">Москва</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6240">Санкт-Петербург</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5045">Абакан</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5112">Архангельск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5122">Астрахань</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5160">Барнаул</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5176">Белгород</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5192">Бердск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5256">Брянск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5989">Великий Новгород</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5320">Владивосток</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5321">Владикавказ</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5322">Владимир</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5326">Волгоград</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5329">Волжский</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5332">Вологда</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5339">Воронеж</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5521">Златоуст</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5541">Ижевск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5557">Иркутск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5582">Калининград</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5596">Камышин</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5660">Киров</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5688">Коломна</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5734">Краснодар</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5746">Красноярск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5780">Курган</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5828">Липецк</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5850">Магнитогорск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5878">Махачкала</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5928">Мурманск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5947">Нальчик</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5977">Нижний Новгород</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#5978">Нижний Тагил</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6012">Новосибирск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6069">Омск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6080">Оренбург</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6110">Пенза</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6120">Пермь</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6126">Петрозаводск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6128">Петропавловск-Камчатский</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6188">Псков</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6218">Ростов-на-Дону</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6232">Рязань</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6238">Самара</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6245">Саранск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6247">Саратов</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6816">Симферополь</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6334">Ставрополь</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6345">Стерлитамак</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6383">Тамбов</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6396">Тверь</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6425">Тольятти</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6429">Томск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6468">Тюмень</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6746">Ульяновск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6532">Уфа</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6542">Хабаровск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6545">Ханты-Мансийск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6584">Чебоксары</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6590">Челябинск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6615">Чита</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6675">Элиста</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6687">Южно-Сахалинск</a>
+                </li>
+                <li class="region-choice-lightbox__region">
+                    <a href="/about/contacts#6715">Ярославль</a>
+                </li>
+        </ul>
+            <div class="region-choice-lightbox__all-items">
+                <a href="/about/contacts#all">Все города</a>
+            </div>
+    </div>
+</div>
+
+<script>
+    $("#main-contacts-lightbox a").on("click", function() {
+        var urlWithHash = $(this).attr("href");
+        window.location = urlWithHash;
+        window.location.reload();
+    });
+</script><div hidden>
+    <div id="seo-products" class="region-choice-lightbox" data-event-name="footer-products">
+        <span class="h2">Продукты</span>
+        <ul class="region-choice-lightbox__region-list">
+                <li class="region-choice-lightbox__region">
+                        <a href="/elba">Эльба</a>   
+                </li>
+                <li class="region-choice-lightbox__region">
+                        <a href="/focus">Фокус</a>   
+                </li>
+                <li class="region-choice-lightbox__region">
+                        <a href="/extern">Экстерн</a>   
+                </li>
+                <li class="region-choice-lightbox__region">
+                        <a href="/diadoc">Диадок</a>   
+                </li>
+                <li class="region-choice-lightbox__region">
+                        <a href="/ca">Удостоверяющий центр</a>   
+                </li>
+                <li class="region-choice-lightbox__region">
+                        <a href="/bk">Бухгалтерия</a>   
+                </li>
+                <li class="region-choice-lightbox__region">
+                        <a href="/zakupki">Закупки</a>   
+                </li>
+                <li class="region-choice-lightbox__region">
+                        <a href="/market">Маркет</a>   
+                </li>
+                <li class="region-choice-lightbox__region">
+                        <a href="/medi">Страхование</a>   
+                </li>
+                <li class="region-choice-lightbox__region">
+                        <a href="/ofd">ОФД</a>   
+                </li>
+                <li class="region-choice-lightbox__region">
+                        <a href="/talk">Толк</a>   
+                </li>
+                <li class="region-choice-lightbox__region">
+                        <a href="/travel">Тревел</a>   
+                </li>
+        </ul>
+        <div class="region-choice-lightbox__all-items">
+            <a href="/products">Все продукты</a>
+        </div>
+    </div>
+</div>
+        <div id="LoginRegistrationLightboxContainer"
+             data-lightbox-url="/ajax/account/lightbox?returnUrl=%2F">
+        </div>
+
+
+
+<div hidden>
+    <div id="feedbackLightboxContent"
+         data-feedback-lightbox="{&quot;url&quot;:&quot;/ajax/feedback&quot;,&quot;linkSelector&quot;:&quot;.js-feedBack-lightbox-button&quot;,&quot;specialistGroup&quot;:null,&quot;autofocusInputSelector&quot;:&quot;[name=\u0022RequestFeedbackForm.SenderName\u0022]&quot;}">
+        
+    <div class="lightbox-title">Напишите нам</div>
+<form action="/feedback" class="form form-horizontal form_feedback-lightbox" data-event="feedback" method="post">    <div class="js-successMessage text none"></div>
+    <div>
+        <div class="message- red-color"><span class="field-validation-valid" data-valmsg-for="Form" data-valmsg-replace="true"></span></div>
+
+        <p>Заполните, пожалуйста, все поля.</p>
+        <input id="SpecialistGroup" name="SpecialistGroup" type="hidden" value="" />
+        <input id="RequestFeedbackForm_AdditionalInfo" name="RequestFeedbackForm.AdditionalInfo" type="hidden" value="Контур — экосистема продуктов для бизнеса " />
+        <div class="none"><input id="RequestFeedbackForm_Email" name="RequestFeedbackForm.Email" type="text" value="" /></div>
+        <input name="__RequestVerificationToken" type="hidden" value="MsL1MHJoyAraN8wDwNFgKuqZqyu8rAtn3eYp5SQMI-2qA5_PnWsYIYmI2iy2odMfAEZwAIFy7-r5NOJUuZH6sa0oatE1" />
+        <div class="form-row">
+            <div class="form-label-wrap">
+                <label class="form-label" for="RequestFeedbackForm_SenderName">Ваше имя:&nbsp;<span class="form-label-required">*</span></label>
+            </div>
+            <div class="form-input-wrap">
+                <input class="form-input" data-default-value="" data-val="true" data-val-requiredlocalized="Заполните поле" id="RequestFeedbackForm_SenderName" maxlength="255" name="RequestFeedbackForm.SenderName" type="text" value="" />
+                <span class="field-validation-valid" data-valmsg-for="RequestFeedbackForm.SenderName" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-label-wrap">
+                <label class="form-label" for="RequestFeedbackForm_Liame">Электронная почта:&nbsp;<span class="form-label-required">*</span></label>
+            </div>
+            <div class="form-input-wrap">
+                <input class="form-input" data-default-value="" data-val="true" data-val-emaillocalized="Некорректный адрес электронной почты" data-val-requiredlocalized="Заполните поле" id="RequestFeedbackForm_Liame" maxlength="255" name="RequestFeedbackForm.Liame" type="text" value="" />
+                <span class="field-validation-valid" data-valmsg-for="RequestFeedbackForm.Liame" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-label-wrap">
+                <label class="form-label" for="RequestFeedbackForm_Phone">Телефон:</label>
+            </div>
+            <div class="form-input-wrap">
+                <input class="form-input" data-default-value="" id="RequestFeedbackForm_Phone" maxlength="255" name="RequestFeedbackForm.Phone" type="text" value="" />
+                <span class="field-validation-valid" data-valmsg-for="RequestFeedbackForm.Phone" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-label-wrap">
+                <label class="form-label" for="RequestFeedbackForm_OrganizationTitle">Название организации:</label>
+            </div>
+            <div class="form-input-wrap">
+                <input class="form-input" id="RequestFeedbackForm_OrganizationTitle" maxlength="255" name="RequestFeedbackForm.OrganizationTitle" type="text" value="" />
+                <span class="field-validation-valid" data-valmsg-for="RequestFeedbackForm.OrganizationTitle" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-label-wrap">
+                <label class="form-label" for="RequestFeedbackForm_Inn">ИНН:</label>
+            </div>
+            <div class="form-input-wrap">
+                <input class="form-input form-input_inn" data-val="true" data-val-inn="Неверное значение поля" id="RequestFeedbackForm_Inn" maxlength="12" name="RequestFeedbackForm.Inn" type="text" value="" />
+                <span class="field-validation-valid" data-valmsg-for="RequestFeedbackForm.Inn" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-label-wrap">
+                <label class="form-label" for="RequestFeedbackForm_RegionId">Регион:&nbsp;<span class="form-label-required">*</span></label>
+            </div>
+            <div class="form-input-wrap">
+                <select class="form-input form-input_region" data-val="true" data-val-number="Неверное значение поля" data-val-requiredlocalized="Заполните поле" id="RequestFeedbackForm_RegionId" name="RequestFeedbackForm.RegionId"><option value="1">01 – Республика Адыгея</option>
+<option value="2">02 – Республика Башкортостан</option>
+<option value="3">03 – Республика Бурятия</option>
+<option value="4">04 – Республика Алтай</option>
+<option value="5">05 – Республика Дагестан</option>
+<option value="6">06 – Республика Ингушетия</option>
+<option value="7">07 – Республика Кабардино-Балкария</option>
+<option value="8">08 – Республика Калмыкия</option>
+<option value="9">09 – Республика Карачаево-Черкесия</option>
+<option value="10">10 – Республика Карелия</option>
+<option value="11">11 – Республика Коми</option>
+<option value="12">12 – Республика Марий Эл</option>
+<option value="13">13 – Республика Мордовия</option>
+<option value="14">14 – Республика Саха (Якутия)</option>
+<option value="15">15 – Республика Северная Осетия - Алания</option>
+<option selected="selected" value="16">16 – Республика Татарстан</option>
+<option value="17">17 – Республика Тыва</option>
+<option value="18">18 – Республика Удмуртия</option>
+<option value="19">19 – Республика Хакасия</option>
+<option value="20">20 – Республика Чечня</option>
+<option value="21">21 – Республика Чувашия</option>
+<option value="22">22 – Алтайский край</option>
+<option value="23">23 – Краснодарский край</option>
+<option value="24">24 – Красноярский край</option>
+<option value="25">25 – Приморский край</option>
+<option value="26">26 – Ставропольский край</option>
+<option value="27">27 – Хабаровский край</option>
+<option value="28">28 – Амурская область</option>
+<option value="29">29 – Архангельская область</option>
+<option value="30">30 – Астраханская область</option>
+<option value="31">31 – Белгородская область</option>
+<option value="32">32 – Брянская область</option>
+<option value="33">33 – Владимирская область</option>
+<option value="34">34 – Волгоградская область</option>
+<option value="35">35 – Вологодская область</option>
+<option value="36">36 – Воронежская область</option>
+<option value="37">37 – Ивановская область</option>
+<option value="38">38 – Иркутская область</option>
+<option value="39">39 – Калининградская область</option>
+<option value="40">40 – Калужская область</option>
+<option value="41">41 – Камчатский край</option>
+<option value="42">42 – Кемеровская область</option>
+<option value="43">43 – Кировская область</option>
+<option value="44">44 – Костромская область</option>
+<option value="45">45 – Курганская область</option>
+<option value="46">46 – Курская область</option>
+<option value="47">47 – Ленинградская область</option>
+<option value="48">48 – Липецкая область</option>
+<option value="49">49 – Магаданская область</option>
+<option value="50">50 – Московская область</option>
+<option value="51">51 – Мурманская область</option>
+<option value="52">52 – Нижегородская область</option>
+<option value="53">53 – Новгородская область</option>
+<option value="54">54 – Новосибирская область</option>
+<option value="55">55 – Омская область</option>
+<option value="56">56 – Оренбургская область</option>
+<option value="57">57 – Орловская область</option>
+<option value="58">58 – Пензенская область</option>
+<option value="59">59 – Пермский край</option>
+<option value="60">60 – Псковская область</option>
+<option value="61">61 – Ростовская область</option>
+<option value="62">62 – Рязанская область</option>
+<option value="63">63 – Самарская область</option>
+<option value="64">64 – Саратовская область</option>
+<option value="65">65 – Сахалинская область</option>
+<option value="66">66 – Свердловская область</option>
+<option value="67">67 – Смоленская область</option>
+<option value="68">68 – Тамбовская область</option>
+<option value="69">69 – Тверская область</option>
+<option value="70">70 – Томская область</option>
+<option value="71">71 – Тульская область</option>
+<option value="72">72 – Тюменская область</option>
+<option value="73">73 – Ульяновская область</option>
+<option value="74">74 – Челябинская область</option>
+<option value="75">75 – Забайкальский край</option>
+<option value="76">76 – Ярославская область</option>
+<option value="77">77 – Москва</option>
+<option value="78">78 – Санкт-Петербург</option>
+<option value="79">79 – Еврейская АО</option>
+<option value="83">83 – Ненецкий АО</option>
+<option value="86">86 – Ханты-Мансийский АО</option>
+<option value="87">87 – Чукотский АО</option>
+<option value="89">89 – Ямало-Ненецкий АО</option>
+<option value="91">91 – Республика Крым</option>
+<option value="92">92 – Севастополь</option>
+<option value="99">99 – Байконур</option>
+</select>
+                <span class="field-validation-valid" data-valmsg-for="RequestFeedbackForm.RegionId" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-label-wrap">
+                <label class="form-label" for="RequestFeedbackForm_Message">Вопрос:&nbsp;<span class="form-label-required">*</span></label>
+            </div>
+            <div class="form-input-wrap">
+                <textarea class="form-input" cols="80" data-val="true" data-val-requiredlocalized="Заполните поле" id="RequestFeedbackForm_Message" maxlength="4000" name="RequestFeedbackForm.Message" rows="5">
+</textarea>
+                <span class="field-validation-valid" data-valmsg-for="RequestFeedbackForm.Message" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+    </div>
+</form>
+    </div>
+</div>
+
+
+<div hidden>
+    <div id="tinyFeedbackLightboxContent" 
+         class="tinyFeedbackLightboxContent"
+         data-feedback-lightbox="{&quot;url&quot;:&quot;/ajax/tinyfeedback&quot;,&quot;linkSelector&quot;:&quot;.js-tiny-feedBack-lightbox-button&quot;,&quot;specialistGroup&quot;:null,&quot;specialistId&quot;:null,&quot;autofocusInputSelector&quot;:&quot;[name=\u0022Message\u0022]&quot;}"
+         data-event="feedback_lightbox">
+        <div class="lightbox-title">Напишите нам</div>
+<form action="/feedback" data-event="feedback" method="post">    <p>Предложение, замечание, просьба или вопрос.</p>
+    <div class="js-successMessage text none"></div>
+    <div class="form feedback-form">
+        <input data-val="true" data-val-number="Неверное значение поля" name="SpecialistId" type="hidden" value="" />
+        <input name="SpecialistGroup" type="hidden" value="" />
+        <input id="AdditionalInfo" name="AdditionalInfo" type="hidden" value="Контур — экосистема продуктов для бизнеса " />
+        <div class="none">
+            <input id="Emaile9f5485b-171a-4b0c-abfe-41d817407a04" name="Email" type="text" value="" />
+        </div>
+        <input name="__RequestVerificationToken" type="hidden" value="EqLzyab-3-d4rnqcVOeDaqIS0uME48wUz05SbzqDHvEqgeibk75TRcPvXkHiZbE4wKtVB94ibMdJZeDLpPFZ_Pildco1" />
+        <div class="form-row">
+            <div class="form-control-wrap">
+                <textarea class="form-input" cols="80" data-val="true" data-val-requiredlocalized="Заполните поле" id="Message5f1f9342-a0c6-4c26-9156-9e1f4ff48d72" maxlength="4000" name="Message" rows="5">
+</textarea>
+                <span class="field-validation-valid" data-valmsg-for="Message" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+        <div class="form-row">
+
+            <div class="form-label-wrap"><label class="form-label" for="Liame356b08ec-d9e9-4ef5-867d-4b702f51fd44">Электронная почта:&nbsp;</label></div>
+            <div class="form-input-wrap">
+                <input class="form-input" data-default-value="" data-val="true" data-val-emaillocalized="Некорректный адрес электронной почты" data-val-requiredlocalized="Заполните поле" id="Liame356b08ec-d9e9-4ef5-867d-4b702f51fd44" maxlength="255" name="Liame" type="text" value="" />
+                <span class="field-validation-valid" data-valmsg-for="Liame" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+    </div>
+</form>
+    </div>
+</div>
+
+                </div>
+        </div>
+    </div>
+
+
+        
+<div data-support-settings="{&quot;integrationId&quot;:&quot;kontur.ru&quot;,&quot;defaultIntegrationId&quot;:&quot;kontur.ru&quot;,&quot;segment&quot;:null,&quot;forceInitButton&quot;:false,&quot;marketingParams&quot;:{&quot;userId&quot;:null,&quot;productId&quot;:null},&quot;hashtagAsIntegrationId&quot;:false}"></div>
+<script defer type="text/javascript" src="/front/ver-797639941/build/js/support/support-center.js"></script>
+    <link rel="preload" href="/front/ver-797639941/build/css/support/support-center.css" as="style" onload="this.rel='stylesheet'" >
+    <link rel="stylesheet" href="/front/ver-797639941/build/css/support/support-center.css" media="print" onload="this.media='all'" >
+    <noscript><link rel="stylesheet" href="/front/ver-797639941/build/css/support/support-center.css"></noscript>
+
+        <script defer  src="https://s.kontur.ru/web-sites/libs/sentry/5.4.0/bundle.min.js" crossorigin="anonymous"  ></script> <script src="/script/partial/SentryInit?oC=Home&oA=Index" defer></script>
+
+        <script async type="text/javascript" src="/front/ver-797639941/build/js/_common/css-vars-ponyfill.js"></script>
+    </body>
+</html>
+
+
