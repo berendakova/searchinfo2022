@@ -1,2783 +1,449 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html lang="ru">
-<head> 
-<title>ЯПлакалъ</title> 
-<meta http-equiv="content-type" content="text/html; charset=utf-8"> 
-<meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="cache-control" content="no-cache">
-<meta http-equiv="Expires" content="0">
-<meta http-equiv="revisit-after" content="1 days">
-<meta name="referrer" content="no-referrer-when-downgrade">
-<meta name="description" content="ЯПлакалъ - развлекательное сообщество">
-<meta name="keywords" content="приколы, видео приколы, картинки, фотожаба, анекдоты, фото, флэш игры, креативы, красивые девушки, автоприколы, новости">
-<meta name="robots" content="index,follow">
-<meta name="author" content="Yaplakal.com">
-<meta name="organization" content="Yaplakal.com">
-<meta name="copyright" content="2004-2022 (с) Yaplakal.com">
-<meta name="document-state" content="dynamic">
-<meta name="yandex-verification" content="472cc94a6861b645">
-<meta name="yandex-verification" content="ff22d5950235db46">
-<meta name="pmail-verification" content="a388a0e3dda6f75dccf286e884b2a641">
-<meta name="google-site-verification" content="GpksY-RcMpLz6jDVDhctCZ2ce2W0diwGwtQb2U4tfig">
-<meta property="og:type" content="article">
-<meta property="og:site_name" content="Yaplakal.com — информационно-развлекательное сообщество">
-<meta property="article:author" content="https://www.facebook.com/yaplakalcom">
-<meta property="article:publisher" content="https://www.facebook.com/yaplakalcom">
-<meta property="og:title" content="ЯПлакалъ">
-<meta property="og:url" content="https://www.yaplakal.com/">
-<meta property="og:description" content="ЯПлакалъ - развлекательное сообщество">
-<meta property="og:image" content="//www.yaplakal.com/html/static/top-logo.png">
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://www.yaplakal.com/">
-<meta property="twitter:title" content="ЯПлакалъ">
-<meta property="twitter:description" content="ЯПлакалъ - развлекательное сообщество">
-<meta property="twitter:image" content="//www.yaplakal.com/html/static/top-logo.png">
-<meta property="twitter:site" content="yaplakalcom">
-<meta name="title" content="ЯПлакалъ">
-<meta name="apple-itunes-app" content="app-id=1139770709">
-<link rel="image_src" href="//www.yaplakal.com/html/static/top-logo.png">
-<link rel="alternate" type="application/rss+xml" title="Новости сайта ЯП" href="https://www.yaplakal.com/news.xml">
-<link rel="apple-touch-icon" sizes="57x57" href="/html/ico/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/html/ico/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/html/ico/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/html/ico/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/html/ico/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/html/ico/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/html/ico/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/html/ico/apple-touch-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="167x167" href="/html/ico/apple-touch-icon-167x167.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/html/ico/apple-touch-icon-180x180.png">
-<link rel="icon" type="image/png" href="/favicon.ico" sizes="16x16">
-<link rel="icon" type="image/png" href="/html/ico/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/html/ico/favicon-194x194.png" sizes="194x194">
-<link rel="icon" type="image/png" href="/html/ico/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="/html/ico/android-chrome-192x192.png" sizes="192x192">
-<link rel="icon" type="image/png" href="/html/ico/favicon-16x16.png" sizes="16x16">
-<link rel="manifest" href="/html/ico/manifest.json">
-<link rel="mask-icon" href="/html/ico/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="/html/ico/mstile-144x144.png">
-<meta name="theme-color" content="#ffffff">
-<link rel="canonical" href="https://www.yaplakal.com/"> 
-<link rel="StyleSheet" href="//www.yaplakal.com/html/static/style.css?41" type="text/css">
-<link rel="StyleSheet" href="//www.yaplakal.com/html/static/gif-player.css" type="text/css">
-<link rel="StyleSheet" href="//www.yaplakal.com/html/static/autocomplete.css" type="text/css">
-<!--[if IE]>
-<link rel="stylesheet" href="//www.yaplakal.com/html/static/ie.css" type="text/css">
-<![endif]-->
-<link rel="stylesheet" type="text/css" href="//www.yaplakal.com/html/static/brand-template.css"/>            <style type="text/css">
-            body{
-              background-color: #ffffff !important;
-              background-image: url("https://www.yapfiles.ru/uploads/branddata/6/4/4/header-446.jpg?1");
-            }            #footer{  
-            	background: transparent url("https://www.yapfiles.ru/uploads/branddata/6/4/4/footer-446.jpg?1") 50% 100% no-repeat;  
-              padding-bottom: 300px !important;
-            }a#clk-lt{
-	background: transparent url("https://www.yapfiles.ru/uploads/branddata/6/4/4/left-446.png") 100% 230px no-repeat !important;;
-  height: 1050px !important;;
-}a#clk-rt{
-	background: transparent url("https://www.yapfiles.ru/uploads/branddata/6/4/4/right-446.png") 0 230px no-repeat !important;;
-  height: 1050px !important;;
-}</style> 
-<script>
-    var isElementVisible = function(id) {
-        target = document.querySelector('#' + id);
-        var targetPosition = {
-                top: window.pageYOffset + target.getBoundingClientRect().top,
-                left: window.pageXOffset + target.getBoundingClientRect().left,
-                right: window.pageXOffset + target.getBoundingClientRect().right,
-                bottom: window.pageYOffset + target.getBoundingClientRect().bottom
-            },
-            windowPosition = {
-                top: window.pageYOffset,
-                left: window.pageXOffset,
-                right: window.pageXOffset + document.documentElement.clientWidth,
-                bottom: window.pageYOffset + document.documentElement.clientHeight
-            };
-        if (targetPosition.bottom > windowPosition.top && targetPosition.top < windowPosition.bottom && targetPosition.right > windowPosition.left && targetPosition.left < windowPosition.right) {
-            return true
-        } else {
-            return false
-        };
-    };
-</script>
-<script async src="https://yandex.ru/ads/system/header-bidding.js"></script>
-<script>
-var adfoxBiddersMap = {
-          "criteo": "739918",
-          "myTarget": "791539",
-          "betweenDigital": "813654",
-          "rtbhouse": "856599",
-          "bidvol": "1508509",
-          "relap": "1404880",
-          "sape": "1698495",
-          "buzzoola": "962407",
-          "segmento": "1551945"
-      };
-      var adUnits = [
-          {
-              "code": "MF_yaplakal.com_D_728x90",
-              "bids": [
-                  {
-                      "bidder": "criteo",
-                      "params": {
-                          "placementId": "1254436"
-                      }
-                  },
-                  {
-                      "bidder": "myTarget",
-                      "params": {
-                          "placementId": "241799"
-                      }
-                  },
-                  {
-                      "bidder": "betweenDigital",
-                      "params": {
-                          "placementId": "2495384"
-                      }
-                  },
-                  {
-                      "bidder": "rtbhouse",
-                      "params": {
-                          "placementId": 'SaMzWBU3C6uXF7AIQnfX'
-                      }
-                  },
-              ],
-              "sizes": [
-                  [
-                      728,
-                      90
-                  ]
-              ]
-          },
-          {
-              "code": "MF_yaplakalcom_D_970x200-Bottom",
-              "bids": [
-                  {
-                      "bidder": "criteo",
-                      "params": {
-                          "placementId": "1375522"
-                      }
-                  },
-                  {
-                      "bidder": "myTarget",
-                      "params": {
-                          "placementId": "367906"
-                      }
-                  },
-                  {
-                      "bidder": "betweenDigital",
-                      "params": {
-                          "placementId": "2828862"
-                      }
-                  },
-                  {
-                      "bidder": "bidvol",
-                      "params": {
-                          "placementId": "13734"
-                      }
-                  },
-                  {
-                      "bidder": "rtbhouse",
-                      "params": {
-                          "placementId": "v7Zs5WCKJ1FkAr6PdBow"
-                      }
-                  },
-                  {
-                      "bidder": "segmento",
-                      "params": {
-                          "placementId": "840"
-                      }
-                  }
-              ],
-              "sizes": [
-                  [
-                      970,
-                      200
-                  ],
-                  [
-                      970,
-                      90
-                  ]
-              ]
-          },
-          {
-              "code": "MF_yaplakal.com_D_240x400-1",
-              "bids": [
-                  {
-                      "bidder": "criteo",
-                      "params": {
-                          "placementId": "1283197"
-                      }
-                  },
-                  {
-                      "bidder": "myTarget",
-                      "params": {
-                          "placementId": "241807"
-                      }
-                  },
-                  {
-                      "bidder": "betweenDigital",
-                      "params": {
-                          "placementId": "2501377"
-                      }
-                  },
-                  {
-                      "bidder": "bidvol",
-                      "params": {
-                          "placementId": "13733"
-                      }
-                  },
-                  {
-                      "bidder": "relap",
-                      "params": {
-                          "placementId": "wf7-l06Pn2Se-vr6"
-                      }
-                  },
-                  {
-                      "bidder": "rtbhouse",
-                      "params": {
-                          "placementId": "dEhR3SlMjdWHVjJaPaWY"
-                      }
-                  },
-                  {
-                      "bidder": "buzzoola",
-                      "params": {
-                          "placementId": "707004"
-                      }
-                  },
-                  {
-                      "bidder": "sape",
-                      "params": {
-                          "placementId": "666887"
-                      }
-                  },
-                  {
-                      "bidder": "segmento",
-                      "params": {
-                          "placementId": "843"
-                      }
-                  }
-              ],
-              "sizes": [
-                  [
-                      240,
-                      400
-                  ],
-              ]
-          },
-          {
-              "code": "MF_yaplakalcom_D_240x400-2",
-              "bids": [
-                  {
-                      "bidder": "criteo",
-                      "params": {
-                          "placementId": "1261430"
-                      }
-                  },
-                  {
-                      "bidder": "myTarget",
-                      "params": {
-                          "placementId": "241805"
-                      }
-                  }, 
-                  {
-                      "bidder": "sape",
-                      "params": {
-                          "placementId": "666888"
-                      }
-                  },
-                  {
-                      "bidder": "buzzoola",
-                      "params": {
-                          "placementId": "707005"
-                      }
-                  },
-                  {
-                      "bidder": "segmento",
-                      "params": {
-                          "placementId": "842"
-                      }
-                  },
-                  {
-                      "bidder": "betweenDigital",
-                      "params": {
-                          "placementId": "2495386"
-                      }
-                  }
-              ],
-              "sizes": [
-                  [
-                      240,
-                      400
-                  ],
-              ]
-          },
-          {
-              "code": "MF_yaplakal.com_D_240x400-3",
-              "bids": [
-                  {
-                      "bidder": "criteo",
-                      "params": {
-                          "placementId": "1326567"
-                      }
-                  },
-                  {
-                      "bidder": "myTarget",
-                      "params": {
-                          "placementId": "245879"
-                      }
-                  },
-                  {
-                      "bidder": "betweenDigital",
-                      "params": {
-                          "placementId": "2515870"
-                      }
-                  },
-                  {
-                      "bidder": "bidvol",
-                      "params": {
-                          "placementId": "13731"
-                      }
-                  },
-                  {
-                      "bidder": "relap",
-                      "params": {
-                          "placementId": "cDExQZhZGuEb-fn5"
-                      }
-                  },
-                  {
-                      "bidder": "buzzoola",
-                      "params": {
-                          "placementId": "707006"
-                      }
-                  },
-                  {
-                      "bidder": "sape",
-                      "params": {
-                          "placementId": "666897"
-                      }
-                  },
-                  {
-                      "bidder": "segmento",
-                      "params": {
-                          "placementId": "841"
-                      }
-                  }
-              ],
-              "sizes": [
-                  [
-                      240,
-                      400
-                  ],
-              ]
-          },
-          {
-              "code": "MF_yaplakalcom_D_240x400",
-              "bids": [
-                  {
-                      "bidder": "criteo",
-                      "params": {
-                          "placementId": "1487075"
-                      }
-                  },
-                  {
-                      "bidder": "myTarget",
-                      "params": {
-                          "placementId": "241803"
-                      }
-                  },
-                  {
-                      "bidder": "buzzoola",
-                      "params": {
-                          "placementId": "1216491"
-                      }
-                  },
-                  {
-                      "bidder": "sape",
-                      "params": {
-                          "placementId": "666882"
-                      }
-                  },
-                  {
-                      "bidder": "segmento",
-                      "params": {
-                          "placementId": "844"
-                      }
-                  },
-                  {
-                      "bidder": "betweenDigital",
-                      "params": {
-                          "placementId": "3735051"
-                      }
-                  }
-              ],
-              "sizes": [
-                  [
-                      240,
-                      400
-                  ],
-              ]
-          },          
-      ];
-      var userTimeout = 1200;
-      window.YaHeaderBiddingSettings = {
-          biddersMap: adfoxBiddersMap,
-          adUnits: adUnits,
-          timeout: userTimeout
-      }; 
-</script>
-<script>window.yaContextCb = window.yaContextCb || []</script>
-<script src="https://yandex.ru/ads/system/context.js" async></script>
-<script async src="https://yastatic.net/pcode-dynamic/utils/ab-split.js"></script>
-<script src="//static.wi-fi.ru/mtt/banners/libs/1.5.1/all.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+  <title>Теоретический аспект профессионального выгорания педагогов | nauchforum.ru</title>
+  <meta name="robots" content="noindex"><meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Буланкина А.А. Теоретический аспект профессионального выгорания педагогов // XXIX Студенческая международная научно-практическая конференция «Гуманитарные науки. Студенческий научный форум»">
+<meta property="og:image" content="https://nauchforum.ru/themes/mix_and_match/images/logo.jpg" />
+<link rel="canonical" href="https://nauchforum.ru/studconf/gum/30/75187" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_4371039c69b8629c8f5152a51c652980_88.css" />
+    <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie8-fixes.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie8-fixes.css?n" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie7-fixes.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie7-fixes.css?n" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie6-fixes.css?n"/>
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie6-fixes.css?n"/>
+  <![endif]-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_9467b9fb9f2f6e62446dd1506332229a_34.js"></script>
 <script type="text/javascript">
-   window.loadAdvertAdnetic = function() {
-      var advertId2 = "adfox_container_Adnetic";
-      var newAdvertId2 = document.getElementById(advertId2);
-      newAdvertId2.id = advertId2 + (Math.random() * 100000).toFixed(0);
-              getAdfox2(newAdvertId2);   
-   };
-  
-   function getAdfox2(newAdvertId2) {
-      var adfoxSlotId_Adnetic = newAdvertId2.id;
-      
-      window.yaContextCb.push(()=>{
-          Ya.adfoxCode.create({
-              ownerId: 220463,
-              containerId: adfoxSlotId_Adnetic,
-              params: {
-                  p1: 'coati',
-                  p2: 'fqhi'
-              }
-          })
-      })
-   }
-
-     window.loadAdvert = function() {
-      console.log('infeed loaded');
-      var advertId = "adfox_container";
-      var newAdvertId = document.getElementById(advertId);
-      newAdvertId.id = advertId + (Math.random() * 100000).toFixed(0);
-  
-      SeedrPlayer({
-          container: newAdvertId,
-          desiredOffset: 50,
-          gid: "5e034b6c55299c29eb6b8914",
-          onError: function(e) {
-              getAdfox(newAdvertId);
-          }
-      });
-  };
-  
-  function getAdfox(newAdvertId) {
-      var adfoxSlotId = newAdvertId.id;
-
-      window.Ya.headerBidding.pushAdUnits([
-          {
-              code: adfoxSlotId,
-              sizes: [[600, 400],[550, 400]],
-              bids: [
-              {
-                      bidder: "myTarget",
-                      params: { placementId: "794491" }
-                  },
-                  {
-                      bidder: "betweenDigital",
-                      params: { placementId: "3918325" }
-                  },
-                  {
-                      bidder: "getintent",
-                      params: { placementId: "81_MF_yaplakal.com_D_InFeed_550x350" }
-                  },
-                  {
-                      bidder: "buzzoola",
-                      params: { placementId: "1219146" }
-                  },
-                  {
-                      bidder: "sape",
-                      params: { placementId: "666898" }
-                  },
-                  {
-                      bidder: "criteo",
-                      params: { placementId: "1520762" }
-                  }
-              ]
-          }
-      ]);
-     window.yaContextCb.push(()=>{
-       Ya.adfoxCode.create({
-         ownerId: 220463,
-         containerId: adfoxSlotId,
-         params: {
-           p1: 'cbvwd',
-           p2: 'fqin'
-        }
-      })
-    })
-  }
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"","slideshowStop":"","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%"},"cron":{"basePath":"\/poormanscron","runNext":1645972345}});
+//--><!]]>
 </script>
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link type="image/png" sizes="16x16" rel="icon" href="/favicon_16.png">
+    <link type="image/png" sizes="32x32" rel="icon" href="/favicon_32.png">
+    <link type="image/png" sizes="96x96" rel="icon" href="/favicon_96.png">
+    <link type="image/png" sizes="120x120" rel="icon" href="/favicon_120.png">
+
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" />
+
+    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        function getCookie(name) {
+            var matches = document.cookie.match(new RegExp(
+                "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+            ));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        }
+        ga('create', 'UA-36139972-1', 'auto');
+            </script>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,600,700&amp;subset=latin,cyrillic" rel="stylesheet" />
+
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-189650-dWQmR';</script>
+
+  <!-- Put this script tag to the <head> of your page -->
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?53"></script>
 <script type="text/javascript">
-      (function (a, b, c, d, e, f, g, h) {
-        g = b.createElement(c);
-        g.src = d;
-        g.type = "application/javascript";
-        g.async = !0;
-        h = b.getElementsByTagName(c)[0];
-        h.parentNode.insertBefore(g, h);
-        a[f] = [];
-        a[e] = function () {
-          a[f].push(Array.prototype.slice.apply(arguments));
-        }
-      })(window, document, "script", (document.location.protocol ===
-    "https:" ? "https:" : "http:") + "//cdn01.nativeroll.tv/js/seedr-player.min.js",
-    "SeedrPlayer", "seedrInit");
-</script><!-- Publisher tag - to integrate into HEAD of the website at once -->
-<script type='text/javascript' src='https://static.criteo.net/js/ld/publishertag.js' async></script>
-<script>
-window.Criteo = window.Criteo || {};
-window.Criteo.events = window.Criteo.events || [];
-
-function CriteoAdblock(containerid, zoneid) {
-  var abp_slot = document.getElementById(containerid);
-  Criteo.events.push(function() {
-    Criteo.DisplayAcceptableAdIfAdblocked({
-        "zoneid": zoneid,
-        "containerid": containerid,
-        "overrideZoneFloor": false
-        });
-        abp_slot.style.width = abp_slot.getAttribute("size").split("x")[0]+"px";
-        abp_slot.style.height = abp_slot.getAttribute("size").split("x")[1]+"px";
-        window.addEventListener("message", function (e) {
-        if (e.data && e.data == "criteo-adblock-passback-"+zoneid)
-              document.getElementById(containerid).style.display = "none";
-        else return;
-        }, false);
-    });
-}
+  VK.init({apiId: 3403539, onlyWidgets: true});
 </script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/jquery.cookie.js"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/jquery.autocomplete.js"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/jquery.flash.js"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/jquery.hotkeys.js?1"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/jquery.atooltip.js"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/jquery.sticky.js"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/jquery.gifplayer.js"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/jquery.simplemodal.js"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/common.js?12"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/logo.js"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/dropdown.js"></script>
-<script type="text/javascript" src="//www.yaplakal.com/html/md5.js"></script>
-<!--[if IE 6]><script type="text/javascript" src="//www.yaplakal.com/html/pngfix.js"></script><![endif]-->
-						<script type="text/javascript">
-						$(document).ready(function() {							$('body').append("<a href='//www.yaplakal.com/go/?http%3A%2F%2Fdl2.dyinglightgame.com%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dskin_buynow%26utm_term%3Dstatic' target='_blank' title='DYING LIGHT 2_Уже в продаже&#33;' style='position: absolute;' id='clk-lt'>&nbsp;</a>");						 
-              $('body').append("<a href='//www.yaplakal.com/go/?http%3A%2F%2Fdl2.dyinglightgame.com%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dskin_buynow%26utm_term%3Dstatic' target='_blank' title='DYING LIGHT 2_Уже в продаже&#33;' style='position: absolute;' id='clk-rt'>&nbsp;</a>");							$('#footer').append("<a href='//www.yaplakal.com/go/?http%3A%2F%2Fdl2.dyinglightgame.com%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dskin_buynow%26utm_term%3Dstatic' target='_blank' title='DYING LIGHT 2_Уже в продаже&#33;' style='position: absolute; display: block; text-decoration: none; bottom: 0; width: 100%; height: 300px;'><img src='//www.yaplakal.com/html/static/trans.gif' border='0'/></a>");brandingClkBind();              $("#footer-inner").removeClass("opacity50");
-							$("#footer-informer").addClass("opacity50");
-							$("#footer-counters").addClass("opacity50");
-						});                						function brandingClkBind(){
-							$('#clk-lt').css({
-								width: ($('#footer').width() - $('#footer-informer').width())/2
-							});
-							$('#clk-rt').css({
-								width: ($('#footer').width() - $('#footer-informer').width())/2
-							});
-						}
-						$(window).bind('resize scroll', brandingClkBind);</script><script type="text/javascript">
-	<!--
-	var user_key = hex_md5('5.3.144.174'+':'+navigator.userAgent+':'+navigator.platform+((typeof(screen)!='undefined') ? ':'+screen.width+'*'+screen.height+'*'+(screen.colorDepth ?	screen.colorDepth : screen.pixelDepth):''));
-  var p_videos = [];
-	$(document).ready(function() {
-    
-    if('desktop' == 'desktop'){
-      $("#prilipala").sticky({ 
-        topSpacing: 20,
-        bottomSpacing: 20
-      });
+  <script type="text/javascript" src="//vk.com/js/api/share.js?94" charset="windows-1251"></script>
 
-      $(window).bind('resize scroll ready', function(){
-          if($('#footer').position().top-$('body').scrollTop()<$('#prilipala').height()){
-            $('#prilipala').css({
-              top: -($('#prilipala').height()- ($('#footer').position().top-$('body').scrollTop()))
-            });
-          }
-      });
-    }
-  
-		$('.gif-player').gifPlayer();
-    
-    $("div[rel='yapfiles']").each(function( index ) {
-      p_videos.push($( this ).attr('id'));
-    });
-    
-    if(p_videos.length>0){
-      $(window).bind('scroll ready', loadVideos);    
-    }    
-	});
-    
-  function loadVideos() {
-    topOffset = $(window).scrollTop();
-
-    var vidz = [];
-    for (var key in p_videos) {
-      vidz[key] = p_videos[key];
-    }    
-
-    if(vidz.length>0){
-      vidz.forEach(function(item, i, vidz) {
-        blockOffset = $('#'+item).offset().top;
-        blockHeight = $('#'+item).innerHeight();
-        if(topOffset + window.innerHeight + 1 > blockOffset && topOffset < (blockOffset + blockHeight)){
-              p_videos.splice(p_videos.indexOf(item), 1);
-              $('#'+item).html('<iframe src="https://api.yapfiles.ru/get_player/?v='+item.replace(/^yfp\-[0-9]+\-/, "")+'" width="640" height="360" name="video_'+rand(100000,999999)+'" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>');
-              console.log(item.replace(/^yfp\-[0-9]+\-/, ""));
-        }
-      });
-    }
-  }
-  function closeApp(){
-    $('#android-app').hide();
-    //$.cookie("hide_app_sticker", 1);
-    $.cookie("hide_app_sticker", 1, { expires : 7, domain  : ".yaplakal.com" });    
-    return false;
-  }
-  function installApp(url){
-    window.open(url, '_blank');
-    $('#android-app').hide();
-    $.cookie("hide_app_sticker", 1, { expires : 365, domain  : ".yaplakal.com" });    
-    return false;
-  }
-	//-->
-</script>
-<!--[if IE 6]>
-<script type="text/javascript">
-	DD_belatedPNG.fix('#new-post, #slon-sell, #footer, #footer-informer, #footer-counters, #deniro, .opacity25, .opacity50');
-</script>
-<![endif]-->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156803565-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-156803565-1');
-</script>
 </head>
-<body>
 
-<div id="top-line" class="no-compress">							<a href="//www.yaplakal.com/go/?http%3A%2F%2Fdl2.dyinglightgame.com%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dskin_buynow%26utm_term%3Dstatic" title="DYING LIGHT 2_Уже в продаже&#33;" target="_blank" style="display: block;height: 230px;" id="header-flash"><img src="//www.yaplakal.com/html/static/trans.gif" border="0" width="1" height="1"/></a>              <noindex><img src='https://www.yapfiles.ru/ypxl/?fmt=4&id=446&rand=76229544' border='0' width='1' height='1' style="position: absolute; left: 0; top: 0;" rel='nofollow'/></noindex><script type="text/javascript">
-$(document).ready(function() {	
-if(!$.browser.msie){
-  $('#clk-lt').css({'position': 'fixed', 'left': 'auto'});
-  $('#clk-rt').css({'position': 'fixed', 'right': (document.body.clientWidth-1920>0 ? document.body.clientWidth-1920 : 0)/2+'px'});
-  $(window).bind('resize', function(e){ $('#clk-rt').css({'right': (document.body.clientWidth-1920>0 ? document.body.clientWidth-1920 : 0)/2+'px'}); });
-}
-});
-</script></div> 
-        <div id="1apr_sound" style="position: absolute; bottom: 0; right: 0; width: 1px; height: 1px;"></div>
-        <script type="text/javascript">
-            var voice_num = 1;
-            function loadVoice(){
-                $('#1apr_sound').html('<audio id="1apr_maxim" src="//www.yaplakal.com/html/static/voices/voice'+voice_num+'.mp3"></audio>');
-                document.getElementById("1apr_maxim").play();
-                voice_num++;
-                if(voice_num>5){ voice_num = 1; }
-                return false;
-            }
-        </script>
-	<script language="JavaScript" type="text/javascript">
-		var ajaxLoadImg = "<img src='//www.yaplakal.com/html/static/ajax-indicator.gif' width='16' height='16' border='0'/>";
-		var base_url = "//www.yaplakal.com";
-	</script>
-	<div id="header" class="no-compress">
-		<div id="header-container" class="opacity25">
-                        <div style="float: left; width: 200px;" id="top-logo" class="logo hide-and-seek-animals" data-image=""><a href="//www.yaplakal.com"  class="png" title="ЯПлакалъ" style="cursor: pointer;"><img src="//www.yaplakal.com/html/static/top-logo.png" border="0" hspace="0" vspace="0" alt="ЯПлакалъ" class="logo__img hide-and-seek-animals__logo"/></a></div>
-			<div id="user-box" style="float: right; width: 320px; position: relative; height: 100px; margin: 10px 0; overflow: hidden">
-							<div style="width: 320px; height: 82px; margin: 9px 0; position: absolute; top: 0; left: 0;" id="welcome-box" class="opacity50">
-				<a href="//www.yaplakal.com/act/Reg/CODE/00">Регистрация</a> и <a href="//www.yaplakal.com/act/Login/CODE/00/?return=">вход</a>
-			</div>
-			</div>
-			<div style="margin: 0 330px 0 220px;">
-				<div style="!height: 50px; padding: 20px 10px 0 10px; overflow-y: hidden;">
-					<form action="//www.yaplakal.com/index.php?act=Search&CODE=01" style="padding: 0; margin: 0;" method="POST" name="search_form" onsubmit="if(document.forms['search_form'].keywords.value==''){return false;}">
-						<input type="hidden" name="search_in" value="titles"/>
-						<input type="hidden" name="search_how" value="any"/>
-						<input type="hidden" name="forums[]" value="all"/>
-						<input type="hidden" name="searchsubs" value="1"/>
-						<div style="float: right; margin: 2px 0;">
-							<a href="#" class="cool-button" onclick="if(document.forms['search_form'].keywords.value=='Поиск…'){return false;}else{document.forms['search_form'].submit();}"><b>Найти</b></a>
-						</div>
-						<div style="margin-right: 80px; !margin-right: 0 !important; position: relative; zoom: 1;">
-							<input type="text" name="keywords" value="Поиск…" onfocus="if(this.value=='Поиск…'){this.value='';}" onblur="if(!this.value){this.value='Поиск…'};" size="15" id="global-search" class="std-input stretched" maxlength="255">
-							<div style="position: absolute; right: 0; top: 0;">
-								<span id="search-type-selector">Темы</span>
-								
-							</div>
-						</div>
-						<input type="submit" class="fake">
-					</form>
-				</div>
-				<div id="search-image-select">
-					<form action="//www.yaplakal.com/index.php?act=Search&CODE=02" style="padding: 0; margin: 0;" method="POST" name="image_search_form" enctype="multipart/form-data">
-						<input type="hidden" name="forums[]" value="all"/>
-						<input type="hidden" name="searchsubs" value="1"/>
-						<b>Поиск по картине</b>
-						<p class="desc">Поиск изображения по сайту</p>
-						<div style="padding-bottom: 10px;">
-							<div style="float: left;"><a href="#" onclick="return selectUrl();" id="url_image_link" class="active">Указать ссылку</a> | </div>
-							<div style="float: left; position: relative; width: 150px;">
-								<input type="file" name="image_file" value="" size="6" id="search_image_file_input" style="-moz-opacity: 0; filter:alpha(opacity: 0); opacity: 0; z-index: 2; position: relative; height: 15px; width: 105px;" onchange="selectFile(this.value);" onkeyup="selectFile(this.value);" onkeydown="selectFile(this.value);">
-								<div style="position: absolute; top: 0; left: 0; z-index: 1;">
-									<a href="#" onclick="$('#search_image_file_input').click();" class="float-layer" id="upload_image_link">Загрузить файл</a>
-								</div>
-							</div>
-							<div style="clear: both;"></div>
-						</div>
-						<input type="text" name="image_url" id="image_url" class="std-input" style="width: 430px; !width: 400px;">
-						<input type="submit" name="ok_btn" value="Найти" class="std-input"/>
-					</form>
-				</div>
-				<div style="text-align: left; padding: 0 10px 5px 10px;">
-					<a href="//www.yaplakal.com/act/Search/forum/" id="super-search">Крутой поиск баянов</a>
-				</div>
-				<div style="display: none; position: absolute;" id="type-list">
-					<ul class="cat-list">
-						<li rel="s_all"><a href="#" onclick="return pickSearchType('all', this.innerHTML);">Везде</a></li>
-						<li rel="s_titles" style="padding-left: 10px;"><a href="#" onclick="return pickSearchType('titles', this.innerHTML);" class="active">Темы</a></li>
-						<li rel="s_posts" style="padding-left: 10px;"><a href="#" onclick="return pickSearchType('posts', this.innerHTML);">Комментарии</a></li>
-						<li rel="s_video"><a href="#" onclick="return pickSearchType('video', this.innerHTML);">Видео</a></li>
-					</ul>
-				</div>
-				<script type="text/javascript">
-					<!--
-					at_attach("search-type-selector", "type-list", "click", "y", "pointer", "");
-					//-->
-				</script>
-				<div style="float: right; padding: 0 10px; height: 25px;">
-						<a href="//www.yaplakal.com/act/Reg/CODE/reval" title="Выслать повторно письмо для активации профиля"><img src="//www.yaplakal.com/html/static/get-confirm.gif" width="16" height="16" border="0" align="absmiddle" hspace="5"/></a>
-						<!--<a href="#" onclick="return bookmarksite();" title="Добавить в избранное"><img src="//www.yaplakal.com/html/static/favorites.gif" width="16" height="16" border="0" align="absmiddle" hspace="0"/></a>//-->
-						<a href="//www.yaplakal.com/news.xml" title="RSS-лента новостей"><img src="//www.yaplakal.com/html/static/rss.gif" width="16" height="16" border="0" align="absmiddle" hspace="5"/></a>
-						<!--<noindex><a href="http://yaplakal.livejournal.com" target="_blank" title="Трансляция в ЖЖ" rel="nofollow"><img src="//www.yaplakal.com/html/static/livejournal.gif" width="16" height="16" border="0" align="absmiddle" hspace="0"/></a></noindex>//-->
-				</div>
-				<div style="height: 40px; padding: 0 10px;">
-					<ul id="sub-menu">
-						<li style="float: left;"><a href="//www.yaplakal.com/forum16/topic106064.html">О сайте</a></li>
-						
-						<li style="float: left;"><a href="//www.yaplakal.com/act/Search/CODE/getactive/">Активные темы</a></li>
-						
-						<li style="float: left;"><a href="//www.yaplakal.com/act/Help/">Помощь</a></li>
-						<li style="float: left;"><a href="//www.yaplakal.com/?act=boardrules">Правила</a></li>
-						<li style="float: left;"><a href="//www.yaplakal.com/adv/">Реклама</a></li>
-					</ul>
-				</div>
-				<div style="clear: both;"></div>
-			</div>
-			<div style="clear: both;"></div>
-		</div>
-	</div>
-	<div id="menu-container" class="no-compress">
-			<div id="main-menu" class="no-wrap">
-		<a href="//www.yaplakal.com" id="home-button" title="На главную">&nbsp;</a>
-		<a href="//www.yaplakal.com/click/?http%3A%2F%2Fwww.facebook.com%2Fyaplakalcom" id="facebook-button" title="Like This!" target="_blank">&nbsp;</a>
-		<a href="//www.yaplakal.com/forum/">Разделы</a>
-				<a href="#" class="drop-down-menu" id="cat-2">Лента</a>
-		<a href="#" class="drop-down-menu" id="cat-5">Общение</a>
-		<a href="#" class="drop-down-menu" id="cat-3">Хаос</a>
+<body id="pid-studconf-gum-30-75187" class="not-front not-logged-in page-node node-type-article no-sidebars i18n-ru full-node layout-main sidebars-split font-size-16 grid-type-960 grid-width-16 gray green-accents gray-footer green-headers default-links default-corners">
+	<div id="container">
+		<div id="header" class="header full-width ">
+			<div id="header-group-inner" class="header-group-inner inner clearfix">
+                <div id="logo">
+                    <a href="/" title="Главная"></a>
+                                    </div>
+	           	<div id="search-box" class="search-box block">
+<div id="search-box-inner" class="search-box-inner inner clearfix">
+<form action="/studconf/gum/30/75187"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search">
+  <div id="search-input">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-header" size="15" title="Введите ключевые слова для поиска." value="" placeholder="Поиск по сайту..." class="form-text" />
+  </div>
 
-		<noindex><a href="//inkubator.yaplakal.com" style="color: #FFFF2A;" rel="nofollow">Инкубатор</a></noindex>
-		<!--a href="//www.yaplakal.com/forum26/topic74829.html">Рубрикатор</a//-->
-		<noindex><a href="//art.yaplakal.com" rel="nofollow">Арт</a></noindex>
-		<a href="//www.yapfiles.ru" target="_blank">ЯП Файлы</a>
-		<a href="https://www.yaplakal.com/go/?https://t.me/yaplakal" rel="nofollow" style="color:#edffff; background: transparent url('https://www.yapfiles.ru/files/2632787/test1.png')5px 50% no-repeat; padding-left: 25px;" target="_blank">ЯП-Telegram</a>
-		<a href="//www.yaplakal.com/act/Post/CODE/00/forum3/" id="new-post" title="Добавить прикол"><b>Новый пост</b></a>
-	</div>
-	<div style="clear: both;"></div>
-		<ul class="drop-menu no-wrap" id="menu-cat-2" style="display: none; position: absolute;">
-		<li><a href="//www.yaplakal.com/forum2/">Картинки</a></li>
-		<li><a href="//www.yaplakal.com/forum28/">Видео</a></li>
-		<li><a href="//www.yaplakal.com/forum1/">События</a></li>
-		<li><a href="//www.yaplakal.com/forum11/">Авто/Мото</a></li>
-		<li><a href="//www.yaplakal.com/forum13/">Зверье</a></li>
-		<li><a href="//www.yaplakal.com/forum18/">Двигатель Торговли</a></li>
-		<li><a href="//www.yaplakal.com/forum43/">Фотопутешествия</a></li>
-		<li><a href="//www.yaplakal.com/forum7/">Тексты</a></li>
-		<li><a href="//www.yaplakal.com/forum27/">Фотожаба</a></li>
-		<li><a href="//www.yaplakal.com/forum6/">Креативы</a></li>
-		<li><a href="//www.yaplakal.com/forum40/">ЯП Издательство</a></li>
-		<li><a href="//www.yaplakal.com/forum8/">Игры Онлайн</a></li>
-		<li><a href="//www.yaplakal.com/forum41/">Поэзия</a></li>
-		<li><a href="//www.yaplakal.com/forum38/">Весёлая рифма</a></li>
-		<li><a href="//www.yaplakal.com/forum9/">Золото</a></li>
-		<li><a href="//www.yaplakal.com/forum26/">Коллекция</a></li>
-		<li><a href="//www.yaplakal.com/forum16/">ЯП-Обзор</a></li>
-		<li><a href="//www.yaplakal.com/forum46/">Строительство</a></li>
-	</ul>
-  <script type="text/javascript" language="JavaScript">
-  	at_attach("cat-2", "menu-cat-2", "click", "y", "pointer");
-	</script>
-	<ul class="drop-menu no-wrap" id="menu-cat-5" style="display: none; position: absolute;">
-		<li><a href="//www.yaplakal.com/forum14/">Беседы</a></li>
-		<li><a href="//www.yaplakal.com/forum32/">ЭВМ</a></li>
-		<li><a href="//www.yaplakal.com/forum44/">Барахолка</a></li>
-		<li><a href="//www.yaplakal.com/forum45/">Цех ЯП-творчества</a></li>
-		<li><a href="//www.yaplakal.com/forum29/">Кинематограф</a></li>
-		<li><a href="//www.yaplakal.com/forum31/">Крутятся Диски</a></li>
-		<li><a href="//www.yaplakal.com/forum42/">Игры</a></li>
-		<li><a href="//www.yaplakal.com/forum30/">Кулинария</a></li>
-		<li><a href="//www.yaplakal.com/forum24/">Спорт</a></li>
-		<li><a href="//www.yaplakal.com/forum37/">Поздравления</a></li>
-	</ul>
-  <script type="text/javascript" language="JavaScript">
-  	at_attach("cat-5", "menu-cat-5", "click", "y", "pointer");
-	</script>
-	<ul class="drop-menu no-wrap" id="menu-cat-3" style="display: none; position: absolute;">
-		<li><a href="//www.yaplakal.com/forum3/">Инкубатор</a></li>
-		<li><a href="//www.yaplakal.com/forum5/">Работа сайта</a></li>
-		<li><a href="//www.yaplakal.com/forum23/">Склад баянов</a></li>
-		<li><a href="//www.yaplakal.com/forum47/">Реклама</a></li>
-	</ul>
-  <script type="text/javascript" language="JavaScript">
-  	at_attach("cat-3", "menu-cat-3", "click", "y", "pointer");
-	</script>
+  <div id="search-button">
+    <input type="submit" name="op" value="" id="edit-submit-2" class="searchButton"  alt="Поиск" />
+  </div>
 
-	</div>
-	<div align="center" id="content">
-	  <div id="ipbwrapper">
-	  	<div id="content-inner"> 
-<br /> 
+  <input type="hidden" name="form_build_id" id="form-010aa5b73cb693d5d81a7bc1fa7e19db" value="form-010aa5b73cb693d5d81a7bc1fa7e19db"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div><!-- /search-box-inner -->
+</div><!-- /search-box -->
+								<div class="info">
+					<span class="phone"><a href="tel:+74999389466"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="22px" height="22px" viewBox="0 0 16.877 16.877" style="enable-background:new 0 0 16.877 16.877;" xml:space="preserve"><path d="M5.301,5.587L1.404,1.688c0.503-0.503,1.005-1.007,1.509-1.511C3.146-0.056,3.522-0.06,3.756,0.17l3.036,3.039   c0.232,0.232,0.232,0.614-0.003,0.848L6.124,4.721L5.505,5.34C5.429,5.417,5.36,5.499,5.301,5.587z M8.507,11.938   c-0.638-0.549-1.25-1.132-1.844-1.725C6.07,9.616,5.489,9.006,4.939,8.365c-0.45-0.52-0.538-1.273-0.303-1.907L0.636,2.457   c-0.931,0.957-0.812,3.33,0.208,5.415c0.438,0.902,1.006,1.716,1.593,2.49c0.586,0.768,1.229,1.494,1.906,2.176   c0.679,0.681,1.401,1.327,2.171,1.913c0.774,0.589,1.59,1.153,2.486,1.59c2.088,1.019,4.462,1.131,5.418,0.199l-4.001-4.001   C9.783,12.474,9.029,12.387,8.507,11.938z M16.702,13.119l-3.036-3.037c-0.233-0.23-0.615-0.23-0.848,0.003h-0.002l-0.667,0.666   l-0.615,0.618c-0.076,0.076-0.159,0.143-0.247,0.205l3.896,3.898c0.504-0.505,1.007-1.007,1.512-1.51   C16.93,13.729,16.935,13.352,16.702,13.119z" fill="#FFFFFF"/></svg>+7 (499) 938-94-66</a></span>
+					<span class="mail"><a href="mailto:mail@nauchforum.ru"><svg width="22px" height="14px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.98 30.08"><path d="M959.55,543h0a1.72,1.72,0,0,0,.94-0.28l0.07,0,0.05,0,0.85-.71,20.45-16.87a0.24,0.24,0,0,0-.19-0.1h-44.5a0.23,0.23,0,0,0-.15.05l21.4,17.63a1.68,1.68,0,0,0,1.06.35h0ZM937,527.39v25L952.33,540Zm29.67,12.72L982,552.41V527.47Zm-4.87,4a3.65,3.65,0,0,1-4.5,0l-3.51-2.89L937,554.8v0a0.24,0.24,0,0,0,.24.24h44.5a0.24,0.24,0,0,0,.23-0.24v0L965.2,541.32Zm0,0" transform="translate(-937 -525)"/></svg>mail@nauchforum.ru</a></span>
+                    <span class="whatsapp"><a href="https://wa.me/74999389466"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.00401338 20L1.35601 15.032C0.465151 13.5049 -0.00289063 11.768 1.34322e-05 10C1.34322e-05 4.477 4.47701 0 10 0C15.523 0 20 4.477 20 10C20 15.523 15.523 20 10 20C8.23279 20.0029 6.49667 19.5352 4.97001 18.645L0.00401338 20ZM6.39101 5.308C6.26188 5.31602 6.13569 5.35003 6.02001 5.408C5.91153 5.46943 5.81251 5.54622 5.72601 5.636C5.60601 5.749 5.53801 5.847 5.46501 5.942C5.09542 6.423 4.89662 7.01342 4.90001 7.62C4.90201 8.11 5.03001 8.587 5.23001 9.033C5.63901 9.935 6.31201 10.89 7.20101 11.775C7.41501 11.988 7.62401 12.202 7.84901 12.401C8.9524 13.3725 10.2673 14.073 11.689 14.447L12.258 14.534C12.443 14.544 12.628 14.53 12.814 14.521C13.1053 14.506 13.3896 14.4271 13.647 14.29C13.778 14.2225 13.9058 14.1491 14.03 14.07C14.03 14.07 14.073 14.042 14.155 13.98C14.29 13.88 14.373 13.809 14.485 13.692C14.568 13.606 14.64 13.505 14.695 13.39C14.773 13.227 14.851 12.916 14.883 12.657C14.907 12.459 14.9 12.351 14.897 12.284C14.893 12.177 14.804 12.066 14.707 12.019L14.125 11.758C14.125 11.758 13.255 11.379 12.724 11.137C12.668 11.1126 12.608 11.0987 12.547 11.096C12.4786 11.089 12.4095 11.0967 12.3443 11.1186C12.2791 11.1405 12.2193 11.1761 12.169 11.223V11.221C12.164 11.221 12.097 11.278 11.374 12.154C11.3325 12.2098 11.2754 12.2519 11.2098 12.2751C11.1443 12.2982 11.0733 12.3013 11.006 12.284C10.9409 12.2666 10.877 12.2445 10.815 12.218C10.691 12.166 10.648 12.146 10.563 12.109L10.558 12.107C9.98592 11.8572 9.45624 11.5198 8.98801 11.107C8.86201 10.997 8.74501 10.877 8.62501 10.761C8.23159 10.3842 7.88873 9.95801 7.60501 9.493L7.54601 9.398C7.50364 9.33416 7.46937 9.2653 7.44401 9.193C7.40601 9.046 7.50501 8.928 7.50501 8.928C7.50501 8.928 7.74801 8.662 7.86101 8.518C7.9551 8.39832 8.04289 8.27382 8.12401 8.145C8.24201 7.955 8.27901 7.76 8.21701 7.609C7.93701 6.925 7.64701 6.244 7.34901 5.568C7.29001 5.434 7.11501 5.338 6.95601 5.319C6.90201 5.313 6.84801 5.307 6.79401 5.303C6.65972 5.29633 6.52515 5.29766 6.39101 5.307V5.308Z" fill="#521818"/></svg>WhatsApp <span>+7 (499) 938-94-66</span></a></span>
+				</div>
+									<div id="nav-icon">
+					  <span></span>
+					  <span></span>
+					  <span></span>
+					  <span></span>
+					</div>
+					<div id="header-menu">
+						<div id="search-box" class="search-box block">
+<div id="search-box-inner" class="search-box-inner inner clearfix">
+<form action="/studconf/gum/30/75187"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search">
+  <div id="search-input">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-header" size="15" title="Введите ключевые слова для поиска." value="" placeholder="Поиск по сайту..." class="form-text" />
+  </div>
+
+  <div id="search-button">
+    <input type="submit" name="op" value="" id="edit-submit-2" class="searchButton"  alt="Поиск" />
+  </div>
+
+  <input type="hidden" name="form_build_id" id="form-010aa5b73cb693d5d81a7bc1fa7e19db" value="form-010aa5b73cb693d5d81a7bc1fa7e19db"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div><!-- /search-box-inner -->
+</div><!-- /search-box -->
+						<div id="block-menu-menu-main-menu" class="block block-menu odd first last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<ul class="menu"><li class="expanded first"><span>Конференции</span><ul class="menu"><li class="leaf first"><a href="/conf" title="">Научные конференции</a></li>
+<li class="leaf last"><a href="/studconf" title="">Студенческие конференции</a></li>
+</ul></li>
+<li class="expanded"><span>Журналы</span><ul class="menu"><li class="leaf first"><a href="/journal/stud" title="">Журнал «Студенческий форум»</a></li>
+<li class="leaf last"><a href="/journal/universum" title="">Научные журналы «Universum»</a></li>
+</ul></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-rinc" title="">РИНЦ</a></li>
+<li class="expanded"><span>ВАК</span><ul class="menu"><li class="leaf first"><a href="/publikaciya-v-zhurnalah-vak" title="">Публикация ВАК</a></li>
+<li class="leaf"><span>Специальные предложения:</span></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-vak/ekonomicheskie-nauki" title="">08.00.00 Экономические науки</a></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-vak/juridicheskie-nauki" title="">12.00.00 Юридические науки</a></li>
+<li class="leaf last"><a href="/publikaciya-v-zhurnalah-vak/pedagogicheskie-nauki" title="">13.00.00 Педагогические науки</a></li>
+</ul></li>
+<li class="leaf"><a href="/avtoram" title="">Авторам</a></li>
+<li class="expanded last"><span>Архив</span><ul class="menu"><li class="leaf first"><a href="/archive/article" title="">Архив статей</a></li>
+<li class="leaf last"><a href="/archive/editions" title="">Архив изданий</a></li>
+</ul></li>
+</ul>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block -->											</div>
+							</div><!-- /header-group-inner -->
+		</div><!-- /header -->
+				<div id="page" class="page white-page-bg">
+				        <div id="main" class="main">
+	            	              <div id="main-group-inner" class="main-group-inner inner">
+	                
+	                <div id="main-content" class="main-content row nested">
+	                  <div id="main-content-inner" class="main-content-inner inner">
+	                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+	                    <div id="content-group" class="content-group row nested">
+	                      <div id="content-group-inner" class="content-group-inner inner">
+	                      	<div id="content-group-wrap">
+		                      	<a name="main-content-area" id="main-content-area"></a>
+		                        <div class="breadcrumb"><a href="/">Главная</a> / <a href="/studconf">Студенческие конференции</a> / <a href="/studconf/gum">Гуманитарные науки</a> / <a href="/studconf/gum/29">XXIX</a> / Статья</div>		                        
+		                        <div id="content-region" class="content-region row nested">
+		                          <div id="content-region-inner" class="content-region-inner inner">
+		                            <div id="content-inner" class="content-inner block">
+		                              <div id="content-inner-inner" class="content-inner-inner inner">
+
+		                                		                                		                                		                                <div id="content-content" class="content-content">
+											<div class="node-article stud">
+	<div class="article_head clearfix">
+		<strong>Статья:</strong> <h1>Теоретический аспект профессионального выгорания педагогов</h1>
+		<p><strong>Конференция:</strong> <a href="/studconf/gum/29">XXIX Студенческая международная научно-практическая конференция «Гуманитарные науки. Студенческий научный форум»</a></p>		<p><strong>Секция:</strong> Психология</p>		<div class="output"><div class="turn_next">Выходные данные</div><div class="text">Буланкина А.А. Теоретический аспект профессионального выгорания педагогов // Гуманитарные науки. Студенческий научный форум: электр. сб. ст. по мат. XXIX междунар. студ. науч.-практ. конф. № 6(29). URL:&nbsp;<a href="https://nauchforum.ru/archive/SNF_humanities/6%2829%29.pdf">https://nauchforum.ru/archive/SNF_humanities/6(29).pdf</a> (дата обращения: 27.02.2022)</div></div>
+		<div class="action">
+			<a href="/studconf/gum" class="btn gray" onclick="ga(&#039;send&#039;, &#039;event&#039;, &#039;click1&#039;, &#039;publ&#039;);">К условиям публикации</a>			<a href="/archive/SNF_humanities/6%2829%29.pdf" class="btn">Скачать сборник</a>		</div>
+		<div class="notice">Лауреаты определены. Конференция завершена</div><div class="honor_wrapp"><div class="wrap"><div class="count">Эта статья набрала <span>0</span> голосов</div><div class="vk_like"><span class="btn vk">Мне нравится</span><span class="like_counter_wrap"><div class="arrow"></div><span id="stats_num">0</span></span><div id="vk_like"></div>
+							<script type="text/javascript">VK.Widgets.Like("vk_like", {redesign: 1, type: "button", height: 30}, 75187);VK.Observer.subscribe("widgets.like.liked", function(param) {jQuery(".honor_wrapp .vk_like #stats_num").text(param);}); VK.Observer.subscribe("widgets.like.unliked", function(param) {jQuery(".honor_wrapp .vk_like #stats_num").text(param);});</script></div><div class="w-320 mob-block" style="width:235px;margin:0 auto;text-align: center;"><div style="width:50%;float:left;">Дипломы <br/>лауреатов</div><div style="width:50%;float:left;">Сертификаты <br/>участников</div></div><div class="dip_and_sert"><div style="margin-right: 18px;line-height: 150%;">Дипломы <br/>лауреатов</div><div><img style='margin-right: 14px;float: left;' src=/themes/mix_and_match/images/dip_and_sert/gold_gray.png /><img style='margin-right: 27px;' src=/themes/mix_and_match/images/dip_and_sert/silver_gray.png /></div><div style="margin-right: 15px;line-height: 150%;">Сертификаты <br/>участников</div><div><a rel='nofollow' target='_blank' style='margin-right: 23px;' href='/certificate/75188'><img src=/themes/mix_and_match/images/dip_and_sert/sert.png title='Сертификат участника конференции' /></a><img src=/themes/mix_and_match/images/dip_and_sert/nauch_gray.png /></div></div></div></div>	</div>
+	<div style="padding-bottom: 50px;"><a href="/publikaciya-v-zhurnalah-rinc?utm_source=nf&utm_medium=banner&utm_campaign=articles"><img style="width:100%;height:auto;" src="/sites/default/files/publ_rinc.png" /></a></div>			<div class="inner node-inner">
+							    
+			    <div class="content clearfix node-content body-article">
+			    	<script type='text/javascript'> 
+							function ShareToVk() {  
+								tltl = document.title  
+								width = 550  
+								height = 268  
+								w_top = (window.screen.height - height)/2  
+								w_left = (window.screen.width - width)/2  
+								window.open('//vk.com/share.php?url=https://nauchforum.ru/studconf/gum/30/75187&image=https://nauchforum.ru/themes/mix_and_match/images/logo.jpg&title=Теоретический аспект профессионального выгорания педагогов', 'shareSite','width=550px,height=268px,resizable=yes,scrollbars=yes,left='+w_left+',top='+w_top);
+							}
+						</script><div class="print_block clearfix"><img src="https://nauchforum.ru/themes/mix_and_match/images/logo.jpg" /><p>XXIX Студенческая международная научно-практическая конференция «Гуманитарные науки. Студенческий научный форум»</p></div><div class="article_action"><span title="Распечатать" onclick="window.print();" class="print">на печать</span><a rel="nofollow" title="Скачать в pdf" href="/page/download.php?article=75187" class="download">скачать .pdf</a><a title="Поделиться ВКонтакте" onclick="ShareToVk(); return false;" href="//vk.com/share.php?url=https://nauchforum.ru/studconf/gum/30/75187&image=https://nauchforum.ru/themes/mix_and_match/images/logo.jpg&title=Теоретический аспект профессионального выгорания педагогов" target="_blank" class="vk_group">поделиться</a></div><p class="title">Теоретический аспект профессионального выгорания педагогов</p><div class="fio_article">Буланкина Алиса Алексеевна</div><div class="regalia_article">магистрант  Дальневосточного федерального университета,  РФ, г. Владивосток</div><div class="fio_article">Сапожникова Елена Евгеньевна</div><div class="regalia_article">научный руководитель, Дальневосточный федеральный университет, РФ, г. Владивосток</div>					<div class="body-content">
+						<p class="rtejustify">&nbsp;</p>
+<p class="rtejustify"><strong>Ключевые слова:</strong> профессиональное выгорание; педагог; факторы профессионального выгорания.</p>
+<p class="rtejustify">&nbsp;</p>
+<p class="rtejustify">Педагогическая деятельность как вид профессиональной деятельности в содержательном аспекте связана с обучением, воспитанием, развитием человека. Требования к профессии педагог стандартизированы. Так, трудовые взаимоотношения педагога системы общего образования и работодателя строятся в соответствии с профессиональным стандартом &laquo;Педагог (педагогическая деятельность в дошкольном, начальном общем, основном общем, среднем общем образовании) (воспитатель, учитель)&raquo;.</p>
+<p class="rtejustify">Профессиональная педагогическая деятельность требует специального образования, то есть овладения системой специальных знаний, умений, навыков, необходимых для выполнения функций, связанных с этой профессией. Но профессиональный стандарт в части &laquo;Особые условия допуска к работе&raquo; предписывает и ряд требований к здоровью педагога, что к педагогической деятельности не допускаются лица, имеющие определенные заболевания, предусмотренные перечнем, установленным для педагогических работников [5, c. 489-495]. Профессиональное выгорание педагогов обусловлено высокой личностной включенностью в педагогический процесс, повышенным эмоциональным фоном.</p>
+<p class="rtejustify">Большие эмоциональные нагрузки приводят к тому, что педагог постоянно находится в состоянии эмоциональных стрессов, поэтому в профессиональной педагогической среде риск эмоциональных срывов достаточно высок. Деятельность педагогов тесно связана с напряженными ситуациями и эмоциональными факторами как объективными, так и субъективными, влияющими на психофизическое и эмоциональное здоровье педагогов.</p>
+<p class="rtejustify">Исследования по проблеме профессионального выгорания начались ещё в 70-х годах XX века. Это было связано с тем, что к руководству Американской службы психологической и социальной поддержки населения стали поступать жалобы на неэффективность работы сотрудников, их вспыльчивость и раздражительность. Изучение данного явления привело психологов и медиков к открытию &laquo;особой формы &laquo;стресса общения&raquo;, которую американский психиатр Х. Дж. Фрейденберг предложил называть &laquo;burnout&raquo; (&laquo;выгорание&raquo;). Обычно данное слово используется в разговорном английском языке для обозначения зависимости от наркотиков. В нашем случае оно подчёркивает зависимость &laquo;выгорающих&raquo; специалистов от работы [6, c. 23-32].</p>
+<p class="rtejustify">Синдром профе ссиона льного выгора ния относится к числу фе номе нов личностной де форма ции и являе тся не бла гоприятной ре а кцие й на  ра бочие  стре ссы, включа ющие  в се бя психологиче ские , психофизиологиче ские  и поведенческие  компоне нты [2, c. 88].</p>
+<p class="rtejustify">Сле дуе т помнить, что ге не зис синдрома  профе ссиона льного выгора ния носит индивидуа льный ха ра кте р, за висящий от ра зличий в эмоциона льно-мотива ционной сфе ре , от условий, в которых проте ка е т профе ссиона льна я де яте льность че лове ка .</p>
+<p class="rtejustify">Синдром профе ссиона льного выгора ния являе тся сле дствие м влияния на  че лове ка  це лого компле кса  фа кторов. Принято выде лять три группы факторов: личностные , ста тусно-роле вые , корпора тивные  (профе ссиона льно-орга низа ционные ). Ра ссмотрим боле е  подробно ка ждую из этих групп.</p>
+<p class="rtejustify">Счита е тся, что опре де лённые  че рты личности способствуют ра звитию выгора ния спе циа листа . К личностным фа ктора м риска  относят [1, c. 96-103]:</p>
+<ul>
+<li class="rtejustify">
+		мотивы де яте льности и оце нка  е ё зна чимости (е сли ра бота  выглядит в собстве нных гла за х спе циа листа  не зна чимой, то ра звитие  выгора ния происходит быстре е );</li>
+<li class="rtejustify">
+		склонность к интраверсии (это люди с низкой социа льной активностью и адаптированностью, социа льно не сме лые , их инте ре сы на пра вле ны на  внутре нний мир);</li>
+<li class="rtejustify">
+		ре а ктивность (дина миче ска я ха ра кте ристика  темперамента, появляющаясяв силе  и скорости эмоциона льного ре а гирова ния);</li>
+<li class="rtejustify">
+		низка я или чре зме рно высока я эмпатия;</li>
+<li class="rtejustify">
+		жёсткость и а вторита рность по отноше нию к другим людям;</li>
+<li class="rtejustify">
+		низкий урове нь са моува же ния и са мооце нки;</li>
+<li class="rtejustify">
+		перфекционизм (&laquo;синдром отличника &raquo;);</li>
+<li class="rtejustify">
+		излишняя эмоциона льность в соче та нии с за висимостью от мнения окружа ющих.</li>
+</ul>
+<p class="rtejustify">Ста тусно-роле вые  фа кторы риска  выгора ния включа ют в се бя [3, c. 23] :</p>
+<ul>
+<li class="rtejustify">
+		роле вой конфликт (&laquo;или се мья, или ра бота &raquo;);</li>
+<li class="rtejustify">
+		роле вую не опре де лённость;</li>
+<li class="rtejustify">
+		не удовле творённость профе ссиона льным и личностным ростом;</li>
+<li class="rtejustify">
+		психологиче скую не совме стимость сотрудника  с де яте льностью и колле га ми;</li>
+<li class="rtejustify">
+		роле вые  пове де нче ские  сте ре отипы, огра ничива ющие  творческую а ктивность;</li>
+<li class="rtejustify">
+		низкий социа льный ста тус;</li>
+<li class="rtejustify">
+		отве рже нность в зна чимой группе ;</li>
+<li class="rtejustify">
+		негативные полороле вые  уста новки, уще мляющие  пра ва  и свободу личности.</li>
+</ul>
+<p class="rtejustify">Орга низа ционный фа ктор са м по се бе  не  являе тся не посре дстве нной причиной выгора ния. Е го зна че ние  за висит от того, ка к са м сотрудник оценивает обста новку на  ра боте . Орга низа ционный порядок, психологиче ский клима т, стиль отноше ний могут воспринима ться ка к вызывающие стре сс.</p>
+<p class="rtejustify">К корпоративным (профе ссиона льно-орга низа ционным) фа ктора м относят:</p>
+<ul>
+<li class="rtejustify">
+		орга низа цию пре дме тного простра нства  (жа ру, холод, отсутствие  удобного ра боче го ме ста , условий для отдыха  в пе ре рыва х)</li>
+<li class="rtejustify">
+		многоча совую ра боту (не нормирова нный ра бочий де нь);</li>
+<li class="rtejustify">
+		низкий социа льный ста тус профе ссии;</li>
+<li class="rtejustify">
+		не спра ве дливость и не ра ве нство вза имоотноше ний в организации;</li>
+<li class="rtejustify">
+		не га тивные  или &laquo;холодные &raquo; отноше ния с колле га ми, отсутствие  корпора тивной сплочённости, сла бую орга низа ционную культуру;</li>
+<li class="rtejustify">
+		внутрифирме нные  конфликты;</li>
+<li class="rtejustify">
+		де фицит а дминистра тивной, социа льной и профе ссиона льной подде ржки;</li>
+<li class="rtejustify">
+		не эффе ктивный стиль руководства  (излишне  жёсткий &laquo;мужской&raquo; стиль руководства  не  обе спе чива е т людям не обходимой эмоциона льной поддержки, усилива е т чувство не за щищённости; оче нь мягкий &laquo;же нский&raquo; стиль руководства  &ndash; не ре дко не чёткий и не упра вляе мо-эмоциона льный &ndash; поднимает урове нь тре воги до не пе ре носимого, поскольку не опре де лённость в требованиях ста вит под угрозу ре а лиза цию перфекционизма, а  зна чит, це лостность личности);</li>
+<li class="rtejustify">
+		отстра нённость от принятия ре ше ний, отсутствие  не обходимой обра тной связи от руководства  или других подра зде ле ний орга низа ции.</li>
+</ul>
+<p class="rtejustify">Сле дуе т отме тить, что ни один из фа кторов са м по се бе  не  може т вызвать выгора ния. Возникнове ние  да нного синдрома  &ndash; это ре зульта т де йствия совокупности все х факторов ка к на  профе ссиона льном, та к и на  личностном уровне .</p>
+<p class="rtejustify">Та ким обра зом, профе ссиона льному выгора нию особе нно подве рже ны пе да гоги, которым свойстве нно чре зме рное  стре мле ние  быть за ме че нным или на оборот не за ме тным, же ла ние  де ла ть всё оче нь хорошо или не  стараться вовсе . Риску профе ссиона льного выгора ния подве рга ются и те , у кого ча сто возника ют мысли о том, ка к не спра ве дливы к ним окружа ющие : недооценивают их трудовые  за слуги. Ра звитию эмоциона льного выгора ния пе да гогов способствуе т постоянное  чувство уста лости, пода вле нности, не за щищённости, отсутствие  же ла ний, боязнь ошибок, стра х пе ре д не опре де лёнными ситуациями, стра х пока за ться не доста точно сове рше нным, не уве ре нность в собстве нных сила х.</p>
+<p class="rtejustify">Профе ссиона льное  выгора ние  не  являе тся че м-то не избе жным. Необходимо пре дпринима ть опре де лённые  ша ги по е го профила ктике , которые  могут пре дотвра тить, осла бить или исключить возникнове ние  выгора ния. Нужно приумножа ть и пробужда ть личностные  ре сурсы, помога ющие  преодолевать жизне нные  и ра бочие  стре ссы. Е сли сте пе нь риска  выгора ния велика , на ряду с приёма ми са мопомощи це ле сообра зно обра титься за  поддержкой к спе циа листа м-психолога м.</p>
+<p>&nbsp;</p>
+<div>
+	<strong>Список литературы:</strong></div>
+<div class="rtejustify">
+	1.<span style="white-space:pre"> </span>Борисова М.В. Психологические детерминанты феномена эмоционального выгорания у педагогов // Вопросы психологии, 2015. №2 - С.96-103.</div>
+<div class="rtejustify">
+	2.<span style="white-space:pre"> </span>Водопьянова, Н. Е., Старченкова, Е. С. Синдром выгорания: диагностика и профилактика [Текст] / Н.Е. Водопьянова, Е.С. Старченкова. &ndash; СПб.: Питер, 2018. С.88.</div>
+<div class="rtejustify">
+	3.<span style="white-space:pre"> </span>Воробьева М. А. Психолого-педагогические условия преодоления педагогом синдрома эмоционального выгорания: дисс. &hellip; канд. педагогических наук. - Екатеринбург: Самарский государственный университет, 2018. - 23 с.</div>
+<div class="rtejustify">
+	4.<span style="white-space:pre"> </span>Оре л В.Е . Фе номе н &laquo;выгора ния&raquo; в за рубе жной психологии: эмпириче ские  иссле дова ния и пе рспе ктивы. // Психологиче ский журна л. &ndash; 2015. &ndash; № 1. &ndash; С. 31 &ndash; 37</div>
+<div class="rtejustify">
+	5.<span style="white-space:pre"> </span>Чувашова, И. А. Взаимосвязь эмоционального выгорания и смысложизненных ориентаций в педагогической деятельности [Текст] / И. А. Чувашова // Категория &laquo;социального&raquo; в современной педагогике и психологии: материалы 2-й научно-практической конференции (заочной) с международным участием: 2-3 апреля 2014 г. в 2 частях / отв. ред. А. Ю. Нагорнова. Часть 2. &ndash; Ульяновск: SIMJET, 2014. &ndash; С. 489-495.</div>
+<div class="rtejustify">
+	6.<span style="white-space:pre"> </span>Усманова, М. Н., Бафаев, М. М., Остонов, Ш. Ш. Симптомы эмоционального выгорания современного педагога [Текст] / М.Н. Усманова, М.М. Бафаев, Ш.Ш. Остонов // Наука. Мысль: электронный периодический журнал. &ndash; 2014. - №10. &ndash; 23-32.</div>
+<div class="rtejustify">
+	7.<span style="white-space:pre"> </span>Maslach С. // Professional bumout: Recent developments in the theory and research. Washington: D. C: Taylor &amp; Trancis,2016. P. 19&ndash;32.</div>
+<div>
+	&nbsp;</div>
+					</div>
+			    </div>
+			</div><!-- /inner -->
+			<div class="article_footer">
+			    				<div class="similar"><h3>Похожие статьи</h3><ul><li><a href="/studconf/gum/29/75138">Особенности проявления инициативы у старших дошкольников с застенчивым поведением</a></li><li><a href="/studconf/gum/28/72189">Влияние ЕГЭ на эмоциональные состояния выпускников</a></li><li><a href="/studconf/gum/15/51049">Маниакально-депрессивный психоз в XXI веке</a></li><li><a href="/studconf/gum/xix/5250">УЧЕТ ДИНАМИКИ РАЗВИТИЯ КОГНИТИВНОЙ СФЕРЫ МЛАДШИХ ШКОЛЬНИКОВ В ОРГАНИЗАЦИИ УЧЕБНОЙ ДЕЯТЕЛЬНОСТИ</a></li><li><a href="/studconf/science/159/106474">ФОРМИРОВАНИЕ ВОЛИ ЧЕЛОВЕКА</a></li></ul></div><div class="action clearfix"><a href="/archive/article/239?direction=2" class="btn">Больше статей</a></div>				<div class="content clearfix node-content">
+					<div id="vk_comments"></div>
+					<script type="text/javascript">
+                        setTimeout(
+                            function(){
+                                VK.Widgets.Comments("vk_comments", {limit: 10, attach: "*"}, "75187");
+                            }, 3000);
+                    </script>
+				</div>
+											</div>
+	<a href="/publikaciya-v-zhurnalah-rinc?utm_source=nf&utm_medium=banner&utm_campaign=articles"><img style="width:100%;height:auto;" src="/sites/default/files/publ_rinc.png" /></a></div>
+		                                  		                                </div><!-- /content-content -->
+		                                		                              </div><!-- /content-inner-inner -->
+		                            </div><!-- /content-inner -->
+		                          </div><!-- /content-region-inner -->
+		                        </div><!-- /content-region -->
+
+		                        	                        </div>
+	                      </div><!-- /content-group-inner -->
+	                    </div><!-- /content-group -->
+
+	                    	                  </div><!-- /main-content-inner -->
+	                </div><!-- /main-content -->
+
+	                <div id="postscript-top" class="postscript-top row nested ">
+<div id="postscript-top-inner" class="postscript-top-inner inner clearfix">
+<div id="block-block-18" class="block block-block odd first last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<!-- Begin Talk-Me {literal} -->
 <script type='text/javascript'>
-<!--
- var feedOffset = 1644557443;
- var loadingRun = 0;
- 
- function loadFeed(st, theDate){
-  if(st>=0){
-    if(theDate){
-      var dateParts = theDate.split('-');
-    }
-    else{
-      var dateParts = [0, 0, 0];
-    }
-    $.getJSON('//www.yaplakal.com', {act: 'Portal', 'st': st,  rand: Math.random(), show: 'ajax', a: dateParts[0], m: dateParts[1], d: dateParts[2]}, function(data){ 
-        feedOffset = data.offset;
-        var old_scroll = $(window).scrollTop();
-        $('#lentaFeed').append(data.html);
-        $(document).scrollTop(old_scroll);
-    
-        $("div[rel='yapfiles']").each(function( index ) {
-          p_videos.push($( this ).attr('id'));
-        });
-    
-        loadVideos();
-        loadingRun = 0;
-    
-        if(data.offset<0 || !data.offset){
-          $('#loaderInfo').remove();    
-        }
-        else{
-            var linkObj = $('#loaderLink');
-            window.history.pushState(null, null, '//www.yaplakal.com'+(theDate ? '/archive' : '')+'/st/'+st+(theDate ? '/' + theDate + '.html': ''));
-            $(linkObj).attr('href', $(linkObj).attr('href').replace(/\/st\/\d+\//g,'/st/'+feedOffset+'/'));
-        }
-    });
-  }
-  else{
-    $('#loaderInfo').remove();
-  }
-  return false;
-}
-
-function link_to_topic(forum, topic)
-{
-    var link = "http://www.yaplakal.com/forum"+forum+"/topic" + topic + ".html";
-		if(prompt( "Отправь эту ссылку другу", link)){
-			location.href=link;
-		}
-    return false;
-}
-
-$(document).ready(function() {
-  $(window).bind('scroll', function(){
-    if($(window).scrollTop() + window.innerHeight + 1 > $('#loaderInfo').offset().top && !loadingRun){
-      loadingRun = 1;
-      loadFeed(feedOffset, '');
-    }
-  });
-});
-        
-//-->
+	(function(d, w, m) {
+		window.supportAPIMethod = m;
+		var s = d.createElement('script');
+		s.type ='text/javascript'; s.id = 'supportScript'; s.charset = 'utf-8';
+		s.async = true;
+		var id = '86aa32a62a1735e38616a7a2d4f55110';
+		s.src = 'https://lcab.talk-me.ru/support/support.js?h='+id;
+		var sc = d.getElementsByTagName('script')[0];
+		w[m] = w[m] || function() { (w[m].q = w[m].q || []).push(arguments); };
+		if (sc) sc.parentNode.insertBefore(s, sc); 
+		else d.documentElement.firstChild.appendChild(s);
+	})(document, window, 'TalkMe');
 </script>
-<style type="text/css">
-  #in-feed-1, #in-feed-2 { padding: 15 0px; }
-</style>
-<div id="tabs">
-<a href="//www.yaplakal.com" class="active" name="top">Главная</a>
-<a href="//pics.yaplakal.com" rel="nofollow">Картинки</a>
-<a href="//video.yaplakal.com" rel="nofollow">Видео</a>
-<a href="//news.yaplakal.com" rel="nofollow">События</a>
-<a href="//auto.yaplakal.com" rel="nofollow">Авто/Мото</a>
-<a href="//animals.yaplakal.com" rel="nofollow">Зверье</a>
-<a href="//fotozhaba.yaplakal.com" rel="nofollow">Фотожаба</a>
-</div>
-<div style="clear: both;"></div>
-<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
-  <tr>
-    <td width="100%" vAlign=top>
-			<table cellpadding='0' cellspacing='0' border='0' width='100%' class='lenta' align='center'>
-        <tbody id='lentaFeed'>
-	    	      <tr>
-      <td class='newshead' id="topic_1">
-        <div>
-					
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum16/topic2392630.html" class="subtitle">Самый доступный смартфон с AMOLED дисплеем – встречай Infinix NOTE 11</a> <a href="//www.yaplakal.com/forum16/topic2392630.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_1">
-			  Стильный тонкий корпус, привлекательный дизайн, мощная начинка и, самое главное – большой и яркий AMOLED дисплей по доступной цене – все это новый <a href='/go/?https%3A%2F%2Fwww.dns-shop.ru%2Fproduct%2F0685471f50b3ed20%2F67-smartfon-infinix-note-11-128-gb-cernyj%2F' target='_blank' class=''><span style='color:#3333FF'>Infinix Note 11</span></a>. <br><br><div align="center"><a href='/go/?https%3A%2F%2Fwww.dns-shop.ru%2Fproduct%2F0685471f50b3ed20%2F67-smartfon-infinix-note-11-128-gb-cernyj%2F' target='_blank' class=''><img src='https://www.yapfiles.ru/files/2677961/999.jpg' border='0' class='attach' /></a></div><br>Если выбор подарка на День Всех Влюбленных для тебя все еще актуален, или же ты просто хочешь побаловать самого родного человека – себя самого, обрати внимание на смартфон Infinix NOTE 11 - произведение искусства в тонкой оболочке&#33;
-			  <br><br><a href='//www.yaplakal.com/forum16/topic2392630.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member1438.html">Administration</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum16/">ЯП-Обзор</a></b>
-											 <b class="icon-date">10.02.2022 - 22:19</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum16/topic2392630.html">Комментарии</a> <span>(0)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum16/topic2392630.html" onclick="link_to_topic(16,2392630);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_2">
-        <div>
-					
-					<h2 class='mainpage'><a href="/go/?https%3A%2F%2Fdl2.dyinglightgame.com%2F%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dtxt_ad_buynow%26utm_term%3Dtxt" class="subtitle" target="_blank">Dying Light 2 бьет рекорды&#33;</a> <a href="/go/?https%3A%2F%2Fdl2.dyinglightgame.com%2F%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dtxt_ad_buynow%26utm_term%3Dtxt" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_2">
-			  Главный зомби-боевик 2022 года <a href='/go/?https%3A%2F%2Fdl2.dyinglightgame.com%2F%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dtxt_ad_buynow%26utm_term%3Dtxt' target='_blank' class=''><span style='color:#3333FF'><b>Dying Light 2: Stay Human</b></span></a> бьет рекорды – миллионы игроков уже сражаются с Зараженными и решают судьбу Города&#33; <a href='/go/?https%3A%2F%2Fdl2.dyinglightgame.com%2F%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dtxt_ad_buynow%26utm_term%3Dtxt' target='_blank' class=''><span style='color:#3333FF'>Присоединяйся</span></a> и дай отпор полчищам зомби&#33;<br><br><a href='/go/?https%3A%2F%2Fdl2.dyinglightgame.com%2F%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dtxt_ad_buynow%26utm_term%3Dtxt' target='_blank' class=''><span style='color:#3333FF'><b>Dying Light 2 Stay Human</b></span></a> – это игра в жанре Action/RPG с открытым миром, с видом от первого лица в сеттинге зомби-апокалипсиса. <br><br>Когда мир пал перед харранским вирусом, человечество нашло приют в нескольких последних уцелевших поселениях. Связью между анклавами служат Пилигримы — люди, которые отваживаются путешествовать по жестокому пост-апокалиптическому миру. Они приносят ресурсы и ценную информацию. Вы один из них, и вы попадаете в Город. Место, где человечество может вновь обрести надежду.<br><br><div align="center"><a href='/go/?https%3A%2F%2Fdl2.dyinglightgame.com%2F%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dtxt_ad_buynow%26utm_term%3Dtxt' target='_blank' class=''><img src='https://www.yapfiles.ru/files/2677450/111.jpg' border='0' class='attach' /></a></div><br>•	<b>Определите участь города.</b> Темные тучи рассеиваются, и Город постепенно возвращается к жизни
-			  <br><br><a href='/go/?https%3A%2F%2Fdl2.dyinglightgame.com%2F%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dtxt_ad_buynow%26utm_term%3Dtxt' target="_blank"><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member1438.html">Administration</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum16/">ЯП-Обзор</a></b>
-											 <b class="icon-date">10.02.2022 - 11:44</b>
-											 <b class="icon-comments"><a href="/go/?https%3A%2F%2Fdl2.dyinglightgame.com%2F%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dtxt_ad_buynow%26utm_term%3Dtxt" target="_blank">Комментарии</a> <span>(0)</span></b>
-											 <b class="icon-link"><a href="/go/?https%3A%2F%2Fdl2.dyinglightgame.com%2F%3Futm_medium%3Dendemic%26utm_source%3Dyaplakal%26utm_campaign%3Ddl2_launch_ru%26utm_content%3Dtxt_ad_buynow%26utm_term%3Dtxt" onclick="link_to_topic(16,2392365);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_3">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum2/topic2392791.html" title="Оценить тему!">55</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum2/topic2392791.html" class="subtitle">Девчата для Пятничного позитива&#33;</a> <a href="//www.yaplakal.com/forum2/topic2392791.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_3">
-			   Подборка милых дам    из Интернетов без определенной тематики.  Встречаем Пятницу вместе с чаровницами<br><br>50 фото&#33; 
-			  <br />
-<br />
-<div style="" id="img_16440880">
-	<center><a href="//www.yaplakal.com/forum2/topic2392791.html" class="basic-img attach" target="_blank" style="display: block; width: 640px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/0/8/8/16440880.jpg" alt="Девчата для Пятничного позитива&#33;" ></a></center>
-	
-</div><br><a href='//www.yaplakal.com/forum2/topic2392791.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member390573.html">mitya79</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-											 <b class="icon-date">11.02.2022 - 11:12</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum2/topic2392791.html">Комментарии</a> <span>(128)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum2/topic2392791.html" onclick="link_to_topic(2,2392791);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>  <tr>
-  	<td align="center" style="border-bottom: 1px solid #e0e0e0 !important;" id="in-feed-1">
-  		<noindex>
-	  		<style type="text/css">
-#MF_yaplakal\.com_D_728x90 { height: 90px; }
-</style>
-<!--AdFox START-->
-<!--Площадка: !Mediaforce / yaplakal.com / Баннер 728х90-->
-<!--Категория: <не задана>-->
-<!--Тип баннера: ГПМ-тех Перетяжка-->
-<div id="crt-1275780" size="728x90">
-    <script type="text/javascript">CriteoAdblock("crt-1275780", 1275780);</script>
-</div>
-  <div id="MF_yaplakal.com_D_728x90"></div>
-  <script>
-      window.yaContextCb.push(()=>{
-          Ya.adfoxCode.create({
-              ownerId: 220463,
-          containerId: 'MF_yaplakal.com_D_728x90',
-              params: {
-                  p1: 'caddr',
-                  p2: 'fqhi'
-              }
-          })
-      })
-  </script>
-	  	</noindex>
-	  </td>
-  </tr>    <tr>
-      <td class='newshead' id="topic_4">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum28/topic2392790.html" title="Оценить тему!">58</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum28/topic2392790.html" class="subtitle">Сами здесь работайте за 50 тысяч</a> <a href="//www.yaplakal.com/forum28/topic2392790.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_4">
-			   <!--Begin Video:https://www.yapfiles.ru/show/2677958/001c5a13979ae133be3e1885260d27e0.mp4.html--><div align="center" id="yfp-109281525-vMDI2Nzc5NTgt001c" rel="yapfiles"><img src="//www.yaplakal.com/html/static/video-loader.gif" width="640" height="360"/></div><!--End Video--> 
-			  <br><br><a href='//www.yaplakal.com/forum28/topic2392790.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member561422.html">Reichstag</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-											 <b class="icon-date">11.02.2022 - 11:12</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum28/topic2392790.html">Комментарии</a> <span>(71)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum28/topic2392790.html" onclick="link_to_topic(28,2392790);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_5">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum7/topic2392646.html" title="Оценить тему!">53</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum7/topic2392646.html" class="subtitle">Только для тех, которые думают за себя, а не идут за толпой в комментах</a> <a href="//www.yaplakal.com/forum7/topic2392646.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_5">
-			   И вообще, надо меньше жрать&#33;<br>Страдают мужья&#33;&#33;&#33;<br>Выбираю тут себе штанцы на дачу. <br>Озаботилась размерной сеткой. Муж около компа работает за комп. столиком, внизу в ящике мои швейные приблуды, я у ноута своего. <br>Молча встала, молча отодвинула его коленки, из ящика достала см ленту, молча измеряю свои необъятные эээ, вообщем необъятные. <br>Муж так же молча наблюдает. <br>И тут я хмуро заявляю - я с тобой развожусь&#33; <br>Удивлённо приподнятая бровь и спокойный вопрос - чего вдруг? <br>И я так прямо возмущённо - потому что ты непостоянный&#33;&#33;&#33; <br>Когда мы с тобой встречались, я такая стройняшка была, а замуж вышла за тебя и что теперь?? И даже не спрашивай про мои размеры&#33;&#33;&#33;&#33; <br>Так поржал, сказал, зачем спрашивать, они каждую ночь всю койку занимают&#33; <br>Зараза дрищавая)))<br><br>Пост исключительно позитивный и оптимистичный&#33; <br>Всем, кому охота плюнуть, отрыгнуть и вообще всем, у кого проблемы с пищеварением и собственным мнением, милости прошу, уж оторвитесь на здоровье, стройные и подтянутые&#33;  
-			  <br />
-<br />
-<div style="" id="img_16439493">
-	<center><a href="//www.yaplakal.com/forum7/topic2392646.html" class="basic-img attach" target="_blank" style="display: block; width: 188px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/3/9/4/16439493.jpg" alt="Только для тех, которые думают за себя, а не идут за толпой в комментах" ></a></center>
-	
-</div><br><a href='//www.yaplakal.com/forum7/topic2392646.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member709035.html">yushka13</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum7/">Тексты</a></b>
-											 <b class="icon-date">10.02.2022 - 23:05</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum7/topic2392646.html">Комментарии</a> <span>(88)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum7/topic2392646.html" onclick="link_to_topic(7,2392646);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_6">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum28/topic2392720.html" title="Оценить тему!">57</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum28/topic2392720.html" class="subtitle">Полупрозрачные стекла в двери туалета</a> <a href="//www.yaplakal.com/forum28/topic2392720.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_6">
-			   <!--Begin Video:https://www.yapfiles.ru/show/2677878/8a3980e47c9a6ae2489b95541e614bba.mp4.html--><div align="center" id="yfp-109276785-vMDI2Nzc4Nzgt8a39" rel="yapfiles"><img src="//www.yaplakal.com/html/static/video-loader.gif" width="640" height="360"/></div><!--End Video--> 
-			  <br><br><a href='//www.yaplakal.com/forum28/topic2392720.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member883404.html">Michael76</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-											 <b class="icon-date">11.02.2022 - 07:55</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum28/topic2392720.html">Комментарии</a> <span>(35)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum28/topic2392720.html" onclick="link_to_topic(28,2392720);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_7">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum28/topic2392716.html" title="Оценить тему!">76</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum28/topic2392716.html" class="subtitle">Страшный кусь</a> <a href="//www.yaplakal.com/forum28/topic2392716.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_7">
-			   Людям со слабой психикой не смотреть.<br><br><!--Begin Video:https://www.yapfiles.ru/files/2677870/724cd1108e3ab261a0fe4f9d23aef0a6.mp4?token=MDI2Nzc4NzAtMTY0NDU1NDE3Ng--><div align="center" id="yfp-109276488-vMDI2Nzc4NzAt724c" rel="yapfiles"><img src="//www.yaplakal.com/html/static/video-loader.gif" width="640" height="360"/></div><!--End Video--> 
-			  
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member317718.html">slider1983</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-											 <b class="icon-date">11.02.2022 - 07:38</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum28/topic2392716.html">Комментарии</a> <span>(38)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum28/topic2392716.html" onclick="link_to_topic(28,2392716);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_8">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum1/topic2392767.html" title="Оценить тему!">67</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum1/topic2392767.html" class="subtitle">&quot;Я думал, это просто их детские рисунки&#33;&quot;</a> <a href="//www.yaplakal.com/forum1/topic2392767.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_8">
-			   В продолжение темы <a href='https://www.yaplakal.com/forum1/topic2391264.html' target='_blank' class=''>В Екатеринбурге нашли вандала, &quot;вернувшего зрение&quot; полотну Анны Лепорской</a><br><br><b>Пририсовавший глаза картине в &quot;Ельцин центре&quot; охранник рассказал, что сделал это по просьбе подростков.</b><br><br>Как пишет Е1, 63-летний Александр Васильев - ветеран Чечни и Афганистана, он вышел на работу на выставке в первый раз. Он рассказал изданию, что принял картину Анны Лепорской за детский рисунок.<br><br>&quot;Честно скажу, мне не очень понравились эти работы [на выставке]. Они оставляли тяжелое впечатление. Старался мимо пройти, не глядя. Наблюдал, как люди реагируют, и вот смотрю: стоят ребятишки лет 16–17, обсуждают, почему нет глаз, рта, никакой красоты&#33; В компании были девчонки, они и попросили меня: «Нарисуйте глаза, вы ведь тут работаете». Я их спросил: «Это ваши работы?» Они: «Да». Дали мне ручку. Я нарисовал глаза. Я думал, это просто их детские рисунки&#33;&quot;<br><br>via pdmnews 
-			  <br />
-<br />
-<div style="" id="img_16440607">
-	<center><a href="//www.yaplakal.com/forum1/topic2392767.html" class="basic-img attach" target="_blank" style="display: block; width: 640px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/7/0/6/16440607.jpg" alt="&quot;Я думал, это просто их детские рисунки&#33;&quot;" ></a></center>
-	
-</div><br><a href='//www.yaplakal.com/forum1/topic2392767.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member18620.html">Jus</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-											 <b class="icon-date">11.02.2022 - 10:13</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum1/topic2392767.html">Комментарии</a> <span>(72)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum1/topic2392767.html" onclick="link_to_topic(1,2392767);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_9">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum28/topic2392559.html" title="Оценить тему!">73</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum28/topic2392559.html" class="subtitle">Спортивное мастерство на высоком уровне</a> <a href="//www.yaplakal.com/forum28/topic2392559.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_9">
-			   А чё, так можно было что ли?©<br><br><!--Begin Video:https://www.yapfiles.ru/files/2677708/8d19bb995228a675444380d32d184edf.mp4?token=MDI2Nzc3MDgtMTY0NDUwODg2OQ--><div align="center" id="yfp-109263031-vMDI2Nzc3MDgt8d19" rel="yapfiles"><img src="//www.yaplakal.com/html/static/video-loader.gif" width="640" height="360"/></div><!--End Video--> 
-			  <br><br><a href='//www.yaplakal.com/forum28/topic2392559.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member783306.html">Умка2</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-											 <b class="icon-date">10.02.2022 - 19:01</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum28/topic2392559.html">Комментарии</a> <span>(43)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum28/topic2392559.html" onclick="link_to_topic(28,2392559);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_10">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum11/topic2392773.html" title="Оценить тему!">87</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum11/topic2392773.html" class="subtitle">Занятное объявление о продаже авто</a> <a href="//www.yaplakal.com/forum11/topic2392773.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_10">
-			  4pic.
-			  <br />
-<br />
-<div style="height:500px; overflow:hidden; position: relative;" id="img_16440661">
-	<center><a href="//www.yaplakal.com/forum11/topic2392773.html" class="basic-img attach" target="_blank" style="display: block; width: 640px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/1/6/6/16440661.jpg" alt="Занятное объявление о продаже авто" ></a></center>
-	  <a href="#" onclick="return expandImg(this, 16440661, 1386);" class="expander" style="width:640px; left: 50%; margin-left: -320px;" title="Развернуть">&nbsp;</a>
-</div>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member662040.html">Shi18</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum11/">Авто/Мото</a></b>
-											 <b class="icon-date">11.02.2022 - 10:27</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum11/topic2392773.html">Комментарии</a> <span>(42)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum11/topic2392773.html" onclick="link_to_topic(11,2392773);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_11">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum2/topic2392743.html" title="Оценить тему!">110</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum2/topic2392743.html" class="subtitle">О чём надо обязательно знать, когда снимаешь квартиру с &quot;бабушкиным ремонтом&quot;?</a> <a href="//www.yaplakal.com/forum2/topic2392743.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_11">
-			   Памятка для начинающих ведьм и ведьмаков северного региона. Вещи очевидные, но многие до сих пор делают глупейшие ошибки. Напомним основы&#33;<br><br><span style='color:#FF0000'>21</span> картинка <a href='/go/?https%3A%2F%2Ftwitter.com%2Fsir_archet%2Fstatus%2F1491850667673239552%3Fs%3D27' target='_blank' class=''>via</a> 
-			  <br />
-<br />
-<div style="" id="img_16440435">
-	<center><a href="//www.yaplakal.com/forum2/topic2392743.html" class="basic-img attach" target="_blank" style="display: block; width: 600px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/5/3/4/16440435.jpg" alt="О чём надо обязательно знать, когда снимаешь квартиру с &quot;бабушкиным ремонтом&quot;?" ></a></center>
-	
-</div><br><a href='//www.yaplakal.com/forum2/topic2392743.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member18620.html">Jus</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-											 <b class="icon-date">11.02.2022 - 09:07</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum2/topic2392743.html">Комментарии</a> <span>(86)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum2/topic2392743.html" onclick="link_to_topic(2,2392743);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_12">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum2/topic2392302.html" title="Оценить тему!">77</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum2/topic2392302.html" class="subtitle">Выпьем за любовь&#33;</a> <a href="//www.yaplakal.com/forum2/topic2392302.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_12">
-			   <a href='/go/?https%3A%2F%2Ftwitter.com%2FAnatoByshovets%2Fstatus%2F1491427344317546500%3Fcxt%3DHHwWiIDQpZHRzrIpAAAA' target='_blank' class=''>via</a> 
-			  <br />
-<br />
-<div style="" id="img_16436856">
-	<center><a href="//www.yaplakal.com/forum2/topic2392302.html" class="basic-img attach" target="_blank" style="display: block; width: 640px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/6/5/8/16436856.jpg" alt="Выпьем за любовь&#33;" ></a></center>
-	
-</div>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member212568.html">Lomamaisty</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-											 <b class="icon-date">10.02.2022 - 09:55</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum2/topic2392302.html">Комментарии</a> <span>(33)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum2/topic2392302.html" onclick="link_to_topic(2,2392302);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>  <tr>
-  	<td align="center" style="border-bottom: 1px solid #e0e0e0 !important;" id="in-feed-2">
-  		<noindex>
-	  		<style type="text/css">
-.antc__table-row .newsbottom {
-  border-bottom: none !important;
-  padding: 0 15px 0px 15px !important;
-}
-</style>
-<div id="adfox_container_Adnetic" ></div>
-<script>loadAdvertAdnetic();</script>
-	  	</noindex>
-	  </td>
-  </tr>    <tr>
-      <td class='newshead' id="topic_13">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum28/topic2392045.html" title="Оценить тему!">63</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum28/topic2392045.html" class="subtitle">Тунец</a> <a href="//www.yaplakal.com/forum28/topic2392045.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_13">
-			   <!--Begin Video:https://api.yapfiles.ru/get_player/?v=vMDI2NzcxMDAte278&amp;auth_key=6e2c66c3f96bdee10a230a8312bb2741&amp;uid=960757--><div align="center" id="yfp-109224852-vMDI2NzcxMDAte278" rel="yapfiles"><img src="//www.yaplakal.com/html/static/video-loader.gif" width="640" height="360"/></div><!--End Video--> 
-			  
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member960757.html">welder75</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-											 <b class="icon-date">9.02.2022 - 18:02</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum28/topic2392045.html">Комментарии</a> <span>(54)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum28/topic2392045.html" onclick="link_to_topic(28,2392045);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_14">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum28/topic2392723.html" title="Оценить тему!">114</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum28/topic2392723.html" class="subtitle">Развод на бабки и не только</a> <a href="//www.yaplakal.com/forum28/topic2392723.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_14">
-			   Мошенники из «Спермбанка» сначала развели девушку на бабки, а потом заставили ее раздеться догола, якобы это проверка от робота банка <br><br><!--Begin Video:https://www.yapfiles.ru/show/2677882/70f0aa53a036d0b1338e85fef708ecee.mp4.html--><div align="center" id="yfp-109276855-vMDI2Nzc4ODIt70f0" rel="yapfiles"><img src="//www.yaplakal.com/html/static/video-loader.gif" width="640" height="360"/></div><!--End Video--> 
-			  <br><br><a href='//www.yaplakal.com/forum28/topic2392723.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member883404.html">Michael76</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-											 <b class="icon-date">11.02.2022 - 07:58</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum28/topic2392723.html">Комментарии</a> <span>(94)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum28/topic2392723.html" onclick="link_to_topic(28,2392723);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_15">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum1/topic2392751.html" title="Оценить тему!">278</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum1/topic2392751.html" class="subtitle">Умерла актриса Евгения Брик. Ей было 40 лет</a> <a href="//www.yaplakal.com/forum1/topic2392751.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_15">
-			   О смерти актрисы сообщила журналист Екатерина Гордеева. <br>Брик известна по ролям в «Географ глобус пропил», «Стиляги», «Одесса». <br><br>Как отметила Гордеева, Евгения тяжело болела и скрывала это. У актрисы осталась дочь и муж, кинорежиссёр Валерий Тодоровский.<br><br>via telegram 
-			  <br />
-<br />
-<div style="" id="img_16440506">
-	<center><a href="//www.yaplakal.com/forum1/topic2392751.html" class="basic-img attach" target="_blank" style="display: block; width: 640px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/6/0/5/16440506.jpg" alt="Умерла актриса Евгения Брик. Ей было 40 лет" ></a></center>
-	
-</div>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member18620.html">Jus</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-											 <b class="icon-date">11.02.2022 - 09:28</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum1/topic2392751.html">Комментарии</a> <span>(127)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum1/topic2392751.html" onclick="link_to_topic(1,2392751);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_16">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum28/topic2392594.html" title="Оценить тему!">112</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum28/topic2392594.html" class="subtitle">Netflix выпустил первый тизер приключенческой фантастики «Проект Адам» с Райаном Рейнольдсом</a> <a href="//www.yaplakal.com/forum28/topic2392594.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_16">
-			   На сервисе с 11 марта.<br><br><!--Begin Video:https://www.yapfiles.ru/files/2677732/539698b55bd1c6761b5f62873595cfcc.mp4?token=MDI2Nzc3MzItMTY0NDUxNDE1MQ--><div align="center" id="yfp-109266253-vMDI2Nzc3MzIt5396" rel="yapfiles"><img src="//www.yaplakal.com/html/static/video-loader.gif" width="640" height="360"/></div><!--End Video--> 
-			  
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member572601.html">Lordex</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-											 <b class="icon-date">10.02.2022 - 20:30</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum28/topic2392594.html">Комментарии</a> <span>(58)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum28/topic2392594.html" onclick="link_to_topic(28,2392594);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_17">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum28/topic2392647.html" title="Оценить тему!">94</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum28/topic2392647.html" class="subtitle">Гироскоп в невесомости</a> <a href="//www.yaplakal.com/forum28/topic2392647.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_17">
-			   <!--Begin Video:https://www.yapfiles.ru/files/2677804/48c3e729710c2052ea45df7fa770a2d6.mp4?token=MDI2Nzc4MDQtMTY0NDUyMzkyMA--><div align="center" id="yfp-109271335-vMDI2Nzc4MDQt48c3" rel="yapfiles"><img src="//www.yaplakal.com/html/static/video-loader.gif" width="640" height="360"/></div><!--End Video--> 
-			  <br><br><a href='//www.yaplakal.com/forum28/topic2392647.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member225886.html">Jammardu</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-											 <b class="icon-date">10.02.2022 - 23:12</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum28/topic2392647.html">Комментарии</a> <span>(69)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum28/topic2392647.html" onclick="link_to_topic(28,2392647);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>  <tr>
-  	<td align="center" style="border-bottom: 1px solid #e0e0e0 !important;" id="in-feed-3">
-  		<noindex>
-	  		<style type="text/css">
-.inpage_video{ max-width: 580px; max-height: 505px; margin: 15px 0;}
-</style>
-<div id="adfox_container" class="inpage_video"></div>
-<script>loadAdvert();</script>
-	  	</noindex>
-	  </td>
-  </tr>    <tr>
-      <td class='newshead' id="topic_18">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum2/topic2392553.html" title="Оценить тему!">75</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum2/topic2392553.html" class="subtitle">Морская подборка</a> <a href="//www.yaplakal.com/forum2/topic2392553.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_18">
-			   Госпитальное судно <b>&quot;Британик&quot;</b>, переоборудованное из трансатлантического лайнера на время Первой мировой войны. 21 ноября 1916 года &quot;Британик&quot; подорвался на мине и затонул.<br><br><span style='color:#FF0000'>42</span> фото <a href='/go/?https%3A%2F%2Ffeldgrau.info%2Fother%2F23132-podborka-565' target='_blank' class=''>via</a> 
-			  <br />
-<br />
-<div style="" id="img_16438812">
-	<center><a href="//www.yaplakal.com/forum2/topic2392553.html" class="basic-img attach" target="_blank" style="display: block; width: 640px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/2/1/8/16438812.jpg" alt="Морская подборка" ></a></center>
-	
-</div><br><a href='//www.yaplakal.com/forum2/topic2392553.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member328581.html">SESHOK</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-											 <b class="icon-date">10.02.2022 - 18:48</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum2/topic2392553.html">Комментарии</a> <span>(74)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum2/topic2392553.html" onclick="link_to_topic(2,2392553);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_19">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum28/topic2392352.html" title="Оценить тему!">122</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum28/topic2392352.html" class="subtitle">Сперва может показаться, что эти двое парней в Сочи ищут закладку. Но на самом деле закладка — это телёнок</a> <a href="//www.yaplakal.com/forum28/topic2392352.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_19">
-			   Двое прохожих увидели, что сын коровы провалился в расщелину и услышали его мычания о помощи. Ребята решили помочь: они вытащили телёнка из западни и передали его маме на радость.  <br><br><!--Begin Video:https://www.yapfiles.ru/files/2677955/77daa468410941efe2fd23a3bd439810.mp4?token=MDI2Nzc5NTUtMTY0NDU2NjM4Nw--><div align="center" id="yfp-109246692-vMDI2Nzc5NTUt77da" rel="yapfiles"><img src="//www.yaplakal.com/html/static/video-loader.gif" width="640" height="360"/></div><!--End Video--><br><br>UPD: заменил на видео с лучшим качеством 
-			  <br><br><a href='//www.yaplakal.com/forum28/topic2392352.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member18620.html">Jus</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-											 <b class="icon-date">10.02.2022 - 11:24</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum28/topic2392352.html">Комментарии</a> <span>(45)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum28/topic2392352.html" onclick="link_to_topic(28,2392352);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_20">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum2/topic2392722.html" title="Оценить тему!">141</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum2/topic2392722.html" class="subtitle">Так себе картинки 11.02.22</a> <a href="//www.yaplakal.com/forum2/topic2392722.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_20">
-			   50 штук 
-			  <br />
-<br />
-<div style="" id="img_16440216">
-	<center><a href="//www.yaplakal.com/forum2/topic2392722.html" class="basic-img attach" target="_blank" style="display: block; width: 600px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/6/1/2/16440216.jpg" alt="Так себе картинки 11.02.22" ></a></center>
-	
-</div><br><a href='//www.yaplakal.com/forum2/topic2392722.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member510685.html">edhar</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-											 <b class="icon-date">11.02.2022 - 07:57</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum2/topic2392722.html">Комментарии</a> <span>(141)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum2/topic2392722.html" onclick="link_to_topic(2,2392722);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_21">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum2/topic2392727.html" title="Оценить тему!">286</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum2/topic2392727.html" class="subtitle">Пятница. И немного слегка пошлых картинок с надписями и без 16+ (11.02)</a> <a href="//www.yaplakal.com/forum2/topic2392727.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_21">
-			   Штук пятьдесят тематических картинок 
-			  <br />
-<br />
-<div style="" id="img_16440392">
-	<center><a href="//www.yaplakal.com/forum2/topic2392727.html" class="basic-img attach" target="_blank" style="display: block; width: 600px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/2/9/3/16440392.jpg" alt="Пятница. И немного слегка пошлых картинок с надписями и без 16+ (11.02)" ></a></center>
-	
-</div><br><a href='//www.yaplakal.com/forum2/topic2392727.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member883404.html">Michael76</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-											 <b class="icon-date">11.02.2022 - 08:08</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum2/topic2392727.html">Комментарии</a> <span>(179)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum2/topic2392727.html" onclick="link_to_topic(2,2392727);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_22">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum2/topic2392704.html" title="Оценить тему!">142</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum2/topic2392704.html" class="subtitle">У синей изоленты появился достойный соперник – кабельная стяжка</a> <a href="//www.yaplakal.com/forum2/topic2392704.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_22">
-			   Осторожно, присутствуют баяны. Самые безумные варианты применения кабельной стяжки: от строительных до стоматологических.<br><br><span style='color:#FF0000'>18</span> фото, <a href='/go/?https%3A%2F%2Fucrazy.ru%2Fpictures%2F1644332192-u-siney-izolenty-poyavilsya-dostoynyy-sopernik-kabelnaya-styazhka.html' target='_blank' class=''>via</a> 
-			  <br />
-<br />
-<div style="" id="img_16440034">
-	<center><a href="//www.yaplakal.com/forum2/topic2392704.html" class="basic-img attach" target="_blank" style="display: block; width: 640px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/4/3/0/16440034.jpg" alt="У синей изоленты появился достойный соперник – кабельная стяжка" ></a></center>
-	
-</div><br><a href='//www.yaplakal.com/forum2/topic2392704.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member112838.html">SalvaGE</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-											 <b class="icon-date">11.02.2022 - 06:31</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum2/topic2392704.html">Комментарии</a> <span>(99)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum2/topic2392704.html" onclick="link_to_topic(2,2392704);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_23">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum7/topic2392627.html" title="Оценить тему!">143</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum7/topic2392627.html" class="subtitle">Сходили на &quot;Яйцо Фаберже&quot;</a> <a href="//www.yaplakal.com/forum7/topic2392627.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_23">
-			   Всем привет.<br><br>Сходили на премъеру бл.ть.<br><br>Так как у детей сейчас много свободного времени( дистант) решили мы с женой и дочкой сходить в кино. После просмотра трейлера, выбрали фильм &quot;Яйцо Фаберже&quot; 12+.  Не скажу, что у нас очень консервативная семья, дети без меры сидят в гаджетах. Сыну 16, дочери 11, конечно все &quot; все&quot; давно посмотрели и знают откуда берутся дети. Но все же, мы пытаемся воспитывать детей каким то нормам морали и нормам поведения. В последнее время заметили, что ни один фильм не обходится без хотя бы намека на сцены секса.<br><br>Нооо, после первых минут просмотра этого фильма мы не знали как себя повести.... сказать, что мне было стыдно, ничего не сказать. Дочь попросилась в туалет( хотя перед заходом в зал туда уже сходила). Думаю, ну ладно, сейчас все закончится. Но неет, все только начиналось. Нам пришлось уйти. Фильм явно не тянет на 12+. Да и с сыном которому 16 мы бы тоже чувствовали себя не уютно. <br><br>Вопроса 3: <br>-до какого дна еще опустится Российский кинематограф,<br>- куда смотрит минкультуры рф.,<br>- и для чего нам вливают через школьные чаты, о пагубном влиянии интернета, если сами пропускают такую шнягу на широкие экраны. 
-			  <br />
-<br />
-<div style="height:500px; overflow:hidden; position: relative;" id="img_16440390">
-	<center><a href="//www.yaplakal.com/forum7/topic2392627.html" class="basic-img attach" target="_blank" style="display: block; width: 640px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/0/9/3/16440390.jpg" alt="Сходили на &quot;Яйцо Фаберже&quot;" ></a></center>
-	  <a href="#" onclick="return expandImg(this, 16440390, 960);" class="expander" style="width:640px; left: 50%; margin-left: -320px;" title="Развернуть">&nbsp;</a>
-</div>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member891362.html">login55</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum7/">Тексты</a></b>
-											 <b class="icon-date">10.02.2022 - 22:17</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum7/topic2392627.html">Комментарии</a> <span>(185)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum7/topic2392627.html" onclick="link_to_topic(7,2392627);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_24">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum1/topic2392216.html" title="Оценить тему!">95</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum1/topic2392216.html" class="subtitle">Массовая утечка QR-кодов о вакцинации с Госуслуг</a> <a href="//www.yaplakal.com/forum1/topic2392216.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_24">
-			  У кого QR сохранён в виде скриншота, pdf или распечатан - делайте новый.<br><br>25 января 2022 года на сайте RaidForums было опубликовано предложение о продаже базы данных 48 миллионов вакцинированных россиян. База данных содержала, кроме всего прочего, дату рождения, инициалы, и, главное, QR код сертификата вакцинации гражданин России. Первым об этом сообщил телеграм-канал &quot;Утечки информации&quot;:<br><br>Выборочная проверка показала, что QR-коды действительные, ведут на сайт Госуслуг и данные в образце полностью совпадают с тем, что указано на официальной странице проверки QR-кодов (gosuslugi.ru/covid-cert/verify/)<br><br>В качестве дополнительного доказательства валидности базы автор предоставил веб-интерфейс к части базы данных по адресу qarusel.com. Судя по результатам поиска через этот веб-интерфейс, в нем содержатся базы вакцинированных Москвы, Московской области и Санкт-Петербурга.<br><br>В тот же день, 25 января 2022 года ближе к ночи появились новости о том, что &quot;Минцифры проверит сообщения об утечке данных о привитых от COVID-19&quot;, и &quot;в базе нет персональных данных граждан&quot;.
-			  <br />
-<br />
-<div style="height:500px; overflow:hidden; position: relative;" id="img_16440379">
-	<center><a href="//www.yaplakal.com/forum1/topic2392216.html" class="basic-img attach" target="_blank" style="display: block; width: 640px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/9/7/3/16440379.jpg" alt="Массовая утечка QR-кодов о вакцинации с Госуслуг" ></a></center>
-	  <a href="#" onclick="return expandImg(this, 16440379, 907);" class="expander" style="width:640px; left: 50%; margin-left: -320px;" title="Развернуть">&nbsp;</a>
-</div><br><a href='//www.yaplakal.com/forum1/topic2392216.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member494985.html">Арваш</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-											 <b class="icon-date">10.02.2022 - 04:23</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum1/topic2392216.html">Комментарии</a> <span>(80)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum1/topic2392216.html" onclick="link_to_topic(1,2392216);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>    <tr>
-      <td class='newshead' id="topic_25">
-        <div>
-									 <div class="rating-short-value rating-green-short-bg" style="float: right;"><a href="//www.yaplakal.com/forum2/topic2392683.html" title="Оценить тему!">102</a></div>
-					<h2 class='mainpage'><a href="//www.yaplakal.com/forum2/topic2392683.html" class="subtitle">Фуфайка. История ватника-телогрейки</a> <a href="//www.yaplakal.com/forum2/topic2392683.html" target="_blank" class="new-window" title="Открыть ссылку в новом окне">&nbsp;&nbsp;&nbsp;</a></h2>
-					<div style="clear: both;"></div>
-				</div>
-				<span style="color: #666; font-weight: normal;"></span>
-			</td>
-		</tr>
-    <tr>
-      <td class="postcolor news-content" id="news_25">
-			   В скором, даже в ближайшем времени фуфайки войдут в моду. И манерные модники уже сейчас изо всех сил роют интернет в поисках настоящих, винтажных телогреек-ватников. Вот-вот на витринах бутиков, в автосалонах с дорогими авто, в ювелирках –за сереет стеганными куртками из стёганного хлопка. Подготовимся к этому событию-окунёмся в историю. 
-			  <br />
-<br />
-<div style="" id="img_16439894">
-	<center><a href="//www.yaplakal.com/forum2/topic2392683.html" class="basic-img attach" target="_blank" style="display: block; width: 640px; margin: 0 auto;"><img src="//s00.yaplakal.com/pics/pics_preview/4/9/8/16439894.jpg" alt="Фуфайка. История ватника-телогрейки" ></a></center>
-	
-</div><br><a href='//www.yaplakal.com/forum2/topic2392683.html'><b>Читать дальше...</b></a>
-        
-		  </td>
-    </tr>
-      								 <tr>
-  								 	 <td valign="top" class="holder newsbottom">
-											 <b class="icon-user"><a href="//www.yaplakal.com/members/member363259.html">Драути</a></b>
-											 <b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-											 <b class="icon-date">11.02.2022 - 03:24</b>
-											 <b class="icon-comments"><a href="//www.yaplakal.com/forum2/topic2392683.html">Комментарии</a> <span>(109)</span></b>
-											 <b class="icon-link"><a href="//www.yaplakal.com/forum2/topic2392683.html" onclick="link_to_topic(2,2392683);return false;" title="Показать ссылку на эту тему">Ссылка</a></b>
-									   </td>
-                   </tr>
-        </tbody>
-	    </table>
-			<table cellpadding='0' cellspacing='0' border='0' width='100%' align='center'>
-	    	<tr>
-	    		<td align="center" style="padding: 15px 0;" id="loaderInfo">
-					  <a href="//www.yaplakal.com/st/1644557443/" id="loaderLink"><img src="//www.yaplakal.com/html/static/ajax-loader.gif" width="43" height="11" border="0" alt="loading.."></a>
-	    		</td>
-	    	</tr>
-	    </table>
-    </td>
-    <td width="10" style="display: table-cell;"><img src="//www.yaplakal.com/html/static/trans.gif" width="10" height="1" border="0"></td>
-    <td width="240" vAlign="top" id="right-column" style="display: table-cell;">
-		  	
-  <div style="text-align: center;">
-  	<noindex>
-	  	<noindex>
-<style type="text/css">
-#MF_yaplakal\.com_D_240x400-1 { width: 240px; }
-</style>
-<div id="crt-1279952" size="240x400">
-    <script type="text/javascript">CriteoAdblock("crt-1279952", 1279952);</script>
-</div>
-<div id="MF_yaplakal.com_D_240x400-1"></div>
+<!-- {/literal} End Talk-Me -->
 <script>
-      window.yaContextCb.push(()=>{
-          Ya.adfoxCode.create({
-              ownerId: 220463,
-          containerId: 'MF_yaplakal.com_D_240x400-1',
-              params: {
-                  p1: 'cbiwj',
-              p2: 'fqhh'
-              }
-          })
-      })
-</script>
-<br/>
-<center><a href="//t.me/yaplakal" target="_blank" rel="nofollow" title="ЯП в Telegram"><img src="//www.yaplakal.com/html/smm/tg1.png" border="0"></a> <a href="//vk.com/yaplakal" target="_blank" rel="nofollow" title="ЯП в ВКонтакте"><img src="//www.yaplakal.com/html/smm/vk.png" border="0"></a> <a href="//facebook.com/yaplakalcom" target="_blank" rel="nofollow" title="ЯП в Facebook"><img src="//www.yaplakal.com/html/smm/fb.png" border="0"></a> <a href="//instagram.com/yaplakal" target="_blank" rel="nofollow" title="ЯП в Instagram"><img src="//www.yaplakal.com/html/smm/in.png" border="0"></a> <a href="//twitter.com/yaplakalcom" target="_blank" rel="nofollow" title="ЯП в Twitter"><img src="//www.yaplakal.com/html/smm/tw.png" border="0"></a> <a href="https://zen.yandex.ru/yaplakal.com" target="_blank" rel="nofollow" title="ЯП в Яндекс.Дзен"><img src="//www.yaplakal.com/html/smm/dzen.png" border="0"></a></center></noindex>
-	  </noindex>
-  </div>
-	<br/>
-		  	<h4>Активные темы</h4>
-  <ul class="topics-list">	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392816.html" title="Эта тема создана 11.02.2022 - 11:57" class="subtitle">Презентация от SpaceX</a> <span>(1)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member890087.html">Галапагосян</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392768.html" title="Эта тема создана 11.02.2022 - 10:16" class="subtitle">Как я готовлю кофе&#33;</a> <span>(89)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member273769.html">Kazbekdriver</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392740.html" title="Эта тема создана 11.02.2022 - 08:59" class="subtitle">Плюсы от жизни с разведенной женщиной</a> <span>(326)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member145533.html">Змеенов</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392788.html" title="Эта тема создана 11.02.2022 - 11:10" class="subtitle">В Барнауле пожилые пенсионеры живут больше 20 лет в землянке</a> <span>(25)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member508678.html">cherepanovea</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392800.html" title="Эта тема создана 11.02.2022 - 11:36" class="subtitle">Джо Роган называл негров неграми и оказался в центре скандала.</a> <span>(32)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member658592.html">bandit650</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392783.html" title="Эта тема создана 11.02.2022 - 10:59" class="subtitle">Танки грязи не боятся</a> <span>(36)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member258710.html">AGL</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392795.html" title="Эта тема создана 11.02.2022 - 11:18" class="subtitle">Житель Ноябрьска замуровал соседа-меломана в квартире из-за гром...</a> <span>(23)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member255713.html">Батарейкин</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392771.html" title="Эта тема создана 11.02.2022 - 10:20" class="subtitle">Нет величия...</a> <span>(62)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member240304.html">LORIMER</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392700.html" title="Эта тема создана 11.02.2022 - 06:19" class="subtitle">В московской школе шестиклассник-чеченец пырнул ножом мальчика-к...</a> <span>(65)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member390076.html">ppsascha</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum28/topic2392236.html" title="Эта тема создана 10.02.2022 - 06:58" class="subtitle">Наши Вашим Х*ями Машем</a> <span>(84)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member448425.html">vorchun72</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392809.html" title="Эта тема создана 11.02.2022 - 11:47" class="subtitle">Что это может быть?</a> <span>(18)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member305473.html">videotrest</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392804.html" title="Эта тема создана 11.02.2022 - 11:41" class="subtitle">Калужская область выходит из программы по переселению в РФ сооте...</a> <span>(29)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member828819.html">ZloyPomidor</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392678.html" title="Эта тема создана 11.02.2022 - 01:59" class="subtitle">Госдеп призвал американцев немедленно покинуть Украину</a> <span>(60)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member69283.html">sinquisitor</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392661.html" title="Эта тема создана 11.02.2022 - 00:00" class="subtitle">Фигня приходит в полночь, дорогие деграданты</a> <span>(157)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member725333.html">AliceInHell</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392817.html" title="Эта тема создана 11.02.2022 - 11:57" class="subtitle">Peacemaker</a> <span>(3)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member441567.html">poqx</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			<b class="icon-clock">12:03</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li></ul>
-	<div style="margin-top: 5px;"><a href="//www.yaplakal.com/act/Search/CODE/getactive/" class="title"><b>Обзор активных тем &raquo;</b></a></div>
-  <br>
-		  	
-  <div style="text-align: center;">
-  	<noindex>
-	  	<div id="crt-1279951" size="240x400">
-    <script type="text/javascript">CriteoAdblock("crt-1279951", 1279951);</script>
+(function(w,d,u){
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+})(window,document,'https://b24.sibac.info/upload/crm/site_button/loader_24_m79jia.js');
+</script>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div><!-- /postscript-top-inner -->
+</div><!-- /postscript-top -->
+	              </div><!-- /main-group-inner -->
+	        </div><!-- /main -->
+
+					</div><!-- /page -->
+
+	  	<div id="footer"><div class="footer-wrap"><div id="block-menu-menu-footer-menu" class="block block-menu odd first">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<ul class="menu"><li class="expanded first"><span>О нас</span><ul class="menu"><li class="leaf first"><a href="/about" title="">Об издательстве</a></li>
+<li class="leaf"><a href="/reviews" title="">Отзывы</a></li>
+<li class="leaf"><a href="/news" title="">Новости</a></li>
+<li class="leaf last"><a href="/contacts" title="">Контакты</a></li>
+</ul></li>
+<li class="expanded"><span>Полезная информация</span><ul class="menu"><li class="leaf first"><a href="/payment" title="">Оплата</a></li>
+<li class="leaf"><a href="/rules-writing-articles" title="">Требования к оформлению статьи</a></li>
+<li class="leaf"><a href="/oferta" title="">Договор оферты</a></li>
+<li class="leaf last"><a href="/policy" title="">Политика обработки персональных данных</a></li>
+</ul></li>
+<li class="expanded last"><span>О публикации статей</span><ul class="menu"><li class="leaf first"><a href="/blog" title="">Блог издательства</a></li>
+<li class="leaf"><a href="/gde-mozhno-opublikovat-statyu-studentu" title="">Где можно опубликовать статью студенту</a></li>
+<li class="leaf last"><a href="/publikaciya-statej-magistrantov" title="">Публикация статей магистрантов</a></li>
+</ul></li>
+</ul>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --><div id="block-block-2" class="block block-block even  last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<div class="counter-footer"><div class="left counter">
+	<a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="license nofollow" target="_blank"><img alt="Лицензия Creative Commons" src="https://licensebuttons.net/l/by/4.0/88x31.png" style="border-width:0" /></a></div>
+<div class="left counter" style="width: 70px;">
+	<img src="/sites/default/files/16.png" width="32" height="32" />
 </div>
-<div id='MF_yaplakalcom_D_240x400'></div>
-<script>
-window.yaContextCb.push(()=>{
-          Ya.adfoxCode.create({
-              ownerId: 220463,
-          containerId: 'MF_yaplakalcom_D_240x400',
-              params: {
-                  p1: 'cqbjj',
-                  p2: 'fqhh'
-              }
-          })
-      })
-setInterval(function() {
-    if (isElementVisible('MF_yaplakalcom_D_240x400') === true && document.hidden === false) {
-        window.Ya.adfoxCode.reload('MF_yaplakalcom_D_240x400');}}, 30000);
-</script>
-	  </noindex>
-  </div>
-	<br/>
-		     <h4>Февраль 2022</h4>
-   <table cellspacing="3" cellpadding="3" border="0" align="center" width="100%">
-<tr>
-<td width="14%" class="calendar-wday">Пн</td>
-<td width="14%" class="calendar-wday">Вт</td>
-<td width="14%" class="calendar-wday">Ср</td>
-<td width="14%" class="calendar-wday">Чт</td>
-<td width="14%" class="calendar-wday">Пт</td>
-<td width="14%" class="calendar-wday">Сб</td>
-<td width="14%" class="calendar-wday">Вс</td>
-</tr>
-<tr>
-<td><p>&nbsp;</p></td>
-<td  class="calendar-day"><a href="//www.yaplakal.com/archive/2022-2-1.html" class="calendar-link">1</a></td>
-<td  class="calendar-day"><a href="//www.yaplakal.com/archive/2022-2-2.html" class="calendar-link">2</a></td>
-<td  class="calendar-day"><a href="//www.yaplakal.com/archive/2022-2-3.html" class="calendar-link">3</a></td>
-<td  class="calendar-day"><a href="//www.yaplakal.com/archive/2022-2-4.html" class="calendar-link">4</a></td>
-<td  class="calendar-day"><a href="//www.yaplakal.com/archive/2022-2-5.html" class="calendar-link">5</a></td>
-<td  class="calendar-day"><a href="//www.yaplakal.com/archive/2022-2-6.html" class="calendar-link">6</a></td>
-</tr>
-<tr>
-<td  class="calendar-day"><a href="//www.yaplakal.com/archive/2022-2-7.html" class="calendar-link">7</a></td>
-<td  class="calendar-day"><a href="//www.yaplakal.com/archive/2022-2-8.html" class="calendar-link">8</a></td>
-<td  class="calendar-day"><a href="//www.yaplakal.com/archive/2022-2-9.html" class="calendar-link">9</a></td>
-<td  class="calendar-day"><a href="//www.yaplakal.com/archive/2022-2-10.html" class="calendar-link">10</a></td>
-<td  style="background-color: #FCA2A2; font-weight: bold;" class="calendar-day"><a href="//www.yaplakal.com/archive/2022-2-11.html" class="calendar-link">11</a></td>
-<td  class="calendar-day">12</td>
-<td  class="calendar-day">13</td>
-</tr>
-<tr>
-<td  class="calendar-day">14</td>
-<td  class="calendar-day">15</td>
-<td  class="calendar-day">16</td>
-<td  class="calendar-day">17</td>
-<td  class="calendar-day">18</td>
-<td  class="calendar-day">19</td>
-<td  class="calendar-day">20</td>
-</tr>
-<tr>
-<td  class="calendar-day">21</td>
-<td  class="calendar-day">22</td>
-<td  class="calendar-day">23</td>
-<td  class="calendar-day">24</td>
-<td  class="calendar-day">25</td>
-<td  class="calendar-day">26</td>
-<td  class="calendar-day">27</td>
-</tr>
-<tr>
-<td  class="calendar-day">28</td>
-<td><p>&nbsp;</p></td>
-<td><p>&nbsp;</p></td>
-<td><p>&nbsp;</p></td>
-<td><p>&nbsp;</p></td>
-<td><p>&nbsp;</p></td>
-<td><p>&nbsp;</p></td>
-</tr>
-<tr><td colspan="4" align="left"><a href="//www.yaplakal.com/archive/2022-1-1.html" class="calendar-link">&laquo; Янв 2022</a></td><td colspan="3" align="right"><a href="//www.yaplakal.com/archive/2022-3-1.html" class="calendar-link">Мар 2022 &raquo;</a></td></tr></table>
-
-	 <br>
-		      <h4>Друзья</h4>
-	  <div id="friend-list">
-			<a href="http://www.yaplakal.com/click/?https://korzik.net" target="_blank">Korzik.net</a><br>
-<a href="http://www.yaplakal.com/click/?https://unews.pro" target="_blank">Unews.pro</a><br>
-<a href="http://www.yaplakal.com/click/?https://warnet.ws" target="_blank">WarNet.ws</a><br>
-<a href="http://www.yaplakal.com/click/?https://voffka.com" target="_blank">Voffka.com</a><br>
-<a href="http://www.yaplakal.com/click/?https://dezinfo.net" target="_blank">DezInfo.net</a><br>
-<br>
-		</div>
-		<br>
-		  	<h4>Популярные темы</h4>
-  <div style="margin-bottom: 10px;" id="top-switcher">
-<a href="#" class="float-layer" onclick="return switchTop(this, 'rank');" style="font-weight: bold;">Оценки</a> | <a href="#" class="float-layer" onclick="return switchTop(this, 'views');">Просмотры</a> | <a href="#" class="float-layer" onclick="return switchTop(this, 'posts');">Ответы</a>
-</div><ul class="topics-list" id="list-rank">	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392386.html" title="" class="subtitle">В Улан-Удэ судебные приставы по ошибке «обнесли» чужую квартиру. Однако вместо извинений хозяйка жилья получила штраф</a> 				 <span class="rating-small rating-white-small-bg">1779</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member212568.html">Lomamaisty</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392404.html" title="" class="subtitle">Публика смотрела одобрительно</a> 				 <span class="rating-small rating-white-small-bg">1024</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member676971.html">Психбольница</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392457.html" title="" class="subtitle">&quot;Не прогнулся&quot;: В СПЧ прокомментировали приговор подростку по &quot;делу Minecraft&quot;</a> 				 <span class="rating-small rating-yellow-small-bg">767</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member914198.html">trofim1</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum28/topic2392449.html" title="" class="subtitle">Ищите правды..</a> 				 <span class="rating-small rating-yellow-small-bg">735</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member205404.html">педобелка</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392530.html" title="" class="subtitle">Госпитализированный с COVID-19 Жириновский перестал узнавать близких</a> 				 <span class="rating-small rating-yellow-small-bg">693</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member331298.html">masterhud</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392429.html" title="" class="subtitle">Малоизвестные исторические факты</a> 				 <span class="rating-small rating-yellow-small-bg">635</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member120033.html">WooDoo78RUS</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392596.html" title="" class="subtitle">Вот о чём надо снимать кино: подвиг российского парусника &quot;Крузенштерн&quot; в 2000 году</a> 				 <span class="rating-small rating-green-small-bg">360</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member328581.html">SESHOK</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum28/topic2392378.html" title="" class="subtitle">Особенность менталитета немцев</a> 				 <span class="rating-small rating-green-small-bg">345</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member35301.html">Штирлиц</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum7/topic2392406.html" title="" class="subtitle">&quot;Я не такая, я за серьезные отношения&quot;</a> 				 <span class="rating-small rating-green-small-bg">326</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member611515.html">microlab777</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum7/">Тексты</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392502.html" title="" class="subtitle">Глава МИД Великобритании усомнилась в суверенитете России над Ростовом и Воронежем</a> 				 <span class="rating-small rating-green-small-bg">323</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member266239.html">kosteg37</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392463.html" title="" class="subtitle">«Ямато-ни» – мясные консервы японского военного пайка</a> 				 <span class="rating-small rating-green-small-bg">308</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member328581.html">SESHOK</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum28/topic2392415.html" title="" class="subtitle">Ну каждый раз б....ть&#33;</a> 				 <span class="rating-small rating-green-small-bg">303</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member561422.html">Reichstag</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum28/topic2392539.html" title="" class="subtitle">Используй вещество, дарующее жизнь</a> 				 <span class="rating-small rating-green-small-bg">291</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member611515.html">microlab777</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum28/topic2392636.html" title="" class="subtitle">Дворцы Ангелы Меркель</a> 				 <span class="rating-small rating-green-small-bg">290</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member232887.html">alex1i</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum28/">Видео</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392727.html" title="" class="subtitle">Пятница. И немного слегка пошлых картинок с надписями и без 16+ (11.02)</a> 				 <span class="rating-small rating-green-small-bg">286</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member883404.html">Michael76</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li></ul><ul class="topics-list" style="display: none;" id="list-views">	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392429.html" title="" class="subtitle">Малоизвестные исторические факты</a> <span>(206)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member120033.html">WooDoo78RUS</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			<b class="icon-views">59K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392530.html" title="" class="subtitle">Госпитализированный с COVID-19 Жириновский перестал узнавать близких</a> <span>(784)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member331298.html">masterhud</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			<b class="icon-views">57K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392404.html" title="" class="subtitle">Публика смотрела одобрительно</a> <span>(270)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member676971.html">Психбольница</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			<b class="icon-views">52K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392386.html" title="" class="subtitle">В Улан-Удэ судебные приставы по ошибке «обнесли» чужую квартиру. Однако вместо извинений хозяйка жилья получила штраф</a> <span>(218)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member212568.html">Lomamaisty</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			<b class="icon-views">50K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum7/topic2392406.html" title="" class="subtitle">&quot;Я не такая, я за серьезные отношения&quot;</a> <span>(1123)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member611515.html">microlab777</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum7/">Тексты</a></b>
-			
-			<b class="icon-views">45K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392525.html" title="" class="subtitle">Отнимите у них фотошоп</a> <span>(98)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member985049.html">freddi282</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			<b class="icon-views">41K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392457.html" title="" class="subtitle">&quot;Не прогнулся&quot;: В СПЧ прокомментировали приговор подростку по &quot;делу Minecraft&quot;</a> <span>(450)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member914198.html">trofim1</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			<b class="icon-views">40K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392445.html" title="" class="subtitle">Кто скажет, что это - &quot;Шпроты в масле закусочные&quot;, пусть первый бросит в меня камень&#33;</a> <span>(387)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member296697.html">swetokonda</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			<b class="icon-views">37K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392502.html" title="" class="subtitle">Глава МИД Великобритании усомнилась в суверенитете России над Ростовом и Воронежем</a> <span>(424)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member266239.html">kosteg37</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			<b class="icon-views">35K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392661.html" title="" class="subtitle">Фигня приходит в полночь, дорогие деграданты</a> <span>(157)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member725333.html">AliceInHell</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			<b class="icon-views">34K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392727.html" title="" class="subtitle">Пятница. И немного слегка пошлых картинок с надписями и без 16+ (11.02)</a> <span>(179)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member883404.html">Michael76</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			<b class="icon-views">33K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum11/topic2392600.html" title="" class="subtitle">Интеллигентный провал: что погубило шведский бренд автомобилей Saab</a> <span>(249)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member423430.html">mrPitkin</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum11/">Авто/Мото</a></b>
-			
-			<b class="icon-views">32K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392463.html" title="" class="subtitle">«Ямато-ни» – мясные консервы японского военного пайка</a> <span>(81)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member328581.html">SESHOK</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			<b class="icon-views">29K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392526.html" title="" class="subtitle">Рост Цен В США</a> <span>(368)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member947120.html">Raikero</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			<b class="icon-views">29K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392533.html" title="" class="subtitle">16 футуристичных вещей из прошлого, одни из которых реально существовали, а другие были лишь фантазией</a> <span>(96)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member328581.html">SESHOK</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			<b class="icon-views">28K</b>
-		</div>
-		<div style="clear: both;"></div>
-	</li></ul><ul class="topics-list" style="display: none;" id="list-posts">	<li>
-		<h5><a href="//www.yaplakal.com/forum7/topic2392406.html" title="" class="subtitle">&quot;Я не такая, я за серьезные отношения&quot;</a> <span>(1123)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member611515.html">microlab777</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum7/">Тексты</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392530.html" title="" class="subtitle">Госпитализированный с COVID-19 Жириновский перестал узнавать близких</a> <span>(784)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member331298.html">masterhud</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392457.html" title="" class="subtitle">&quot;Не прогнулся&quot;: В СПЧ прокомментировали приговор подростку по &quot;делу Minecraft&quot;</a> <span>(450)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member914198.html">trofim1</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392502.html" title="" class="subtitle">Глава МИД Великобритании усомнилась в суверенитете России над Ростовом и Воронежем</a> <span>(424)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member266239.html">kosteg37</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum7/topic2392514.html" title="" class="subtitle">Товарищи подскажите, у меня одного так?</a> <span>(416)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member231493.html">f983lda</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum7/">Тексты</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392445.html" title="" class="subtitle">Кто скажет, что это - &quot;Шпроты в масле закусочные&quot;, пусть первый бросит в меня камень&#33;</a> <span>(387)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member296697.html">swetokonda</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392526.html" title="" class="subtitle">Рост Цен В США</a> <span>(368)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member947120.html">Raikero</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum3/topic2392740.html" title="" class="subtitle">Плюсы от жизни с разведенной женщиной</a> <span>(329)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member797555.html">lar4uk</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum3/">Инкубатор</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392405.html" title="" class="subtitle">Футболист Курт Зума пнул кота. За это его лишили животных, отстранили от игр и оштрафовали на 250 тысяч фунтов</a> <span>(322)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member18620.html">Jus</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum2/topic2392487.html" title="" class="subtitle">Ваше рабочее место</a> <span>(313)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member651001.html">KbIH</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum2/">Картинки</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392569.html" title="" class="subtitle">Западные поставки оружия вывели армию Украины на мировой уровень</a> <span>(287)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member186163.html">dvinnn</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392404.html" title="" class="subtitle">Публика смотрела одобрительно</a> <span>(270)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member676971.html">Психбольница</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392711.html" title="" class="subtitle">Допинг-проба Валиевой дала положительный результат. Дело фигуристки рассмотрят в CAS</a> <span>(254)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member630533.html">stive77</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum1/topic2392558.html" title="" class="subtitle">Мэр Днепра ответил на ноту МИД РБ и возмущение посольства в Киеве</a> <span>(252)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member421207.html">sanek566</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum1/">События</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum11/topic2392600.html" title="" class="subtitle">Интеллигентный провал: что погубило шведский бренд автомобилей Saab</a> <span>(249)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member423430.html">mrPitkin</a></b>
-			<b class="icon-forum"><a href="//www.yaplakal.com/forum11/">Авто/Мото</a></b>
-			
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li></ul>
-	
-  <br>
-		  	
-  <div style="text-align: center;">
-  	<noindex>
-	  	<style type="text/css">
-#MF_yaplakal\.com_D_240x400-3{ width: 240px; height: 400px; margin-bottom: 10px; }
-</style>
-<!--AdFox START-->
-<!--Площадка: !Mediaforce / yaplakal.com / MF_yaplakal.com_D_240x400-3-->
-<!--Тип баннера: ГПМ-тех правая колонка-->
-<div id="crt-1306839" size="240x400">
-    <script type="text/javascript">CriteoAdblock("crt-1306839", 1306839);</script>
 </div>
-  <div id="MF_yaplakal.com_D_240x400-3"></div>
-  <script>
-      window.yaContextCb.push(()=>{
-          Ya.adfoxCode.create({
-              ownerId: 220463,
-          containerId: 'MF_yaplakal.com_D_240x400-3',
-              params: {
-                  p1: 'cblyn',
-              p2: 'fqhh'
-              }
-          })
-      })
-  </script>
-	  </noindex>
-  </div>
-	<br/>
-      	
-  <div style="text-align: center;">
-  	<noindex>
-	  	<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.8&appId=949585918424549";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-page" data-href="https://www.facebook.com/yaplakalcom/" data-width="240" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/yaplakalcom/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/yaplakalcom/">Yaplakal</a></blockquote></div><br/><br/>
-<script type="text/javascript" src="//vk.com/js/api/openapi.js?49"></script>
-			<!-- VK Widget -->
-			<div id="vk_groups"></div>
-			<script type="text/javascript">
-			VK.Widgets.Group("vk_groups", {mode: 0, width: "240", height: "400"}, 1314709);</script>
-<br>
-<a href="https://twitter.com/yaplakalcom" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @yaplakal</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-	  </noindex>
-  </div>
-	<br/>
-		  	<h4>Объявления</h4>
-  <ul class="topics-list">	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2390686.html" title="" class="subtitle">продам ноутбук</a> <span>(21)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member345331.html">Apostasy</a></b>
-			
-			<b class="icon-date">7.02.2022 - 05:11</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2392789.html" title="" class="subtitle">Кто заберёт в хорошие руки?</a> <span>(4)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member392448.html">Glombak</a></b>
-			
-			<b class="icon-date">11.02.2022 - 11:11</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2384138.html" title="" class="subtitle">Комплект на Ryzen 5 3400G  продам в Москве или с пересылом</a> <span>(13)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member738286.html">alexonik</a></b>
-			
-			<b class="icon-date">25.01.2022 - 13:06</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2371919.html" title="" class="subtitle">Помогите обработать фото</a> <span>(23)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member369804.html">Tttd1sh</a></b>
-			
-			<b class="icon-date">29.12.2021 - 06:06</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2388187.html" title="" class="subtitle">Прикольный заяц</a> <span>(2)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member983973.html">Golden10</a></b>
-			
-			<b class="icon-date">2.02.2022 - 11:19</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2381427.html" title="" class="subtitle">Продам комп мини ITX МСК/МО</a> <span>(21)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member309127.html">b534xx</a></b>
-			
-			<b class="icon-date">19.01.2022 - 20:13</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2369714.html" title="" class="subtitle">Asus роутер</a> <span>(5)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member887436.html">V200</a></b>
-			
-			<b class="icon-date">23.12.2021 - 21:33</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2375271.html" title="" class="subtitle">Магнитола pioneer</a> <span>(9)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member336841.html">hekt0</a></b>
-			
-			<b class="icon-date">6.01.2022 - 15:21</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2371998.html" title="" class="subtitle">Зеркалка от Никон, плёночная+ зум. СПБ.</a> <span>(11)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member534576.html">БiлыйКiт</a></b>
-			
-			<b class="icon-date">29.12.2021 - 10:34</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2384422.html" title="" class="subtitle">Продам системный блок Москва</a> <span>(33)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member51487.html">tafiy</a></b>
-			
-			<b class="icon-date">25.01.2022 - 22:47</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2381894.html" title="" class="subtitle">Дорого куплю электрогитару Тоника завода им. Орджоникидзе</a> <span>(16)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member692063.html">ascerdfg</a></b>
-			
-			<b class="icon-date">20.01.2022 - 20:47</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2384910.html" title="" class="subtitle">Книжек немного запродам</a> <span>(17)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member100594.html">Лисяра</a></b>
-			
-			<b class="icon-date">26.01.2022 - 21:24</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2391285.html" title="" class="subtitle">Человеки , возьмите подругу&#33;</a> <span>(21)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member508119.html">Zepka</a></b>
-			
-			<b class="icon-date">8.02.2022 - 10:45</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2390772.html" title="" class="subtitle">Готовые проекты коттеджей и домов</a> <span>(28)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member623294.html">Ясмеяльщик</a></b>
-			
-			<b class="icon-date">7.02.2022 - 10:41</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li>	<li>
-		<h5><a href="//www.yaplakal.com/forum44/topic2368589.html" title="" class="subtitle">Отдам компьютерное железо 775 сокет</a> <span>(11)</span></h5>
-		<div class="holder desc" style="opacity: 0.5;">
-		  <b class="icon-user"><a href="//www.yaplakal.com/members/member290506.html">zubexkir</a></b>
-			
-			<b class="icon-date">21.12.2021 - 14:18</b>
-			
-		</div>
-		<div style="clear: both;"></div>
-	</li></ul>
-	<div style="margin-top: 5px;"><a href="//www.yaplakal.com/forum44/" class="title"><b>Все объявления &raquo;</b></a></div>
-  <br>
-		  <div id="prilipala">
-        	
-  <div style="text-align: center;">
-  	<noindex>
-	  	<div id="crt-1275781" size="240x400">
-    <script type="text/javascript">CriteoAdblock("crt-1275781", 1275781);</script>
-</div>
-<div id='MF_yaplakalcom_D_240x400-2'></div>
-<script>
-window.yaContextCb.push(()=>{
-          Ya.adfoxCode.create({
-              ownerId: 220463,
-          containerId: 'MF_yaplakalcom_D_240x400-2',
-              params: {
-                  p1: 'cbciz',
-                  p2: 'fqhh'
-              }
-          })
-      })
-setInterval(function() {
-    if (isElementVisible('MF_yaplakalcom_D_240x400-2') === true && document.hidden === false) {
-        window.Ya.adfoxCode.reload('MF_yaplakalcom_D_240x400-2');}}, 30000);
-</script>
-	  </noindex>
-  </div>
-	<br/>
-		    <a href="#" id="scrollTop" class="title">Наверх</a>      
-      </div>
-    </td>
-  </tr>
-</table>
-<!--
-<div id="p_res" style="position: absolute; bottom: 0; left: 0; width: 1px; height: 1px;"></div>
-<script type="text/javascript">
-
-var p_posts = ['#news_1','#news_2','#news_3',,'#news_4','#news_5','#news_10','#news_15','#news_20'];
-var p_links = { '#news_1'  : "http://www.yapfiles.ru/ypxl/?fmt=9&id=1041",
-                '#news_2'  : "http://www.yapfiles.ru/ypxl/?fmt=9&id=1042",
-                '#news_3'  : "http://www.yapfiles.ru/ypxl/?fmt=9&id=1043",
-                '#news_4'  : "http://www.yapfiles.ru/ypxl/?fmt=9&id=1044",
-                '#news_5'  : "http://www.yapfiles.ru/ypxl/?fmt=9&id=1045",
-                '#news_10' : "http://www.yapfiles.ru/ypxl/?fmt=9&id=1046",
-                '#news_15' : "http://www.yapfiles.ru/ypxl/?fmt=9&id=1047",
-                '#news_20' : "http://www.yapfiles.ru/ypxl/?fmt=9&id=1048",
-              };
-
-$(window).bind('scroll ready', function () {
-	topOffset = $(window).scrollTop();
-
-	p_posts.forEach(function(item, i, p_posts) {
-    
-		blockOffset = $(item).offset().top;
-		blockHeight = $(item).innerHeight();
-
-		if(topOffset + window.innerHeight + 1 > blockOffset && topOffset < (blockOffset + blockHeight) && p_posts.indexOf(item) != -1){
-			p_posts.splice(p_posts.indexOf(item), 1);
-			//$( "#p_res" ).load( p_links[item] + "&rand=" + Math.random(), function() { console.log(item); });	
-            $( "#p_res" ).html( "<img src='"+p_links[item] + "&rand=" + Math.random()+"' width='1' height='1' border='0'>");
-            console.log(item);
-		}
-	});
-});
-
-</script>  
-//-->  
-      </div>
-      <div style="clear: both;"></div>
-			<br>
-    </div>
-  </div>
-  <div style="clear: both;"></div>
-	<div id="footer" class="no-compress">
-		<div id="footer-inner" class="opacity50">
-			<div id="footer-inner-deep">
-				<div align="center" id="footer-informer"><!--AdFox START-->
-<!--Площадка: !Mediaforce / yaplakal.com / MF_yaplakal.com_D_970x200-Bottom-->
-<style type="text/css">
-  #MF_yaplakalcom_D_970x200-Bottom{
-    background-color: #eee;
-    padding: 10px 0px 10px 0px;
-    margin: 0 auto;
-    overflow-x: hidden;
-  }
-</style>
-<div id='MF_yaplakalcom_D_970x200-Bottom'></div>
-<script>
-window.yaContextCb.push(()=>{
-          Ya.adfoxCode.create({
-              ownerId: 220463,
-          containerId: 'MF_yaplakalcom_D_970x200-Bottom',
-              params: {
-                  p1: 'ccvih',
-                  p2: 'fqhi'
-              }
-          })
-      })
-setInterval(function() {
-    if (isElementVisible('MF_yaplakalcom_D_970x200-Bottom') === true && document.hidden === false) {
-        window.Ya.adfoxCode.reload('MF_yaplakalcom_D_970x200-Bottom');}}, 30000);
-</script></div>
-				<div class="padding" id="footer-counters" style="position: relative;">
-					<div style="float: right;" id="counters">
-						<noindex>
-							<!--LiveInternet counter--><script type="text/javascript">
-							 new Image().src = "//counter.yadro.ru/hit?r"+
-							 escape(document.referrer)+((typeof(screen)=="undefined")?"":
-							 ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
-							 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-							 ";"+Math.random();
-							</script><!--/LiveInternet-->
-							<div style="display: none;">
-							<a href="//www.yandex.ru/cy?base=0&host=www.yaplakal.com" rel="nofollow"><img src="//www.yandex.ru/cycounter?www.yaplakal.com" width="88" height="31" alt="Яндекс цитирования" border="0" /></a><br>
-							</div>
-							
-						</noindex>
-					</div>
-					<div style="float: left;">
-						<a href="//www.yaplakal.com/" class="png" style="cursor: pointer;"><img src="/html/static/logo-white.png" border="0"></a>
-					</div>
-					<div style="float: left; margin-left: 20px; height: 120px;">
-						<ul class="footer-menu">
-						  <li><a href="//www.yaplakal.com/forum16/topic106064.html">О проекте</a></li>
-							<li><a href="//www.yaplakal.com/act/Help/">Помощь</a></li>
-							<li><a href="//www.yaplakal.com/forum5/topic222940.html">Авторские права</a></li>
-							<li><a href="//www.yaplakal.com/forum5/topic108553.html">Частые вопросы и ответы</a></li>
-							<li><noindex><a href="mailto:adm@yaplakal.com?subject=NewPost" rel="nofollow">Прислать новость</a></noindex></li>
-							<li><a href="//www.yaplakal.com/adv/"><b>Размещение рекламы</b></a></li>
-						</ul>
-					</div>
-					<div style="float: left; margin-left: 20px; padding-left: 20px; border-left: 1px solid #999; height: 120px;">
-						<ul class="footer-menu">
-						  <li><a href="//www.yaplakal.com/forum5/topic184598.html">Как обойти запрет на ЯП</a></li>
-							<li><a href="//www.yaplakal.com/forum5/topic98404.html">Как пользоваться поиском</a></li>
-							<li><a href="//www.yaplakal.com/forum5/topic94846.html">Как разместить картинки</a></li>
-							<li><a href="//www.yaplakal.com/forum5/topic110575.html">Как разместить видео</a></li>
-							<li><a href="//www.yaplakal.com/act/Post/CODE/00/forum3/" target="_blank" style="color: #72baff" rel="nofollow">Разместить новость</a></li>
-							<li><noindex><a href="//inkubator.yaplakal.com/" style="color: #FFFF2A;" rel="nofollow">Инкубатор</a></noindex></li>
-						</ul>
-					</div>
-					<div style="float: left; margin-left: 20px; padding-left: 20px; border-left: 1px solid #999; height: 120px;">
-						<ul class="footer-menu">
-						  <li><a href="//www.yaplakal.com/pages/app/" id="apple-icon">Yaplakal iOS</a></li>
-              <li><a href="//www.yaplakal.com/pages/app/" id="android-icon">Yaplakal Android</a></li>
-						</ul>
-					</div>
-					<!--SAPE_LINKS-->
-					<div style="clear: left;"></div>
-					<div style="position: absolute; left: 22px; bottom: 60px;"><a href="#" id="adult-info"><img src="//www.yaplakal.com/html/static/18only.png" width="48" height="48" border="0" alt="18+"></a></div>
-					<div style="position: absolute; bottom: 0; right: 20; width: 180px; height: 110px; background: transparent url('//www.yaplakal.com/html/premia_width180px.png') 0 0 no-repeat;">
-                                                <a href="//www.yaplakal.com/forum1/topic1867049.html" style="display: block; height: 110px; width: 60px;float: left; text-decoration: none;" title="Сообщество Рунета 2018">&nbsp;</a>               
-                                                <a href="//www.yaplakal.com/forum1/topic1235603.html" style="display: block; height: 110px; width: 60px;float: left; text-decoration: none;" title="Сообщество Рунета 2015">&nbsp;</a>
-                                                <a href="//www.yaplakal.com/forum1/topic972706.html" style="display: block; height: 110px; width: 60px;float: left; text-decoration: none;" title="Сообщество Рунета 2014">&nbsp;</a>
-                                        </div>
-					<div style="margin: 10px 0 2px 0;">
-						Все материалы добавляются пользователями. При копировании необходимо указывать ссылку на источник.
-					</div>
-					<div>
-						Yaplakal.com &copy; 2004-2022. Административные вопросы: <u>adm</u><img src="//www.yaplakal.com/html/static/email.png" alt="@" title="@" width="16" height="16" border="0" align="absmiddle"><u>yaplakal.com</u>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<script type="text/javascript">
-    $("#adult-info").aToolTip({
-      clickIt: true,
-      tipContent: 'Сайт Yaplakal.com может содержать контент, запрещенный к просмотру лицам до 18 лет.',
-			xOffset: 0,
-			yOffset: 0
-    });
-	</script> 
-<div style="position: absolute; bottom: 0;">
-<noindex>
-<!— Top100 (Kraken) Counter —>
-<script type="text/javascript">
-    (function (w, d, c) {
-    (w[c] = w[c] || []).push(function() {
-        var options = {
-            project: 1597268
-        };
-        try {
-            w.top100Counter = new top100(options);
-        } catch(e) { }
-    });
-    var n = d.getElementsByTagName("script")[0],
-    s = d.createElement("script"),
-    f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src =
-    (d.location.protocol == "https:" ? "https:" : "http:") +
-    "//st.top100.ru/top100/top100.js";
-
-    if (w.opera == "[object Opera]") {
-    d.addEventListener("DOMContentLoaded", f, false);
-} else { f(); }
-})(window, document, "_top100q");
-</script>
-<noscript><img src="//counter.rambler.ru/top100.cnt?pid=1597268" alt="Rambler Top100"></noscript>
-<!— END Top100 (Kraken) Counter —>
-<!-- Yandex.Metrika counter -->
-<script src="https://mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
-<script type="text/javascript" >
-try {
-    var yaCounter318291 = new Ya.Metrika({
-        id:318291,
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
-    });
-} catch(e) { }
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/318291" style="position:absolute; left:-9999px;" alt=""></div></noscript>
-<!-- /Yandex.Metrika counter -->
-<!-- Rating@Mail.ru counter -->
+<div class="right vk-footer">
+	<a href="https://vk.com/nauchforumsk" rel="nofollow" target="_blank" class="left" style="margin-right: 20px;display: inline-block;vertical-align: middle;">Наше издательство<br>в социальных сетях: </a>&nbsp;<a class="vk_group" href="https://vk.com/nauchforumsk" rel="nofollow" target="_blank">vk</a></div>
+<div class="creativecommons">
+	Все права защищены - 2022 Международный Центр Науки и Образования Это произведение доступно по <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="license nofollow" target="_blank">лицензии Creative Commons &laquo;Attribution&raquo; (&laquo;Атрибуция&raquo;) 4.0 Непортированная</a>. <a href="/sitemap">Карта сайта</a></div>
+<div class="clearfix"></div>
+<div class="jornal_register">
+	Научном журнал «Студенческий форум» издается 4 раза в месяц. Журнал зарегистрирован Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор), регистрационный номер: ЭЛ № ФС77-66232 от 01.07.2016 г. Учредитель: ООО "МЦНО".<br /> Главный редактор: Лебедева Надежда Анатольевна
+</div>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div></div>		<div class="no-print">
+			<div class="left_hover"><a href="#" id="up"><span>Наверх</span></a></div>
+						<div style="display:none"><div id="block-block-27" class="block block-block odd first">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<!-- Rating@Mail.ru counter -->
 <script type="text/javascript">
 var _tmr = window._tmr || (window._tmr = []);
-_tmr.push({id: "785938", type: "pageView", start: (new Date()).getTime()});
+_tmr.push({id: "2944459", type: "pageView", start: (new Date()).getTime()});
 (function (d, w, id) {
   if (d.getElementById(id)) return;
   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
-  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
 })(document, window, "topmailru-code");
 </script><noscript><div>
-<img src="https://top-fwz1.mail.ru/counter?id=785938;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru">
+<img src="//top-fwz1.mail.ru/counter?id=2944459;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
 </div></noscript>
 <!-- //Rating@Mail.ru counter -->
-</noindex>
-</div>
+
+<script>
+							$( window ).load(function(){
+					if(typeof getCookie('_ga') != "undefined"){
+						var user_id = md5(getCookie('_ga').split('.')[2]+'.'+getCookie('_ga').split('.')[3]); 
+						ga('set', 'userId', "'"+user_id+"'");
+						var dimensionValue = user_id;
+						ga('set', 'dimension2', dimensionValue);
+												ga('send', 'pageview');	
+											}else{
+												ga('send', 'pageview');
+					}
+				});
+						</script><!-- Код тега ремаркетинга Google --><script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 968443882;
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+			</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968443882/?value=0&amp;guid=ON&amp;script=0"/>
+			</div>
+			</noscript>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div>					</div>
+	</div>
+
+    <!--div class="info_message">
+        <div class="container inside_message">
+            <div class="close_info"></div>
+            <p>Уважаемые коллеги, издательство "Научный форум" с 30 марта по 30 апреля работает в обычном режиме</p>
+        </div>
+    </div-->
 </body>
 </html>

@@ -1,1249 +1,412 @@
-<!DOCTYPE html>
-<html lang="en-US" class="no-js">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru">
+
 <head>
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-    <title>Customer experience &amp; engagement w/ deep linking | AppsFlyer</title>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <link rel="pingback" href="https://www.appsflyer.com/xmlrpc.php"/>
-
-    <link rel="preload" href="https://www.appsflyer.com/wp-content/themes/AF2020/assets/css/fonts/Gilroy-Regular.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="https://www.appsflyer.com/wp-content/themes/AF2020/assets/css/fonts/Gilroy-Medium.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="https://www.appsflyer.com/wp-content/themes/AF2020/assets/css/fonts/Gilroy-SemiBold.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="https://www.appsflyer.com/wp-content/themes/AF2020/assets/css/fonts/Gilroy-Bold.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="https://www.appsflyer.com/wp-content/themes/AF2020/assets/css/fonts/fontello.woff2" as="font" type="font/woff2" crossorigin />
-
-    
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 
-        <script>
-        dataLayer = [{
-            'Section': 'Products',
-            'Language': 'en_US',
-            'User\'s device': 'Computer',
-			
-									        }];
-
-        if (typeof fbq !== 'undefined') {
-
-            fbq('trackCustom', 'WebsiteVisitor', {
-                'Section': 'Products',
-                'Language': 'en_US',
-                'User\'s device': 'Computer',
-								
-												            });
-        }
-    </script>
-	                <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-<link rel="alternate" hreflang="en" href="https://www.appsflyer.com/products/customer-experience-deep-linking/" />
-<link rel="alternate" hreflang="ru" href="https://www.appsflyer.com/ru/products/customer-experience-deep-linking/" />
-<link rel="alternate" hreflang="de" href="https://www.appsflyer.com/de/products/customer-experience-deep-linking/" />
-
-	<!-- This site is optimized with the Yoast SEO Premium plugin v17.8 (Yoast SEO v17.8) - https://yoast.com/wordpress/plugins/seo/ -->
-	<meta name="description" content="Ensure a smooth user experience and get accurate attribution data for your mobile app campaigns with AppsFlyer’s deep linking tools." />
-	<link rel="canonical" href="https://www.appsflyer.com/products/customer-experience-deep-linking/" />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="CX and deep linking" />
-	<meta property="og:description" content="Ensure a smooth user experience and get accurate attribution data for your mobile app campaigns with AppsFlyer’s deep linking tools." />
-	<meta property="og:url" content="https://www.appsflyer.com/products/customer-experience-deep-linking/" />
-	<meta property="og:site_name" content="AppsFlyer" />
-	<meta property="article:modified_time" content="2022-01-16T10:15:06+00:00" />
-	<meta property="og:image" content="https://www.appsflyer.com/wp-content/uploads/2020/08/deep-linking-og.jpeg" />
-	<meta property="og:image:width" content="1200" />
-	<meta property="og:image:height" content="630" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<!-- / Yoast SEO Premium plugin. -->
-
-
-<link rel='dns-prefetch' href='//fast.wistia.com' />
-<link rel='dns-prefetch' href='//go.appsflyer.com' />
-
-<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.appsflyer.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='af-style-css'  href='https://www.appsflyer.com/wp-content/cache/min/1/wp-content/themes/AF2020/assets/css/main.min.css?ver=1644496292' type='text/css' media='' />
-<link data-minify="1" rel='stylesheet' id='slick-css'  href='https://www.appsflyer.com/wp-content/cache/min/1/wp-content/themes/AF2020/assets/css/vendors/slick.css?ver=1644496292' type='text/css' media='all' />
-<link rel='stylesheet' id='select2-style-css'  href='https://www.appsflyer.com/wp-content/themes/AF2020/assets/css/vendors/select2.min.css?ver=1.13vf2' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='apexcharts-css'  href='https://www.appsflyer.com/wp-content/cache/min/1/wp-content/themes/AF2020/assets/css/vendors/apexcharts.css?ver=1644496292' type='text/css' media='all' />
-<style id='rocket-lazyload-inline-css' type='text/css'>
-.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://www.appsflyer.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}
-</style>
-<script type='text/javascript' src='https://www.appsflyer.com/wp-content/themes/AF2020/assets/js/vendors/jquery.min.js?ver=1.311221' id='jquery-js'></script>
-<script type='text/javascript' src='https://fast.wistia.com/assets/external/E-v1.js?ver=1.13vf2' id='wistia-js' defer></script>
-<link rel="https://api.w.org/" href="https://www.appsflyer.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.appsflyer.com/wp-json/wp/v2/products/1704" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.appsflyer.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.appsflyer.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.8.3" />
-<link rel='shortlink' href='https://www.appsflyer.com/?p=1704' />
-<meta name="generator" content="WPML ver:4.4.10 stt:59,1,4,3,28,29,42,45,2;" />
-
-<link rel="preload" as="font" href="https://www.appsflyer.com/wp-content/themes/AF2020/assets/css/fonts/Gilroy-Regular.woff2" crossorigin>
-<link rel="preload" as="font" href="https://www.appsflyer.com/wp-content/themes/AF2020/assets/css/fonts/Gilroy-Medium.woff2" crossorigin>
-<link rel="preload" as="font" href="https://www.appsflyer.com/wp-content/themes/AF2020/assets/css/fonts/Gilroy-SemiBold.woff2" crossorigin>
-<link rel="preload" as="font" href="https://www.appsflyer.com/wp-content/themes/AF2020/assets/css/fonts/Gilroy-Bold.woff2" crossorigin>
-<link rel="preload" as="font" href="https://www.appsflyer.com/wp-content/themes/AF2020/assets/css/fonts/fontello.woff2" crossorigin><meta name="author" content="AppsFlyer" /><link rel="icon" href="https://www.appsflyer.com/wp-content/uploads/2020/07/favicon.svg" sizes="32x32" />
-<link rel="icon" href="https://www.appsflyer.com/wp-content/uploads/2020/07/favicon.svg" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.appsflyer.com/wp-content/uploads/2020/07/favicon.svg" />
-<meta name="msapplication-TileImage" content="https://www.appsflyer.com/wp-content/uploads/2020/07/favicon.svg" />
-<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "WebPage",
-    "name": "Customer experience & engagement w/ deep linking | AppsFlyer",
-    "description": "Ensure a smooth user experience and get accurate attribution data for your mobile app campaigns with AppsFlyer’s deep linking tools.",
-    "Url": "https://www.appsflyer.com/products/customer-experience-deep-linking/"
-}
+  <title>Личная эффективность обучающихся подросткового возраста | nauchforum.ru</title>
+  <meta name="robots" content="noindex"><meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Бочарова Ю.В. Личная эффективность обучающихся подросткового возраста // XXXIII Студенческая международная научно-практическая конференция «Гуманитарные науки. Студенческий научный форум»">
+<meta property="og:image" content="https://nauchforum.ru/themes/mix_and_match/images/logo.jpg" />
+<link rel="canonical" href="https://nauchforum.ru/studconf/gum/33/79447" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_4371039c69b8629c8f5152a51c652980_88.css" />
+    <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie8-fixes.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie8-fixes.css?n" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie7-fixes.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie7-fixes.css?n" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie6-fixes.css?n"/>
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie6-fixes.css?n"/>
+  <![endif]-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_9467b9fb9f2f6e62446dd1506332229a_34.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"","slideshowStop":"","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%"},"cron":{"basePath":"\/poormanscron","runNext":1645972345}});
+//--><!]]>
 </script>
 
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link type="image/png" sizes="16x16" rel="icon" href="/favicon_16.png">
+    <link type="image/png" sizes="32x32" rel="icon" href="/favicon_32.png">
+    <link type="image/png" sizes="96x96" rel="icon" href="/favicon_96.png">
+    <link type="image/png" sizes="120x120" rel="icon" href="/favicon_120.png">
 
-
-
-     
-
- 
-
-
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" />
 
     
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "itemListElement":
-            [
-            {
-                "@type": "ListItem",
-                "position": 1,
-                 "item":
-                 {
-                    "@id": "https://www.appsflyer.com/products/customer-experience-deep-linking/",
-                    "name": "CX and deep linking"
-                }
-            }
-            ]
+        function getCookie(name) {
+            var matches = document.cookie.match(new RegExp(
+                "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+            ));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
         }
-        </script>
-    
-                  
+        ga('create', 'UA-36139972-1', 'auto');
+            </script>
 
-       
-    <!-- OneTrust Cookies Consent Notice start for appsflyer.com. -->
-    <script  rel="preload" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="6da60927-8379-40dd-8ceb-32751d146a1d" async></script>
-    <script type="text/javascript">
-        function OptanonWrapper() { }
-    </script>
-    <!-- OneTrust Cookies Consent Notice end for appsflyer.com -->
 
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-NQF37ZD');
+    <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,600,700&amp;subset=latin,cyrillic" rel="stylesheet" />
 
-    </script>
-    <!-- End Google Tag Manager -->
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-189650-dWQmR';</script>
 
-    <script type="text/javascript">
-        document.addEventListener('DOMContentLoaded', (event) => {
+  <!-- Put this script tag to the <head> of your page -->
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?53"></script>
+<script type="text/javascript">
+  VK.init({apiId: 3403539, onlyWidgets: true});
+</script>
+  <script type="text/javascript" src="//vk.com/js/api/share.js?94" charset="windows-1251"></script>
 
-            setTimeout(() => {
-                (function() {
-                    var didInit = false;
-                    function initMunchkin() {
-                        if(didInit === false) {
-                            didInit = true;
-                            Munchkin.init('108-AVT-732');
-                        }
-                    }
-                    var s = document.createElement('script');
-                    s.type = 'text/javascript';
-                    s.async = true;
-                    s.src = '//munchkin.marketo.net/munchkin.js';
-                    s.onreadystatechange = function() {
-                        if (this.readyState == 'complete' || this.readyState == 'loaded') {
-                            initMunchkin();
-                        }
-                    };
-                    s.onload = initMunchkin;
-                    document.getElementsByTagName('head')[0].appendChild(s);
-                })();
-            }, 1000)
-        })
-    </script>
 </head>
 
-<body data-rsssl=1 class="products-template-default single single-products postid-1704 wp-custom-logo  theme-green main-nav--light">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQF37ZD"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<section class="newsletter-subscription-popup">
-    <div class="container-fluid">
-        <div class="container px-0 pt-30 pb-90 py-sm-60 d-flex flex-column flex-md-row align-items-md-center">
-            <button type="button" class="newsletter-subscription-popup--close newsletter-subscription-popup__close btn-icon"></button>
-                            <div class="newsletter-subscription-popup__image text-center text-md-left mx-auto col-md-7 col-lg-5 pb-20 pb-sm-40 pb-md-0 pr-md-60">
-                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20435%20303'%3E%3C/svg%3E"
-                         width="435"
-                         height="303"
-                         title="img-subscription"
-                         alt=""
-                    data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/11/img-subscription.svg" /><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/11/img-subscription.svg"
-                         width="435"
-                         height="303"
-                         title="img-subscription"
-                         alt=""
-                    /></noscript>
-                    <button class="newsletter-subscription-popup--close m-auto btn btn-primary btn-primary--white-with-border d-none">Close</button>
-                </div>
-                        <header class="col-md-5 col-lg-7 text-center text-md-left">
-                                                                    <h2 class="newsletter-subscription-popup__title">
-                        Subscribe for expert commentary and unique stories on the mobile ecosystem and beyond                    </h2>
-                                                                    <div class="newsletter-subscription-popup__form form__form-holder w-100 d-flex justify-content-center pt-40 d-flex flex-column flex-md-row align-items-center">
-                        <form class="mktoForm mktoForm--newsletter-subscription w-100"
-                              id="mktoForm_2343"
-                              data-client-id="108-AVT-732"
-                              data-form-id="2343"
-                              data-form-type="subscription-modal-form"
-                              data-form-cta="Subscribe"
-                              data-current-url="https://www.appsflyer.com/products/customer-experience-deep-linking/"
-                              data-item-name="Subscription"
-                              data-action="message"
-                              data-redirect-url=""
-                              data-thank-you-title="Thanks!">
-                        </form>
-                    </div>
-                    <div class="form-confirmation d-none col-sm-7 mx-auto flex-column text-center">
-                        <header class="form-confirmation__header form-confirmation--element pt-30">
-                            <h2 class="h1">Thanks!</h2>
-                        </header>
-                        <footer class="align-items-center d-flex flex-column font-size-sm form-confirmation--element form-confirmation__footer pt-20">
-                            <button type="button" class="btn btn-primary btn-primary--white-with-border btn-primary--no-line newsletter-subscription-popup--close">
-                                Continue reading                            </button>
-                        </footer>
-                    </div>
-                            </header>
-        </div>
-    </div>
-</section><nav id="main-nav" class="navbar--main py-3 py-md-0 navbar navbar-expand-md navbar-light sps sps--abv">
-    <div class="container-fluid px-0">
-        <a class="navbar-brand" href="https://www.appsflyer.com"></a>
-        <div id="nav-holder" class="nav-holder flex-column flex-md-row pt-70 pt-md-0 px-md-0 navbar-collapse">
-            <ul class="main-nav__holder navbar-nav list-style-none mr-md-auto" itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"><li itemprop="name" role="menuitem"  id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom  mega-parent menu-item-13 nav-item"><a itemprop="url" title="Platform" itemprop="url" id="1" itemprop="url" href="#" itemprop="url" class="nav-link">Platform</a>    <nav class="mega-menu flex-column fixed-top pb-20 pb-md-0 px-20" data-mega-nav-id="products">
-        <div class="container-fluid pl-40 pl-md-20 ml-md-auto pt-sm-20 pt-md-0 px-md-0 align-items-stretch d-md-block">
-            <div class="row mx-0">
-                                        <div class="mega-menu__cols mega-menu__cols--columns mega-menu__cols--layout-2 row w-100 flex-column flex-md-row justify-content-md-between pl-0 pt-30 pt-sm-0 ">
-                    <div class="mega-menu__col mega-menu__col--layout-2 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 ">
-                                    <span class="navbar-nav__title d-none d-md-block pt-0 pb-3">
-                        Measure                    </span>
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-3">
-                                <a itemprop="url" target="_self" title="Measure every action with confidence" id=""
-                                   href="https://www.appsflyer.com/products/measurement/">
-                                                                                                                <b class="d-block pb-2">Measurement suite</b>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                        Measure every action with confidence                                    </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-3">
-                                <a itemprop="url" target="_self" title="Understand your true mobile marketing ROI" id=""
-                                   href="https://www.appsflyer.com/products/cost-aggregation/">
-                                                                                                                <b class="d-block pb-2">Cost aggregation</b>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                        Understand your true mobile marketing ROI                                    </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-                    <div class="mega-menu__col mega-menu__col--layout-2 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 ">
-                                    <span class="navbar-nav__title d-none d-md-block pt-0 pb-3">
-                        Analyze                    </span>
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-3">
-                                <a itemprop="url" target="_self" title="Turn insights on campaign performance into action" id=""
-                                   href="https://www.appsflyer.com/products/marketing-analytics/">
-                                                                                                                <b class="d-block pb-2">Marketing analytics</b>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                        Turn insights on campaign performance into action                                    </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-3">
-                                <a itemprop="url" target="_self" title="Prove the real value of your marketing campaigns" id=""
-                                   href="https://www.appsflyer.com/products/incrementality/">
-                                                                                                                <b class="d-block pb-2">Incrementality</b>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                        Prove the real value of your marketing campaigns                                    </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-3">
-                                <a itemprop="url" target="_self" title="Know what to do right from the start" id=""
-                                   href="https://www.appsflyer.com/products/predictive-analytics/">
-                                                                                                                <b class="d-block pb-2">Predictive analytics</b>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                        Know what to do right from the start                                    </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-                    <div class="mega-menu__col mega-menu__col--layout-2 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 ">
-                                    <span class="navbar-nav__title d-none d-md-block pt-0 pb-3">
-                        Engage                    </span>
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-3">
-                                <a itemprop="url" target="_self" title="Boost revenue with exceptional customer experiences" id=""
-                                   href="https://www.appsflyer.com/products/customer-experience-deep-linking/">
-                                                                                                                <b class="d-block pb-2">CX & deep linking</b>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                        Boost revenue with exceptional customer experiences                                    </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-3">
-                                <a itemprop="url" target="_self" title="Create meaningful conversations with your customers" id=""
-                                   href="https://www.appsflyer.com/products/audiences/">
-                                                                                                                <b class="d-block pb-2">Audience segmentation</b>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                        Create meaningful conversations with your customers                                    </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-                    <div class="mega-menu__col mega-menu__col--layout-2 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 ">
-                                    <span class="navbar-nav__title d-none d-md-block pt-0 pb-3">
-                        Protect                    </span>
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-3">
-                                <a itemprop="url" target="_self" title="Protect your marketing budget from mobile ad fraud" id=""
-                                   href="https://www.appsflyer.com/products/fraud-protection/">
-                                                                                                                <b class="d-block pb-2">Fraud protection </b>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                        Protect your marketing budget from mobile ad fraud                                    </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-                    <div class="mega-menu__col mega-menu__col--layout-2 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 ">
-                                    <span class="navbar-nav__title d-none d-md-block pt-0 pb-3">
-                        Connect                    </span>
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-3">
-                                <a itemprop="url" target="_self" title="Collaborate safely and securely with data clean rooms" id=""
-                                   href="https://www.appsflyer.com/products/privacy-cloud/">
-                                                                                                                <b class="d-block pb-2">Privacy cloud</b>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                        Collaborate safely and securely with data clean rooms                                    </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-3">
-                                <a itemprop="url" target="_self" title="Connect to over 9,000 tech and media partners" id=""
-                                   href="https://www.appsflyer.com/products/integrations/">
-                                                                                                                <b class="d-block pb-2">Partner marketplace</b>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                        Connect to over 9,000 tech and media partners                                    </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-            </div>
-                        <div class="row mx-0 d-md-flex w-100 ml-md-0 theme-borders--sm theme-borders--top theme-borders--color-1">
-        <ul data-parent-id="p"
-            class="mega-menu__col--main-links flex-column flex-md-row col align-items-md-center list-style-none d-flex order-1 order-sm-0 ml-md-0 px-0 pt-md-20 pb-25">
-                            <li class="pr-sm-40">
-                    <a class="btn-arrow d-inline-block" href="https://www.appsflyer.com/pricing/"
-                       id=""
-                       target="_self">
-                        View pricing                    </a>
-                </li>
-                            <li class="pr-sm-40">
-                    <a class="btn-arrow d-inline-block" href="https://www.appsflyer.com/solutions/ios/"
-                       id=""
-                       target="_self">
-                        iOS 14+ solutions                    </a>
-                </li>
-                            <li class="pr-sm-40">
-                    <a class="btn-arrow d-inline-block" href="https://www.appsflyer.com/products/apis/"
-                       id=""
-                       target="_self">
-                        Data feeds & APIs                    </a>
-                </li>
-                    </ul>
-    </div>
-                            </div>
-                    </div>
-    </nav>
-    </li>
-<li itemprop="name" role="menuitem"  id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom  mega-parent menu-item-14 nav-item"><a itemprop="url" title="Solutions" itemprop="url" rel="solutions" itemprop="url" id="1" itemprop="url" href="#" itemprop="url" class="nav-link">Solutions</a>    <nav class="mega-menu flex-column fixed-top pb-20 pb-md-0 px-20" data-mega-nav-id="solutions">
-        <div class="container-fluid pl-40 pl-md-20 ml-md-auto pt-sm-20 pt-md-0 px-md-0 align-items-stretch d-md-block">
-            <div class="row mx-0">
-                                    <div class="mega-menu__col mega-menu__col--layout-1 mega-menu__col--main col-md-3 d-none d-md-flex flex-column px-0 pl-sm-0 pt-20 pt-sm-50 pb-0 pb-sm-40 pr-40">
-    <span class="h4 mb-3 d-none d-sm-block">
-        How we help    </span>
-    <p>Explore our solutions for teams and companies of all sizes, across every industry</p>
-</div>                        <div class="mega-menu__cols mega-menu__cols--columns mega-menu__cols--layout-1 row w-100 flex-column flex-md-row justify-content-md-between pl-0 pt-30 pt-sm-0 col pl-md-70 pr-md-80">
-                    <div class="mega-menu__col mega-menu__col--layout-1 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 pl-md-30">
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/solutions/gaming/">
-                                                                                                                <span class="d-block pb-2">Gaming</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/solutions/shopping/">
-                                                                                                                <span class="d-block pb-2">Shopping</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/solutions/food-drink/">
-                                                                                                                <span class="d-block pb-2">Food & drink</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/solutions/entertainment-music/">
-                                                                                                                <span class="d-block pb-2">Entertainment & music</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-                    <div class="mega-menu__col mega-menu__col--layout-1 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 pl-md-30">
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/solutions/finance/">
-                                                                                                                <span class="d-block pb-2">Finance</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/solutions/health-fitness/">
-                                                                                                                <span class="d-block pb-2">Health</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/solutions/travel/">
-                                                                                                                <span class="d-block pb-2">Travel</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-            </div>
-                        <div class="mega-menu__col mega-menu__col--featured theme-borders--md theme-borders--color-1 theme-borders--left col-md-3 d-md-flex flex-column pt-md-55 pl-0 pl-md-50 pr-0 pb-md-40 order-0 order-md-1 ">
-                    <strong class="navbar-nav__title d-none d-sm-block pb-2">For partners</strong>
-                <div>
-                            <li class="py-4 py-md-2">
-                    <a class="" href="https://www.appsflyer.com/solutions/partners/" target="_self">
-                        Integrated partners                    </a>
-                </li>
-                            <li class="py-4 py-md-2">
-                    <a class="" href="https://www.appsflyer.com/solutions/agencies/" target="_self">
-                        Agencies                    </a>
-                </li>
-                    </div>
-    </div>
-                            </div>
-                <div class="row mx-0 d-md-flex w-100 theme-borders--sm theme-borders--top theme-borders--color-1">
-        <ul data-parent-id="s"
-            class="mega-menu__col--main-links flex-column flex-md-row col align-items-md-center list-style-none d-flex order-1 order-sm-0 ml-md-0 pl-0 pt-md-20 pb-20">
-                            <li class="pr-sm-40">
-                    <a class="btn-arrow d-inline-block" href="https://www.appsflyer.com/solutions/zero-budget-marketing/"
-                       id=""
-                       target="_self">
-                        Zero budget marketing                    </a>
-                </li>
-                            <li class="pr-sm-40">
-                    <a class="btn-arrow d-inline-block" href="https://www.appsflyer.com/solutions/ios/"
-                       id=""
-                       target="_self">
-                        AppsFlyer for iOS                    </a>
-                </li>
-                    </ul>
-    </div>
-        </div>
-    </nav>
-    </li>
-<li itemprop="name" role="menuitem"  id="menu-item-15" class="mega-parent menu-item menu-item-type-custom menu-item-object-custom  mega-parent menu-item-15 nav-item"><a itemprop="url" title="Why AppsFlyer" itemprop="url" rel="why-appsflyer" itemprop="url" id="1" itemprop="url" href="#" itemprop="url" class="nav-link">Why AppsFlyer</a>    <nav class="mega-menu flex-column fixed-top pb-20 pb-md-0 px-20" data-mega-nav-id="why-appflyer">
-        <div class="container-fluid pl-40 pl-md-20 ml-md-auto pt-sm-20 pt-md-0 px-md-0 align-items-stretch d-md-block">
-            <div class="row mx-0">
-                                    <div class="mega-menu__col mega-menu__col--layout-1 mega-menu__col--main col-md-3 d-none d-md-flex flex-column px-0 pl-sm-0 pt-20 pt-sm-50 pb-0 pb-sm-40 pr-40">
-    <span class="h4 mb-3 d-none d-sm-block">
-        Our approach    </span>
-    <p>Discover how we help brands around the world make better marketing decisions</p>
-</div>                        <div class="mega-menu__cols mega-menu__cols--columns mega-menu__cols--layout-1 row w-100 flex-column flex-md-row justify-content-md-between pl-0 pt-30 pt-sm-0 col pl-md-70 pr-md-80">
-                    <div class="mega-menu__col mega-menu__col--layout-1 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 pl-md-30">
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/customers/">
-                                                                                                                <span class="d-block pb-2">Customer success stories</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/appsflyer-advantage/">
-                                                                                                                <span class="d-block pb-2">The AppsFlyer difference</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/trust/">
-                                                                                                                <span class="d-block pb-2">Trust hub</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-                    <div class="mega-menu__col mega-menu__col--layout-1 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 pl-md-30">
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/trust/security/">
-                                                                                                                <span class="d-block pb-2">Security</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/trust/privacy/">
-                                                                                                                <span class="d-block pb-2">Privacy</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-            </div>
-                        <div class="mega-menu__col mega-menu__col--featured theme-borders--md theme-borders--color-1 theme-borders--left col-md-3 d-md-flex flex-column pt-md-55 pl-0 pl-md-50 pr-0 pb-md-40 order-0 order-md-1 ">
-                    <strong class="navbar-nav__title d-none d-sm-block pb-2">Featured stories</strong>
-                <div>
-                            <li class="py-4 py-md-2">
-                    <a class="" href="https://www.appsflyer.com/customers/huuuge/" target="_self">
-                        How Huuuge 10X’ed US installs                    </a>
-                </li>
-                            <li class="py-4 py-md-2">
-                    <a class="" href="https://www.appsflyer.com/customers/stash/" target="_self">
-                        How Stash leverages web-to-app                    </a>
-                </li>
-                    </div>
-    </div>
-                            </div>
-                    </div>
-    </nav>
-    </li>
-<li itemprop="name" role="menuitem"  id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom  mega-parent menu-item-16 nav-item"><a itemprop="url" title="Learn" itemprop="url" id="1" itemprop="url" href="#" itemprop="url" class="nav-link">Learn</a>    <nav class="mega-menu flex-column fixed-top pb-20 pb-md-0 px-20" data-mega-nav-id="resources">
-        <div class="container-fluid pl-40 pl-md-20 ml-md-auto pt-sm-20 pt-md-0 px-md-0 align-items-stretch d-md-block">
-            <div class="row mx-0">
-                                    <div class="mega-menu__col mega-menu__col--layout-1 mega-menu__col--main col-md-3 d-none d-md-flex flex-column px-0 pl-sm-0 pt-20 pt-sm-50 pb-0 pb-sm-40 pr-40">
-    <span class="h4 mb-3 d-none d-sm-block">
-        Resources    </span>
-    <p>Stay informed with industry insights, the latest trends, original content, and all things AppsFlyer</p>
-</div>                        <div class="mega-menu__cols mega-menu__cols--columns mega-menu__cols--layout-1 row w-100 flex-column flex-md-row justify-content-md-between pl-0 pt-30 pt-sm-0 col pl-md-70 pr-md-80">
-                    <div class="mega-menu__col mega-menu__col--layout-1 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 pl-md-30">
-                                    <span class="navbar-nav__title d-none d-md-block pt-0 pb-3">
-                        Ecosystem                    </span>
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/blog/">
-                                                                                                                <span class="d-block pb-2">Blog</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/resources/">
-                                                                                                                <span class="d-block pb-2">Reports & guides</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/blog/videos/">
-                                                                                                                <span class="d-block pb-2">Videos</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/blog/podcasts/">
-                                                                                                                <span class="d-block pb-2">Podcasts</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/glossary/">
-                                                                                                                <span class="d-block pb-2">Glossary</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-                    <div class="mega-menu__col mega-menu__col--layout-1 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 pl-md-30">
-                                    <span class="navbar-nav__title d-none d-md-block pt-0 pb-3">
-                        Customers                    </span>
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/product-news/">
-                                                                                                                <span class="d-block pb-2">Product news</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/use-cases/">
-                                                                                                                <span class="d-block pb-2">Use cases</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_blank" title="" id=""
-                                   href="https://support.appsflyer.com/hc/en-us">
-                                                                                                                <span class="d-block pb-2">Help center</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_blank" title="" id=""
-                                   href="https://dev.appsflyer.com/hc">
-                                                                                                                <span class="d-block pb-2">Developer Hub</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-            </div>
-                        <div class="mega-menu__col mega-menu__col--featured theme-borders--md theme-borders--color-1 theme-borders--left col-md-3 d-md-flex flex-column pt-md-55 pl-0 pl-md-50 pr-0 pb-md-40 order-0 order-md-1 ">
-                    <strong class="navbar-nav__title d-none d-sm-block pb-2">Trending content</strong>
-                <div>
-                            <li class="py-4 py-md-2">
-                    <a class="" href="https://www.appsflyer.com/resources/infographics/mobile-app-marketing-trends/" target="_self">
-                        2022 mobile marketing trends                    </a>
-                </li>
-                            <li class="py-4 py-md-2">
-                    <a class="" href="https://www.appsflyer.com/resources/guides/ios-14-app-monetization-strategies/" target="_self">
-                        Monetization strategies for iOS 14+                    </a>
-                </li>
-                            <li class="py-4 py-md-2">
-                    <a class="" href="https://www.appsflyer.com/resources/guides/mobile-attribution-privacy-age/" target="_self">
-                        Mobile attribution in the age of privacy                    </a>
-                </li>
-                            <li class="py-4 py-md-2">
-                    <a class="" href="https://www.appsflyer.com/resources/guides/predictive-modeling-for-mobile-marketers/" target="_self">
-                        Predictive modeling for app marketers                    </a>
-                </li>
-                    </div>
-    </div>
-                            </div>
-                    </div>
-    </nav>
-    </li>
-<li itemprop="name" role="menuitem"  id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom  mega-parent menu-item-17 nav-item"><a itemprop="url" title="Company" itemprop="url" id="1" itemprop="url" href="#" itemprop="url" class="nav-link">Company</a>    <nav class="mega-menu flex-column fixed-top pb-20 pb-md-0 px-20" data-mega-nav-id="about-us">
-        <div class="container-fluid pl-40 pl-md-20 ml-md-auto pt-sm-20 pt-md-0 px-md-0 align-items-stretch d-md-block">
-            <div class="row mx-0">
-                                    <div class="mega-menu__col mega-menu__col--layout-1 mega-menu__col--main col-md-3 d-none d-md-flex flex-column px-0 pl-sm-0 pt-20 pt-sm-50 pb-0 pb-sm-40 pr-40">
-    <span class="h4 mb-3 d-none d-sm-block">
-        Who we are    </span>
-    <p>Find out more about our history, our team, what we stand for, and why we do what we do</p>
-</div>                        <div class="mega-menu__cols mega-menu__cols--columns mega-menu__cols--layout-1 row w-100 flex-column flex-md-row justify-content-md-between pl-0 pt-30 pt-sm-0 col pl-md-70 pr-md-80">
-                    <div class="mega-menu__col mega-menu__col--layout-1 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 pl-md-30">
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/company/about/">
-                                                                                                                <span class="d-block pb-2">About us</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/company/newsroom/">
-                                                                                                                <span class="d-block pb-2">Newsroom</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/blog/ceo/">
-                                                                                                                <span class="d-block pb-2">CEO blog spot</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-                    <div class="mega-menu__col mega-menu__col--layout-1 col-sm flex-column pt-md-55 pb-md-40 order-0 order-md-1 pl-md-30">
-                                                    <ul itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu"
-                        class="navbar-nav list-style-none flex-column">
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_blank" title="" id=""
-                                   href="https://careers.appsflyer.com/">
-                                                                                                                <span class="d-block pb-2">Careers</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/company/social-impact/">
-                                                                                                                <span class="d-block pb-2">Social impact</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                                                                <li itemprop="name" role="menuitem" class="py-4 py-md-2">
-                                <a itemprop="url" target="_self" title="" id=""
-                                   href="https://www.appsflyer.com/company/contact/">
-                                                                                                                <span class="d-block pb-2">Contact</span>
-                                                                        <span class="d-none d-md-block navbar-nav__item-text">
-                                                                            </span>
-                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-            </div>
-                        <div class="mega-menu__col mega-menu__col--featured theme-borders--md theme-borders--color-1 theme-borders--left col-md-3 d-md-flex flex-column pt-md-55 pl-0 pl-md-50 pr-0 pb-md-40 order-0 order-md-1 ">
-                    <a href="https://www.appsflyer.com/blog/ceo/" class="navbar-nav__title d-none d-sm-block pb-2">From our CEO</a>
-                <div>
-                            <li class="py-4 py-md-2">
-                    <a class="" href="https://www.appsflyer.com/blog/ceo/unbiased-independent-ecosystem-future/" target="_self">
-                        The future of our ecosystem and web                    </a>
-                </li>
-                            <li class="py-4 py-md-2">
-                    <a class="" href="https://www.appsflyer.com/blog/ceo/user-privacy-ios-14-idfa/" target="_self">
-                        On privacy and user experience                    </a>
-                </li>
-                            <li class="py-4 py-md-2">
-                    <a class="" href="https://www.appsflyer.com/blog/ceo/aggregated-advanced-privacy/" target="_self">
-                        Aggregated advanced privacy                    </a>
-                </li>
-                    </div>
-    </div>
-                            </div>
-                    </div>
-    </nav>
-    </li>
-</ul>            <div class="secondary-nav mb-60 mb-md-0 my-md-0 d-flex flex-column flex-md-row align-items-md-center">
-                        <ul class="navbar-nav lang-switcher list-style-none">
-            <li class="has-children mega-parent">
-                <span class="nav-link">
-                    <i class="icon-globe"></i>
-                    English                </span>
-                <ul class="sub-menu list-style-none">
-										                            <li class="px-30">
-                                <a target="_blank" href="https://www.appsflyer.com/fr/">Français</a>
-                            </li>
-											                            <li class="px-30">
-                                <a target="_blank" href="https://www.appsflyer.com/jp/">日本語</a>
-                            </li>
-											                            <li class="px-30">
-                                <a target="_blank" href="https://www.appsflyer.com/br/">Português</a>
-                            </li>
-											                            <li class="px-30">
-                                <a target="_self" href="https://www.appsflyer.com/ru/products/customer-experience-deep-linking/">Русский</a>
-                            </li>
-											                            <li class="px-30">
-                                <a target="_blank" href="https://www.appsflyer.com/sp/">Español</a>
-                            </li>
-											                            <li class="px-30">
-                                <a target="_blank" href="https://www.appsflyer.com/cn/">简体中文</a>
-                            </li>
-											                            <li class="px-30">
-                                <a target="_blank" href="https://www.appsflyer.com/kr/">한국어</a>
-                            </li>
-											                            <li class="px-30">
-                                <a target="_self" href="https://www.appsflyer.com/de/products/customer-experience-deep-linking/">Deutsch</a>
-                            </li>
-											                </ul>
-            </li>
-        </ul>
-	                                    <ul class="navbar-nav d-sm-flex flex-sm-row justify-content-sm-between align-items-sm-center list-style-none px-20 px-md-0 mt-auto mb-0 mr-md-auto" itemscope itemtype="https://schema.org/SiteNavigationElement" role="menu">
-                                                    <li class="secondary-nav__cta mr-sm-3 mr-md-auto my-20 py my-sm-0 d-none d-sm-flex flex-column flex-md-row" itemprop="name" role="menuitem">
-                                <a itemprop="url" class="nav-link d-flex nav-link--login justify-content-center"
-                                   href="https://hq1.appsflyer.com/auth/login"
-                                   id=""
-                                   data-aft="login"
-                                   data-aft-block="main-nav"
-                                   target="_blank">
-                                    <i class="icon-login"></i>
-                                    Login                                </a>
-                            </li>
-                                                                            <li class="secondary-nav__cta ml-sm-3 ml-md-auto d-flex align-items-end align-items-sm-start align-items-md-center mt-30 mt-sm-0 ml-lg-20" itemprop="name"
-                                role="menuitem">
-                                <a itemprop="url" class="btn btn-primary btn-primary--no-line btn-sm" href="https://www.appsflyer.com/start/demo/"
-                                   target=""
-                                   target="_blank"
-                                   data-aft="book-demo"
-                                   data-aft-block="main-nav">
-                                    Book a demo                                </a>
-                            </li>
-                                            </ul>
-                            </div>
-        </div>
-        <button id="navbar-toggler" class="navbar-toggler hamburger" type="button" data-toggle="on"
-                data-target="nav-holder main-nav"
-                aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span></span>
-            <span></span>
-            <span></span>
-        </button>
-    </div>
-</nav>    <main class="main">
-        
-<section class="wp-block-appsflyer-block-product-hero-banner solution-product-hero-banner solution-product-hero-banner--product section-bg section-bg--product-hero section-bg--green text-light pt-100 pt-md-140 pt-lg-180 pb-90 pb-sm-100 pb-md-180 mb-md-50 pt-sm-140"><div class="container"><div class="row align-items-md-start justify-content-md-between"><figure class="col-md-6 pl-lg-30 order-1 order-md-2"><img class="bgImage" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20818%20614'%3E%3C/svg%3E" alt="CX and deep linking by AppsFlyer" width="818" height="614" title="CX and deep linking by AppsFlyer" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/img-deep-linking-hero-4.svg"/><noscript><img class="bgImage" src="https://www.appsflyer.com/wp-content/uploads/2020/08/img-deep-linking-hero-4.svg" alt="CX and deep linking by AppsFlyer" width="818" height="614" title="CX and deep linking by AppsFlyer"/></noscript></figure><header class="col-md-6 col-xl-5 pr-md-0 pt-4 pt-sm-40 pt-md-0 pb-50 pb-md-2 order-2 order-md-1 text-center text-md-left"><span class="d-block mb-25 mb-md-4 text-uppercase text-light">CUSTOMER EXPERIENCE AND deep linking</span><h1 class="mb-20 mb-sm-0 text-light">Drive awesome customer experiences</h1><p class="has-mlarge-font-size text-light">Our customer experience and deep linking suite lets you create personalized, contextual journeys straight to your app to increase conversions and revenue while preserving customer privacy.</p><div class="hero-banner__buttons d-flex flex-column flex-sm-row align-items-center justify-content-center justify-content-md-start pt-20 text-light"><a href="https://www.appsflyer.com/start/demo/" data-aft="book-demo" data-aft-block="hero-banner-products-solutions" rel="noopener" role="button" class="hero-banner__button btn btn-lg btn-primary btn-primary--white btn-lg ">Book a demo</a><a href="https://appsflyer.wistia.com/medias/39n6thrkox" data-aft="sign-up-free" data-aft-block="hero-banner-products-solutions" target="popup-video" rel="noopener" role="button" class="hero-banner__button mt-20 mt-sm-0     ml-sm-40 btn btn-lg btn-text btn-arrow text-light btn-arrow--white popup-video">Watch the video</a></div></header></div></div></section>
+<body id="pid-studconf-gum-33-79447" class="not-front not-logged-in page-node node-type-article no-sidebars i18n-ru full-node layout-main sidebars-split font-size-16 grid-type-960 grid-width-16 gray green-accents gray-footer green-headers default-links default-corners">
+	<div id="container">
+		<div id="header" class="header full-width ">
+			<div id="header-group-inner" class="header-group-inner inner clearfix">
+                <div id="logo">
+                    <a href="/" title="Главная"></a>
+                                    </div>
+	           	<div id="search-box" class="search-box block">
+<div id="search-box-inner" class="search-box-inner inner clearfix">
+<form action="/studconf/gum/33/79447"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search">
+  <div id="search-input">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-header" size="15" title="Введите ключевые слова для поиска." value="" placeholder="Поиск по сайту..." class="form-text" />
+  </div>
 
+  <div id="search-button">
+    <input type="submit" name="op" value="" id="edit-submit-2" class="searchButton"  alt="Поиск" />
+  </div>
 
+  <input type="hidden" name="form_build_id" id="form-8c5614c322375521c9ccc5e470c6dbe4" value="form-8c5614c322375521c9ccc5e470c6dbe4"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
 
-<section class="wp-block-appsflyer-block-section section-block section-block--width-default"><div class="container"><div class="row flex-column">
-<h2 class="has-text-align-center" id="h-seamless-customer-journeys-that-drive-user-acquisition-and-retention">Seamless customer journeys that drive user acquisition and retention</h2>
-</div></div></section>
+</div></form>
+</div><!-- /search-box-inner -->
+</div><!-- /search-box -->
+								<div class="info">
+					<span class="phone"><a href="tel:+74999389466"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="22px" height="22px" viewBox="0 0 16.877 16.877" style="enable-background:new 0 0 16.877 16.877;" xml:space="preserve"><path d="M5.301,5.587L1.404,1.688c0.503-0.503,1.005-1.007,1.509-1.511C3.146-0.056,3.522-0.06,3.756,0.17l3.036,3.039   c0.232,0.232,0.232,0.614-0.003,0.848L6.124,4.721L5.505,5.34C5.429,5.417,5.36,5.499,5.301,5.587z M8.507,11.938   c-0.638-0.549-1.25-1.132-1.844-1.725C6.07,9.616,5.489,9.006,4.939,8.365c-0.45-0.52-0.538-1.273-0.303-1.907L0.636,2.457   c-0.931,0.957-0.812,3.33,0.208,5.415c0.438,0.902,1.006,1.716,1.593,2.49c0.586,0.768,1.229,1.494,1.906,2.176   c0.679,0.681,1.401,1.327,2.171,1.913c0.774,0.589,1.59,1.153,2.486,1.59c2.088,1.019,4.462,1.131,5.418,0.199l-4.001-4.001   C9.783,12.474,9.029,12.387,8.507,11.938z M16.702,13.119l-3.036-3.037c-0.233-0.23-0.615-0.23-0.848,0.003h-0.002l-0.667,0.666   l-0.615,0.618c-0.076,0.076-0.159,0.143-0.247,0.205l3.896,3.898c0.504-0.505,1.007-1.007,1.512-1.51   C16.93,13.729,16.935,13.352,16.702,13.119z" fill="#FFFFFF"/></svg>+7 (499) 938-94-66</a></span>
+					<span class="mail"><a href="mailto:mail@nauchforum.ru"><svg width="22px" height="14px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.98 30.08"><path d="M959.55,543h0a1.72,1.72,0,0,0,.94-0.28l0.07,0,0.05,0,0.85-.71,20.45-16.87a0.24,0.24,0,0,0-.19-0.1h-44.5a0.23,0.23,0,0,0-.15.05l21.4,17.63a1.68,1.68,0,0,0,1.06.35h0ZM937,527.39v25L952.33,540Zm29.67,12.72L982,552.41V527.47Zm-4.87,4a3.65,3.65,0,0,1-4.5,0l-3.51-2.89L937,554.8v0a0.24,0.24,0,0,0,.24.24h44.5a0.24,0.24,0,0,0,.23-0.24v0L965.2,541.32Zm0,0" transform="translate(-937 -525)"/></svg>mail@nauchforum.ru</a></span>
+                    <span class="whatsapp"><a href="https://wa.me/74999389466"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.00401338 20L1.35601 15.032C0.465151 13.5049 -0.00289063 11.768 1.34322e-05 10C1.34322e-05 4.477 4.47701 0 10 0C15.523 0 20 4.477 20 10C20 15.523 15.523 20 10 20C8.23279 20.0029 6.49667 19.5352 4.97001 18.645L0.00401338 20ZM6.39101 5.308C6.26188 5.31602 6.13569 5.35003 6.02001 5.408C5.91153 5.46943 5.81251 5.54622 5.72601 5.636C5.60601 5.749 5.53801 5.847 5.46501 5.942C5.09542 6.423 4.89662 7.01342 4.90001 7.62C4.90201 8.11 5.03001 8.587 5.23001 9.033C5.63901 9.935 6.31201 10.89 7.20101 11.775C7.41501 11.988 7.62401 12.202 7.84901 12.401C8.9524 13.3725 10.2673 14.073 11.689 14.447L12.258 14.534C12.443 14.544 12.628 14.53 12.814 14.521C13.1053 14.506 13.3896 14.4271 13.647 14.29C13.778 14.2225 13.9058 14.1491 14.03 14.07C14.03 14.07 14.073 14.042 14.155 13.98C14.29 13.88 14.373 13.809 14.485 13.692C14.568 13.606 14.64 13.505 14.695 13.39C14.773 13.227 14.851 12.916 14.883 12.657C14.907 12.459 14.9 12.351 14.897 12.284C14.893 12.177 14.804 12.066 14.707 12.019L14.125 11.758C14.125 11.758 13.255 11.379 12.724 11.137C12.668 11.1126 12.608 11.0987 12.547 11.096C12.4786 11.089 12.4095 11.0967 12.3443 11.1186C12.2791 11.1405 12.2193 11.1761 12.169 11.223V11.221C12.164 11.221 12.097 11.278 11.374 12.154C11.3325 12.2098 11.2754 12.2519 11.2098 12.2751C11.1443 12.2982 11.0733 12.3013 11.006 12.284C10.9409 12.2666 10.877 12.2445 10.815 12.218C10.691 12.166 10.648 12.146 10.563 12.109L10.558 12.107C9.98592 11.8572 9.45624 11.5198 8.98801 11.107C8.86201 10.997 8.74501 10.877 8.62501 10.761C8.23159 10.3842 7.88873 9.95801 7.60501 9.493L7.54601 9.398C7.50364 9.33416 7.46937 9.2653 7.44401 9.193C7.40601 9.046 7.50501 8.928 7.50501 8.928C7.50501 8.928 7.74801 8.662 7.86101 8.518C7.9551 8.39832 8.04289 8.27382 8.12401 8.145C8.24201 7.955 8.27901 7.76 8.21701 7.609C7.93701 6.925 7.64701 6.244 7.34901 5.568C7.29001 5.434 7.11501 5.338 6.95601 5.319C6.90201 5.313 6.84801 5.307 6.79401 5.303C6.65972 5.29633 6.52515 5.29766 6.39101 5.307V5.308Z" fill="#521818"/></svg>WhatsApp <span>+7 (499) 938-94-66</span></a></span>
+				</div>
+									<div id="nav-icon">
+					  <span></span>
+					  <span></span>
+					  <span></span>
+					  <span></span>
+					</div>
+					<div id="header-menu">
+						<div id="search-box" class="search-box block">
+<div id="search-box-inner" class="search-box-inner inner clearfix">
+<form action="/studconf/gum/33/79447"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search">
+  <div id="search-input">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-header" size="15" title="Введите ключевые слова для поиска." value="" placeholder="Поиск по сайту..." class="form-text" />
+  </div>
 
+  <div id="search-button">
+    <input type="submit" name="op" value="" id="edit-submit-2" class="searchButton"  alt="Поиск" />
+  </div>
 
+  <input type="hidden" name="form_build_id" id="form-8c5614c322375521c9ccc5e470c6dbe4" value="form-8c5614c322375521c9ccc5e470c6dbe4"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
 
-<section class="wp-block-appsflyer-block-text-image-columns text-image-columns  py-40 py-lg-0"><div class="container"><div class="row align-items-sm-center justify-content-sm-between"><figure class="col-md-6 px-sm-80 px-md-0 order-md-2 text-image-columns__image"><img loading="lazy" title="CX and deep linking by AppsFlyer: Increase conversions" alt="CX and deep linking by AppsFlyer: Increase conversions" width="960" height="892" class="text-image-columns__layer" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20960%20892'%3E%3C/svg%3E" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/onelink-technology-appsflyer-product.svg"/><noscript><img loading="lazy" title="CX and deep linking by AppsFlyer: Increase conversions" alt="CX and deep linking by AppsFlyer: Increase conversions" width="960" height="892" class="text-image-columns__layer" src="https://www.appsflyer.com/wp-content/uploads/2020/08/onelink-technology-appsflyer-product.svg"/></noscript></figure><article class="col-md-5 pt-20 pt-sm-20 order-md-1 text-center text-md-left"><header class="text-image-columns__header"><h2 class="h3">Increase conversions with engaging customer journeys</h2></header><div class="text-image-columns__text pt-20"><p>Smooth end user experiences have a direct impact on revenue, loyalty, and LTV. That’s why we developed our suite of engagement tools that let you create exceptional experiences and deliver 2-5X more conversions for true return on experience (ROX).</p></div></article></div></div></section>
+</div></form>
+</div><!-- /search-box-inner -->
+</div><!-- /search-box -->
+						<div id="block-menu-menu-main-menu" class="block block-menu odd first last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<ul class="menu"><li class="expanded first"><span>Конференции</span><ul class="menu"><li class="leaf first"><a href="/conf" title="">Научные конференции</a></li>
+<li class="leaf last"><a href="/studconf" title="">Студенческие конференции</a></li>
+</ul></li>
+<li class="expanded"><span>Журналы</span><ul class="menu"><li class="leaf first"><a href="/journal/stud" title="">Журнал «Студенческий форум»</a></li>
+<li class="leaf last"><a href="/journal/universum" title="">Научные журналы «Universum»</a></li>
+</ul></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-rinc" title="">РИНЦ</a></li>
+<li class="expanded"><span>ВАК</span><ul class="menu"><li class="leaf first"><a href="/publikaciya-v-zhurnalah-vak" title="">Публикация ВАК</a></li>
+<li class="leaf"><span>Специальные предложения:</span></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-vak/ekonomicheskie-nauki" title="">08.00.00 Экономические науки</a></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-vak/juridicheskie-nauki" title="">12.00.00 Юридические науки</a></li>
+<li class="leaf last"><a href="/publikaciya-v-zhurnalah-vak/pedagogicheskie-nauki" title="">13.00.00 Педагогические науки</a></li>
+</ul></li>
+<li class="leaf"><a href="/avtoram" title="">Авторам</a></li>
+<li class="expanded last"><span>Архив</span><ul class="menu"><li class="leaf first"><a href="/archive/article" title="">Архив статей</a></li>
+<li class="leaf last"><a href="/archive/editions" title="">Архив изданий</a></li>
+</ul></li>
+</ul>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block -->											</div>
+							</div><!-- /header-group-inner -->
+		</div><!-- /header -->
+				<div id="page" class="page white-page-bg">
+				        <div id="main" class="main">
+	            	              <div id="main-group-inner" class="main-group-inner inner">
+	                
+	                <div id="main-content" class="main-content row nested">
+	                  <div id="main-content-inner" class="main-content-inner inner">
+	                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+	                    <div id="content-group" class="content-group row nested">
+	                      <div id="content-group-inner" class="content-group-inner inner">
+	                      	<div id="content-group-wrap">
+		                      	<a name="main-content-area" id="main-content-area"></a>
+		                        <div class="breadcrumb"><a href="/">Главная</a> / <a href="/studconf">Студенческие конференции</a> / <a href="/studconf/gum">Гуманитарные науки</a> / <a href="/studconf/gum/33">XXXIII</a> / Статья</div>		                        
+		                        <div id="content-region" class="content-region row nested">
+		                          <div id="content-region-inner" class="content-region-inner inner">
+		                            <div id="content-inner" class="content-inner block">
+		                              <div id="content-inner-inner" class="content-inner-inner inner">
 
+		                                		                                		                                		                                <div id="content-content" class="content-content">
+											<div class="node-article stud">
+	<div class="article_head clearfix">
+		<strong>Статья:</strong> <h1>Личная эффективность обучающихся подросткового возраста</h1>
+		<p><strong>Конференция:</strong> <a href="/studconf/gum/33">XXXIII Студенческая международная научно-практическая конференция «Гуманитарные науки. Студенческий научный форум»</a></p>		<p><strong>Секция:</strong> Психология</p>		<div class="output"><div class="turn_next">Выходные данные</div><div class="text">Бочарова Ю.В. Личная эффективность обучающихся подросткового возраста // Гуманитарные науки. Студенческий научный форум: электр. сб. ст. по мат. XXXIII междунар. студ. науч.-практ. конф. № 10(33). URL:&nbsp;<a href="https://nauchforum.ru/archive/SNF_humanities/10%2833%29.pdf">https://nauchforum.ru/archive/SNF_humanities/10(33).pdf</a> (дата обращения: 27.02.2022)</div></div>
+		<div class="action">
+			<a href="/studconf/gum" class="btn gray" onclick="ga(&#039;send&#039;, &#039;event&#039;, &#039;click1&#039;, &#039;publ&#039;);">К условиям публикации</a>			<a href="/archive/SNF_humanities/10%2833%29.pdf" class="btn">Скачать сборник</a>		</div>
+		<div class="notice">Лауреаты определены. Конференция завершена</div><div class="honor_wrapp"><div class="wrap"><div class="count">Эта статья набрала <span>0</span> голосов</div><div class="vk_like"><span class="btn vk">Мне нравится</span><span class="like_counter_wrap"><div class="arrow"></div><span id="stats_num">0</span></span><div id="vk_like"></div>
+							<script type="text/javascript">VK.Widgets.Like("vk_like", {redesign: 1, type: "button", height: 30}, 79447);VK.Observer.subscribe("widgets.like.liked", function(param) {jQuery(".honor_wrapp .vk_like #stats_num").text(param);}); VK.Observer.subscribe("widgets.like.unliked", function(param) {jQuery(".honor_wrapp .vk_like #stats_num").text(param);});</script></div><div class="w-320 mob-block" style="width:235px;margin:0 auto;text-align: center;"><div style="width:50%;float:left;">Дипломы <br/>лауреатов</div><div style="width:50%;float:left;">Сертификаты <br/>участников</div></div><div class="dip_and_sert"><div style="margin-right: 18px;line-height: 150%;">Дипломы <br/>лауреатов</div><div><img style='margin-right: 14px;float: left;' src=/themes/mix_and_match/images/dip_and_sert/gold_gray.png /><img style='margin-right: 27px;' src=/themes/mix_and_match/images/dip_and_sert/silver_gray.png /></div><div style="margin-right: 15px;line-height: 150%;">Сертификаты <br/>участников</div><div><a rel='nofollow' target='_blank' style='margin-right: 23px;' href='/certificate/79448'><img src=/themes/mix_and_match/images/dip_and_sert/sert.png title='Сертификат участника конференции' /></a><img src=/themes/mix_and_match/images/dip_and_sert/nauch_gray.png /></div></div></div></div>	</div>
+	<div style="padding-bottom: 50px;"><a href="/publikaciya-v-zhurnalah-rinc?utm_source=nf&utm_medium=banner&utm_campaign=articles"><img style="width:100%;height:auto;" src="/sites/default/files/publ_rinc.png" /></a></div>			<div class="inner node-inner">
+							    
+			    <div class="content clearfix node-content body-article">
+			    	<script type='text/javascript'> 
+							function ShareToVk() {  
+								tltl = document.title  
+								width = 550  
+								height = 268  
+								w_top = (window.screen.height - height)/2  
+								w_left = (window.screen.width - width)/2  
+								window.open('//vk.com/share.php?url=https://nauchforum.ru/studconf/gum/33/79447&image=https://nauchforum.ru/themes/mix_and_match/images/logo.jpg&title=Личная эффективность обучающихся подросткового возраста', 'shareSite','width=550px,height=268px,resizable=yes,scrollbars=yes,left='+w_left+',top='+w_top);
+							}
+						</script><div class="print_block clearfix"><img src="https://nauchforum.ru/themes/mix_and_match/images/logo.jpg" /><p>XXXIII Студенческая международная научно-практическая конференция «Гуманитарные науки. Студенческий научный форум»</p></div><div class="article_action"><span title="Распечатать" onclick="window.print();" class="print">на печать</span><a rel="nofollow" title="Скачать в pdf" href="/page/download.php?article=79447" class="download">скачать .pdf</a><a title="Поделиться ВКонтакте" onclick="ShareToVk(); return false;" href="//vk.com/share.php?url=https://nauchforum.ru/studconf/gum/33/79447&image=https://nauchforum.ru/themes/mix_and_match/images/logo.jpg&title=Личная эффективность обучающихся подросткового возраста" target="_blank" class="vk_group">поделиться</a></div><p class="title">Личная эффективность обучающихся подросткового возраста</p><div class="fio_article">Бочарова Юлия Владимировна</div><div class="regalia_article">магистрант,  АНО ВО Гуманитарный университет, РФ, г. Екатеринбург</div>					<div class="body-content">
+						<p class="rtejustify">&nbsp;</p>
+<p class="rtejustify"><strong>Аннотация. Предмет</strong>: Представление о <em>личной эффективности</em> &ndash; это крайне важный фактор, определяющий выбор действия школьника старшей школы, именно от уровня сформированности данного навыка зависит целеполагание, мотивация и результат обучения в образовательном учреждении.</p>
+<p class="rtejustify"><strong>Цели:</strong> определить уровень личной эффективности обучающихся 13-15 лет и разработать методическое пособие для дополнительного образования, которое будет способствовать повышению их личной эффективности.</p>
+<p class="rtejustify"><strong>Методология:</strong> методика изучения мотивации обучения старшеклассников М.И.Лукьянова, Н.В.Калинина.</p>
+<p class="rtejustify"><strong>Результаты:</strong> данные количественного и качественного анализа после проведения методик по оцениванию личной эффективности школьников 7- 8 классов показывают низкий уровень сформированности знаний о факторах личной эффективности и способах ее повышения.</p>
+<p class="rtejustify"><strong>Выводы: </strong>сделан вывод о том, что для формирования личной эффективности школьников нужна программа дополнительного образования, которая предназначена для практического обучения обучающихся 13-15 лет основам психологической грамотности. Полученные в ходе занятий знания, умения и навыки позволят подросткам увидеть собственные возможности саморазвития, помогут формированию созидательного и позитивного мировоззрения учащихся, скорректируют неадекватную самооценку, и следовательно, сформируют навыки личной эффективности.</p>
+<p class="rtejustify">&nbsp;</p>
+<p class="rtejustify"><strong>Ключевые слова:</strong> личная эффективность, самоэффективность, деятельность, поведение, подросток, цель, ресурсы, результат, успех.</p>
+<p class="rtejustify">&nbsp;</p>
+<p class="rtejustify">Представление о личной эффективности &ndash; это крайне важный фактор, определяющий наш выбор действия. Чем выше личная эффективность, тем больше вероятность того, что человек будет стараться изо всех сил для достижения цели. В связи с этим необходимо иметь четкое представление о личной эффективности и о способах ее повышения или, другими словами, о факторах, на нее влияющих. Это понимание дает возможность повысить уровень личной эффективности любому человеку.</p>
+<p class="rtejustify">Актуальность данной темы обусловлена тем, что о феномене &laquo;личная эффективность&raquo; недостаточно представлений, более того нет достаточной информированности о факторах, влияющих на личную эффективность, что и определяет проблему. И, наконец, некоторые из факторов, влияющих на личную эффективность, представляют интерес не только на теоретическом, но и на эмпирическом уровне.</p>
+<p class="rtejustify">Феномену &laquo;личной эффективности&raquo; в последнее время в психологии уделяется все большее внимание. При этом в психологической науке используется разная терминология относительно данного обстоятельства, чаще говорят о &laquo;самоэффективности&raquo; и &laquo;личной эффективности&raquo;.</p>
+<p class="rtejustify">По феномену самоэффективность изучены труды А. Бандуры, R.Lazarus, S. Folkman, Р.Л. Кричевского&nbsp;, Т.О. Гордеевой, К.М. Гайдара, С.Р. Пантилеева, хотя истоки изучения &laquo;личной эффективности&raquo; берут свое начало в социально-когнитивной теории А. Бандуры в 70-е гг. ХХ в.</p>
+<p class="rtejustify">Одним из ключевых терминов данной теории является &laquo;самоэффективность&raquo;</p>
+<p class="rtejustify">Первым ученым, сформулировавшим термин самоэффективности, был Альберт Бандура, американский психолог, автор теории социального научения. Он понимал самоэффективность как веру человека в успешность собственных действий в той или иной ситуации. Практически все люди могут ставить перед собой цели и желать, чтобы эти цели были достигнуты. Тем не менее, многие так же осознают, что реализовать свои планы не так просто. Бандура и многие исследователи обнаружили, что данный феномен играет важную роль в том, как цели, желания и мотивы воплощаются в жизнь.</p>
+<p class="rtejustify">Самоэффективность постоянно меняется &mdash; на неё можно целенаправленно воздействовать. В связи с этим, развитие самоэффективности личности обеспечивается посредством формирования когнитивных умений строить свое поведение, приобретать косвенный опыт, пластично входить в поток, в состояние физического или эмоционального</p>
+<p class="rtejustify">Таким образом, проанализированные подходы зарубежных и отечественных специалистов дополняют друг друга и указывают ориентиры для последующего выявления структурных компонентов, критериев и показателей проявления личной эффективности, а также разработке методов внешней оценки уровня ее достижения. Особенно актуально данная тема для обучающихся старших классов образовательных учреждений, так как современное российское общество предъявляет свой социальный заказ на профессионалов, способных к эффективной деятельности во всех ее проявлениях и обладающих для этого внутренним стержнем, необходимым личностным потенциалом.</p>
+<p class="rtejustify">Одной из распространенных проблем у детей является проблема, связанная с неумением планировать и управлять своим временем, организацией рабочего места и распределением необходимых дел. Часто родители сталкиваются с тем, что ребенок не приступает к выполнению домашнего задания без напоминания, откладывает на неопределенный отрезок времени выполнение уроков, предпочитая проводить время за просмотром интернета или телевизора. Многие дети совсем не знают, чем можно занять себя в свободное время. Отсутствие режима дня и планирования влекут за собой целый ряд трудностей, которые сопровождают ребенка при выполнении домашней работы или обязанностей по дому.</p>
+<p class="rtejustify">Умение управлять своим временем и делами является важным и необходимым умением, как для обучения в школе, так и для взрослой жизни. Навыки личной эффективности позволяют результативно управлять школьнику не только учебной деятельностью, но и жизненными ситуациями и проблемами в целом. Чем младше ребенок, тем проще его обучить навыкам личной эффективности и помочь стать ему самостоятельным. Известный психолог Л.С. Выготский ввел такое понятие, как &laquo;зона ближайшего развития&raquo; &mdash; это уровень развития ребенка, который достигается в процессе совместной деятельности со значимым взрослым, но не проявляется в индивидуальной деятельности. В тоже время такой опыт позволяет ученику научиться и расширить круг дел, умений и навыков, которые он может выполнять самостоятельно.</p>
+<p class="rtejustify">Одним из самых сензитивных периодов для формирования высокого уровня личной эффективности является подростковый возраст, который в развитии ребенка считают обычно особенно трудным как для родителей и педагогов, так и дня самих детей. В основе такой оценки лежит обилие критических, психологических и физиологических состояний, объективно возникающих в процессе развития, которые иногда именуются &quot;критическими периодами детства&quot;, поэтому важно именно в такой период смотивировать обучающихся на успешное обучение в школе, сформировать адекватную самооценку итд.</p>
+<p class="rtejustify">Для оценки уровня личной эффективности обучающихся была проведена методика изучения мотивации обучения старшеклассников М.И.Лукьянова, Н.В.Калинина. Для количественного и качественного анализа в начале учебного года было опрошено 50 обучающихся 7-11 классов МАОУ СОШ № 147 Железнодорожного района города Екатеринбурга.</p>
+<p class="rtejustify">Содержательная сторона методики отразила сущность пяти обоснованных компонентов мотивации и взаимосвязь между ними:</p>
+<ul>
+<li class="rtejustify">
+		наличие личностного смысла учения,</li>
+<li class="rtejustify">
+		выраженность тех или иных видов мотивов (познавательные и социальные, внешние и внутренние, стремление к достижению успеха и к недопущению неудач),</li>
+<li class="rtejustify">
+		целеполагание,</li>
+<li class="rtejustify">
+		реализация доминирующих мотивов в поведении,</li>
+<li class="rtejustify">
+		эмоциональный компонент.</li>
+</ul>
+<p class="rtejustify">Методика позволила выявить наиболее острые проблемы в области обучения и воспитания, следствием которых является снижение базовых показателей образованности и воспитанности обучающихся, так как показатели личной эффективности обучающихся оказались на низком уровне.</p>
+<p class="rtejustify">Для решения данной проблемы было разработано методическое пособие для практического обучения учащихся 7-11 классов основам психологической грамотности.</p>
+<p class="rtejustify">Методическое пособие представляет цикл последовательных занятий дополнительного образования, в ходе которого у обучающегося формируется адекватная самооценка, развиваются творческие способности , развивать познавательные и профессиональные интересы, способность строить жизненные планы и вырабатывать нравственные идеалы, строится рефлексивный тип ,развивается самосознание и самоконтроль.</p>
+<p class="rtejustify">После апробации методического пособия была проведена повторная диагностика по изучению личной эффективности обучающихся, которая показала повышения уровня на 35%.</p>
+<p class="rtejustify">Полученные в ходе занятий знания, умения и навыки позволили подросткам увидеть собственные возможности саморазвития, помогли формированию созидательного и позитивного мировоззрения учащихся, скорректировали неадекватную самооценку.</p>
+<p class="rtejustify">Таким образом, чтобы сформировать у ребенка навыки и умения планирования и эффективного управления собственной деятельностью, необходимо его обучить этому.</p>
+<p class="rtejustify">&nbsp;</p>
+<div class="rtejustify">
+	<strong>Список литературы:</strong></div>
+<div class="rtejustify">
+	1.<span style="white-space:pre"> </span>Чаплин А.В., Шацкая С.С. Факторы, влияющие на самоэффективность личности // Международный журнал экспериментального образования. &ndash; 2015. &ndash; № 11-6. &ndash; С. 991-993; URL: http://expeducation.ru/ru/article/view?id=9552 (дата обращения: 01.03.2020).</div>
+<div class="rtejustify">
+	2.<span style="white-space:pre"> </span>АТ Дегтяренко И.В. Искусство личной эффективности// 2015.-http://masters.donntu.org/2010/fkita/gaskova/ind/index.htm</div>
+<div class="rtejustify">
+	3.<span style="white-space:pre"> </span>https://bookap.info/book/freydzher_teorii_lichnosti_i_lichnostnyy_rost/gl503.shtm</div>
+<div class="rtejustify">
+	4.<span style="white-space:pre"> </span>Л.С. Выготский. Возрастная и педагогическая психология. Сборник статей, - М. 1990г.</div>
+<div class="rtejustify">
+	5.<span style="white-space:pre"> </span> Л.С. Выготский. Психология развития человека. &mdash; М.: Изд-во Смысл; Эксмо, 2005. &mdash; 1136 с.</div>
+<div class="rtejustify">
+	6.<span style="white-space:pre"> </span>http://ouustzao.omr.obr55.ru/files/2019/02</div>
+					</div>
+			    </div>
+			</div><!-- /inner -->
+			<div class="article_footer">
+			    				<div class="similar"><h3>Похожие статьи</h3><ul><li><a href="/studconf/science/131/94763">Обзор современных исследований виктимного поведения</a></li><li><a href="/studconf/gum/xl/14213">Инклюзия в понимании современного общества</a></li><li><a href="/studconf/gum/xxiv/7246">ОРГАНИЗАЦИОННАЯ КУЛЬТУРА И ЕЕ СОВЕРШЕНСТВОВАНИЕ</a></li><li><a href="/studconf/gum/xli/15971">Псхологическое благополучие в студенческом возрасте</a></li><li><a href="/studconf/gum/liii/30798">Социально-психологические предпосылки формирования наркозависимости</a></li></ul></div><div class="action clearfix"><a href="/archive/article/239?direction=2" class="btn">Больше статей</a></div>				<div class="content clearfix node-content">
+					<div id="vk_comments"></div>
+					<script type="text/javascript">
+                        setTimeout(
+                            function(){
+                                VK.Widgets.Comments("vk_comments", {limit: 10, attach: "*"}, "79447");
+                            }, 3000);
+                    </script>
+				</div>
+											</div>
+	<a href="/publikaciya-v-zhurnalah-rinc?utm_source=nf&utm_medium=banner&utm_campaign=articles"><img style="width:100%;height:auto;" src="/sites/default/files/publ_rinc.png" /></a></div>
+		                                  		                                </div><!-- /content-content -->
+		                                		                              </div><!-- /content-inner-inner -->
+		                            </div><!-- /content-inner -->
+		                          </div><!-- /content-region-inner -->
+		                        </div><!-- /content-region -->
 
+		                        	                        </div>
+	                      </div><!-- /content-group-inner -->
+	                    </div><!-- /content-group -->
 
-<section class="wp-block-appsflyer-block-text-image-columns text-image-columns text-image-columns--reverse py-40 py-lg-0"><div class="container"><div class="row align-items-sm-center justify-content-sm-between"><figure class="col-md-6 px-sm-80 px-md-0  text-image-columns__image"><img loading="lazy" title="CX and deep linking by AppsFlyer: Create and manage digital experiences with ease" alt="CX and deep linking by AppsFlyer: Create and manage digital experiences with ease" width="960" height="892" class="text-image-columns__layer" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20960%20892'%3E%3C/svg%3E" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/custom-links-appsflyer-product-.png"/><noscript><img loading="lazy" title="CX and deep linking by AppsFlyer: Create and manage digital experiences with ease" alt="CX and deep linking by AppsFlyer: Create and manage digital experiences with ease" width="960" height="892" class="text-image-columns__layer" src="https://www.appsflyer.com/wp-content/uploads/2020/08/custom-links-appsflyer-product-.png"/></noscript></figure><article class="col-md-5 pt-20 order-md-1 text-center text-md-left"><header class="text-image-columns__header"><h2 class="h3">CX and deep linking by AppsFlyer: Create and manage digital experiences with ease</h2></header><div class="text-image-columns__text pt-20"><p>Your customers interact with your brand across numerous online and offline touchpoints. Our engagement suite allows you to create, manage, and measure mobile marketing campaigns across every major channel, including email, social media, mobile web, QR codes, and more.</p></div></article></div></div></section>
+	                    	                  </div><!-- /main-content-inner -->
+	                </div><!-- /main-content -->
 
-
-
-<section class="wp-block-appsflyer-block-text-image-columns text-image-columns  py-40 py-lg-0"><div class="container"><div class="row align-items-sm-center justify-content-sm-between"><figure class="col-md-6 px-sm-80 px-md-0 order-md-2 text-image-columns__image"><img loading="lazy" title="CX and deep linking by AppsFlyer: Maximize performance" alt="CX and deep linking by AppsFlyer: Maximize performance" width="960" height="892" class="text-image-columns__layer" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20960%20892'%3E%3C/svg%3E" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/USP3.svg"/><noscript><img loading="lazy" title="CX and deep linking by AppsFlyer: Maximize performance" alt="CX and deep linking by AppsFlyer: Maximize performance" width="960" height="892" class="text-image-columns__layer" src="https://www.appsflyer.com/wp-content/uploads/2020/08/USP3.svg"/></noscript></figure><article class="col-md-5 pt-20 pt-sm-20 order-md-1 text-center text-md-left"><header class="text-image-columns__header"><h2 class="h3">Maximize performance in the era of privacy with owned media</h2></header><div class="text-image-columns__text pt-20"><p>Owned media has always been instrumental for customer acquisition and remarketing, and as the industry continues to change it’s becoming even more important. Running owned media campaigns with our engagement suite enables you to ensure user privacy and security while supporting your growth goals.</p></div></article></div></div></section>
-
-
-
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<section class="wp-block-appsflyer-block-testimonials-slider testimonials-slider pb-40 pb-sm-0"><div class="container"><div class="row mx-0 testimonials-slider__slider border-radius position-relative"><div class="testimonials-slider__preloader slider-preloader text-dark d-flex justify-content-center w-100 py-20 px-40"><div class="spinner-border" role="status"><span class="sr-only">Loading&#8230;</span></div></div><div class="m-auto col-md-10 slider section-bg section-bg--no-shape section-bg--teal-light-1" id="testimonials-slider-ACsqq" data-slides-to-show="1" data-slides-to-show-md="1" data-center-mode="false" data-arrows="true" data-dots="false" data-fade="true" data-equal-height="true" data-infinite="true"><article class="testimonials-slider__item text-secondary slider-item d-flex flex-column pt-30 pb-80 pt-sm-50 pb-sm-30 pb-md-50 px-sm-30 px-md-50"><div class="testimonials-slider__item-holder slider-item__holder d-flex flex-column justify-content-start"><header class="testimonials-slider__item-header d-flex align-items-center justify-content-between"><div class="testimonials-slider__item-image d-flex justify-content-center"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Pizza hut - Deep linking - AppsFlyer products" title="PIzza Hut - Deep linking - AppsFlyer products - Product page" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/pizza-hut-deep-linking-appsflyer-product.svg"/><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/pizza-hut-deep-linking-appsflyer-product.svg" alt="Pizza hut - Deep linking - AppsFlyer products" title="PIzza Hut - Deep linking - AppsFlyer products - Product page"/></noscript></div></header><div class="testimonials-slider__item-body d-flex flex-column justify-content-start py-20"><blockquote class="testimonials-slider__item-text pt-3"><p>“OneLink was simple, powerful, and ready-to-go out of the box. It had everything we needed to run a bold offline campaign with full confidence. We could attribute key in-app events with the same granularity as online campaigns.”</p></blockquote></div><footer class="mt-auto mb-0"><cite class="testimonials-slider__item-footer d-flex align-items-start"><figure class="testimonials-slider__item-footer-credit-image d-flex flex-shrink-0 justify-content-center overflow-hidden mb-20 mb-md-0"><img class="bg-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Andrew Ellis - Deep linking - AppsFlyer products" title="Andrew Ellis - Deep linking - AppsFlyer products - Product page" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/andrew-ellis-deep-linking-appsflyer-product.svg"/><noscript><img class="bg-image" src="https://www.appsflyer.com/wp-content/uploads/2020/08/andrew-ellis-deep-linking-appsflyer-product.svg" alt="Andrew Ellis - Deep linking - AppsFlyer products" title="Andrew Ellis - Deep linking - AppsFlyer products - Product page"/></noscript></figure><figcaption class="testimonials-slider__item-footer-credit-name d-flex flex-column has-normal-font-size pl-4">Andrew Ellis<span>Performance Marketing Manager</span></figcaption></cite></footer></div></article><article class="testimonials-slider__item text-secondary slider-item d-flex flex-column pt-30 pb-80 pt-sm-50 pb-sm-30 pb-md-50 px-sm-30 px-md-50"><div class="testimonials-slider__item-holder slider-item__holder d-flex flex-column justify-content-start"><header class="testimonials-slider__item-header d-flex align-items-center justify-content-between"><div class="testimonials-slider__item-image d-flex justify-content-center"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Letgo dark logo - AppsFlyer customer" title="Letgo dark logo - AppsFlyer customer - Homepage" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/07/letgo-logo-dark.svg"/><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/07/letgo-logo-dark.svg" alt="Letgo dark logo - AppsFlyer customer" title="Letgo dark logo - AppsFlyer customer - Homepage"/></noscript></div></header><div class="testimonials-slider__item-body d-flex flex-column justify-content-start py-20"><blockquote class="testimonials-slider__item-text pt-3"><p>&#8220;Not only does OneLink allow us to test, measure, and understand what most effectively drives user conversions, it also enables us to optimize and personalize our owned media campaigns to support more positive user experiences and improve business outcomes.&#8221;</p></blockquote></div><footer class="mt-auto mb-0"><cite class="testimonials-slider__item-footer d-flex align-items-start"><figure class="testimonials-slider__item-footer-credit-image d-flex flex-shrink-0 justify-content-center overflow-hidden mb-20 mb-md-0"><img class="bg-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Iago Noboa Zarauza - Deep linking - AppsFlyer products" title="Iago Noboa Zarauza - Deep linking - AppsFlyer products - Product page" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/iago-zarauza-deep-linking-appsflyer-product.svg"/><noscript><img class="bg-image" src="https://www.appsflyer.com/wp-content/uploads/2020/08/iago-zarauza-deep-linking-appsflyer-product.svg" alt="Iago Noboa Zarauza - Deep linking - AppsFlyer products" title="Iago Noboa Zarauza - Deep linking - AppsFlyer products - Product page"/></noscript></figure><figcaption class="testimonials-slider__item-footer-credit-name d-flex flex-column has-normal-font-size pl-4">Iago Novoa Zarauza<span>Head of Business Intelligence</span></figcaption></cite></footer></div></article><article class="testimonials-slider__item text-secondary slider-item d-flex flex-column pt-30 pb-80 pt-sm-50 pb-sm-30 pb-md-50 px-sm-30 px-md-50"><div class="testimonials-slider__item-holder slider-item__holder d-flex flex-column justify-content-start"><header class="testimonials-slider__item-header d-flex align-items-center justify-content-between"><div class="testimonials-slider__item-image d-flex justify-content-center"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Webmotors Logo - Deep linking - AppsFlyer products" title="Webmotors Logo - Deep linking - AppsFlyer products - Product page" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/webmotors-logo-deep-linking-appsflyer-product.svg"/><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/webmotors-logo-deep-linking-appsflyer-product.svg" alt="Webmotors Logo - Deep linking - AppsFlyer products" title="Webmotors Logo - Deep linking - AppsFlyer products - Product page"/></noscript></div></header><div class="testimonials-slider__item-body d-flex flex-column justify-content-start py-20"><blockquote class="testimonials-slider__item-text pt-3"><p>&#8220;Today, 70% of our audience comes from mobile web. So we have a huge opportunity to convert this audience into app users using Smart Banners. In the first few hours of using Smart Banners we had 300 installs of the app.&#8221;</p></blockquote></div><footer class="mt-auto mb-0"><cite class="testimonials-slider__item-footer d-flex align-items-start"><figure class="testimonials-slider__item-footer-credit-image d-flex flex-shrink-0 justify-content-center overflow-hidden mb-20 mb-md-0"><img class="bg-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" title="image 20" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/image-20-1.png"/><noscript><img class="bg-image" src="https://www.appsflyer.com/wp-content/uploads/2020/08/image-20-1.png" alt="" title="image 20"/></noscript></figure><figcaption class="testimonials-slider__item-footer-credit-name d-flex flex-column has-normal-font-size pl-4">Larissa Gios<span>Digital Marketing Coordinator</span></figcaption></cite></footer></div></article></div></div></div></section>
-
-
-
-<section class="wp-block-appsflyer-block-section section-block section-block--width-default"><div class="container"><div class="row flex-column">
-<h2 class="has-text-align-center" id="h-customer-experiences">Customer experiences</h2>
-
-
-
-<p class="has-text-align-center has-mlarge-font-size">Better experiences are the key to better marketing. Discover how our customer experience and engagement suite lets you create exceptional experiences that convert across channels and operating systems.</p>
-</div></div></section>
-
-
-
-<section class="wp-block-appsflyer-block-text-items-grid text-items-grid null pt-30 pb-60 pt-md-60 pb-md-60"><div class="container undefined"><div class="row  justify-content-center text-center "><article class="text-items-grid__ite col-lg-4 col-md-6  col-xs-12 py-3 py-sm-20"><div class="text-items-grid__item--holder d-flex flex-column"><figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20101'%3E%3C/svg%3E" width="100" height="101" alt="" title="ico-web-to-app" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-web-to-app.svg"/><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-web-to-app.svg" width="100" height="101" alt="" title="ico-web-to-app"/></noscript></figure><header class="pt-0 pb-3"><h4>Web-to-app</h4></header><div class="text-items-grid__text px-30"><p>Boost UA and engagement with frictionless digital journeys from your mobile website to in-app content.</p></div></div></article><article class="text-items-grid__ite col-lg-4 col-md-6  col-xs-12 py-3 py-sm-20"><div class="text-items-grid__item--holder d-flex flex-column"><figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" width="100" height="100" alt="Email icon - AppsFlyer product" title="Email icon - AppsFlyer product" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/email-icon-appsflyer-product.svg"/><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/email-icon-appsflyer-product.svg" width="100" height="100" alt="Email icon - AppsFlyer product" title="Email icon - AppsFlyer product"/></noscript></figure><header class="pt-0 pb-3"><h4>Email-to-app</h4></header><div class="text-items-grid__text px-30"><p>Ensure smooth, contextually relevant email-to-app experiences, even when ESPs wrap your links.</p></div></div></article><article class="text-items-grid__ite col-lg-4 col-md-6  col-xs-12 py-3 py-sm-20"><div class="text-items-grid__item--holder d-flex flex-column"><figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" width="100" height="100" alt="Text-to-app icon - AppsFlyer product" title="Text-to-app icon - AppsFlyer product" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/text-to-app-icon-appsflyer-product.svg"/><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/text-to-app-icon-appsflyer-product.svg" width="100" height="100" alt="Text-to-app icon - AppsFlyer product" title="Text-to-app icon - AppsFlyer product"/></noscript></figure><header class="pt-0 pb-3"><h4>Text-to-app</h4></header><div class="text-items-grid__text px-30"><p>Engage users with discounts, limited-time offers, and more using dynamically generated short links.</p></div></div></article><article class="text-items-grid__ite col-lg-4 col-md-6  col-xs-12 py-3 py-sm-20"><div class="text-items-grid__item--holder d-flex flex-column"><figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" width="100" height="100" alt="Offline-to-app icon - AppsFlyer product" title="Offline-to-app icon - AppsFlyer product" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/offline-to-app-icon-appsflyer-product.svg"/><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/offline-to-app-icon-appsflyer-product.svg" width="100" height="100" alt="Offline-to-app icon - AppsFlyer product" title="Offline-to-app icon - AppsFlyer product"/></noscript></figure><header class="pt-0 pb-3"><h4>QR-to-app</h4></header><div class="text-items-grid__text px-30"><p>Route users seamlessly into their app from QR code scans taken at key engagement points such as in-store displays, CTV, and packaging.</p></div></div></article><article class="text-items-grid__ite col-lg-4 col-md-6  col-xs-12 py-3 py-sm-20"><div class="text-items-grid__item--holder d-flex flex-column"><figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" width="100" height="100" alt="Social-to-app icon - AppsFlyer product" title="Social-to-app icon - AppsFlyer product" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/social-to-app-icon-appsflyer-product.svg"/><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/social-to-app-icon-appsflyer-product.svg" width="100" height="100" alt="Social-to-app icon - AppsFlyer product" title="Social-to-app icon - AppsFlyer product"/></noscript></figure><header class="pt-0 pb-3"><h4>Social-to-app</h4></header><div class="text-items-grid__text px-30"><p>Deliver customer experiences that convert while measuring engagement, installs, and loyalty through your social media platforms.</p></div></div></article><article class="text-items-grid__ite col-lg-4 col-md-6  col-xs-12 py-3 py-sm-20"><div class="text-items-grid__item--holder d-flex flex-column"><figure><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" width="100" height="100" alt="Referral-to-app icon - AppsFlyer product" title="Referral-to-app icon - AppsFlyer product" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/referral-to-app-icon-appsflyer-product.svg"/><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/referral-to-app-icon-appsflyer-product.svg" width="100" height="100" alt="Referral-to-app icon - AppsFlyer product" title="Referral-to-app icon - AppsFlyer product"/></noscript></figure><header class="pt-0 pb-3"><h4>Referral-to-app</h4></header><div class="text-items-grid__text px-30"><p>Build on the trust that already exists between friends to drive new users to your app through direct referrals, user invites, and content sharing.</p></div></div></article></div></div></section>
-
-
-
-<section class="wp-block-appsflyer-block-section section-block section-block--width-default section-bg section-bg--block-section-1 section-bg--blue-light-2"><div class="container"><div class="row flex-column">
-<h3 class="has-text-align-center" id="h-"></h3>
-
-
-
-<h2 class="has-text-align-center" id="h-our-deep-linking-engine-does-the-hard-work-so-you-don-t-have-to">Our deep linking engine does the hard work so you don’t have to</h2>
-
-
-
-<p class="has-text-align-center has-mlarge-font-size">OneLink, our deep linking technology, automatically sends the user either directly to the chosen in-app content, or to download the app in the right app store.</p>
-
-
-
-<div class="wp-block-image show-mobile-only"><figure class="aligncenter size-large"><img width="402" height="372" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20402%20372'%3E%3C/svg%3E" alt="CX and deep linking by AppsFlyer: OneLink technology" class="wp-image-20727" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/integrations-deep-linking-mobile.svg"/><noscript><img width="402" height="372" src="https://www.appsflyer.com/wp-content/uploads/2020/08/integrations-deep-linking-mobile.svg" alt="CX and deep linking by AppsFlyer: OneLink technology" class="wp-image-20727"/></noscript></figure></div>
-
-
-
-<div class="wp-block-image hide-mobile"><figure class="aligncenter size-full is-resized"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20760%20757'%3E%3C/svg%3E" alt="CX and deep linking by AppsFlyer: OneLink technology" class="wp-image-3101" width="760" height="757" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/how-deep-linking-works-appsflyer-product.svg"/><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/how-deep-linking-works-appsflyer-product.svg" alt="CX and deep linking by AppsFlyer: OneLink technology" class="wp-image-3101" width="760" height="757"/></noscript></figure></div>
-</div></div></section>
-
-
-
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<section class="wp-block-appsflyer-block-section-faq section-faq pb-60 pb-md-120 pt-60 pt-md-150 pt-lg-160  mt-sm-60 mt-md-0"><div class="container "><div class="row col-lg-8 m-auto flex-column px-0 px-sm-20 py-20"><header class="d-flex pb-40 pb-md-80 pb-lg-80 justify-content-center text-center"><h2 tag="h2">Frequently asked questions</h2></header><article class="section-faq__item" id="btn_LQgUEY" data-aft="question-toggle" data-aft-block="faq"><header class="py-25 pr-30"><h3 tag="h3">I’m a marketer. I want to learn more about deep linking, where should I look?</h3></header><div class="section-faq__text pr-30 pr-sm-0"><p tag="p">We have a few resources ready-made for you. For some in-depth reading, take a look at <a href="https://www.appsflyer.com/resources/guides/deep-linking-for-mobile-marketers/">Deep linking for mobile marketers, a guide</a>.</p></div></article><article class="section-faq__item" id="btn_IcDo3F" data-aft="question-toggle" data-aft-block="faq"><header class="py-25 pr-30"><h3 tag="h3">I’m a developer. Where can I find technical information and documentation?</h3></header><div class="section-faq__text pr-30 pr-sm-0"><p tag="p">You can head over to our <a href="https://dev.appsflyer.com/" target="_blank" rel="noopener">Developer Hub</a> or learn more about deep linking in <a href="https://www.appsflyer.com/resources/guides/deep-linking-for-developers/">Everything a developer needs to know about deep linking</a>.</p></div></article><article class="section-faq__item" id="btn_gKOjkX" data-aft="question-toggle" data-aft-block="faq"><header class="py-25 pr-30"><h3 tag="h3">Does AppsFlyer offer deferred deep linking?</h3></header><div class="section-faq__text pr-30 pr-sm-0"><p tag="p">Yes, our OneLink technology understands where to direct a user regardless of whether an app is installed or not. If the app is not installed, <a href="https://www.appsflyer.com/glossary/deferred-deep-linking/">deferred deep linking</a> occurs: users are directed to the right app store, after which they are routed to the desired in-app content.</p></div></article><article class="section-faq__item" id="btn_1gPEbC" data-aft="question-toggle" data-aft-block="faq"><header class="py-25 pr-30"><h3 tag="h3">Do I need OneLink if I use iOS Universal Links or Android App Links?</h3></header><div class="section-faq__text pr-30 pr-sm-0"><p tag="p">Yes, otherwise you’ll still have to create links for each platform. OneLink leverages Apple and Android’s deep linking mechanisms (iOS Universal Links and Android App Links, respectively), allowing you to create a single link that automatically determines the best way to route your users so that they always arrive at their destination regardless of channel, platform, or OS.</p></div></article><article class="section-faq__item" id="btn_uENHmg" data-aft="question-toggle" data-aft-block="faq"><header class="py-25 pr-30"><h3 tag="h3">Can I use deep links without being a paid, AppsFlyer customer?</h3></header><div class="section-faq__text pr-30 pr-sm-0"><p tag="p">Yes! You start using deep linking today, along with attribution and other core capabilities. Check out of our “<a href="https://www.appsflyer.com/solutions/zero-budget-marketing/">Zero budget marketing plan</a>” for more info.</p></div></article><article class="section-faq__item" id="btn_Bcclw8" data-aft="question-toggle" data-aft-block="faq"><header class="py-25 pr-30"><h3 tag="h3">What attribution data can I get from OneLink deep links?</h3></header><div class="section-faq__text pr-30 pr-sm-0"><p tag="p">Our deep links contain rich attribution data about user journeys including what campaign they came from, who referred them, what content they saw when clicking on the link, and more. This contextual information helps you deliver a smooth, relevant experience from the click to when the app is opened.</p></div></article></div></div></section>
-
-
-
-<section class="buttons-items-grid pt-30 pb-60 pb-md-80 section-bg section-bg--blue-light-2 section-bg--buttons-items-grid">
-    <div class="container ">
-                    <header class="pt-50 pb-20 pt-sm-50 pb-sm-50 text-center">
-                <h2>Explore more AppsFlyer products</h2>
-            </header>
-                            <div class="row">
-                                                            <a href="https://www.appsflyer.com/products/attribution/" target=""                            class="buttons-items-grid__button d-flex align-items-center col-sm-6 col-md-4 px-20 py-3 py-sm-4"
-                           id="tag-attribution-1"
-                           data-aft="internal-link"
-                           data-aft-block="buttons-items-grid">
-                            <div class="buttons-items-grid__holder w-100 d-flex align-items-center pl-20 pr-40 py-30">
-                                                                    <figure class="mr-3 d-block">
-                                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                             alt=""
-                                             title="ico-attribution"
-                                        data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-attribution.svg" /><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-attribution.svg"
-                                             alt=""
-                                             title="ico-attribution"
-                                        /></noscript>
-                                    </figure>
-                                                                                                    <span class="text-secondary pl-2">
-                                        Attribution                                    </span>
-                                                            </div>
-                        </a>
-                                                                                <a href="https://www.appsflyer.com/products/cost-aggregation/" target=""                            class="buttons-items-grid__button d-flex align-items-center col-sm-6 col-md-4 px-20 py-3 py-sm-4"
-                           id="tag-cost-aggregation-1"
-                           data-aft="internal-link"
-                           data-aft-block="buttons-items-grid">
-                            <div class="buttons-items-grid__holder w-100 d-flex align-items-center pl-20 pr-40 py-30">
-                                                                    <figure class="mr-3 d-block">
-                                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                             alt=""
-                                             title="ico-cost-aggregation"
-                                        data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-cost-aggregation.svg" /><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-cost-aggregation.svg"
-                                             alt=""
-                                             title="ico-cost-aggregation"
-                                        /></noscript>
-                                    </figure>
-                                                                                                    <span class="text-secondary pl-2">
-                                        Cost aggregation                                    </span>
-                                                            </div>
-                        </a>
-                                                                                <a href="https://www.appsflyer.com/products/marketing-analytics/" target=""                            class="buttons-items-grid__button d-flex align-items-center col-sm-6 col-md-4 px-20 py-3 py-sm-4"
-                           id="tag-marketing-analytics-1"
-                           data-aft="internal-link"
-                           data-aft-block="buttons-items-grid">
-                            <div class="buttons-items-grid__holder w-100 d-flex align-items-center pl-20 pr-40 py-30">
-                                                                    <figure class="mr-3 d-block">
-                                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                             alt=""
-                                             title="ico-marketing-analytics"
-                                        data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-marketing-analytics.svg" /><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-marketing-analytics.svg"
-                                             alt=""
-                                             title="ico-marketing-analytics"
-                                        /></noscript>
-                                    </figure>
-                                                                                                    <span class="text-secondary pl-2">
-                                        Marketing analytics                                    </span>
-                                                            </div>
-                        </a>
-                                                                                <a href="https://www.appsflyer.com/products/incrementality/" target=""                            class="buttons-items-grid__button d-flex align-items-center col-sm-6 col-md-4 px-20 py-3 py-sm-4"
-                           id="tag-incrementality-1"
-                           data-aft="internal-link"
-                           data-aft-block="buttons-items-grid">
-                            <div class="buttons-items-grid__holder w-100 d-flex align-items-center pl-20 pr-40 py-30">
-                                                                    <figure class="mr-3 d-block">
-                                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                             alt=""
-                                             title="ico-incrementality"
-                                        data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2021/02/ico-incrementality.svg" /><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2021/02/ico-incrementality.svg"
-                                             alt=""
-                                             title="ico-incrementality"
-                                        /></noscript>
-                                    </figure>
-                                                                                                    <span class="text-secondary pl-2">
-                                        Incrementality                                    </span>
-                                                            </div>
-                        </a>
-                                                                                <a href="https://www.appsflyer.com/products/audience-segmentation/" target=""                            class="buttons-items-grid__button d-flex align-items-center col-sm-6 col-md-4 px-20 py-3 py-sm-4"
-                           id="tag-audience-segmentation-1"
-                           data-aft="internal-link"
-                           data-aft-block="buttons-items-grid">
-                            <div class="buttons-items-grid__holder w-100 d-flex align-items-center pl-20 pr-40 py-30">
-                                                                    <figure class="mr-3 d-block">
-                                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                             alt=""
-                                             title="ico-audiences"
-                                        data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-audiences.svg" /><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-audiences.svg"
-                                             alt=""
-                                             title="ico-audiences"
-                                        /></noscript>
-                                    </figure>
-                                                                                                    <span class="text-secondary pl-2">
-                                        Audience segmentation                                    </span>
-                                                            </div>
-                        </a>
-                                                                                <a href="https://www.appsflyer.com/products/fraud-protection/" target=""                            class="buttons-items-grid__button d-flex align-items-center col-sm-6 col-md-4 px-20 py-3 py-sm-4"
-                           id="tag-fraud-protection-1"
-                           data-aft="internal-link"
-                           data-aft-block="buttons-items-grid">
-                            <div class="buttons-items-grid__holder w-100 d-flex align-items-center pl-20 pr-40 py-30">
-                                                                    <figure class="mr-3 d-block">
-                                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                             alt=""
-                                             title="ico-fraud-protection"
-                                        data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-fraud-protection.svg" /><noscript><img src="https://www.appsflyer.com/wp-content/uploads/2020/08/ico-fraud-protection.svg"
-                                             alt=""
-                                             title="ico-fraud-protection"
-                                        /></noscript>
-                                    </figure>
-                                                                                                    <span class="text-secondary pl-2">
-                                        Fraud protection                                    </span>
-                                                            </div>
-                        </a>
-                                                </div>
-            </div>
-</section>
-
-<section class="cta-banner cta-banner--type-1 text-light pt-70 pt-sm-70 pt-lg-100 d-flex">
-    <div class="container">
-        <div class="row flex-column flex-md-row pb-20 pb-md-0 mx-0 mx-md-auto">
-            <div class="cta-banner__content col-12 col-md-9 col-lg-8 d-flex flex-column justify-content-md-center align-items-md-start order-1 order-md-0 pb-4 pt-md-35 pb-md-35 pt-xl-60 pb-xl-60 pl-20 pl-md-60 pr-md-40 text-center text-md-left">
-                <header>
-                                            <h2 class="text-light">
-                            Ready to boost your revenue with exceptional user experiences?                        </h2>
-                                                        </header>
-                                    <footer class="cta-banner__buttons d-flex flex-column flex-sm-row align-items-center justify-content-center justify-content-md-start pt-20">
-                                <a href="https://www.appsflyer.com/start/demo/" class="btn btn-primary btn-primary--white  " target="" id="btn_MJ29QS" data-aft="book-demo" data-aft-block="cta-banner">
-			Book a demo        </a>
-	                                <a href="https://www.appsflyer.com/start/" class="btn-text btn-arrow text-light btn-arrow--white mt-20 mt-sm-0 ml-sm-50  " target="" id="btn_GbR2Kf" data-aft="sign-up" data-aft-block="cta-banner">
-			Sign up free        </a>
-	                    </footer>
-                            </div>
-                            <figure class="cta-banner__image order-0 order-md-1 col-12 col-md-3 col-lg-4">
-                    <img loading="lazy"  src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20576%20469'%3E%3C/svg%3E" alt="" title="img-cta-ziv" width="576" height="469" data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2021/04/img-cta-ziv.svg" /><noscript><img loading="lazy"  src="https://www.appsflyer.com/wp-content/uploads/2021/04/img-cta-ziv.svg" alt="" title="img-cta-ziv" width="576" height="469" /></noscript>                </figure>
-                    </div>
-    </div>
-</section>    </main>
-<footer class="footer pt-60 pt-sm-90 container" role="complementary" itemscope="" itemtype="https://schema.org/WPFooter">
-    <div class="row footer__top pb-40 pb-sm-20 d-flex flex-column flex-sm-row flex-wrap justify-content-between">
-                    <div class="footer__col col-12 col-md">
-                                    <h3 class="mb-0 pb-20 pb-md-3 pt-20 pt-md-0 d-flex justify-content-between">Platform</h3>
-                
-                                                                                    <ul id="menu-footer-platform-en" class="pb-3 pb-sm-30 list-style-none d-none d-md-block"><li itemprop="name" role="menuitem"  id="menu-item-1713" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1713 nav-item"><a itemprop="url" title="Measurement suite" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/products/measurement/" itemprop="url" class="nav-link"><span>Measurement suite</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-1717" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1717 nav-item"><a itemprop="url" title="Cost aggregation" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/products/cost-aggregation/" itemprop="url" class="nav-link"><span>Cost aggregation</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-1718" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1718 nav-item"><a itemprop="url" title="Marketing analytics" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/products/marketing-analytics/" itemprop="url" class="nav-link"><span>Marketing analytics</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-18417" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-18417 nav-item"><a itemprop="url" title="Incrementality" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/products/incrementality/" itemprop="url" class="nav-link"><span>Incrementality</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-35205" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-35205 nav-item"><a itemprop="url" title="Predictive analytics" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/products/predictive-analytics/" itemprop="url" class="nav-link"><span>Predictive analytics</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-1715" class="menu-item menu-item-type-post_type menu-item-object-products current-menu-item active menu-item-1715 nav-item"><a itemprop="url" title="CX &amp; deep linking" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/products/customer-experience-deep-linking/" itemprop="url" class="nav-link" itemprop="url" aria-current="page"><span>CX &amp; deep linking</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-1716" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1716 nav-item"><a itemprop="url" title="Audience segmentation" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/products/audiences/" itemprop="url" class="nav-link"><span>Audience segmentation</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-1714" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1714 nav-item"><a itemprop="url" title="Fraud protection" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/products/fraud-protection/" itemprop="url" class="nav-link"><span>Fraud protection</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-2869" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-2869 nav-item"><a itemprop="url" title="Raw data &#038; APIs" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/products/apis/" itemprop="url" class="nav-link"><span>Raw data &#038; APIs</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-2908" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-2908 nav-item"><a itemprop="url" title="Partner marketplace" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/products/integrations/" itemprop="url" class="nav-link"><span>Partner marketplace</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-30092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30092 nav-item"><a itemprop="url" title="AppsFlyer for iOS" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/ios/" itemprop="url" class="nav-link"><span>AppsFlyer for iOS</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20281 nav-item"><a itemprop="url" title="Pricing" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/pricing/" itemprop="url" class="nav-link"><span>Pricing</span></a></li>
-</ul>                                                </div>
-                    <div class="footer__col col-12 col-md">
-                                    <h3 class="mb-0 pb-20 pb-md-3 pt-20 pt-md-0 d-flex justify-content-between">Solutions</h3>
-                
-                                                                                    <ul id="menu-footer-solutions-en" class="pb-3 pb-sm-30 list-style-none d-none d-md-block"><li itemprop="name" role="menuitem"  id="menu-item-1866" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-1866 nav-item"><a itemprop="url" title="Gaming" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/gaming/" itemprop="url" class="nav-link"><span>Gaming</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20285" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-20285 nav-item"><a itemprop="url" title="Shopping" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/shopping/" itemprop="url" class="nav-link"><span>Shopping</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20284" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-20284 nav-item"><a itemprop="url" title="Food &#038; drink" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/food-drink/" itemprop="url" class="nav-link"><span>Food &#038; drink</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20283" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-20283 nav-item"><a itemprop="url" title="Entertainment &#038; music" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/entertainment-music/" itemprop="url" class="nav-link"><span>Entertainment &#038; music</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20282" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-20282 nav-item"><a itemprop="url" title="Finance" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/finance/" itemprop="url" class="nav-link"><span>Finance</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-18576" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-18576 nav-item"><a itemprop="url" title="Health &#038; fitness" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/health-fitness/" itemprop="url" class="nav-link"><span>Health &#038; fitness</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-3790" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-3790 nav-item"><a itemprop="url" title="Travel" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/travel/" itemprop="url" class="nav-link"><span>Travel</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-3793" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-3793 nav-item"><a itemprop="url" title="Integrated partners" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/partners/" itemprop="url" class="nav-link"><span>Integrated partners</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-3792" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-3792 nav-item"><a itemprop="url" title="Agencies" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/agencies/" itemprop="url" class="nav-link"><span>Agencies</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-18575" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-18575 nav-item"><a itemprop="url" title="Zero budget marketing" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/zero-budget-marketing/" itemprop="url" class="nav-link"><span>Zero budget marketing</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-28625" class="menu-item menu-item-type-post_type menu-item-object-solutions menu-item-28625 nav-item"><a itemprop="url" title="AWS" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/solutions/aws/" itemprop="url" class="nav-link"><span>AWS</span></a></li>
-</ul>                                                </div>
-                    <div class="footer__col col-12 col-md">
-                                    <h3 class="mb-0 pb-20 pb-md-3 pt-20 pt-md-0 d-flex justify-content-between">Why AppsFlyer</h3>
-                
-                                                                                    <ul id="menu-footer-why-appsflyer-en" class="pb-3 pb-sm-30 list-style-none d-none d-md-block"><li itemprop="name" role="menuitem"  id="menu-item-29681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29681 nav-item"><a itemprop="url" title="Customer success stories" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/customers/" itemprop="url" class="nav-link"><span>Customer success stories</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-29680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29680 nav-item"><a itemprop="url" title="The AppsFlyer difference" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/appsflyer-advantage/" itemprop="url" class="nav-link"><span>The AppsFlyer difference</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20286 nav-item"><a itemprop="url" title="Trust hub" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/trust/" itemprop="url" class="nav-link"><span>Trust hub</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20287 nav-item"><a itemprop="url" title="Security" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/trust/security/" itemprop="url" class="nav-link"><span>Security</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20288 nav-item"><a itemprop="url" title="Privacy" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/trust/privacy/" itemprop="url" class="nav-link"><span>Privacy</span></a></li>
-</ul>                                                </div>
-                    <div class="footer__col col-12 col-md">
-                                    <h3 class="mb-0 pb-20 pb-md-3 pt-20 pt-md-0 d-flex justify-content-between">Learn</h3>
-                
-                                                                                    <ul id="menu-footer-learn-en" class="pb-3 pb-sm-30 list-style-none d-none d-md-block"><li itemprop="name" role="menuitem"  id="menu-item-716" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-716 nav-item"><a itemprop="url" title="Blog" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/blog/" itemprop="url" class="nav-link"><span>Blog</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20291 nav-item"><a itemprop="url" title="Videos" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/blog/videos/" itemprop="url" class="nav-link"><span>Videos</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20292 nav-item"><a itemprop="url" title="Podcast" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/blog/podcasts/" itemprop="url" class="nav-link"><span>Podcast</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20293 nav-item"><a itemprop="url" title="Reports &amp; guides" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/resources/" itemprop="url" class="nav-link"><span>Reports &amp; guides</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-721 nav-item"><a itemprop="url" title="Glossary" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/glossary/" itemprop="url" class="nav-link"><span>Glossary</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20294 nav-item"><a itemprop="url" title="Product news" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/product-news/" itemprop="url" class="nav-link"><span>Product news</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20295 nav-item"><a itemprop="url" title="Use cases" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/use-cases/" itemprop="url" class="nav-link"><span>Use cases</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20297" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20297 nav-item"><a itemprop="url" title="Help center" itemprop="url" target="_blank" itemprop="url" id="1" itemprop="url" href="https://support.appsflyer.com/hc/en-us" itemprop="url" class="nav-link"><span>Help center</span></a></li>
-</ul>                                                </div>
-                    <div class="footer__col col-12 col-md">
-                                    <h3 class="mb-0 pb-20 pb-md-3 pt-20 pt-md-0 d-flex justify-content-between">Company</h3>
-                
-                                                                                    <ul id="menu-footer-company-en" class="pb-3 pb-sm-30 list-style-none d-none d-md-block"><li itemprop="name" role="menuitem"  id="menu-item-29683" class="menu-item menu-item-type-post_type menu-item-object-company menu-item-29683 nav-item"><a itemprop="url" title="About" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/company/about/" itemprop="url" class="nav-link"><span>About</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-737 nav-item"><a itemprop="url" title="Newsroom" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/company/newsroom/" itemprop="url" class="nav-link"><span>Newsroom</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-30093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30093 nav-item"><a itemprop="url" title="Press releases" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/company/newsroom/pr/" itemprop="url" class="nav-link"><span>Press releases</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-30094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30094 nav-item"><a itemprop="url" title="Media coverage" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/company/newsroom/coverage/" itemprop="url" class="nav-link"><span>Media coverage</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-20298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20298 nav-item"><a itemprop="url" title="CEO blog spot" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/blog/ceo/" itemprop="url" class="nav-link"><span>CEO blog spot</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-738" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738 nav-item"><a itemprop="url" title="Careers" itemprop="url" target="_blank" itemprop="url" id="1" itemprop="url" href="https://careers.appsflyer.com/" itemprop="url" class="nav-link"><span>Careers</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-736" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-736 nav-item"><a itemprop="url" title="Social impact" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/company/social-impact/" itemprop="url" class="nav-link"><span>Social impact</span></a></li>
-<li itemprop="name" role="menuitem"  id="menu-item-12250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12250 nav-item"><a itemprop="url" title="Contact" itemprop="url" id="1" itemprop="url" href="https://www.appsflyer.com/company/contact/" itemprop="url" class="nav-link"><span>Contact</span></a></li>
-</ul>                                                </div>
-            </div>
-    <div class="footer__middle row">
-                <div class="col mx-20 py-20 d-flex align-items-md-center justify-content-md-center justify-content-md-between px-0">
-            <nav class="footer__social social-sharing social-sharing--footer">
-                <ul class="d-flex flex-row flex-wrap list-style-none align-items-center justify-content-start justify-content-md-start">
-                                                                        <li class="pl-0 pr-md-10 pb-4 pb-sm-0">
-                                <a href="https://www.facebook.com/AppsFlyer" target="_blank">
-                                    <i class="icon-facebook"></i>
-                                </a>
-                            </li>
-                                                                                                <li class="pl-0 pr-md-10 pb-4 pb-sm-0">
-                                <a href="https://www.linkedin.com/company/appsflyer/" target="_blank">
-                                    <i class="icon-linkedin"></i>
-                                </a>
-                            </li>
-                                                                                                <li class="pl-0 pr-md-10 pb-4 pb-sm-0">
-                                <a href="https://twitter.com/AppsFlyer" target="_blank">
-                                    <i class="icon-twitter"></i>
-                                </a>
-                            </li>
-                                                                                                <li class="pl-0 pr-md-10 pb-4 pb-sm-0">
-                                <a href="https://www.instagram.com/lifeatappsflyer/" target="_blank">
-                                    <i class="icon-instagram"></i>
-                                </a>
-                            </li>
-                                                                                                <li class="pl-0 pr-md-10 pb-4 pb-sm-0">
-                                <a href="https://www.youtube.com/c/Appsflyer" target="_blank">
-                                    <i class="icon-youtube"></i>
-                                </a>
-                            </li>
-                                                                                                                                            <li class="pl-0 pr-md-10 pb-4 pb-sm-0">
-                                <a href="https://medium.com/appsflyer" target="_blank">
-                                    <i class="icon-medium"></i>
-                                </a>
-                            </li>
-                                                            </ul>
-            </nav>
-                                        <figure class="footer__logo d-none d-md-block">
-                                        <a href="https://www.appsflyer.com">
-                        <img width="116"
-                             height="33"
-                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20116%2033'%3E%3C/svg%3E"
-                             alt=""
-                             title="appsflyer-dark-logo"
-                             loading="lazy"
-                        data-lazy-src="https://www.appsflyer.com/wp-content/uploads/2021/04/appsflyer-dark-logo.svg" /><noscript><img width="116"
-                             height="33"
-                             src="https://www.appsflyer.com/wp-content/uploads/2021/04/appsflyer-dark-logo.svg"
-                             alt=""
-                             title="appsflyer-dark-logo"
-                             loading="lazy"
-                        /></noscript>
-                    </a>
-                </figure>
-                    </div>
-    </div>
-    <div class="row footer__bottom">
-        <div class="col py-30 px-0 px-sm-20 d-flex flex-wrap flex-column flex-sm-row justify-content-sm-between">
-                            <nav class="footer__links">
-                    <ul class="d-flex list-style-none">
-                                                    <li class="px-20 px-sm-0 pr-sm-40">
-                                <a href="https://www.appsflyer.com/legal/terms-of-use/" target="_self">
-                                    Terms                                </a>
-                            </li>
-                                                    <li class="px-20 px-sm-0 pr-sm-40">
-                                <a href="https://www.appsflyer.com/legal/privacy-policy/" target="_self">
-                                    Privacy policy                                </a>
-                            </li>
-                                            </ul>
-                </nav>
-                                        <div class="footer__copyrights pl-20 pl-md-0 pt-20 pt-sm-0">
-                    ©2022 AppsFlyer Ltd. All right reserved.                </div>
-                    </div>
-    </div>
-</footer><script type='text/javascript' id='rocket-browser-checker-js-after'>
-"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+	                <div id="postscript-top" class="postscript-top row nested ">
+<div id="postscript-top-inner" class="postscript-top-inner inner clearfix">
+<div id="block-block-18" class="block block-block odd first last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<!-- Begin Talk-Me {literal} -->
+<script type='text/javascript'>
+	(function(d, w, m) {
+		window.supportAPIMethod = m;
+		var s = d.createElement('script');
+		s.type ='text/javascript'; s.id = 'supportScript'; s.charset = 'utf-8';
+		s.async = true;
+		var id = '86aa32a62a1735e38616a7a2d4f55110';
+		s.src = 'https://lcab.talk-me.ru/support/support.js?h='+id;
+		var sc = d.getElementsByTagName('script')[0];
+		w[m] = w[m] || function() { (w[m].q = w[m].q || []).push(arguments); };
+		if (sc) sc.parentNode.insertBefore(s, sc); 
+		else d.documentElement.firstChild.appendChild(s);
+	})(document, window, 'TalkMe');
 </script>
-<script type='text/javascript' id='rocket-preload-links-js-extra'>
-/* <![CDATA[ */
-var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin\/|\/logout\/|\/wp-login.php","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/www.appsflyer.com","onHoverDelay":"100","rateThrottle":"3"};
-/* ]]> */
-</script>
-<script type='text/javascript' id='rocket-preload-links-js-after'>
-(function() {
-"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
-}());
-</script>
-<script type='text/javascript' src='https://www.appsflyer.com/wp-content/themes/AF2020/assets/js/vendors/slick.min.js?ver=1.13vf2' id='slick-js' defer></script>
-<script type='text/javascript' src='https://www.appsflyer.com/wp-includes/js/clipboard.min.js?ver=5.8.3' id='clipboard-js' defer></script>
-<script type='text/javascript' src='https://www.appsflyer.com/wp-content/themes/AF2020/assets/js/vendors/js.cookie.js?ver=1.13vf2' id='js-cookie-js' defer></script>
-<script type='text/javascript' src='https://www.appsflyer.com/wp-content/themes/AF2020/assets/js/vendors/isotope.pkgd.min.js?ver=1.13vf2' id='isotope-js' defer></script>
-<script type='text/javascript' src='//go.appsflyer.com/js/forms2/js/forms2.min.js?ver=5.8.3' id='marketo-js-js' defer></script>
-<script type='text/javascript' src='https://www.appsflyer.com/wp-content/themes/AF2020/assets/js/vendors/select2.min.js?ver=1.13vf2' id='select2-js' defer></script>
-<script type='text/javascript' src='https://www.appsflyer.com/wp-content/themes/AF2020/assets/js/vendors/apexcharts.min.js?ver=1.13vf2' id='apexcharts-js' defer></script>
-<script type='text/javascript' src='https://www.appsflyer.com/wp-content/themes/AF2020/assets/js/vendors/scrollPosStyler.min.js?ver=1.13vf2' id='pos-styler-js' defer></script>
-<script type='text/javascript' src='https://www.appsflyer.com/wp-content/themes/AF2020/assets/js/vendors/jquery.magnific-popup.min.js?ver=1.13vf2' id='magnific-popup-js' defer></script>
-<script type='text/javascript' src='https://www.appsflyer.com/wp-content/themes/AF2020/assets/js/app.js?ver=1.13vf2' id='af-js-js' defer></script>
-<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
-if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
-images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
-if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.appsflyer.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+<!-- {/literal} End Talk-Me -->
+<script>
+(function(w,d,u){
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+})(window,document,'https://b24.sibac.info/upload/crm/site_button/loader_24_m79jia.js');
+</script>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div><!-- /postscript-top-inner -->
+</div><!-- /postscript-top -->
+	              </div><!-- /main-group-inner -->
+	        </div><!-- /main -->
+
+					</div><!-- /page -->
+
+	  	<div id="footer"><div class="footer-wrap"><div id="block-menu-menu-footer-menu" class="block block-menu odd first">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<ul class="menu"><li class="expanded first"><span>О нас</span><ul class="menu"><li class="leaf first"><a href="/about" title="">Об издательстве</a></li>
+<li class="leaf"><a href="/reviews" title="">Отзывы</a></li>
+<li class="leaf"><a href="/news" title="">Новости</a></li>
+<li class="leaf last"><a href="/contacts" title="">Контакты</a></li>
+</ul></li>
+<li class="expanded"><span>Полезная информация</span><ul class="menu"><li class="leaf first"><a href="/payment" title="">Оплата</a></li>
+<li class="leaf"><a href="/rules-writing-articles" title="">Требования к оформлению статьи</a></li>
+<li class="leaf"><a href="/oferta" title="">Договор оферты</a></li>
+<li class="leaf last"><a href="/policy" title="">Политика обработки персональных данных</a></li>
+</ul></li>
+<li class="expanded last"><span>О публикации статей</span><ul class="menu"><li class="leaf first"><a href="/blog" title="">Блог издательства</a></li>
+<li class="leaf"><a href="/gde-mozhno-opublikovat-statyu-studentu" title="">Где можно опубликовать статью студенту</a></li>
+<li class="leaf last"><a href="/publikaciya-statej-magistrantov" title="">Публикация статей магистрантов</a></li>
+</ul></li>
+</ul>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --><div id="block-block-2" class="block block-block even  last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<div class="counter-footer"><div class="left counter">
+	<a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="license nofollow" target="_blank"><img alt="Лицензия Creative Commons" src="https://licensebuttons.net/l/by/4.0/88x31.png" style="border-width:0" /></a></div>
+<div class="left counter" style="width: 70px;">
+	<img src="/sites/default/files/16.png" width="32" height="32" />
+</div>
+</div>
+<div class="right vk-footer">
+	<a href="https://vk.com/nauchforumsk" rel="nofollow" target="_blank" class="left" style="margin-right: 20px;display: inline-block;vertical-align: middle;">Наше издательство<br>в социальных сетях: </a>&nbsp;<a class="vk_group" href="https://vk.com/nauchforumsk" rel="nofollow" target="_blank">vk</a></div>
+<div class="creativecommons">
+	Все права защищены - 2022 Международный Центр Науки и Образования Это произведение доступно по <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="license nofollow" target="_blank">лицензии Creative Commons &laquo;Attribution&raquo; (&laquo;Атрибуция&raquo;) 4.0 Непортированная</a>. <a href="/sitemap">Карта сайта</a></div>
+<div class="clearfix"></div>
+<div class="jornal_register">
+	Научном журнал «Студенческий форум» издается 4 раза в месяц. Журнал зарегистрирован Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор), регистрационный номер: ЭЛ № ФС77-66232 от 01.07.2016 г. Учредитель: ООО "МЦНО".<br /> Главный редактор: Лебедева Надежда Анатольевна
+</div>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div></div>		<div class="no-print">
+			<div class="left_hover"><a href="#" id="up"><span>Наверх</span></a></div>
+						<div style="display:none"><div id="block-block-27" class="block block-block odd first">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2944459", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=2944459;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
 
 <script>
-    document.addEventListener('DOMContentLoaded', function(){
-        !function(t,e,n,s,a,c,i,o,p){t.AppsFlyerSdkObject=a,t.AF=t.AF||function(){
-            (t.AF.q=t.AF.q||[]).push([Date.now()].concat(Array.prototype.slice.call(arguments)))},
-            t.AF.id=t.AF.id||i,t.AF.plugins={},o=e.createElement(n),p=e.getElementsByTagName(n)[0],o.async=1,
-            o.src="https://websdk.appsflyer.com?"+(c.length>0?"st="+c.split(",").sort().join(",")+"&":"")+(i.length>0?"af_id="+i:""),
-            p.parentNode.insertBefore(o,p)}(window,document,"script",0,"AF","pba","00536d79-bea7-4d47-896b-5ae2d2ae1bb5");
-    });
-</script>
+							$( window ).load(function(){
+					if(typeof getCookie('_ga') != "undefined"){
+						var user_id = md5(getCookie('_ga').split('.')[2]+'.'+getCookie('_ga').split('.')[3]); 
+						ga('set', 'userId', "'"+user_id+"'");
+						var dimensionValue = user_id;
+						ga('set', 'dimension2', dimensionValue);
+												ga('send', 'pageview');	
+											}else{
+												ga('send', 'pageview');
+					}
+				});
+						</script><!-- Код тега ремаркетинга Google --><script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 968443882;
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+			</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968443882/?value=0&amp;guid=ON&amp;script=0"/>
+			</div>
+			</noscript>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div>					</div>
+	</div>
 
+    <!--div class="info_message">
+        <div class="container inside_message">
+            <div class="close_info"></div>
+            <p>Уважаемые коллеги, издательство "Научный форум" с 30 марта по 30 апреля работает в обычном режиме</p>
+        </div>
+    </div-->
 </body>
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

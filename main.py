@@ -16,7 +16,7 @@ def task1():
         url = 'https://' + el
         send = requests.post(url)
         filename = 'task1/urls/' + str(idx) + '.txt'
-        file = open(filename, 'w')
+        file = open(filename, 'wb')
         file.write(send.text.encode('utf-8'))
         index.write(str(idx) + ' ' + el + '\n')
         file.close()
@@ -31,16 +31,22 @@ def task2():
     tokens = set()
     for idx, url in enumerate(htmls):
         words = get_words(file_get_content('task1/urls/' + str(idx) + '.txt'))
+        file_of_each_url_tokens = open('task2/tokens_' + str(idx) + '.txt', 'w')
+        file_of_each_url_lemmas = open('task2/lemmas_' + str(idx) + '.txt', 'w')
         for word in words:
             word = word.lower()
             if (word not in tokens) and (is_not_trash(word)):
                 tokens.add(word)
                 tokens_file.write(word + '\n')
+                file_of_each_url_tokens.write(word + '\n')
                 lemmas = set_lema(word)
                 for lem in lemmas:
                     lemmas_file.write('<' + lem + '>')
+                    file_of_each_url_lemmas.write('<' + lem + '>')
                 lemmas_file.write('\n')
-
+                file_of_each_url_lemmas.write('\n')
+        file_of_each_url_tokens.close()
+        file_of_each_url_lemmas.close()
     tokens_file.close()
     lemmas_file.close()
 
@@ -79,6 +85,6 @@ def file_get_content(fileName):
         return data
 
 if __name__ == '__main__':
-    task2()
    #task1()
+    task2()
 

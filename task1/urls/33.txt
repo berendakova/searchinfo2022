@@ -1,2164 +1,419 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru">
 
-<html lang="ru" >
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta http-equiv="Cache-Control" content="no-cache">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-    <meta name="HandheldFriendly" content="True">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="format-detection" content="address=no">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-                        
-        <meta name="csrf-token" content="97bc592b27a9ada2d9a4bb418ed0ebed">
-    <meta name="csrf-param" content="csrf_token">
-        <meta name="Copyright" content="rbс">
 
-                
+  <title>Проблема неуверенности в себе | nauchforum.ru</title>
+  <meta name="robots" content="noindex"><meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Почкина П.В. Проблема неуверенности в себе // CXV Студенческая международная научно-практическая конференция «Молодежный научный форум»">
+<meta property="og:image" content="https://nauchforum.ru/themes/mix_and_match/images/logo.jpg" />
+<link rel="canonical" href="https://nauchforum.ru/studconf/science/115/86960" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_4371039c69b8629c8f5152a51c652980_88.css" />
+    <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie8-fixes.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie8-fixes.css?n" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie7-fixes.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie7-fixes.css?n" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie6-fixes.css?n"/>
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie6-fixes.css?n"/>
+  <![endif]-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_9467b9fb9f2f6e62446dd1506332229a_34.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"","slideshowStop":"","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%"},"cron":{"basePath":"\/poormanscron","runNext":1645972345}});
+//--><!]]>
+</script>
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link type="image/png" sizes="16x16" rel="icon" href="/favicon_16.png">
+    <link type="image/png" sizes="32x32" rel="icon" href="/favicon_32.png">
+    <link type="image/png" sizes="96x96" rel="icon" href="/favicon_96.png">
+    <link type="image/png" sizes="120x120" rel="icon" href="/favicon_120.png">
+
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" />
+
     
-    
-
-            <title>Новости Татарстана :: РБК</title>
-
-<meta name="title" content="Новости Татарстана :: РБК"/>
-<meta name="description" content="«РосБизнесКонсалтинг» — ведущая российская компания, работающая в сферах масс-медиа и информационных технологий."/>
-<meta name="keywords" content="новости, доллар, политика, курс, акции, облигации, нефть, рубль, евро, финансы, экономика, банк, кредит, вексель, информация, фондовый, инвестиционный, рынок, недвижимость, валюта, эмитент, комментарии, аналитика, продаж/продажа, цена, компания, товары, исследование, прогноз, индекс, рейтинг, биржа, семинар, фондовый, ПИФ, доходность, IPO, паевой"/>
-<meta name="copyright" content="«РосБизнесКонсалтинг»"/>
-
-<meta property="og:title" content="Новости Татарстана :: РБК"/>
-<meta property="og:type" content="article"/>
-<meta property="og:url" content="https://www.rbc.ru/"/>
-<meta property="og:image" content="https://s.rbk.ru/v10_rbcnews_static/current/images/rbc-share.png"/>
-<meta property="og:description" content="Главные новости политики, экономики и бизнеса, комментарии аналитиков, финансовые данные с российских и мировых биржевых систем на сайте rbc.ru."/>
-<meta property="og:site_name" content="РБК"/>
-
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:site" content="@ru_rbc"/>
-<meta name="twitter:creator" content="@ru_rbc"/>
-<meta name="twitter:title" content="РБК – новости в реальном времени"/>
-<meta name="twitter:description" content="Главные новости политики, экономики и бизнеса, комментарии аналитиков, финансовые данные с российских и мировых биржевых систем на сайте rbc.ru."/>
-<meta name="twitter:image" content="https://s.rbk.ru/v10_rbcnews_static/current/images/rbc-share.png"/>
-<meta name="twitter:image:alt" content="РБК – новости в реальном времени"/>
-
-<link rel="canonical" href="https://www.rbc.ru"/>
-
-
-<meta http-equiv="Reply-to" content="webmaster@rbc.ru"/>
-
-
-
-    
-                
-            <link rel="icon" type="image/png" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/favicon.png">
-    
-            <link rel="apple-touch-icon" sizes="60x60" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/apple-touch-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/apple-touch-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/apple-touch-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/apple-touch-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/apple-touch-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="192x192" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/android-chrome-192x192.png">
-        <link rel="icon" type="image/png" sizes="512x512" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/android-chrome-512x512.png">
-        <link rel="mask-icon" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/safari-pinned-tab.svg" color="#999999">
-        <meta name="msapplication-TileColor" content="#ffffff">
-        <meta name="msapplication-TileImage" content="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/mstile-144x144.png">
-        <meta name="msapplication-square70x70logo" content="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/mstile-70x70.png">
-        <meta name="msapplication-square150x150logo" content="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/mstile-150x150.png">
-        <meta name="msapplication-square310x310logo" content="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/mstile-310x310.png">
-        <meta name="msapplication-wide310x150logo" content="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/mstile-310x150.png">
-        <meta name="theme-color" content="#ffffff">
-    
-            <link rel="preload" href="//s.rbk.ru/files_static/edd/static/fonts/9/build/_common-fonts.css" media="screen" as="style">
-        <link rel="stylesheet" href="//s.rbk.ru/files_static/edd/static/fonts/9/build/_common-fonts.css" media="screen">
-        <link rel="preload" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/styles/build/_common.css" media="screen" as="style">
-        <link rel="stylesheet" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/styles/build/_common.css" media="screen">
-        <link rel="stylesheet" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/styles/build/_print.css" media="print">
-    
-                        <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
-<link rel="preload" href="//s.rbk.ru/v2_rbcbanners_static/rbcbanners-1.190/build/_core.js" as="script">
-<link rel="stylesheet" href="//s.rbk.ru/v2_rbcbanners_static/rbcbanners-1.190/build/_core.css" media="screen">
-            
-        <link rel="preload" href="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.4.53/styles/build/_main.css" media="screen" as="style"/>
-    <link rel="stylesheet" href="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.4.53/styles/build/_main.css" media="screen"/>
-    <link rel="stylesheet" href="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.4.53/styles/build/_print.css" media="print"/>
-
-        
-    <link rel="preload" href="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.4.53/styles/build/pages/_index.css" media="screen" as="style"/>
-    <link rel="stylesheet" href="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.4.53/styles/build/pages/_index.css" media="screen"/>
-
-            <link rel="preload" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/scripts/vendor/jquery/jquery-3.5.1.min.js" as="script">
-        <script src="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/scripts/vendor/jquery/jquery-3.5.1.min.js"></script>
-    
-    <link rel="preload" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/scripts/build/_core.js" as="script">
-    <script src="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/scripts/build/_core.js"></script>
-
     <script>
-        RA.version = 10;
-        RA.env = ('production' || 'production'); // develop, test, staging, production
-        RA.config.set('device.isMobile', false);
-        RA.config.set('device.isApp', false);
-        RA.config.set('ajax.prefix', '/v10/');
-        RA.config.set('layout.mainMenuHeight', 105);
-        RA.config.set('layout.toplineHeight', 45);
-        RA.config.set('layout.headerHeight', 60);
-        RA.config.set('layout.layoutMinBreakpoint', 1260);
-        RA.config.set('layout.layoutMinWidth', 980);
-        RA.config.set('layout.bottomBannerHeight', 250);
-        RA.config.set('layout.billboardHeight', 250);
-        RA.config.set('layout.isLogoBW', false);
-        RA.config.set('layout.templatePath', 'public');
-        RA.config.set('urls.common_static', '//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/');
-        RA.config.set('urls.static', '//s.rbk.ru/v10_rbcnews_static/rbcnews-10.4.53/');
-        RA.config.set('urls.image', 'https://s.rbk.ru/v10_rbcnews_static/current/images/');
-        RA.config.set('domain', '.rbc.ru');
-        RA.config.set('domainAuth', 'https://auth.rbc.ru');
-        RA.config.set('domainApigw', 'https://apigw.rbc.ru');
-        RA.config.set('pro.cookie', '');
-        RA.config.set('video.off', false);
-        RA.config.set('paywall.user.logined', false);
-        RA.config.set('paywall.user.paid', false);
-        RA.config.set('mainPage', true);
-        RA.config.set('showBanners', true);
-        RA.config.set('noVideo', false);
-        RA.config.set('disableThirdPartyScripts', false);
-    </script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-                        <meta name="apple-itunes-app" content="app-id=483524731">
-    
-    <meta name="theme-color" content="#11BB88"/>
-    <link rel="manifest" href="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.4.53/app/manifest.json">
-
-        <script>
-        RA.config.set('appPushDomain', 'https://app.rbc.ru/');
-        RA.config.set('apnPushDomen', 'https://app.rbc.ru');
-        RA.config.set('apnWebsitePushId', 'web.ru.rbc.top');
-        RA.config.set('messagingSenderId', '644988820153');
-        RA.config.set('user.region', 'tatarstan');
-        RA.config.set('layout.mainMenuHeight', 45);
-        RA.config.set('newsfeed.removeHiddingNews', true);
-        RA.config.set('project', 'rbc');
-        RA.config.set('projectUrl', 'https://www.rbc.ru');
-
-        
-         RA.config.set('pollPopup.shouldRun', false);
- RA.config.set('pollPopupMobile.shouldRun', false);
-    </script>
-
-    <script>
-        RA.config.set('newsfeed.firstTab', 'rbcnews.uploaded');
-    </script>
-
-                <script>
-            RA.config.set('pollsTag', 'tatarstan');
-        </script>
-    
-                </head>
-<body class="index">
-                        <!-- branding -->
-
-            <div
-            data-id="div-gpt-ad-1541770255302-0"
-            class="banner banner__skyscraper"
-            data-device="1"
-            data-service="dfp"
-                            style="display: none;"
-                    >
-            <div
-                id="div-gpt-ad-1541770255302-0"
-                data-has-wrap="1"
-                            ></div>
-        </div>
-    
-            <!-- fullscreen -->
-
-            <div
-            class="banner"
-            id="div-gpt-ad-1542283605012-0"
-            data-device="3"
-            data-service="dfp"
-                            style="display: none;"
-                    ></div>
-    
-
-                            
-                        
-    
-            <div id="js_ra_notifications" class="ra-notifications"></div>
-    
-                                        <div class="topline__wrapper topline__wrapper_min">
-                    <div class="topline l-window js-topline js-filter-lock-block">
-                            <div class="topline__inner l-row js-topline"><div class="topline__left js-topline-left"><a class="topline__logo-block" href="https://www.rbc.ru/"><span class="topline__logo"></span></a><div class="topline__projects-wrap js-topline-first"><div class="topline__items-container js-topline-dropdown-container"><div class="topline__projects"><div class="topline__item-block js-topline-item"><a href="https://tv.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://tv.rbc.ru/?utm_source=topline"}'>
-            Телеканал
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/newspaper/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/newspaper/?utm_source=topline"}'>
-            Газета
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://trends.rbc.ru/trends/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://trends.rbc.ru/trends/?utm_source=topline"}'>
-            Тренды
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://plus.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://plus.rbc.ru/?utm_source=topline"}'>
-            РБК+
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://pro.rbc.ru/?from=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://pro.rbc.ru/?from=topline"}'>
-            Pro
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://quote.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://quote.rbc.ru/?utm_source=topline"}'>
-            Инвестиции
-                            <span class="topline__item__image-block"><img src="https://s0.rbk.ru/v6_top_pics/media/img/8/46/756105436203468.svg" class="topline__item__image" alt="" loading="lazy" decoding="async"/></span></a></div><div class="topline__item-block js-topline-item"><a href="https://www.autonews.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.autonews.ru/?utm_source=topline"}'>
-            Авто
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://sportrbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://sportrbc.ru/?utm_source=topline"}'>
-            Спорт
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://realty.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://realty.rbc.ru/?utm_source=topline"}'>
-            Недвижимость
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://style.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://style.rbc.ru/?utm_source=topline"}'>
-            Стиль
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/national" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/national"}'>
-            Национальные проекты
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://rbc.ru/gorod/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://rbc.ru/gorod/?utm_source=topline"}'>
-            Город
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/dc/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/dc/?utm_source=topline"}'>
-            Дискуссионный клуб
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/crypto/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/crypto/?utm_source=topline"}'>
-            Крипто
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://marketing.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://marketing.rbc.ru/?utm_source=topline"}'>
-            Исследования
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://ratings.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://ratings.ru/?utm_source=topline"}'>
-            Кредитные рейтинги
-                    </a></div><div class="topline__item-block js-topline-item"><a href="http://biztorg.ru/offers/main?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "http://biztorg.ru/offers/main?utm_source=topline"}'>
-            Продажа бизнеса
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://bc.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://bc.rbc.ru/?utm_source=topline"}'>
-            Конференции
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://spbspecials.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://spbspecials.rbc.ru/?utm_source=topline"}'>
-            Спецпроекты СПб
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://spb-bc.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://spb-bc.rbc.ru/?utm_source=topline"}'>
-            Конференции СПб
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://specials.rbc.ru/?t=on-air" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://specials.rbc.ru/?t=on-air"}'>
-            Спецпроекты
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://rescore.online/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://rescore.online/?utm_source=topline"}'>
-            Проверка контрагентов
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://lib.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://lib.rbc.ru/?utm_source=topline"}'>
-            РБК Библиотека
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://podcasts.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://podcasts.rbc.ru/?utm_source=topline"}'>
-            Подкасты
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/politics/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/politics/?utm_source=topline"}'>
-            Политика
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/economics/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/economics/?utm_source=topline"}'>
-            Экономика
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/society/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/society/?utm_source=topline"}'>
-            Общество
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/business/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/business/?utm_source=topline"}'>
-            Бизнес
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/technology_and_media/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/technology_and_media/?utm_source=topline"}'>
-            Технологии и медиа
-                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/finances/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/finances/?utm_source=topline"}'>
-            Финансы
-                    </a></div></div></div><div class="topline__more"><div class="topline__item__wrap"><a href="https://sportrbc.ru/olympicdaily/?utm_source=topline" class="topline__item topline__item_special js-yandex-counter" data-yandex-name="topline_1"><span class="topline__item_special-inner">Олимпиада 2022</span></a><a href="https://www.rbc.ru/crypto/?utm_source=topline" class="topline__item topline__item_special js-yandex-counter" data-yandex-name="topline_2"><span class="topline__item_special-inner">Крипто</span></a></div><div class="topline__dropdown"><a href="" class="topline__dropdown__handle js-topline-dropdown">
-                            ...
-                        </a><div class="topline__dropdown__list js-topline-dropdown-list"><div class="topline__dropdown__list__inner js-topline-dropdown-list-inner"></div></div></div></div></div><div class="js-indicators g-overflow" data-type="topline"></div></div><div class="topline__right"><div class="topline__disable-adv topline__disable-adv_no-hidden"><a href="https://auth.rbc.ru/login?from=disable_advertising_topline" class="topline__disable-adv__button">Скрыть баннеры</a></div><div class="topline__region-block"><span class="topline__region__icon-block js-topline-item"><a class="topline__region__icon-link js-regions-toggle__handler"><span class="js-region-current"><span class="topline__region__icon"></span><span class="topline__region__icon-title">
-                                                Татарстан
-                                                <span class="topline__region__triangle"></span></span></span></a></span><div class="topline__region js-topline-sub js-regions-toggle"><div class="topline__region__wrap"><div class="topline__region__inner"><div class="topline__region__detector g-hidden js-region-detector"><div class="topline__region__detector__text">Ваше местоположение <span class="topline__region__title js-region-detector-title"></span>?</div><a href="#" class="topline__region__detector__button js-region-detector-button" data-answer="yes">Да</a><a href="#" class="topline__region__detector__link js-region-detector-button" data-answer="no">Выбрать другое</a></div><div class="topline__region__submenu g-hidden js-region-submenu"><div class="topline__region__item"><a href="//www.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item bold" data-id="world">
-                                    Весь мир
-                                </a></div><div class="topline__region__item"><a href="//www.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item bold" data-id="spb_sz" data-cookie="russia/sankt-peterburg_i_oblast" data-title="Санкт-Петербург и область" data-url="http://www.rbc.ru/">
-                                    Санкт-Петербург и область
-                                </a></div><div class="topline__region__item"><a href="//ekb.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item bold" data-id="ekb" data-cookie="russia/sverdlovskaya_obl" data-title="Екатеринбург" data-url="http://ekb.rbc.ru/">
-                                    Екатеринбург
-                                </a></div><div class="topline__region__item"><a href="//nsk.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item bold" data-id="nsk" data-cookie="russia_sfo" data-title="Новосибирск" data-url="http://nsk.rbc.ru/">
-                                    Новосибирск
-                                </a></div><div class="topline__region__line"></div><div class="topline__region__item"><a href="//ufa.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="ufa" data-cookie="russia/bashkortostan" data-title="Башкортостан" data-url="http://ufa.rbc.ru/">
-                                    Башкортостан
-                                </a></div><div class="topline__region__item"><a href="//vo.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="vo" data-cookie="russia/vologodskaya_obl" data-title="Вологодская область" data-url="http://vo.rbc.ru/">
-                                    Вологодская область
-                                </a></div><div class="topline__region__item"><a href="//kaliningrad.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="kaliningrad" data-cookie="russia/kaliningradskaya_obl" data-title="Калининград" data-url="http://kaliningrad.rbc.ru/">
-                                    Калининград
-                                </a></div><div class="topline__region__item"><a href="//kuban.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="krasnodar" data-cookie="russia/krasnodarskiy_kray" data-title="Краснодарский край" data-url="http://kuban.rbc.ru/">
-                                    Краснодарский край
-                                </a></div><div class="topline__region__item"><a href="//krsk.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="krsk" data-cookie="" data-title="Красноярский край" data-url="http://krsk.rbc.ru/">
-                                    Красноярский край
-                                </a></div><div class="topline__region__item"><a href="//nn.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="nn" data-cookie="russia/nijegorodskaya_obl" data-title="Нижний Новгород" data-url="http://nn.rbc.ru/">
-                                    Нижний Новгород
-                                </a></div><div class="topline__region__item"><a href="//perm.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="perm" data-cookie="russia/permskij_kraj" data-title="Пермский край" data-url="http://perm.rbc.ru/">
-                                    Пермский край
-                                </a></div><div class="topline__region__item"><a href="//rostov.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="rostov" data-cookie="russia/rostovskaya_obl" data-title="Ростов-на-Дону" data-url="http://rostov.rbc.ru/">
-                                    Ростов-на-Дону
-                                </a></div><div class="topline__region__item"><a href="//rt.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item active" data-id="tatarstan" data-cookie="russia/tatarstan" data-title="Татарстан" data-url="http://rt.rbc.ru/">
-                                    Татарстан
-                                </a></div><div class="topline__region__item"><a href="//t.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="tyumen" data-cookie="russia/tyumenskaya_obl" data-title="Тюмень" data-url="http://t.rbc.ru/">
-                                    Тюмень
-                                </a></div><div class="topline__region__item"><a href="//chr.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="chr" data-cookie="russia_chernozemje" data-title="Черноземье" data-url="http://chr.rbc.ru/">
-                                    Черноземье
-                                </a></div><div class="topline__region__item"><a href="//kavkaz.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="kavkaz" data-cookie="russia/kavkaz" data-title="Кавказ" data-url="http://kavkaz.rbc.ru/">
-                                    Кавказ
-                                </a></div></div></div></div></div></div><div class="topline__search-block"><div class="topline__search js-search-block"><div class="topline__search__menu js-search-open"><span class="topline__search__menu__link"></span></div><div class="topline__search__body js-search-body"><a href="#" class="topline__search__close js-search-close"><span></span><span></span></a><div class="topline__search__body__inner"><form action="/search/" class="topline__search__form"><input type="hidden" name="project" value="rbcnews"/><input class="topline__search__button" type="submit" value="Найти" /><div class="topline__search__text"><div class="topline__search__input-wrap"><input class="topline__search__input js-search-input" type="text" name="query" autocomplete="off" value="" placeholder="Поиск по сайту" /></div></div></form><div class="topline__search__rubric"><div class="topline__search__rubric__name">Рубрики</div><div class="topline__search__rubric__block" itemscope itemtype="https://www.schema.org/SiteNavigationElement"><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/politics" class="topline__search__rubric__link" itemprop="url">
-                                                                                    Политика
-                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/economics" class="topline__search__rubric__link" itemprop="url">
-                                                                                    Экономика
-                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/finances" class="topline__search__rubric__link" itemprop="url">
-                                                                                    Финансы
-                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/business" class="topline__search__rubric__link" itemprop="url">
-                                                                                    Бизнес
-                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/technology_and_media" class="topline__search__rubric__link" itemprop="url">
-                                                                                    Технологии и медиа
-                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/own_business" class="topline__search__rubric__link" itemprop="url">
-                                                                                    Свое дело
-                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/money" class="topline__search__rubric__link" itemprop="url">
-                                                                                    Деньги
-                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/opinions" class="topline__search__rubric__link" itemprop="url">
-                                                                                    Мнения
-                                                                            </a></div></div></div></div></div></div></div><div class="topline__auth js-topline-profile-container"><a href="#" class="topline__auth__link js-topline-profile-link"></a><div class="topline__auth__profile"><div class="topline__auth__profile__inner active"><div class="topline__auth__profile__menu"><div class="topline__auth__profile__menu__item"><a href="https://auth.rbc.ru/login?tab=enter&from=login_topline" class="topline__auth__profile__menu__link js-paywall-login"><b>Вход</b></a></div><div class="topline__auth__profile__menu__item"><a href="https://auth.rbc.ru/login?from=registration_topline" class="topline__auth__profile__menu__link js-paywall-login"><b>Регистрация</b></a></div></div></div></div></div><div class="topline__menu"><div class="topline__menu__open js-topline-menu js-yandex-counter" data-yandex-name="click_hamburger"><span></span><span></span><span></span></div><div class="topline__menu__close js-topline-menu-close"><span></span><span></span></div></div></div></div><div class="topline__popup js-topline-popup"><div class="topline__popup__inner js-topline-open-popup-content active"><div class="topline__popup__menu"><div class="topline__popup__menu__item topline__popup__menu__item_auth_no"><a href="https://auth.rbc.ru/login?tab=enter&from=login_topline" class="topline__popup__main-link js-paywall-login">
-                                Вход                            </a></div><div class="topline__popup__menu__item topline__popup__menu__item_search"><a href="#" class="topline__popup__main-link js-topline-open-popup-link" data-content="search">Поиск</a></div><div class="topline__popup__menu__item topline__popup__menu__item_region"><a href="#" class="topline__popup__main-link js-topline-open-popup-link" data-content="region">Смена региона</a></div></div><div class="topline__popup__submenu topline__popup__flex"><div class="topline__popup__submenu__wrap"><a href="https://tv.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://tv.rbc.ru/?utm_source=topline"}'>Телеканал</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/newspaper/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/newspaper/?utm_source=topline"}'>Газета</a></div><div class="topline__popup__submenu__wrap"><a href="https://trends.rbc.ru/trends/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://trends.rbc.ru/trends/?utm_source=topline"}'>Тренды</a></div><div class="topline__popup__submenu__wrap"><a href="https://plus.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://plus.rbc.ru/?utm_source=topline"}'>РБК+</a></div><div class="topline__popup__submenu__wrap"><a href="https://pro.rbc.ru/?from=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://pro.rbc.ru/?from=topline"}'>Pro</a></div><div class="topline__popup__submenu__wrap"><a href="https://quote.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://quote.rbc.ru/?utm_source=topline"}'>Инвестиции</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.autonews.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.autonews.ru/?utm_source=topline"}'>Авто</a></div><div class="topline__popup__submenu__wrap"><a href="https://sportrbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://sportrbc.ru/?utm_source=topline"}'>Спорт</a></div><div class="topline__popup__submenu__wrap"><a href="https://realty.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://realty.rbc.ru/?utm_source=topline"}'>Недвижимость</a></div><div class="topline__popup__submenu__wrap"><a href="https://style.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://style.rbc.ru/?utm_source=topline"}'>Стиль</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/national" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/national"}'>Национальные проекты</a></div><div class="topline__popup__submenu__wrap"><a href="https://rbc.ru/gorod/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://rbc.ru/gorod/?utm_source=topline"}'>Город</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/dc/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/dc/?utm_source=topline"}'>Дискуссионный клуб</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/crypto/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/crypto/?utm_source=topline"}'>Крипто</a></div><div class="topline__popup__submenu__wrap"><a href="https://marketing.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://marketing.rbc.ru/?utm_source=topline"}'>Исследования</a></div><div class="topline__popup__submenu__wrap"><a href="https://ratings.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://ratings.ru/?utm_source=topline"}'>Кредитные рейтинги</a></div><div class="topline__popup__submenu__wrap"><a href="http://biztorg.ru/offers/main?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "http://biztorg.ru/offers/main?utm_source=topline"}'>Продажа бизнеса</a></div><div class="topline__popup__submenu__wrap"><a href="https://bc.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://bc.rbc.ru/?utm_source=topline"}'>Конференции</a></div><div class="topline__popup__submenu__wrap"><a href="https://spbspecials.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://spbspecials.rbc.ru/?utm_source=topline"}'>Спецпроекты СПб</a></div><div class="topline__popup__submenu__wrap"><a href="https://spb-bc.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://spb-bc.rbc.ru/?utm_source=topline"}'>Конференции СПб</a></div><div class="topline__popup__submenu__wrap"><a href="https://specials.rbc.ru/?t=on-air" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://specials.rbc.ru/?t=on-air"}'>Спецпроекты</a></div><div class="topline__popup__submenu__wrap"><a href="https://rescore.online/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://rescore.online/?utm_source=topline"}'>Проверка контрагентов</a></div><div class="topline__popup__submenu__wrap"><a href="https://lib.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://lib.rbc.ru/?utm_source=topline"}'>РБК Библиотека</a></div><div class="topline__popup__submenu__wrap"><a href="https://podcasts.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://podcasts.rbc.ru/?utm_source=topline"}'>Подкасты</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/politics/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/politics/?utm_source=topline"}'>Политика</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/economics/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/economics/?utm_source=topline"}'>Экономика</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/society/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/society/?utm_source=topline"}'>Общество</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/business/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/business/?utm_source=topline"}'>Бизнес</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/technology_and_media/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/technology_and_media/?utm_source=topline"}'>Технологии и медиа</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/finances/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/finances/?utm_source=topline"}'>Финансы</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/crypto/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="topline_2"><span class="topline__item_special-inner">Крипто</span></a></div><div class="topline__popup__submenu__wrap"><a href="https://sportrbc.ru/olympicdaily/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="topline_1"><span class="topline__item_special-inner">Олимпиада 2022</span></a></div></div></div><div class="topline__popup__inner js-topline-open-popup-content search"><div class="topline__popup__back js-topline-back">
-    Главное меню
-</div><div class="topline__popup__search"><form action="/search/" class="topline__popup__search__form"><input type="hidden" name="project" value="rbcnews"/><input class="topline__popup__search__button" type="submit" value="Найти" /><div class="topline__popup__search__text"><div class="topline__popup__search__input-wrap"><input class="topline__popup__search__input js-search-input" type="text" name="query" autocomplete="off" value="" placeholder="Поиск по сайту" /></div></div></form><div class="topline__popup__search__rubric"><div class="topline__popup__search__rubric__name">Рубрики</div><div class="topline__popup__search__rubric__block"><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/politics" class="topline__popup__search__rubric__link">
-                                                                                    Политика
-                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/economics" class="topline__popup__search__rubric__link">
-                                                                                    Экономика
-                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/finances" class="topline__popup__search__rubric__link">
-                                                                                    Финансы
-                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/business" class="topline__popup__search__rubric__link">
-                                                                                    Бизнес
-                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/technology_and_media" class="topline__popup__search__rubric__link">
-                                                                                    Технологии и медиа
-                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/own_business" class="topline__popup__search__rubric__link">
-                                                                                    Свое дело
-                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/money" class="topline__popup__search__rubric__link">
-                                                                                    Деньги
-                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/opinions" class="topline__popup__search__rubric__link">
-                                                                                    Мнения
-                                                                            </a></div></div></div></div></div><div class="topline__popup__inner js-topline-open-popup-content region"><div class="topline__popup__back js-topline-back">
-    Главное меню
-</div><div class="topline__popup__region js-regions-toggle"><div class="topline__popup__region__inner"><div class="topline__popup__region__main topline__popup__flex"><div class="topline__popup__region__wrap"><a href="//www.rbc.ru/" class="topline__popup__region__link topline__popup__region__link_big js-region-item" data-id="world">
-                                    Весь мир
-                                </a></div><div class="topline__popup__region__wrap"><a href="//www.rbc.ru/" class="topline__popup__region__link topline__popup__region__link_big js-region-item" data-id="spb_sz" data-cookie="russia/sankt-peterburg_i_oblast" data-title="Санкт-Петербург и область" data-url="http://www.rbc.ru/">
-                                    С.-Петербург
-                                </a></div><div class="topline__popup__region__wrap"><a href="//ekb.rbc.ru/" class="topline__popup__region__link topline__popup__region__link_big js-region-item" data-id="ekb" data-cookie="russia/sverdlovskaya_obl" data-title="Екатеринбург" data-url="http://ekb.rbc.ru/">
-                                    Екатеринбург
-                                </a></div><div class="topline__popup__region__wrap"><a href="//nsk.rbc.ru/" class="topline__popup__region__link topline__popup__region__link_big js-region-item" data-id="nsk" data-cookie="russia_sfo" data-title="Новосибирск" data-url="http://nsk.rbc.ru/">
-                                    Новосибирск
-                                </a></div></div></div><div class="topline__popup__region__sub topline__popup__flex"><div class="topline__popup__region__wrap"><a href="//ufa.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="ufa" data-cookie="russia/bashkortostan" data-title="Башкортостан" data-url="http://ufa.rbc.ru/">
-                                Башкортостан
-                            </a></div><div class="topline__popup__region__wrap"><a href="//vo.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="vo" data-cookie="russia/vologodskaya_obl" data-title="Вологодская область" data-url="http://vo.rbc.ru/">
-                                Вологда
-                            </a></div><div class="topline__popup__region__wrap"><a href="//kaliningrad.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="kaliningrad" data-cookie="russia/kaliningradskaya_obl" data-title="Калининград" data-url="http://kaliningrad.rbc.ru/">
-                                Калининград
-                            </a></div><div class="topline__popup__region__wrap"><a href="//kuban.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="krasnodar" data-cookie="russia/krasnodarskiy_kray" data-title="Краснодарский край" data-url="http://kuban.rbc.ru/">
-                                Краснодар
-                            </a></div><div class="topline__popup__region__wrap"><a href="//krsk.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="krsk" data-cookie="" data-title="Красноярский край" data-url="http://krsk.rbc.ru/">
-                                Красноярск
-                            </a></div><div class="topline__popup__region__wrap"><a href="//nn.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="nn" data-cookie="russia/nijegorodskaya_obl" data-title="Нижний Новгород" data-url="http://nn.rbc.ru/">
-                                Н.Новгород
-                            </a></div><div class="topline__popup__region__wrap"><a href="//perm.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="perm" data-cookie="russia/permskij_kraj" data-title="Пермский край" data-url="http://perm.rbc.ru/">
-                                Пермь
-                            </a></div><div class="topline__popup__region__wrap"><a href="//rostov.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="rostov" data-cookie="russia/rostovskaya_obl" data-title="Ростов-на-Дону" data-url="http://rostov.rbc.ru/">
-                                Ростов-на-Дону
-                            </a></div><div class="topline__popup__region__wrap"><a href="//rt.rbc.ru/" class="topline__popup__region__link js-region-item active" data-id="tatarstan" data-cookie="russia/tatarstan" data-title="Татарстан" data-url="http://rt.rbc.ru/">
-                                Татарстан
-                            </a></div><div class="topline__popup__region__wrap"><a href="//t.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="tyumen" data-cookie="russia/tyumenskaya_obl" data-title="Тюмень" data-url="http://t.rbc.ru/">
-                                Тюмень
-                            </a></div><div class="topline__popup__region__wrap"><a href="//chr.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="chr" data-cookie="russia_chernozemje" data-title="Черноземье" data-url="http://chr.rbc.ru/">
-                                Черноземье
-                            </a></div><div class="topline__popup__region__wrap"><a href="//kavkaz.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="kavkaz" data-cookie="russia/kavkaz" data-title="Кавказ" data-url="http://kavkaz.rbc.ru/">
-                                Кавказ
-                            </a></div></div></div></div></div>
-                    </div>
-                </div>
-                        
-                        <div class="l-window">
-                                    <div class="banner__filmstrip g-tablet-visible g-border-bottom">
-    <a href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank" class="banner__container__link">
-    <span class="banner__container__border">
-        <span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
-    </span>
-</a>        <!-- pad_after_topline -->
-
-            <div
-            data-id="div-gpt-ad-1438337092451-0"
-            class="banner"
-            data-device="2"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1438337092451-0"
-                data-has-wrap="1"
-                            ></div>
-        </div>
-    
-</div>
-
-                
-                                                                </div>
-            
-    
-            <div class="l-window l-window-overflow-mob">
-                                        
-            <div class="g-relative g-clear">
-                
-                                                            <div id="js_col_left" class="l-col-left     l-news-feed-top-padding">
-                                                                                                <div class="l-col-left-border l-sticky l-small-width-static">
-                                                                                    <div class="g-relative">
-                                                                                                        
-            
-<div class="live-tv live-tv__main">
-    <div class="live-tv__main__inner js-live-tv-box">
-        <div class="live-tv__main__title">
-            <div class="live-tv__main__radar"></div>
-            <div class="live-tv__main__text">Прямой эфир</div>
-        </div>
-        <div class="live-tv__plug g-icon-medium g-play js-live-tv-play" data-cover="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/images/live-tv-plug.gif">
-        </div>
-        <div class="live-tv__error-message js-live-tv-error-message">
-            <div class="live-tv__error-message__text">Ошибка воспроизведения видео. Пожалуйста, обновите ваш браузер.</div>
-        </div>
-    </div>
-</div>
-                                                                                                            <div class="js-over-live-tv-passback live-tv-banner-over">
-            <!-- over_livetv -->
-
-            <div
-            data-id="div-gpt-ad-1611824677791-over_livetv"
-            class="banner js-banner-over-live-tv"
-            data-device="1"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1611824677791-over_livetv"
-                data-has-wrap="1"
-                            ></div>
-        </div>
-    
-        </div>
-                                                </div>
-                                                                                            <div class="js-forecast-passback forecast">
-            <!-- under_livetv_in_forecast -->
-
-            <div
-            data-id="div-gpt-ad-1611824677791-0"
-            class="banner js-banner-in-forecast"
-            data-device="1"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1611824677791-0"
-                data-has-wrap="1"
-                            ></div>
-        </div>
-    
-        </div>
-                                        </div>
-                                                                    
-
-<div class="news-feed__wrapper js-news-feed">
-    <div id="js_news_feed_banner" class="news-feed">
-        <div class="news-feed__header">Лента новостей</div>
-                                    <div class="g-hidden js-news-feed-currency js-news-feed-item" data-modif="1644488028">
-                    
-                
-<a href="https://quote.rbc.ru/exchanges/info/cb.0/72413/eod" id="id_newsfeed_currencycbusd" class="news-feed__item">
-    <span class="news-feed__item__title news-feed__item_bold">
-        Курс доллара на 11 февраля<br/>
-        USD ЦБ: 74,72
-        <span class="news-feed__item__change item__change_fall">
-                        (-0,08)
-        </span>
-    </span>
-
-    <span class="news-feed__item__date">
-        <span class="news-feed__item__date-text">Инвестиции, 10 фев, 13:13</span>
-    </span>
-</a>                </div>
-                            <div class="g-hidden js-news-feed-currency js-news-feed-item" data-modif="1644488028">
-                    
-                
-<a href="https://quote.rbc.ru/exchanges/info/cb.0/72383/eod" id="id_newsfeed_currencycbeur" class="news-feed__item">
-    <span class="news-feed__item__title news-feed__item_bold">
-        Курс евро на 11 февраля<br/>
-        EUR ЦБ: 85,38
-        <span class="news-feed__item__change item__change_zero">
-                        (0)
-        </span>
-    </span>
-
-    <span class="news-feed__item__date">
-        <span class="news-feed__item__date-text">Инвестиции, 10 фев, 13:13</span>
-    </span>
-</a>                </div>
-                    
-                                    <div class="news-feed__toggle">
-                    <div class="news-feed__toggle__inner">
-                        <span class="news-feed__toggle__link js-news-feed-region active" data-group="rbcnews" data-load-nick="rbcnews.tatarstan">Все новости</span>
-                        <span class="news-feed__toggle__link js-news-feed-region" data-group="tatarstan"  data-load-nick="tatarstan">Татарстан</span>
-                    </div>
-                </div>
-                    
-                                <script>
-                RA.config.set('newsfeed.timeLastUpdate', 1644570209);
+        function getCookie(name) {
+            var matches = document.cookie.match(new RegExp(
+                "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+            ));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        }
+        ga('create', 'UA-36139972-1', 'auto');
             </script>
 
-            <div class="js-news-feed-list">
-                                                                            
-                
-                                
-    <a href="https://www.rbc.ru/rbcfreenews/620622549a794749f332be6c?from=newsfeed"
-        id="id_newsfeed_620622549a794749f332be6c"
-        data-modif="1644570097"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title">
-                    В ДНР заявили о переброске Украиной в Донбасс дивизиона комплексов С-300
-                </span>
-                                                    
 
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Политика,&nbsp;12:01<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                                
-    <a href="https://quote.rbc.ru/news/article/620622349a79474a42f32b05?from=newsfeed"
-        id="id_newsfeed_620622349a79474a42f32b05"
-        data-modif="1644570095"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title">
-                    В Goldman Sachs спрогнозировали семь повышений ставки ФРС до конца года
-                </span>
-                                                    
+    <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,600,700&amp;subset=latin,cyrillic" rel="stylesheet" />
 
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Инвестиции,&nbsp;12:01<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                                
-    <a href="https://sportrbc.ru/news/62060abf9a79473ddb22303d?from=newsfeed"
-        id="id_newsfeed_62060abf9a79473ddb22303d"
-        data-modif="1644569891"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title news-feed__item_in-main">
-                    МОК оспорил допуск Валиевой к участию в Играх. Главное на Олимпиаде
-                </span>
-                                                    
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-189650-dWQmR';</script>
 
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Спорт,&nbsp;11:58<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                
-                        <div class="banner__container js-news-feed-banner">
-    <a href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank" class="banner__container__link">
-    <span class="banner__container__border">
-        <span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
-    </span>
-</a>        <!-- in_newsline -->
+  <!-- Put this script tag to the <head> of your page -->
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?53"></script>
+<script type="text/javascript">
+  VK.init({apiId: 3403539, onlyWidgets: true});
+</script>
+  <script type="text/javascript" src="//vk.com/js/api/share.js?94" charset="windows-1251"></script>
 
-            <div
-            data-id="div-gpt-ad-1431616921735-0"
-            class="banner"
-            data-device="1"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1431616921735-0"
-                data-has-wrap="1"
-                                    class="g-banner-align-center"
-                            ></div>
-        </div>
-    
-</div>
+</head>
 
-                                                                                                                                                
-                
-                                
-    <a href="https://www.rbc.ru/business/11/02/2022/620613e39a794742aeabcd09?from=newsfeed"
-        id="id_newsfeed_620613e39a794742aeabcd09"
-        data-modif="1644569662"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title news-feed__item_in-main">
-                    «Роснефть» получила рекордную прибыль на фоне роста цен и продажи активов
-                </span>
-                                                    
-
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Бизнес,&nbsp;11:54<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                                
-    <a href="https://rt.rbc.ru/tatarstan/11/02/2022/62061e769a7947480b33438a?from=regional_newsfeed"
-        id="id_newsfeed_62061e769a7947480b33438a"
-        data-modif="1644569646"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title news-feed__item_in-main">
-                    В Татарстане пациентам с ОРВИ начали дистанционно оформлять больничные
-                </span>
-                                                    
-    
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Татарстан,&nbsp;11:54<!--
-    --></span><!--
-    --><!--
-        -->&nbsp;<span class="icons__geo js-news-feed-city"></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                                
-    <a href="https://sportrbc.ru/news/62061f2c9a794748606fbf0c?from=newsfeed"
-        id="id_newsfeed_62061f2c9a794748606fbf0c"
-        data-modif="1644569453"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title">
-                    Большунов стал рекордсменом по медалям Игр среди отечественных лыжников
-                </span>
-                                                    
-
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Спорт,&nbsp;11:50<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                        
-    <a href="https://pro.rbc.ru/news/61fa41e49a7947d8c549cfe6?from=newsfeed&amp;utm_source=rbc.ru&amp;utm_medium=inhouse_media&amp;utm_campaign=newsfeed&amp;utm_content=61fa41e49a7947d8c549cfe6"
-        id="id_newsfeed_61fa41e49a7947d8c549cfe6"
-        data-modif="1644569451"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title">
-                    Ставим цели, которые сделают счастливыми: инструкция на 2022 год
-                </span>
-                                                    
-
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Pro,&nbsp;11:50<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                                
-    <a href="https://sustainability.rbc.ru/?utm_source=rbc&amp;utm_medium=main&amp;utm_campaign=bent22w-r-kokva-m&amp;from=newsfeed"
-        id="id_newsfeed_61fbcfce9a7947755fec6cd8"
-        data-modif="1644569273"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title">
-                    Комфорт и качество: почему 80% автомобилей Bentley до сих пор на ходу
-                </span>
-                                                    
-
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->РБК и Bentley Motors,&nbsp;11:47<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                                
-    <a href="https://sportrbc.ru/news/62061f8d9a794748606fbf15?from=newsfeed"
-        id="id_newsfeed_62061f8d9a794748606fbf15"
-        data-modif="1644569240"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title">
-                    Резцова назвала серебро Большунова в гонке на 15 км обидным результатом
-                </span>
-                                                    
-
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Спорт,&nbsp;11:47<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                                
-    <a href="https://www.rbc.ru/society/11/02/2022/5f8017369a794784407ebca7?from=newsfeed"
-        id="id_newsfeed_5f8017369a794784407ebca7"
-        data-modif="1644569187"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title news-feed__item_in-main">
-                    Как в России развивается эпидемия COVID. Инфографика
-                </span>
-                                                    
-
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Общество,&nbsp;11:46<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                                
-    <a href="https://www.rbc.ru/crypto/news/62061e589a794748464cf9a7?from=newsfeed"
-        id="id_newsfeed_62061e589a794748464cf9a7"
-        data-modif="1644569160"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title">
-                    В YouTube задумались об использовании NFT для монетизации контента
-                </span>
-                                                    
-
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Крипто,&nbsp;11:46<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                                
-    <a href="https://www.rbc.ru/rbcfreenews/62061b4a9a79474667008963?from=newsfeed"
-        id="id_newsfeed_62061b4a9a79474667008963"
-        data-modif="1644568955"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title">
-                    Помощник Тодоровского рассказал о длительном лечении актрисы Брик
-                </span>
-                                                    
-
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Общество,&nbsp;11:42<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                                
-    <a href="https://www.rbc.ru/politics/11/02/2022/620620269a79474931c15a13?from=newsfeed"
-        id="id_newsfeed_620620269a79474931c15a13"
-        data-modif="1644568893"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title">
-                    Митинг сторонников Порошенко у здания суда. Прямая трансляция
-                </span>
-                                                    
-
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Политика,&nbsp;11:41<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                                                                    
-                
-                                
-    <a href="https://www.rbc.ru/crypto/news/62023fe79a794769c5b3c39d?from=newsfeed"
-        id="id_newsfeed_6203746a9a7947d2d3774610"
-        data-modif="1644568429"
-        class="news-feed__item js-news-feed-item js-yandex-counter"
-        data-yandex-name="from_news_feed">
-        <div class="news-feed__item__grid">
-                        <div class="news-feed__item__grid__content">
-                <span class="news-feed__item__title">
-                    Игра: «Что? Сколько? Когда?» Угадываем курсы криптовалют
-                </span>
-                                                    
-
-    
-<span class="news-feed__item__date">
-    <span class="news-feed__item__date-text"><!--
-        -->Крипто,&nbsp;11:33<!--
-    --></span><!--
-    --><!--
---></span>                            </div>
-        </div>
-    </a>
-                                                                
-                        <div class="banner__container js-news-feed-banner g-banner-hide-by-exclusive">
-    <a href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank" class="banner__container__link">
-    <span class="banner__container__border">
-        <span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
-    </span>
-</a>        <!-- in_newsline -->
-
-            <div
-            data-id="div-gpt-ad-1553776072892-0"
-            class="banner"
-            data-device="1"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1553776072892-0"
-                data-has-wrap="1"
-                                    class="g-banner-align-center"
-                            ></div>
-        </div>
-    
-</div>
-
-                                                                                                </div>
-            </div>
-</div>
-                                                    </div>
-                                    
-                <div class="l-col-container">
-                    <div class="l-table">
-                                                                <div class="l-sticky l-small-width-left-margin funny-banner js-funny-banner">
-            <div class="g-desktop-visible">
-                <div class="banner__filmstrip">
-    <a href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank" class="banner__container__link">
-    <span class="banner__container__border">
-        <span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
-    </span>
-</a>        <!-- after_topline -->
-
-            <div
-            data-id="div-gpt-ad-1432742391349-0"
-            class="banner"
-            data-device="1"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1432742391349-0"
-                data-has-wrap="1"
-                            ></div>
-        </div>
-    
-</div>
-
-            </div>
-        </div>
-                                                        
-                                                    <div class="g-relative">
-                                <div class="l-table l-table-min-height">
-                                                                            <div class="l-col-main">
-                                                <div class="js-indicators js-dragscroll" data-type="mobile"></div>
-
-    
-
-<div class="main js-main-reload">
-    <div class="g-tablet-visible g-mobile-visible g-border-bottom">
-        <div class="menu__wrap l-col-center">
-    <div class="menu">
-        <div class="menu__inner">
-            <div class="menu__item active">
-                <div class="menu__item-wrap">
-                    <a href="/" class="menu__link js-yandex-counter" data-yandex-name="click_tab_main">Главное</a>
-                </div>
-            </div>
-                        <div class="menu__item">
-                <div class="menu__item-wrap">
-                    <a href="/short_news" class="menu__link js-yandex-counter" data-yandex-name="click_tab_newsfeed">Лента</a>
-                </div>
-            </div>
-                            <div class="menu__item">
-                    <div class="menu__item-wrap">
-                        <a href="#" class="menu__link js-live-tv-play-mobile js-yandex-counter" data-yandex-name="click_tab_live">Эфир</a>
-                    </div>
-                </div>
-                    </div>
-    </div>
-</div>    </div>
-    <div class="main__inner l-col-center">
-        <div class="g-desktop-visible">
-                <div class="tabs">
-        <div class="tabs__main">
-            <div class="tabs__item active js-index-tabs">
-                <span class="tabs__link">Главное</span>
-            </div>
-        </div>
-        <div class="tabs__other js-index-tabs-container">
-                                        <div class="tabs__item js-index-tabs">
-                    <a href="https://rt.rbc.ru/tatarstan/" class="tabs__link">Татарстан</a>
-                </div>
-            
-                            <div class="tabs__item js-index-tabs">
-                    <a href="https://rt.rbc.ru/tatarstan/story/61b6f93a9a79472427ecee79" class="tabs__link">Год восстановления</a>
-                </div>
-                            <div class="tabs__item js-index-tabs">
-                    <a href="https://sportrbc.ru/beijing2022/medals?tab=sport-events-news" class="tabs__link">Олимпиада в Пекине</a>
-                </div>
-                            <div class="tabs__item js-index-tabs">
-                    <a href="https://www.rbc.ru/story/5e2881539a794724ab627caa" class="tabs__link">Пандемия коронавируса</a>
-                </div>
-                            <div class="tabs__item js-index-tabs">
-                    <a href="https://www.rbc.ru/story/61d5778d9a79472e0d46bc6e" class="tabs__link">Протесты в Казахстане</a>
-                </div>
-                            <div class="tabs__item js-index-tabs">
-                    <a href="https://www.rbc.ru/story/61e52fa19a79470970c8a37f" class="tabs__link">Дело Порошенко и Медведчука</a>
-                </div>
-                            <div class="tabs__item js-index-tabs">
-                    <a href="https://www.rbc.ru/story/584816f19a7947861889e7cb" class="tabs__link">30 лет без СССР</a>
-                </div>
-            
-            <div class="tabs__item tabs__more js-index-tabs-more">
-                <span class="tabs__link tabs__trigger js-index-tabs-trigger">Еще сюжеты</span>
-                <div class="tabs__submenu js-index-tabs-submenu">
-                    <span class="tabs__link tabs__trigger">Еще сюжеты</span>
-                    <div class="js-index-tabs-dropdown"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-        </div>
-        <div class="l-row">
-            
-                                        
-    
-<div class="main__big js-main-reload-item" data-id="62061ca89a794746132f1bf6" data-modif-date="Fri, 11 Feb 2022 12:02:18 +0300" data-vr-zone="Главная новость">
-    <a href="https://www.rbc.ru/society/11/02/2022/62061ca89a794746132f1bf6?from=from_main_1" class="main__big__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://www.rbc.ru/society/11/02/2022/62061ca89a794746132f1bf6"}'
-        data-rm-position="1"
-        data-vr-contentbox="Position 1"
-        data-vr-contentbox-url="https://www.rbc.ru/society/11/02/2022/62061ca89a794746132f1bf6">
-
-                <span class="main__big__title-wrap">
-            <span class="main__big__title" data-vr-headline><!--
-            -->В России выявили больше 200 тыс. случаев COVID при 19 тыс. госпитализаций<!--
-         --></span><!--
-            --><!--
-    --></span><!--
---></a>
-</div>                    </div>
-    </div>
-
-            <div class="main__list" data-vr-zone="Топ новости">
-            <div class="main__inner l-col-center">
-                                        
-    
-<div class="main__feed js-main-reload-item" data-id="620616229a794743f9d6b8f7" data-modif-date="Fri, 11 Feb 2022 11:36:31 +0300">
-        
-    <a href="https://sportrbc.ru/news/620616229a794743f9d6b8f7?from=from_main_2" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://sportrbc.ru/news/620616229a794743f9d6b8f7"}'
-        data-rm-position="2"
-        data-vr-contentbox="Position 2"
-        data-vr-contentbox-url="https://sportrbc.ru/news/620616229a794743f9d6b8f7">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->Российский лыжник Большунов выиграл серебро Олимпиады в гонке на 15 км<!--
-         --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                            </div>
-                <div class="banner__filmstrip g-mobile-visible g-border-bottom g-border-top">
-    <a href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank" class="banner__container__link">
-    <span class="banner__container__border">
-        <span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
-    </span>
-</a>        <!-- mobile_after_topline -->
-
-            <div
-            data-id="div-gpt-ad-1436522729302-0"
-            class="banner"
-            data-device="4"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1436522729302-0"
-                data-has-wrap="1"
-                                    class="g-banner-align-center"
-                            ></div>
-        </div>
-    
-</div>
-
-            <div class="main__inner l-col-center">
-                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="5f8017369a794784407ebca7" data-modif-date="Fri, 11 Feb 2022 11:48:57 +0300">
-        
-    <a href="https://www.rbc.ru/society/11/02/2022/5f8017369a794784407ebca7?from=from_main_3" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://www.rbc.ru/society/11/02/2022/5f8017369a794784407ebca7"}'
-        data-rm-position="3"
-        data-vr-contentbox="Position 3"
-        data-vr-contentbox-url="https://www.rbc.ru/society/11/02/2022/5f8017369a794784407ebca7">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->Как в России развивается эпидемия COVID. Инфографика<!--
-         --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="62060bab9a79473e9feee4d3" data-modif-date="Fri, 11 Feb 2022 11:14:18 +0300">
-        
-    <a href="https://rt.rbc.ru/tatarstan/freenews/62060bab9a79473e9feee4d3?from=from_main_4" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://rt.rbc.ru/tatarstan/freenews/62060bab9a79473e9feee4d3"}'
-        data-rm-position="4"
-        data-vr-contentbox="Position 4"
-        data-vr-contentbox-url="https://rt.rbc.ru/tatarstan/freenews/62060bab9a79473e9feee4d3">
-        <span class="main__feed__title-wrap">
-            
-                                                                
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->В РТ впервые за сутки выявлено свыше 2,2 тыс. заразившихся коронавирусом<!--
-         --></span><!--
-            --><!--
-            --><!--
-                -->&nbsp;<span class="icons__geo-black"></span><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                            </div>
-                                <div class="g-mobile-visible">
-                                                                        <div class="js-forecast-mob-passback forecast_mob">
-                                <!-- mobile_main_in_forecast -->
-
-            <div
-            data-id="div-gpt-ad-1611824677791-1"
-            class="banner js-banner-in-forecast forecast_mob__banner"
-            data-device="6"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1611824677791-1"
-                data-has-wrap="1"
-                            ></div>
-        </div>
-    
-                            </div>
-                                                            </div>
-            <div class="main__inner l-col-center">
-                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="620611669a794741aa296f7b" data-modif-date="Fri, 11 Feb 2022 11:41:47 +0300">
-        
-    <a href="https://sportrbc.ru/news/620611669a794741aa296f7b?from=from_main_5" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://sportrbc.ru/news/620611669a794741aa296f7b"}'
-        data-rm-position="5"
-        data-vr-contentbox="Position 5"
-        data-vr-contentbox-url="https://sportrbc.ru/news/620611669a794741aa296f7b">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->Глава USADA заявил о планах США применить «акт Родченкова» из-за Валиевой<!--
-         --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="62061e769a7947480b33438a" data-modif-date="Fri, 11 Feb 2022 11:54:08 +0300">
-        
-    <a href="https://rt.rbc.ru/tatarstan/11/02/2022/62061e769a7947480b33438a?from=from_main_6" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://rt.rbc.ru/tatarstan/11/02/2022/62061e769a7947480b33438a"}'
-        data-rm-position="6"
-        data-vr-contentbox="Position 6"
-        data-vr-contentbox-url="https://rt.rbc.ru/tatarstan/11/02/2022/62061e769a7947480b33438a">
-        <span class="main__feed__title-wrap">
-            
-                                                                
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->В Татарстане пациентам с ОРВИ начали дистанционно оформлять больничные<!--
-         --></span><!--
-            --><!--
-            --><!--
-                -->&nbsp;<span class="icons__geo-black"></span><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="6204f88a9a794765314d3e39" data-modif-date="Fri, 11 Feb 2022 09:00:23 +0300">
-        
-    <a href="https://www.rbc.ru/politics/11/02/2022/6204f88a9a794765314d3e39?from=from_main_7" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://www.rbc.ru/politics/11/02/2022/6204f88a9a794765314d3e39"}'
-        data-rm-position="7"
-        data-vr-contentbox="Position 7"
-        data-vr-contentbox-url="https://www.rbc.ru/politics/11/02/2022/6204f88a9a794765314d3e39">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->Глава Марий Эл решил уйти в отставку<!--
-         --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="620613e39a794742aeabcd09" data-modif-date="Fri, 11 Feb 2022 12:02:59 +0300">
-        
-    <a href="https://www.rbc.ru/business/11/02/2022/620613e39a794742aeabcd09?from=from_main_8" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://www.rbc.ru/business/11/02/2022/620613e39a794742aeabcd09"}'
-        data-rm-position="8"
-        data-vr-contentbox="Position 8"
-        data-vr-contentbox-url="https://www.rbc.ru/business/11/02/2022/620613e39a794742aeabcd09">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->«Роснефть» получила рекордную прибыль на фоне роста цен и продажи активов<!--
-         --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                            </div>
-                                <div class="g-mobile-visible banner__filmstrip banner__no-borders">
-    <a href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank" class="banner__container__link">
-    <span class="banner__container__border">
-        <span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
-    </span>
-</a>        <!-- mobile_main -->
-
-            <div
-            data-id="div-gpt-ad-1553668986423-0"
-            class="banner"
-            data-device="4"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1553668986423-0"
-                data-has-wrap="1"
-                                    class="g-banner-align-center"
-                            ></div>
-        </div>
-    
-</div>
-
-            <div class="main__inner l-col-center">
-                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="620531b19a7947861d59cf1d" data-modif-date="Fri, 11 Feb 2022 11:34:48 +0300">
-        
-    <a href="https://www.rbc.ru/economics/11/02/2022/620531b19a7947861d59cf1d?from=from_main_9" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://www.rbc.ru/economics/11/02/2022/620531b19a7947861d59cf1d"}'
-        data-rm-position="9"
-        data-vr-contentbox="Position 9"
-        data-vr-contentbox-url="https://www.rbc.ru/economics/11/02/2022/620531b19a7947861d59cf1d">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->Росстат нашел дополнительный триллион доходов россиян от собственности<!--
-         --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="6205e1be9a79472f24401730" data-modif-date="Fri, 11 Feb 2022 10:03:45 +0300">
-        
-    <a href="https://www.rbc.ru/politics/11/02/2022/6205e1be9a79472f24401730?from=from_main_10" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://www.rbc.ru/politics/11/02/2022/6205e1be9a79472f24401730"}'
-        data-rm-position="10"
-        data-vr-contentbox="Position 10"
-        data-vr-contentbox-url="https://www.rbc.ru/politics/11/02/2022/6205e1be9a79472f24401730">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->Сафронов на суде попросил ноутбук и три часа, чтобы доказать невиновность<!--
-         --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="620608d29a79473c8cc3dcb4" data-modif-date="Fri, 11 Feb 2022 11:39:40 +0300">
-        
-    <a href="https://www.rbc.ru/politics/11/02/2022/620608d29a79473c8cc3dcb4?from=from_main_11" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://www.rbc.ru/politics/11/02/2022/620608d29a79473c8cc3dcb4"}'
-        data-rm-position="11"
-        data-vr-contentbox="Position 11"
-        data-vr-contentbox-url="https://www.rbc.ru/politics/11/02/2022/620608d29a79473c8cc3dcb4">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->Politico узнало об отложенной из-за России стратегии по безопасности США<!--
-         --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="6205076e9a79476ce2ad6ebe" data-modif-date="Fri, 11 Feb 2022 07:30:23 +0300">
-        
-    <a href="https://pro.rbc.ru/news/6205076e9a79476ce2ad6ebe?from=from_main_12&amp;utm_source=rbc.ru&amp;utm_medium=inhouse_media&amp;utm_campaign=lines_12&amp;utm_content=6205076e9a79476ce2ad6ebe" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://pro.rbc.ru/news/6205076e9a79476ce2ad6ebe"}'
-        data-rm-position="12"
-        data-vr-contentbox="Position 12"
-        data-vr-contentbox-url="https://pro.rbc.ru/news/6205076e9a79476ce2ad6ebe">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->Российские IPO за рубежом поставлены на паузу. Сколько она продлится<!--
-         --></span><!--
-            --><!--
-                -->&nbsp;<span class="icons__logo"><!--
-                        --><!--
-                            --><img src="https://s0.rbk.ru/v6_top_pics/media/img/5/82/756202290843825.svg" class="icons__logo__img" alt="" decoding="async"/><!--
-                        --><!--
-                    --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="62058ec59a79471f398a053b" data-modif-date="Fri, 11 Feb 2022 08:26:27 +0300">
-        
-    <a href="https://www.rbc.ru/politics/11/02/2022/62058ec59a79471f398a053b?from=from_main_13" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://www.rbc.ru/politics/11/02/2022/62058ec59a79471f398a053b"}'
-        data-rm-position="13"
-        data-vr-contentbox="Position 13"
-        data-vr-contentbox-url="https://www.rbc.ru/politics/11/02/2022/62058ec59a79471f398a053b">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->Reuters узнал, почему между Макроном и Путиным поставили большой стол<!--
-         --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="62060abf9a79473ddb22303d" data-modif-date="Fri, 11 Feb 2022 11:58:14 +0300">
-        
-    <a href="https://sportrbc.ru/news/62060abf9a79473ddb22303d?from=from_main_14" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://sportrbc.ru/news/62060abf9a79473ddb22303d"}'
-        data-rm-position="14"
-        data-vr-contentbox="Position 14"
-        data-vr-contentbox-url="https://sportrbc.ru/news/62060abf9a79473ddb22303d">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->МОК оспорил допуск Валиевой к участию в Играх. Главное на Олимпиаде<!--
-         --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                                            
-    
-<div class="main__feed js-main-reload-item" data-id="61fa25679a7947cd6d914a4d" data-modif-date="Thu, 10 Feb 2022 11:39:31 +0300">
-        
-    <a href="https://pro.rbc.ru/news/61fa25679a7947cd6d914a4d?from=from_main_15&amp;utm_source=rbc.ru&amp;utm_medium=inhouse_media&amp;utm_campaign=lines&amp;utm_content=61fa25679a7947cd6d914a4d" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://pro.rbc.ru/news/61fa25679a7947cd6d914a4d"}'
-        data-rm-position="15"
-        data-vr-contentbox="Position 15"
-        data-vr-contentbox-url="https://pro.rbc.ru/news/61fa25679a7947cd6d914a4d">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->Что будет, если налоговая найдет ваш «тайный» счет за рубежом<!--
-         --></span><!--
-            --><!--
-                -->&nbsp;<span class="icons__logo"><!--
-                        --><!--
-                            --><img src="https://s0.rbk.ru/v6_top_pics/media/img/5/82/756202290843825.svg" class="icons__logo__img" alt="" decoding="async"/><!--
-                        --><!--
-                    --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                                                        
-    
-<div class="main__feed js-main-reload-item" data-id="620368949a7947ccb205243f" data-modif-date="Fri, 11 Feb 2022 11:34:16 +0300">
-        
-    <a href="https://pro.rbc.ru/news/620368949a7947ccb205243f?from=from_main_16&amp;utm_source=rbc.ru&amp;utm_medium=inhouse_media&amp;utm_campaign=lines_16&amp;utm_content=620368949a7947ccb205243f" class="main__feed__link js-yandex-counter"
-        data-yandex-name="from_main"
-        data-yandex-params='{url: "https://pro.rbc.ru/news/620368949a7947ccb205243f"}'
-        data-rm-position="16"
-        data-vr-contentbox="Position 16"
-        data-vr-contentbox-url="https://pro.rbc.ru/news/620368949a7947ccb205243f">
-        <span class="main__feed__title-wrap">
-            
-                                    
-                        <span class="main__feed__title" data-vr-headline><!--
-            -->Рекомендовал друга — получил ₽1 млн: какие новые идеи находят HR-стартапы<!--
-         --></span><!--
-            --><!--
-                -->&nbsp;<span class="icons__logo"><!--
-                        --><!--
-                            --><img src="https://s0.rbk.ru/v6_top_pics/media/img/5/82/756202290843825.svg" class="icons__logo__img" alt="" decoding="async"/><!--
-                        --><!--
-                    --></span><!--
-            --><!--
-            --><!--
-     --></span><!--
---></a>
-</div>
-                                        </div>
-        </div>
-    </div>
-            <div class="g-mobile-visible">
-            <!-- mobile_mid -->
-
-            <div
-            data-id="div-gpt-ad-1465581203161-0"
-            class="banner g-banner__bg g-mobile-visible banner__no-borders"
-            data-device="4"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1465581203161-0"
-                data-has-wrap="1"
-                                    class="g-banner-align-center"
-                            ></div>
-        </div>
-    
-        </div>
-    
-    <div class="g-overflow">
-                        <div class="js-index-central-column" data-vr-zone="Центральная колонка new" data-region="tatarstan">
-            <div class="preloader">    <div class="preloader__item"></div>
-    <div class="preloader__item"></div>
-    <div class="preloader__item"></div>
-</div>
-        </div>
-    </div>
-                                        </div>
-                                    
-                                                                            <div class="l-col-right">
-                                            <div class="l-col-right__inner">
-                                                    <div class="js-indicators" data-type="right"></div>
-
-                                                                        
-            <div class="l-sticky-right-parent">
-            <div class="l-sticky l-sticky-right">
-                <div class="banner__container">
-    <a href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank" class="banner__container__link">
-    <span class="banner__container__border">
-        <span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
-    </span>
-</a>        <!-- right_1 -->
-
-            <div
-            data-id="div-gpt-ad-1431693059125-0"
-            class="banner"
-            data-device="1"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1431693059125-0"
-                data-has-wrap="1"
-                                    class="g-banner-align-center"
-                            ></div>
-        </div>
-    
-</div>
-
-                <div class="banners__tgb">
-                    <!-- right_spec_realty -->
-
-            <div
-            data-id="div-gpt-ad-1525700005426-0"
-            class="banner banners__tgb__item"
-            data-device="1"
-            data-service="dfp"
-                            style="display: none;"
-                    >
-            <div
-                id="div-gpt-ad-1525700005426-0"
-                data-has-wrap="1"
-                            ></div>
-        </div>
-    
-                    <!-- right_spec_realty2 -->
-
-            <div
-            data-id="div-gpt-ad-1525700005426-0-2"
-            class="banner banners__tgb__item"
-            data-device="1"
-            data-service="dfp"
-                            style="display: none;"
-                    >
-            <div
-                id="div-gpt-ad-1525700005426-0-2"
-                data-has-wrap="1"
-                            ></div>
-        </div>
-    
-                </div>
-            </div>
-        </div>
-    
-    <div class="js-oprosso-main-right"></div>
-    <div class="poll__wrapper">
-    <div class="l-row">
-        <div class="js-polls poll"
-             data-type="acceptor"
-             data-acceptor="process"
-             data-name="active_poll"
-             data-symbols-after-dot="1"></div>
-    </div>
-</div>
-            <div class="l-sticky l-sticky-right">
-            <div class="banner__container banner__border-left g-banner-hide-by-exclusive">
-    <a href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank" class="banner__container__link">
-    <span class="banner__container__border">
-        <span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
-    </span>
-</a>        <!-- right_2 -->
-
-            <div
-            data-id="div-gpt-ad-1430152982600-0"
-            class="banner"
-            data-device="1"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1430152982600-0"
-                data-has-wrap="1"
-                                    class="g-banner-align-center"
-                            ></div>
-        </div>
-    
-</div>
-
-            <div class="banners__tgb">
-                <!-- right_spec_auto -->
-
-            <div
-            data-id="div-gpt-ad-1525699856877-0"
-            class="banner banners__tgb__item"
-            data-device="1"
-            data-service="dfp"
-                            style="display: none;"
-                    >
-            <div
-                id="div-gpt-ad-1525699856877-0"
-                data-has-wrap="1"
-                            ></div>
-        </div>
-    
-                <!-- right_spec_auto2 -->
-
-            <div
-            data-id="div-gpt-ad-1525699856877-0-2"
-            class="banner banners__tgb__item"
-            data-device="1"
-            data-service="dfp"
-                            style="display: none;"
-                    >
-            <div
-                id="div-gpt-ad-1525699856877-0-2"
-                data-has-wrap="1"
-                            ></div>
-        </div>
-    
-            </div>
-        </div>
-                                                </div>
-                                        </div>
-                                                                    </div>
-                            </div>
-                                                    <div class="js-load-more-container"></div>
-                    </div>
-                                <div class="banner__filmstrip g-mobile-visible">
-    <a href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank" class="banner__container__link">
-    <span class="banner__container__border">
-        <span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
-    </span>
-</a>        <!-- mobile_filmstrip -->
-
-            <div
-            data-id="div-gpt-ad-1436522789782-0"
-            class="banner"
-            data-device="4"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1436522789782-0"
-                data-has-wrap="1"
-                                    class="g-banner-align-center"
-                            ></div>
-        </div>
-    
-</div>
-
-        <div class="banner__filmstrip g-tablet-visible">
-    <a href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank" class="banner__container__link">
-    <span class="banner__container__border">
-        <span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
-    </span>
-</a>        <!-- pad_filmstrip -->
-
-            <div
-            data-id="div-gpt-ad-1438337231902-0"
-            class="banner"
-            data-device="2"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1438337231902-0"
-                data-has-wrap="1"
-                            ></div>
-        </div>
-    
-</div>
-
-                    </div>
-            </div>
-
-                            <div class="l-row">
-                        <div class="footer js-footer">
-    <div class="footer__wrap">
-        <div class="footer__inner">
-            <div class="footer__col footer__col_double">
-                <div class="footer__subcol">
-                    <div class="footer__title">РБК</div>
-                    <div class="footer__list">
-                        <div class="footer__item">
-                            <a href="http://www.rbcholding.ru/about.shtml" class="footer__link">О&nbsp;компании</a>
-                        </div>
-                        <div class="footer__item active">
-                            <a href="https://www.rbc.ru/contacts/" class="footer__link">Контактная информация</a>
-                        </div>
-                        <div class="footer__item active">
-                            <a href="https://www.rbc.ru/editors/" class="footer__link">Редакция</a>
-                        </div>
-                        <div class="footer__item">
-                            <a href="https://adv.rbc.ru/" class="footer__link">Размещение рекламы</a>
-                        </div>
-                                            </div>
-                </div>
-                <div class="footer__subcol">
-                    <div class="footer__title">Социальные сети</div>
-                    <div class="footer__list">
-                                                        <div class="footer__item">
-                                <a href="https://www.facebook.com/rbc.ru/" class="footer__link" target="_blank">Facebook</a>
-                            </div>
-                            <div class="footer__item">
-                                <a href="https://vk.com/rbc" class="footer__link" target="_blank">ВКонтакте</a>
-                            </div>
-                            <div class="footer__item">
-                                <a href="https://twitter.com/ru_rbc" class="footer__link" target="_blank">Twitter</a>
-                            </div>
-                            <div class="footer__item">
-                                <a href="https://ok.ru/group/51670727852273" class="footer__link" target="_blank">Одноклассники</a>
-                            </div>
-                            <div class="footer__item">
-                                <a href="https://www.youtube.com/user/tvrbcnews" class="footer__link" target="_blank">YouTube</a>
-                            </div>
-                            <div class="footer__item">
-                                <a href="https://t.me/rbc_news" class="footer__link" target="_blank">Telegram</a>
-                            </div>
-                        
-    <div class="footer__item">
-        <a href="https://www.instagram.com/rbc_ru/" class="footer__link" target="_blank">Instagram</a>
-    </div>
-    <div class="footer__item">
-        <a href="https://zen.yandex.ru/rbc.ru" class="footer__link" target="_blank">Дзен</a>
-    </div>
-                    </div>
-                </div>
-            </div>
-
-                            <div class="footer__col footer__col_custom">
-            <div class="footer__title">Новости регионов</div>
-            <div class="footer__list">
-                                    <div class="footer__item">
-                        <a href="https://www.rbc.ru/spb_sz/" class="footer__link">Санкт-Петербург и область</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://ekb.rbc.ru/ekb/" class="footer__link">Екатеринбург</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://nsk.rbc.ru/nsk/" class="footer__link">Новосибирск</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://ufa.rbc.ru/ufa/" class="footer__link">Башкортостан</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://vo.rbc.ru/vo/" class="footer__link">Вологодская область</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://kaliningrad.rbc.ru/kaliningrad/" class="footer__link">Калининград</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://kuban.rbc.ru/krasnodar/" class="footer__link">Краснодарский край</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://krsk.rbc.ru/krsk/" class="footer__link">Красноярский край</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://nn.rbc.ru/nn/" class="footer__link">Нижний Новгород</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://perm.rbc.ru/perm/" class="footer__link">Пермский край</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://rostov.rbc.ru/rostov/" class="footer__link">Ростов-на-Дону</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://rt.rbc.ru/tatarstan/" class="footer__link">Татарстан</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://t.rbc.ru/tyumen/" class="footer__link">Тюмень</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://chr.rbc.ru/chr/" class="footer__link">Черноземье</a>
-                    </div>
-                                    <div class="footer__item">
-                        <a href="https://kavkaz.rbc.ru/kavkaz/" class="footer__link">Кавказ</a>
-                    </div>
-                            </div>
-        </div>
-    
-            <div class="footer__col footer__col_double">
-                <div class="footer__subcol">
-                    <div class="footer__title">Подписки</div>
-                    <div class="footer__list">
-                                                    <div class="footer__item active footer_disable-adv">
-                                                                                                                                    <a href="https://auth.rbc.ru/login?from=disable_advertising_footer" class="footer__link">Скрыть баннеры</a>
-                            </div>
-                                                    <div class="footer__item active">
-        <a href="https://www.rbc.ru/subscribe/" class="footer__link">Рассылка РБК Pro</a>
-    </div>
-                    </div>
-                                            <div class="footer__title">Уведомления</div>
-                        <div class="footer__list">
-                                <div class="footer__item">
-        <a href="https://rssexport.rbc.ru/rbcnews/news/30/full.rss" class="footer__link">RSS Новости</a>
-    </div>
-                                <div class="footer__item">
-        <a href="https://app.rbc.ru/gpn/unsubscribe.html" class="footer__link js-push-notification">Оповещения RBC.ru</a>
-    </div>
-                        </div>
-                    
-                            <div class="footer__title">Рубрики</div>
-    <div class="footer__list">
-                <div class="footer__item">
-            <a href="https://www.rbc.ru/politics/?utm_source=topline" class="footer__link">Политика</a>
-        </div>
-                <div class="footer__item">
-            <a href="https://www.rbc.ru/economics/?utm_source=topline" class="footer__link">Экономика</a>
-        </div>
-                <div class="footer__item">
-            <a href="https://www.rbc.ru/society/?utm_source=topline" class="footer__link">Общество</a>
-        </div>
-                <div class="footer__item">
-            <a href="https://www.rbc.ru/business/?utm_source=topline" class="footer__link">Бизнес</a>
-        </div>
-                <div class="footer__item">
-            <a href="https://www.rbc.ru/technology_and_media/?utm_source=topline" class="footer__link">Технологии и медиа</a>
-        </div>
-                <div class="footer__item">
-            <a href="https://www.rbc.ru/finances/?utm_source=topline" class="footer__link">Финансы</a>
-        </div>
-            </div>
-
-                </div>
-                <div class="footer__subcol">
-                    <div class="footer__title">РБК Новости</div>
-                    <div class="footer__list">
-                        <div class="footer__item">
-                            <a href="https://apps.apple.com/ru/app/%D1%80%D0%B1%D0%BA-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5/id483524731" class="footer__link" target="_blank">iOS</a>
-                        </div>
-                        <div class="footer__item">
-                            <a href="https://play.google.com/store/apps/details?id=ru.rbc.news.starter" class="footer__link" target="_blank">Android</a>
-                        </div>
-                    </div>
-                    <div class="footer__title">Другие продукты РБК</div>
-                    <div class="footer__list">
-                        <div class="footer__item">
-                            <a href="https://www.nic.ru/" class="footer__link" target="_blank">Домены и&nbsp;хостинг</a>
-                        </div>
-                        <div class="footer__item">
-                            <a href="https://www.public.ru/" class="footer__link" target="_blank">Медиапоиск и&nbsp;анализ</a>
-                        </div>
-                        <div class="footer__item">
-                            <a href="https://loveplanet.ru/" class="footer__link" target="_blank">Знакомства</a>
-                        </div>
-
-                            <div class="footer__item">
-        <a href="https://companies.rbc.ru/" class="footer__link" target="_blank">РБК Компании</a>
-    </div>
-
-                        <div class="footer__item footer__item_duplicate active">
-                            <a href="https://www.rbc.ru/restrictions" class="footer__link">Информация об&nbsp;ограничениях</a>
-                        </div>
-                        <div class="footer__item footer__item_duplicate active">
-                            <a href="https://www.rbc.ru/info/" class="footer__link">Правовая информация</a>
-                        </div>
-                        <div class="footer__item footer__item_duplicate active">
-                            <a href="http://www.rbc.ru/privacy/" class="footer__link">О&nbsp;соблюдении авторских прав</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="footer__col">
-                <div class="footer__title">Юридическая информация</div>
-                <div class="footer__list">
-                    <div class="footer__item">
-                        <a href="https://www.rbc.ru/restrictions" class="footer__link">Информация об&nbsp;ограничениях</a>
-                    </div>
-                    <div class="footer__item">
-                        <a href="https://www.rbc.ru/info/" class="footer__link">Правовая информация</a>
-                    </div>
-                    <div class="footer__item">
-                        <a href="https://www.rbc.ru/privacy/" class="footer__link">О&nbsp;соблюдении авторских прав</a>
-                    </div>
-                </div>
-                <div class="footer__copyright">
-                    <div class="footer__info active">
-                        &copy;&nbsp;АО&nbsp;&laquo;РОСБИЗНЕСКОНСАЛТИНГ&raquo;, <span class="footer__nowrap">1995–2022</span>.
-                                                Сообщения и&nbsp;материалы сетевого издания &laquo;РБК&raquo; (зарегистрировано Федеральной службой по&nbsp;надзору в&nbsp;сфере связи, информационных технологий и&nbsp;массовых коммуникаций (Роскомнадзор) 03.12.2021 за&nbsp;номером ЭЛ&nbsp;&#8470;ФС77-82385) сопровождаются пометкой &laquo;РБК&raquo;.
-                                                Отдельные публикации могут содержать информацию, не&nbsp;предназначенную для пользователей до&nbsp;18&nbsp;лет.
-                                                    <a href="mailto:letters@rbc.ru" class="footer__link">letters@rbc.ru</a>
-                                            </div>
-                                        <div class="footer__info">
-                        Котировки мировых финансовых инструментов предоставлены <a class="footer__link" href="https://www.rbc.ru/restrictions#reuters" target="_blank">Reuters</a>
-                    </div>
-                                            <div class="footer__info">
-                            Чтобы отправить редакции сообщение, выделите часть текста в&nbsp;статье и&nbsp;нажмите Ctrl+Enter
-                        </div>
+<body id="pid-studconf-science-115-86960" class="not-front not-logged-in page-node node-type-article no-sidebars i18n-ru full-node layout-main sidebars-split font-size-16 grid-type-960 grid-width-16 gray green-accents gray-footer green-headers default-links default-corners">
+	<div id="container">
+		<div id="header" class="header full-width ">
+			<div id="header-group-inner" class="header-group-inner inner clearfix">
+                <div id="logo">
+                    <a href="/" title="Главная"></a>
                                     </div>
-                            <div class="footer__counter">
-            <a href="https://www.liveinternet.ru/stat/RBCRU/TATARSTAN/index.html" class="footer__counter__link">
-                <span class="footer__counter__image"></span>
-            </a>
-        </div>
-                </div>
-        </div>
-    </div>
+	           	<div id="search-box" class="search-box block">
+<div id="search-box-inner" class="search-box-inner inner clearfix">
+<form action="/studconf/science/115/86960"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search">
+  <div id="search-input">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-header" size="15" title="Введите ключевые слова для поиска." value="" placeholder="Поиск по сайту..." class="form-text" />
+  </div>
+
+  <div id="search-button">
+    <input type="submit" name="op" value="" id="edit-submit-2" class="searchButton"  alt="Поиск" />
+  </div>
+
+  <input type="hidden" name="form_build_id" id="form-3553297c5f49d625c4eb2ffcf5f4c1fa" value="form-3553297c5f49d625c4eb2ffcf5f4c1fa"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 </div>
-                </div>
-                    </div><!-- .l-window -->
-    
-    
-            <div class="live-tv-popup js-live-tv-popup">
-    <div class="live-tv-popup__head">
-        <a class="topline__logo-block" href="/">
-            <span class="topline__logo"></span>
-        </a>
-        <div class="live-tv-popup__close js-live-tv-close"></div>
-    </div>
-    <div class="live-tv-popup__overlay g-event-fullscreen">
-        <div class="live-tv-popup__video js-live-tv-popup-video">
-                        <div class="live-tv-popup__plug js-live-tv-popup-plug"></div>
-        </div>
-                    <div class="live-tv-popup__banner">
-                <!-- in_online_fullscreen -->
 
-            <div
-            data-id="div-gpt-ad-1495101836220-0"
-            class="banner live-tv__banner__bg"
-            data-device="1"
-            data-service="dfp"
-                    >
-            <div
-                id="div-gpt-ad-1495101836220-0"
-                data-has-wrap="1"
-                                    class="g-banner-align-center"
-                            ></div>
-        </div>
-    
-            </div>
-            </div>
-</div>    
-    <span class="g-mobile"></span>
-    <span class="g-tablet"></span>
-    <span class="g-desktop-small"></span>
-    <span class="g-desktop"></span>
+</div></form>
+</div><!-- /search-box-inner -->
+</div><!-- /search-box -->
+								<div class="info">
+					<span class="phone"><a href="tel:+74999389466"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="22px" height="22px" viewBox="0 0 16.877 16.877" style="enable-background:new 0 0 16.877 16.877;" xml:space="preserve"><path d="M5.301,5.587L1.404,1.688c0.503-0.503,1.005-1.007,1.509-1.511C3.146-0.056,3.522-0.06,3.756,0.17l3.036,3.039   c0.232,0.232,0.232,0.614-0.003,0.848L6.124,4.721L5.505,5.34C5.429,5.417,5.36,5.499,5.301,5.587z M8.507,11.938   c-0.638-0.549-1.25-1.132-1.844-1.725C6.07,9.616,5.489,9.006,4.939,8.365c-0.45-0.52-0.538-1.273-0.303-1.907L0.636,2.457   c-0.931,0.957-0.812,3.33,0.208,5.415c0.438,0.902,1.006,1.716,1.593,2.49c0.586,0.768,1.229,1.494,1.906,2.176   c0.679,0.681,1.401,1.327,2.171,1.913c0.774,0.589,1.59,1.153,2.486,1.59c2.088,1.019,4.462,1.131,5.418,0.199l-4.001-4.001   C9.783,12.474,9.029,12.387,8.507,11.938z M16.702,13.119l-3.036-3.037c-0.233-0.23-0.615-0.23-0.848,0.003h-0.002l-0.667,0.666   l-0.615,0.618c-0.076,0.076-0.159,0.143-0.247,0.205l3.896,3.898c0.504-0.505,1.007-1.007,1.512-1.51   C16.93,13.729,16.935,13.352,16.702,13.119z" fill="#FFFFFF"/></svg>+7 (499) 938-94-66</a></span>
+					<span class="mail"><a href="mailto:mail@nauchforum.ru"><svg width="22px" height="14px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.98 30.08"><path d="M959.55,543h0a1.72,1.72,0,0,0,.94-0.28l0.07,0,0.05,0,0.85-.71,20.45-16.87a0.24,0.24,0,0,0-.19-0.1h-44.5a0.23,0.23,0,0,0-.15.05l21.4,17.63a1.68,1.68,0,0,0,1.06.35h0ZM937,527.39v25L952.33,540Zm29.67,12.72L982,552.41V527.47Zm-4.87,4a3.65,3.65,0,0,1-4.5,0l-3.51-2.89L937,554.8v0a0.24,0.24,0,0,0,.24.24h44.5a0.24,0.24,0,0,0,.23-0.24v0L965.2,541.32Zm0,0" transform="translate(-937 -525)"/></svg>mail@nauchforum.ru</a></span>
+                    <span class="whatsapp"><a href="https://wa.me/74999389466"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.00401338 20L1.35601 15.032C0.465151 13.5049 -0.00289063 11.768 1.34322e-05 10C1.34322e-05 4.477 4.47701 0 10 0C15.523 0 20 4.477 20 10C20 15.523 15.523 20 10 20C8.23279 20.0029 6.49667 19.5352 4.97001 18.645L0.00401338 20ZM6.39101 5.308C6.26188 5.31602 6.13569 5.35003 6.02001 5.408C5.91153 5.46943 5.81251 5.54622 5.72601 5.636C5.60601 5.749 5.53801 5.847 5.46501 5.942C5.09542 6.423 4.89662 7.01342 4.90001 7.62C4.90201 8.11 5.03001 8.587 5.23001 9.033C5.63901 9.935 6.31201 10.89 7.20101 11.775C7.41501 11.988 7.62401 12.202 7.84901 12.401C8.9524 13.3725 10.2673 14.073 11.689 14.447L12.258 14.534C12.443 14.544 12.628 14.53 12.814 14.521C13.1053 14.506 13.3896 14.4271 13.647 14.29C13.778 14.2225 13.9058 14.1491 14.03 14.07C14.03 14.07 14.073 14.042 14.155 13.98C14.29 13.88 14.373 13.809 14.485 13.692C14.568 13.606 14.64 13.505 14.695 13.39C14.773 13.227 14.851 12.916 14.883 12.657C14.907 12.459 14.9 12.351 14.897 12.284C14.893 12.177 14.804 12.066 14.707 12.019L14.125 11.758C14.125 11.758 13.255 11.379 12.724 11.137C12.668 11.1126 12.608 11.0987 12.547 11.096C12.4786 11.089 12.4095 11.0967 12.3443 11.1186C12.2791 11.1405 12.2193 11.1761 12.169 11.223V11.221C12.164 11.221 12.097 11.278 11.374 12.154C11.3325 12.2098 11.2754 12.2519 11.2098 12.2751C11.1443 12.2982 11.0733 12.3013 11.006 12.284C10.9409 12.2666 10.877 12.2445 10.815 12.218C10.691 12.166 10.648 12.146 10.563 12.109L10.558 12.107C9.98592 11.8572 9.45624 11.5198 8.98801 11.107C8.86201 10.997 8.74501 10.877 8.62501 10.761C8.23159 10.3842 7.88873 9.95801 7.60501 9.493L7.54601 9.398C7.50364 9.33416 7.46937 9.2653 7.44401 9.193C7.40601 9.046 7.50501 8.928 7.50501 8.928C7.50501 8.928 7.74801 8.662 7.86101 8.518C7.9551 8.39832 8.04289 8.27382 8.12401 8.145C8.24201 7.955 8.27901 7.76 8.21701 7.609C7.93701 6.925 7.64701 6.244 7.34901 5.568C7.29001 5.434 7.11501 5.338 6.95601 5.319C6.90201 5.313 6.84801 5.307 6.79401 5.303C6.65972 5.29633 6.52515 5.29766 6.39101 5.307V5.308Z" fill="#521818"/></svg>WhatsApp <span>+7 (499) 938-94-66</span></a></span>
+				</div>
+									<div id="nav-icon">
+					  <span></span>
+					  <span></span>
+					  <span></span>
+					  <span></span>
+					</div>
+					<div id="header-menu">
+						<div id="search-box" class="search-box block">
+<div id="search-box-inner" class="search-box-inner inner clearfix">
+<form action="/studconf/science/115/86960"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search">
+  <div id="search-input">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-header" size="15" title="Введите ключевые слова для поиска." value="" placeholder="Поиск по сайту..." class="form-text" />
+  </div>
 
-                            <div id="id_ra_overlay" class="page-overlay"></div>    
-    <div class="live-tv live-tv_mobile js-live-tv-mobile"></div>
-    <div class="g-zeropixel">
-        <!-- aud -->
+  <div id="search-button">
+    <input type="submit" name="op" value="" id="edit-submit-2" class="searchButton"  alt="Поиск" />
+  </div>
 
-            <div
-            class="banner"
-            id="div-gpt-ad-1567753313383-0"
-            data-device="7"
-            data-service="dfp"
-                            style="display: none;"
-                    ></div>
-    
+  <input type="hidden" name="form_build_id" id="form-3553297c5f49d625c4eb2ffcf5f4c1fa" value="form-3553297c5f49d625c4eb2ffcf5f4c1fa"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
 
-        
-                <script>RA.config.set('counters.ya.idCounter', '16443139');</script>
+</div></form>
+</div><!-- /search-box-inner -->
+</div><!-- /search-box -->
+						<div id="block-menu-menu-main-menu" class="block block-menu odd first last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<ul class="menu"><li class="expanded first"><span>Конференции</span><ul class="menu"><li class="leaf first"><a href="/conf" title="">Научные конференции</a></li>
+<li class="leaf last"><a href="/studconf" title="">Студенческие конференции</a></li>
+</ul></li>
+<li class="expanded"><span>Журналы</span><ul class="menu"><li class="leaf first"><a href="/journal/stud" title="">Журнал «Студенческий форум»</a></li>
+<li class="leaf last"><a href="/journal/universum" title="">Научные журналы «Universum»</a></li>
+</ul></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-rinc" title="">РИНЦ</a></li>
+<li class="expanded"><span>ВАК</span><ul class="menu"><li class="leaf first"><a href="/publikaciya-v-zhurnalah-vak" title="">Публикация ВАК</a></li>
+<li class="leaf"><span>Специальные предложения:</span></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-vak/ekonomicheskie-nauki" title="">08.00.00 Экономические науки</a></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-vak/juridicheskie-nauki" title="">12.00.00 Юридические науки</a></li>
+<li class="leaf last"><a href="/publikaciya-v-zhurnalah-vak/pedagogicheskie-nauki" title="">13.00.00 Педагогические науки</a></li>
+</ul></li>
+<li class="leaf"><a href="/avtoram" title="">Авторам</a></li>
+<li class="expanded last"><span>Архив</span><ul class="menu"><li class="leaf first"><a href="/archive/article" title="">Архив статей</a></li>
+<li class="leaf last"><a href="/archive/editions" title="">Архив изданий</a></li>
+</ul></li>
+</ul>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block -->											</div>
+							</div><!-- /header-group-inner -->
+		</div><!-- /header -->
+				<div id="page" class="page white-page-bg">
+				        <div id="main" class="main">
+	            	              <div id="main-group-inner" class="main-group-inner inner">
+	                
+	                <div id="main-content" class="main-content row nested">
+	                  <div id="main-content-inner" class="main-content-inner inner">
+	                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+	                    <div id="content-group" class="content-group row nested">
+	                      <div id="content-group-inner" class="content-group-inner inner">
+	                      	<div id="content-group-wrap">
+		                      	<a name="main-content-area" id="main-content-area"></a>
+		                        <div class="breadcrumb"><a href="/">Главная</a> / <a href="/studconf">Студенческие конференции</a> / <a href="/studconf/science">Молодежный научный форум</a> / <a href="/studconf/science/cxv">CXV</a> / Статья</div>		                        
+		                        <div id="content-region" class="content-region row nested">
+		                          <div id="content-region-inner" class="content-region-inner inner">
+		                            <div id="content-inner" class="content-inner block">
+		                              <div id="content-inner-inner" class="content-inner-inner inner">
 
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-    var yaParams = {region: 'Tatarstan'};
-                yaParams.paywall = 'unpaid';
-        yaParams.authorization = 'noauth';
-    
-    
-    (function(m,e,t,r,i,k,a) {
-        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
-    })(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+		                                		                                		                                		                                <div id="content-content" class="content-content">
+											<div class="node-article stud">
+	<div class="article_head clearfix">
+		<strong>Статья:</strong> <h1>Проблема неуверенности в себе</h1>
+		<p><strong>Конференция:</strong> <a href="/studconf/science/cxv">CXV Студенческая международная научно-практическая конференция «Молодежный научный форум»</a></p>		<p><strong>Секция:</strong> Психология</p>		<div class="output"><div class="turn_next">Выходные данные</div><div class="text">Почкина П.В. Проблема неуверенности в себе // Молодежный научный форум: электр. сб. ст. по мат. CXV междунар. студ. науч.-практ. конф. № 5(115). URL:&nbsp;<a href="https://nauchforum.ru/archive/MNF_interdisciplinarity/5%28115%29.pdf">https://nauchforum.ru/archive/MNF_interdisciplinarity/5(115).pdf</a> (дата обращения: 27.02.2022)</div></div>
+		<div class="action">
+			<a href="/studconf/science" class="btn gray" onclick="ga(&#039;send&#039;, &#039;event&#039;, &#039;click1&#039;, &#039;publ&#039;);">К условиям публикации</a>			<a href="/archive/MNF_interdisciplinarity/5%28115%29.pdf" class="btn">Скачать сборник</a>		</div>
+		<div class="notice">Лауреаты определены. Конференция завершена</div><div class="honor_wrapp"><div class="wrap"><div class="count">Эта статья набрала <span>1</span> голос</div><div class="vk_like"><span class="btn vk">Мне нравится</span><span class="like_counter_wrap"><div class="arrow"></div><span id="stats_num">3</span></span><div id="vk_like"></div>
+							<script type="text/javascript">VK.Widgets.Like("vk_like", {redesign: 1, type: "button", height: 30}, 86960);VK.Observer.subscribe("widgets.like.liked", function(param) {jQuery(".honor_wrapp .vk_like #stats_num").text(param);}); VK.Observer.subscribe("widgets.like.unliked", function(param) {jQuery(".honor_wrapp .vk_like #stats_num").text(param);});</script></div><div class="w-320 mob-block" style="width:235px;margin:0 auto;text-align: center;"><div style="width:50%;float:left;">Дипломы <br/>лауреатов</div><div style="width:50%;float:left;">Сертификаты <br/>участников</div></div><div class="dip_and_sert"><div style="margin-right: 18px;line-height: 150%;">Дипломы <br/>лауреатов</div><div><img style='margin-right: 14px;float: left;' src=/themes/mix_and_match/images/dip_and_sert/gold_gray.png /><img style='margin-right: 27px;' src=/themes/mix_and_match/images/dip_and_sert/silver_gray.png /></div><div style="margin-right: 15px;line-height: 150%;">Сертификаты <br/>участников</div><div><a rel='nofollow' target='_blank' style='margin-right: 23px;' href='/certificate/86961'><img src=/themes/mix_and_match/images/dip_and_sert/sert.png title='Сертификат участника конференции' /></a><img src=/themes/mix_and_match/images/dip_and_sert/nauch_gray.png /></div></div></div></div>	</div>
+	<div style="padding-bottom: 50px;"><a href="/publikaciya-v-zhurnalah-rinc?utm_source=nf&utm_medium=banner&utm_campaign=articles"><img style="width:100%;height:auto;" src="/sites/default/files/publ_rinc.png" /></a></div>			<div class="inner node-inner">
+							    
+			    <div class="content clearfix node-content body-article">
+			    	<script type='text/javascript'> 
+							function ShareToVk() {  
+								tltl = document.title  
+								width = 550  
+								height = 268  
+								w_top = (window.screen.height - height)/2  
+								w_left = (window.screen.width - width)/2  
+								window.open('//vk.com/share.php?url=https://nauchforum.ru/studconf/science/115/86960&image=https://nauchforum.ru/themes/mix_and_match/images/logo.jpg&title=Проблема неуверенности в себе', 'shareSite','width=550px,height=268px,resizable=yes,scrollbars=yes,left='+w_left+',top='+w_top);
+							}
+						</script><div class="print_block clearfix"><img src="https://nauchforum.ru/themes/mix_and_match/images/logo.jpg" /><p>CXV Студенческая международная научно-практическая конференция «Молодежный научный форум»</p></div><div class="article_action"><span title="Распечатать" onclick="window.print();" class="print">на печать</span><a rel="nofollow" title="Скачать в pdf" href="/page/download.php?article=86960" class="download">скачать .pdf</a><a title="Поделиться ВКонтакте" onclick="ShareToVk(); return false;" href="//vk.com/share.php?url=https://nauchforum.ru/studconf/science/115/86960&image=https://nauchforum.ru/themes/mix_and_match/images/logo.jpg&title=Проблема неуверенности в себе" target="_blank" class="vk_group">поделиться</a></div><p class="title">Проблема неуверенности в себе</p><div class="fio_article">Почкина Полина Валерьевна</div><div class="regalia_article">студент,  Псковский государственный университет,  РФ, г. Псков.</div>					<div class="body-content">
+						<p class="rtejustify">&nbsp;</p>
+<p class="rtejustify">Уверенность в себе &mdash; это понятие в психологии, описывающее эмоциональное состояние или устойчивое личностное качество, суть которого заключается в принятии своей индивидуальности, позитивной оценке своих способностей, навыков и прав. Уверенность &mdash; это в психологии способность позволять себе иметь определенные запросы и отсутствие страха или чувства вины при предъявлении их окружению, инициативность и смелость в социальных контактах.</p>
+<p class="rtejustify">С точки зрения психологии, уверенность &mdash; это норма, признак здоровой, гармоничной личности. Это качество, к которому стоит стремиться каждому человеку, занимаясь саморазвитием. Уверенность в себе нужно отличать от самоуверенности (убежденность в отсутствии у себя отрицательных качеств, самонадеянность, склонность с пренебрежением относиться к окружающим).</p>
+<p class="rtejustify">Уверенность в себе можно пронаблюдать по следующим признакам:</p>
+<ul>
+<li class="rtejustify">
+		Обладание высоким уровнем ответственности;</li>
+<li class="rtejustify">
+		Знание цены обещаниям, непозволительность подавать ложные надежды;</li>
+<li class="rtejustify">
+		Стремление к постоянному саморазвитию;</li>
+<li class="rtejustify">
+		Желание помогать другим, вдохновлять;</li>
+<li class="rtejustify">
+		Гармоничное физическое, умственное и духовное развитие.</li>
+</ul>
+<p class="rtejustify">Что же такое неуверенность в себе?</p>
+<p class="rtejustify">Неуверенность в себе &ndash; это страх принимать решения, действовать вообще, ввиду сомнений в собственных силах, навыках, знаниях. Основа такой неуверенности &ndash; в том, что человек фактически не доверяет себе, поэтому ее нужно преодолеть. Эти качества несут вред человеку, поэтому считается важным добиться золотой середины.</p>
+<p class="rtejustify">Неуверенному человеку свойственно обладать следующими признаками:</p>
+<ul>
+<li class="rtejustify">
+		Страх допустить ошибку;</li>
+<li class="rtejustify">
+		Подавленные эмоции;</li>
+<li class="rtejustify">
+		Пессимистические ожидания от завтрашнего дня;</li>
+<li class="rtejustify">
+		Зависимость от чужого мнения;</li>
+<li class="rtejustify">
+		Слабые навыки социального поведения, социофобия;</li>
+</ul>
+<p class="rtejustify">Можно смело утверждать, что в основе неуверенности в себе лежит фобия, то есть боязнь. Существуют различные фобии, однако самую близкую связь с неуверенностью, по моему мнению, имеет Социофобия.</p>
+<p class="rtejustify">Социофобию в обычной жизни понимании часто путают с ее разновидностями, как агарофобия и антропофобия. Эти случаи похожи, так как все они основаны на боязни людей. &laquo;&phi;ό&beta;&omicron;&sigmaf;&raquo; от греческого &ndash; страх, но есть и существенные различия.</p>
+<p class="rtejustify"><em>Агарофобия </em>это боязнь больших скоплений людей, боязнь толпы, основанной на ощущении опасности, личной угрозы.</p>
+<p class="rtejustify">Антропофобия &ndash; подразумевает боязнь определенных групп людей или людей вообще, без привязки к взаимодействию с ними.</p>
+<p class="rtejustify">Социофобия же &ndash; это страх личного контакта, взаимодействия с социумом. Основой этого страха является негативная оценка окружающих: боязнь быть высмеянным, оказаться неловким, некомпетентным и т. д.</p>
+<p class="rtejustify">Самоуверенность и неуверенность.</p>
+<p class="rtejustify">На первый взгляд понятие самоуверенности полный антоним неуверенности, однако если разобраться в модели поведения, то очевидно, что одно побуждает другое.</p>
+<p class="rtejustify">Самоуверенность &ndash; это преувеличенная уверенность в себе и собственных силах, убежденность себя в правильности действий, в отсутствии минусов в своем характере. Однако стоит отличать самоуверенность от уверенности в себе. Психологи утверждают о разнице между этими понятиями.</p>
+<p class="rtejustify">Так неумеренная самоуверенность является очевидным признаком неуверенного человека, который таким образом старается спрятать свои комплексы под высокомерием, слабостью и эгоистичностью.</p>
+<p class="rtejustify">Уверенность в себе характерна для людей, которые объективно оценивают свои навыки и умения, необходимых для достижения целей. Уверенный в себе человек, смело выражает личное мнение, не обманывает и более защищен от невзвешенных, негативных поступков. Он адекватно реагирует на замечания и критику. Уверенная личность принимает людей такими, какими они есть.</p>
+<p class="rtejustify">Самоуверенный индивид стремится к доминированию над людьми. Это обосновывается авторитетом личности в обществе и его амбициями. Ему свойственны излишние самолюбие и обидчивость. Он часто вступает в споры и попадает в конфликтные ситуации.</p>
+<p class="rtejustify">Как же повысить свою уверенность?</p>
+<p class="rtejustify">Психологи утверждают: неважно, что происходило в вашей жизни раньше и заставило вас сомневаться в своих силах. Вы можете обрести уверенность в себе и изменить свою жизнь в лучшую сторону, если проделаете определенную работу над собой.</p>
+<p class="rtejustify">Определите свои уязвимые места. Что обычно заставляет вас переживать чувство неловкости и стыда? Это может быть любая мелочь, начиная от веснушек и заканчивая проступком, совершенным по глупости в ранней юности. Осознайте и выпишите на бумагу список факторов, влияющих на вашу самооценку. Постарайтесь вспомнить, когда впервые вы испытали дискомфорт, связанный с этими обстоятельствами. Возможно, вам запали в душу слова, давным-давно сказанные одноклассником, коллегой или первым партнером?</p>
+<p class="rtejustify">Сфокусируйтесь не на содержании замечания, а на причине, по которой оно было сделано. Что происходило в жизни этого человека и ваших взаимоотношениях, что он позволил себе грубо высказаться в ваш адрес?</p>
+<p class="rtejustify">Избавьтесь от привычки сравнивать свои успехи с достижениями окружающих не в свою пользу.</p>
+<p class="rtejustify">Всегда найдутся люди, которые в чем-то преуспели больше, чем вы. Как и те, кто лишен ваших талантов. Причем один и тот же человек может быть одновременно в чем-то хуже, а в чем-то лучше вас. Не забывайте, что на достижение успеха влияют не только личные усилия, но и физические, социальные, экономические причины.</p>
+<p class="rtejustify">Поэтому нет никакого смысла сравнивать себя с другими. Идеал недостижим.</p>
+<p class="rtejustify">Гораздо конструктивнее сравнивать только собственные достижения сегодняшнего и вчерашнего дня.</p>
+<p class="rtejustify">&nbsp;</p>
+<p class="rtecenter"><img alt="" src="/files/2021_02_08_MNF/poch.files/image001.jpg" /></p>
+<p class="rtecenter"><strong><em>Рисунок 1. Методы повышения самооценки</em></strong></p>
+<p class="rtejustify">&nbsp;</p>
+<div class="rtejustify">
+	<strong>Список литературы:</strong></div>
+<div class="rtejustify">
+	1.<span style="white-space:pre"> </span>Лекарство от неуверенности в себе. &ndash; [Электронный ресурс] &ndash; режим доступа. &ndash; URL: https://bookz.ru/authors/vladimir-salamatov/lekarstv_023/1-lekarstv_023.html (Дата обращения 29.01.2021).</div>
+<div class="rtejustify">
+	2.<span style="white-space:pre"> </span>Что за наука психология, что изучает и для чего используется. &ndash; [Электронный ресурс] &ndash; режим доступа. &ndash; URL: https://yandex.ru/turbo/s/propanika.ru/psihologiya/chto-eto-za-nauka-psihologiya-chto-izuchaet-i-dlya-chego-ispolzuetsya/?utm_source=turbo_turbo (Дата обращения 30.01.2021).</div>
+<div>
+	&nbsp;</div>
+					</div>
+			    </div>
+			</div><!-- /inner -->
+			<div class="article_footer">
+			    				<div class="similar"><h3>Похожие статьи</h3><ul><li><a href="/studconf/gum/15/51049">Маниакально-депрессивный психоз в XXI веке</a></li><li><a href="/studconf/gum/18/56619">Специфика проявления конфликтного поведения у агрессивных подростков</a></li><li><a href="/studconf/gum/6/38684">Оценка уровня адаптированности молодых солдат к условиям военной службы</a></li><li><a href="/studconf/gum/3/34179">Самооценка детей старшего дошкольного возраста с интеллектуальной недостаточностью</a></li><li><a href="/studconf/science/125/91113">Особенности связной речи у детей дошкольного возраста с общим недоразвитием речи</a></li></ul></div><div class="action clearfix"><a href="/archive/article/239?direction=2" class="btn">Больше статей</a></div>				<div class="content clearfix node-content">
+					<div id="vk_comments"></div>
+					<script type="text/javascript">
+                        setTimeout(
+                            function(){
+                                VK.Widgets.Comments("vk_comments", {limit: 10, attach: "*"}, "86960");
+                            }, 3000);
+                    </script>
+				</div>
+											</div>
+	<a href="/publikaciya-v-zhurnalah-rinc?utm_source=nf&utm_medium=banner&utm_campaign=articles"><img style="width:100%;height:auto;" src="/sites/default/files/publ_rinc.png" /></a></div>
+		                                  		                                </div><!-- /content-content -->
+		                                		                              </div><!-- /content-inner-inner -->
+		                            </div><!-- /content-inner -->
+		                          </div><!-- /content-region-inner -->
+		                        </div><!-- /content-region -->
 
-    ym(16443139, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true,
-        triggerEvent: true,
-        params: window.yaParams||{}
-    });
-</script>
-<noscript><div><img src="//mc.yandex.ru/watch/16443139" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+		                        	                        </div>
+	                      </div><!-- /content-group-inner -->
+	                    </div><!-- /content-group -->
 
-                                
+	                    	                  </div><!-- /main-content-inner -->
+	                </div><!-- /main-content -->
 
-<!-- google analytics -->
-<script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-8487723-7', 'rbc.ru');
-    ga('send', 'pageview');
-    ga('send', 'event', 'device', 'web', 0);
-
-            RA.config.set('counters.ga.extraPrefix', 'TAT');
-        ga('create', 'UA-38148393-1', 'rbc.ru', {'name': 'TAT', allowLinker: true});
-        ga('TAT.send', 'pageview');
-    </script>
-<!-- /google analytics -->
-                                    
-                        
-                            <!-- weborama -->
+	                <div id="postscript-top" class="postscript-top row nested ">
+<div id="postscript-top-inner" class="postscript-top-inner inner clearfix">
+<div id="block-block-18" class="block block-block odd first last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<!-- Begin Talk-Me {literal} -->
 <script type='text/javascript'>
-    var wamid = '2641'; /* Wam Account ID  */
-    var WeboCtxConf = {
-        token: "7ERywcaDGz1hXR0vQKwl", // mandatory !
-        setTargeting: true
-    };
-
-    var typ = '3';
-    var Wvar=[];
-    Wvar.push("domain",location.host);
-
-    (function() {
-        var bs = new Image(1, 1);
-        bs.src = 'https://dx.frontend.weborama.com/collect?touchpoint=0&url=' + escape(document.location);
-    })();
-
-    // include the wamfactory wildcard js
-    (function() {
-        var w = document.createElement("script");
-        w.type = "text/javascript";
-        w.src = document.location.protocol + "//cstatic.weborama.fr/js/wam/customers/wamfactory_dpm.wildcard.min.js?rnd="+new Date().getTime();
-        w.async = true;
-        var body = document.getElementsByTagName('script')[0];
-        body.parentNode.insertBefore(w,body);
-    })();
+	(function(d, w, m) {
+		window.supportAPIMethod = m;
+		var s = d.createElement('script');
+		s.type ='text/javascript'; s.id = 'supportScript'; s.charset = 'utf-8';
+		s.async = true;
+		var id = '86aa32a62a1735e38616a7a2d4f55110';
+		s.src = 'https://lcab.talk-me.ru/support/support.js?h='+id;
+		var sc = d.getElementsByTagName('script')[0];
+		w[m] = w[m] || function() { (w[m].q = w[m].q || []).push(arguments); };
+		if (sc) sc.parentNode.insertBefore(s, sc); 
+		else d.documentElement.firstChild.appendChild(s);
+	})(document, window, 'TalkMe');
 </script>
-<!-- /weborama -->                            <div class="g-counter">
-    <script>RA.config.set('counters.tns.tmsec', 'rbcru_news');</script>
+<!-- {/literal} End Talk-Me -->
+<script>
+(function(w,d,u){
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+})(window,document,'https://b24.sibac.info/upload/crm/site_button/loader_24_m79jia.js');
+</script>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div><!-- /postscript-top-inner -->
+</div><!-- /postscript-top -->
+	              </div><!-- /main-group-inner -->
+	        </div><!-- /main -->
 
-    <!-- tns-counter.ru -->
-    <script type="text/javascript">
-        (function(win, doc, cb){
-            (win[cb] = win[cb] || []).push(function() {
-                try {
-                    tnsCounterRbc_ru = new TNS.TnsCounter({
-                        'account':'rbc_ru',
-                        'tmsec': 'rbcru_news'
-                    });
-                } catch(e){}
-            });
+					</div><!-- /page -->
 
-            var tnsscript = doc.createElement('script');
-            tnsscript.type = 'text/javascript';
-            tnsscript.async = true;
-            tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') +
-            '//www.tns-counter.ru/tcounter.js';
-            var s = doc.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(tnsscript, s);
-        })(window, this.document,'tnscounter_callback');
-    </script>
-    <noscript>
-        <img src="//www.tns-counter.ru/V13a****rbc_ru/ru/UTF-8/tmsec=rbcru_news/" width="0" height="0" alt="" />
-    </noscript>
-    <!--/ tns-counter.ru -->
+	  	<div id="footer"><div class="footer-wrap"><div id="block-menu-menu-footer-menu" class="block block-menu odd first">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<ul class="menu"><li class="expanded first"><span>О нас</span><ul class="menu"><li class="leaf first"><a href="/about" title="">Об издательстве</a></li>
+<li class="leaf"><a href="/reviews" title="">Отзывы</a></li>
+<li class="leaf"><a href="/news" title="">Новости</a></li>
+<li class="leaf last"><a href="/contacts" title="">Контакты</a></li>
+</ul></li>
+<li class="expanded"><span>Полезная информация</span><ul class="menu"><li class="leaf first"><a href="/payment" title="">Оплата</a></li>
+<li class="leaf"><a href="/rules-writing-articles" title="">Требования к оформлению статьи</a></li>
+<li class="leaf"><a href="/oferta" title="">Договор оферты</a></li>
+<li class="leaf last"><a href="/policy" title="">Политика обработки персональных данных</a></li>
+</ul></li>
+<li class="expanded last"><span>О публикации статей</span><ul class="menu"><li class="leaf first"><a href="/blog" title="">Блог издательства</a></li>
+<li class="leaf"><a href="/gde-mozhno-opublikovat-statyu-studentu" title="">Где можно опубликовать статью студенту</a></li>
+<li class="leaf last"><a href="/publikaciya-statej-magistrantov" title="">Публикация статей магистрантов</a></li>
+</ul></li>
+</ul>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --><div id="block-block-2" class="block block-block even  last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<div class="counter-footer"><div class="left counter">
+	<a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="license nofollow" target="_blank"><img alt="Лицензия Creative Commons" src="https://licensebuttons.net/l/by/4.0/88x31.png" style="border-width:0" /></a></div>
+<div class="left counter" style="width: 70px;">
+	<img src="/sites/default/files/16.png" width="32" height="32" />
 </div>
-<!-- tns-counter.ru -->
+</div>
+<div class="right vk-footer">
+	<a href="https://vk.com/nauchforumsk" rel="nofollow" target="_blank" class="left" style="margin-right: 20px;display: inline-block;vertical-align: middle;">Наше издательство<br>в социальных сетях: </a>&nbsp;<a class="vk_group" href="https://vk.com/nauchforumsk" rel="nofollow" target="_blank">vk</a></div>
+<div class="creativecommons">
+	Все права защищены - 2022 Международный Центр Науки и Образования Это произведение доступно по <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="license nofollow" target="_blank">лицензии Creative Commons &laquo;Attribution&raquo; (&laquo;Атрибуция&raquo;) 4.0 Непортированная</a>. <a href="/sitemap">Карта сайта</a></div>
+<div class="clearfix"></div>
+<div class="jornal_register">
+	Научном журнал «Студенческий форум» издается 4 раза в месяц. Журнал зарегистрирован Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор), регистрационный номер: ЭЛ № ФС77-66232 от 01.07.2016 г. Учредитель: ООО "МЦНО".<br /> Главный редактор: Лебедева Надежда Анатольевна
+</div>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div></div>		<div class="no-print">
+			<div class="left_hover"><a href="#" id="up"><span>Наверх</span></a></div>
+						<div style="display:none"><div id="block-block-27" class="block block-block odd first">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<!-- Rating@Mail.ru counter -->
 <script type="text/javascript">
-    (new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*tatmedia_ru/ru/UTF-8/tmsec=rtrbc_total/' + Math.round(Math.random()*1E9);
-</script>
-<noscript>
-    <img src="//www.tns-counter.ru/V13a****tatmedia_ru/ru/UTF-8/tmsec=rtrbc_total/" width="1" height="1" alt="" />
-</noscript>
-<!--/ tns-counter.ru -->
-                            <!-- SMI2 pixel -->
-<script type="text/javascript">
-    var ttagsmi2_data = {
-        tag: 20300,
-        ver: 2,
-        format: 'pixel',
-        cdt: '2016-12-22 12:59:14'
-    };
-    (function() {
-        var sc = document.createElement('script');
-        sc.type = 'text/javascript';
-        sc.async = true;
-        sc.src = '//target.smi2.net/client/ttag.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(sc, s);
-    }());
-</script>
-<!-- / SMI2 pixel -->
-                <script>
-    function f (cookie) {
-        try {
-            const projectUrl = RA.config.get('projectUrl');
-            const url = projectUrl + '/set-adriver-cookie?adrcid=' + cookie;
-            fetch(url, {
-                method: 'GET'
-            });
-            console.log(url);
-        } catch (error) {
-            console.error('Error: ', error);
-        }
-    }
-</script>
-<script type="text/javascript">
-    const splituid = document.cookie.match(/splituid=(.+?)(;|$)/)[1] || '';
-    (function() {
-        const sc = document.createElement('script');
-        sc.type = 'text/javascript';
-        sc.async = false;
-        sc.src = 'https://content.adriver.ru/AdRiverFPS.js';
-        sc.setAttribute('data-adriverfps', '');
-        sc.setAttribute('data-id1', splituid);
-        sc.setAttribute('data-id2', '');
-        sc.setAttribute('data-id3', '');
-        const s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(sc, s);
-    }());
-</script>
-
-<script type="text/javascript">
-    (function(t){function r(){var t=function(r,e){if(!(this instanceof AdriverCounter))return t.items[r];t.urlParams=t.getUrlParameters(),void 0!==t.urlParams.adrclid&&(e.fsid=t.urlParams.adrclid);var n=t.gC("adrcid");n&&(void 0===e.custom&&(e.custom={}),e.custom[300]=n),r=t.items.length||1,t.items[r]=this,e.ph=r,e.custom&&(e.custom=t.toQueryString(e.custom,";")),t.request(t.toQueryString(e))};return t.httplize=function(t){return(/^\/\//.test(t)?location.protocol:"")+t},t.loadScript=function(t){try{var r=e.getElementsByTagName("head")[0],n=e.createElement("script");n.setAttribute("type","text/javascript"),n.setAttribute("referrerpolicy","no-referrer-when-downgrade"),n.setAttribute("charset","windows-1251"),n.setAttribute("src",t.split("![rnd]").join(Math.round(1e6*Math.random()))),n.onreadystatechange=function(){/loaded|complete/.test(this.readyState)&&(n.onload=null,r.removeChild(n))},n.onload=function(){r.removeChild(n)},r.insertBefore(n,r.firstChild)}catch(t){}},t.toQueryString=function(t,r,e){r=r||"&",e=e||"=";var n,i=[];for(n in t)t.hasOwnProperty(n)&&i.push(n+e+encodeURIComponent(t[n]));return i.join(r)},t.request=function(r){var e=t.toQueryString(t.defaults);t.loadScript(t.redirectHost+"/cgi-bin/erle.cgi?"+r+"&rnd=![rnd]"+(e?"&"+e:""))},t.getUrlParameters=function(){var t,r=location.search.substring(1).split("&"),e={};for(var n in r)t=r[n].split("="),void 0!==t[0]&&void 0!==t[1]&&(e[t[0]]=t[1]);return e},t.gC=function(t){var r=document.cookie.match("(^|;) ?"+t+"=([^;]*)(;|$)");return r?unescape(r[2]):null},t.items=[],t.defaults={tail256:document.referrer||"unknown"},t.redirectHost="https://ad.adriver.ru",t.urlParams={},t}var e=document;"undefined"==typeof AdriverCounter&&(AdriverCounter=r()),new AdriverCounter(0,t)})
-    ({sid:223264, bt:62, custom:{10:'news_id',11:'reserve_id'}});
-</script>
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2944459", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=2944459;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
 
 <script>
-    function runSubscribe(counterParam = 0) {
-        const tryCount = 10;
-        const retryTimeout = 3000;
+							$( window ).load(function(){
+					if(typeof getCookie('_ga') != "undefined"){
+						var user_id = md5(getCookie('_ga').split('.')[2]+'.'+getCookie('_ga').split('.')[3]); 
+						ga('set', 'userId', "'"+user_id+"'");
+						var dimensionValue = user_id;
+						ga('set', 'dimension2', dimensionValue);
+												ga('send', 'pageview');	
+											}else{
+												ga('send', 'pageview');
+					}
+				});
+						</script><!-- Код тега ремаркетинга Google --><script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 968443882;
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+			</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968443882/?value=0&amp;guid=ON&amp;script=0"/>
+			</div>
+			</noscript>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div>					</div>
+	</div>
 
-        if (counterParam < tryCount) {
-            if (window.AFPS) {
-                window.AFPS.subscribe(f);
-            }
-            else {
-                setTimeout(() => runSubscribe(counterParam + 1), retryTimeout);
-            }
-        }
-    }
-
-    runSubscribe();
-</script>
-<!--  AdRiver code END  -->                <script async src="https://cdn.onthe.io/io.js?k6rtDKrNVwkr"></script>
-                <script>
-    window._io_config = window._io_config || {};
-    window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
-    window._io_config["0.2.0"].push({
-        page_url: location.href,
-        page_url_canonical: location.protocol + '//' + location.host + location.pathname,        page_title: document.getElementsByTagName('title')[0].innerHTML,
-        page_language: "ru",
-            page_type: "main",
-    });
-</script>                <!--LiveInternet counter-->
-<script type="text/javascript"><!--
-new Image().src = "//counter.yadro.ru/hit;RBCRU/TATARSTAN?r"+
-escape(document.referrer)+((typeof(screen)=="undefined")?"":
-";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
-        screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-";"+Math.random();//--></script>
-<!--/LiveInternet-->
-<script type="text/javascript">
-RA.config.set('counters.li.id', 'RBCRU/TATARSTAN');
-</script>
-
-                        
-        
-    </div>
-
-                <script type="text/javascript">
-    RA.config.set('banners.refreshConfig', [{"place_name":"after_topline","refresh_timeout":1,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"in_newsline","refresh_timeout":5,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"right_1","refresh_timeout":10,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"right_2","refresh_timeout":10,"max_refresh_count":999,"activation":"on_doscroll","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"firstpage_native","refresh_timeout":1,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"firstpage_native_ps1","refresh_timeout":1,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"branding","refresh_timeout":1,"max_refresh_count":999,"activation":"instant","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"right_spec_auto","refresh_timeout":1,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"right_spec_realty","refresh_timeout":1,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"mobile_before_topline","refresh_timeout":5,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"mobile_main","refresh_timeout":5,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"mobile_after_topline","refresh_timeout":5,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false}]);
-    RA.config.set('banners.preroll', {"live":"","content_video":"https:\/\/pubads.g.doubleclick.net\/gampad\/ads?iu=\/52237517\/RBC_video_content&description_url=https%3A%2F%2Fwww.rbc.ru&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x360|640x480&cust_params=domain%3Dm_rbc_ru%2Crbc_ru&max_ad_duration=30000&vpos=preroll&unviewed_position_start=1","live_add_puid":false,"content_video_add_puid":false});
-</script>
-        <script>
-    RA.config.set('rightBlock.url', 'https://rusfond.ru/rbc');
-    RA.config.set('rightBlock.img', 'https://s0.rbk.ru/v6_top_pics/media/img/5/83/756443068537835.gif');
-</script>
-                <script src="/dfp_site"></script>
-    
-                <script src="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.4.53/scripts/build/_gt-targeting-index.js"></script>
-    
-                <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
-<script>
-    RA.config.set('loginfo.urls', []);
-    RA.config.set('banners.staticPath', '//s.rbk.ru/v2_rbcbanners_static/rbcbanners-1.190/');
-</script>
-
-    <script src="//s.rbk.ru/v2_rbcbanners_static/rbcbanners-1.190/build/_core.js"></script>
-
-
-
-
-    
-            <script>
-    RA.config.set('domainAuth', 'https://auth.rbc.ru');
-    RA.config.set('domainApigw', 'https://apigw.rbc.ru');
-    RA.config.set('paywall.staticPath', '//s.rbk.ru/v2_paywall_static/paywall-2.1.105/');
-</script>
-<script src="//s.rbk.ru/v2_paywall_static/paywall-2.1.105/scripts/build/_paywall.js"></script>
-
-    
-    <script id="js_common_script" src="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/scripts/build/_common.js" data-param="23"></script>
-
-                <script src="//s.rbk.ru/v10_rbcnews_static/common/common-10.8.91/scripts/build/_main.js"></script>
-            <div class="push-allow js-push-allow"></div>    <script src="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.4.53/scripts/build/_main.js"></script>
-        <script src="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.4.53/scripts/build/_index.js"></script>
-
-            <script>
-    window.__infoservice_build_type = 'production';
-    window.__infoservice_static_path = '//s.rbk.ru/v10_rbcnews_static/info-service/1.4.10/';
-    window.__infoservice_service_path = '/info-service/api/v2/ev/';
-</script>
-
-<script id="js_rm_core_script" src="//s.rbk.ru/v10_rbcnews_static/info-service/1.4.10/build/_core.js" async></script>
-<noscript><img src="/info-service/api/v2/noscripts" loading="eager" alt="" style="border:0; position:absolute; left:-9999px;"></noscript>
-
-
-
-    
-                <script>
-            window.RA.repo.banner.init();
-        </script>
-        
-    <!--AB: ab05554:Z; -->
-    <!-- NoVideo: off -->
+    <!--div class="info_message">
+        <div class="container inside_message">
+            <div class="close_info"></div>
+            <p>Уважаемые коллеги, издательство "Научный форум" с 30 марта по 30 апреля работает в обычном режиме</p>
+        </div>
+    </div-->
 </body>
 </html>

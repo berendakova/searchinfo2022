@@ -1,1252 +1,442 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 
-  
-  
-  
-  
-  
+  <title>Характеристика психологического здоровья подростков | nauchforum.ru</title>
+  <meta name="robots" content="noindex"><meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Панина Я.А., Кихтенко А.Е. Характеристика психологического здоровья подростков // CXXIX Студенческая международная научно-практическая конференция «Молодежный научный форум»">
+<meta property="og:image" content="https://nauchforum.ru/themes/mix_and_match/images/logo.jpg" />
+<link rel="canonical" href="https://nauchforum.ru/studconf/science/129/92869" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_4371039c69b8629c8f5152a51c652980_88.css" />
+    <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie8-fixes.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie8-fixes.css?n" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie7-fixes.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie7-fixes.css?n" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie6-fixes.css?n"/>
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie6-fixes.css?n"/>
+  <![endif]-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_9467b9fb9f2f6e62446dd1506332229a_34.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"","slideshowStop":"","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%"},"cron":{"basePath":"\/poormanscron","runNext":1645972345}});
+//--><!]]>
+</script>
 
-  
-    
-  
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link type="image/png" sizes="16x16" rel="icon" href="/favicon_16.png">
+    <link type="image/png" sizes="32x32" rel="icon" href="/favicon_32.png">
+    <link type="image/png" sizes="96x96" rel="icon" href="/favicon_96.png">
+    <link type="image/png" sizes="120x120" rel="icon" href="/favicon_120.png">
 
-  
-
-  
-    
-    
-    
-    
-    
-    
-    
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  
-  
-
-  
-  
-    <!DOCTYPE html><!-- GO-GO-GO! ;-) --><html prefix="og: https//ogp.me/ns#" class="country-ru" lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="referrer" content="unsafe-url"><meta name="theme-color" content="#222"><link rel="dns-prefetch" href="//a.lmcdn.ru"><link rel="dns-prefetch" href="//z.lmcdn.ru"><link rel="dns-prefetch" href="//www.gstatic.com"><link rel="dns-prefetch" href="https://fcm.googleapis.com"><link rel="apple-touch-icon" href="https://a.lmcdn.ru/static/permanent/icons/v2/apple-touch-icon.png"><link rel="icon" href="https://a.lmcdn.ru/static/permanent/icons/v2/favicon.ico" type="image/x-icon"><title>Интернет магазин одежды и обуви. Купить обувь, купить одежду, аксессуары в онлайн магазине Lamoda.ru</title><meta name="description" content="В интернет-магазине одежды и обуви Lamoda Вас ждут ТЫСЯЧИ моделей модной брендовой мужской, женской и детской обуви и одежды разных размеров! Профессиональная команда стилистов интернет-магазина отбирает по всему миру самые последние новинки обуви и одежды с учетом трендов индустрии моды!"><meta property="og:description" content="В интернет-магазине одежды и обуви Lamoda Вас ждут ТЫСЯЧИ моделей модной брендовой мужской, женской и детской обуви и одежды разных размеров! Профессиональная команда стилистов интернет-магазина отбирает по всему миру самые последние новинки обуви и одежды с учетом трендов индустрии моды!"><meta property="og:image" content="https://a.lmcdn.ru/static/permanent/icons/social-logo.jpg"><meta property="og:image:type" content="image/jpeg" /><meta property="og:site_name" content="Lamoda.ru"><meta property="og:title" content="Интернет магазин одежды и обуви. Купить обувь, купить одежду, аксессуары в онлайн магазине Lamoda.ru"><meta property="og:type" content="website"><meta property="og:url" content="https://www.lamoda.ru/"><link rel="canonical" href="https://www.lamoda.ru/"><link rel="alternate" hreflang="ru-by" href="https://www.lamoda.by/"><link rel="alternate" hreflang="ru-kz" href="https://www.lamoda.kz/"><link rel="alternate" hreflang="ru-ru" href="https://www.lamoda.ru/"><link rel="alternate" hreflang="ru-ua" href="https://www.lamoda.ua/"><meta name="robots" content="INDEX, FOLLOW"><link rel="alternate" href="android-app://com.lamoda.lite/lamoda/ru/?utm_source=app_indexing"><style>/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}template{display:none}[hidden]{display:none}*{-webkit-tap-highlight-color:transparent}body,html{height:100%}body{color:#000;background:#fff;font:13px/16px 'CoFo Sans Lamoda',sans-serif}body{color:var(--labelColor);background:var(--backgroundColor)}a{-webkit-tap-highlight-color:transparent;-webkit-focus-ring-color:transparent;outline:0;text-decoration:none}a[data-link]{cursor:pointer}ol,ul{list-style:none;padding:0}blockquote,q{quotes:none}table{border-collapse:collapse;border-spacing:0}caption,td,th{text-align:left;font-weight:400}input[type=email]::-webkit-input-placeholder,input[type=password]::-webkit-input-placeholder,input[type=subscribe-email]::-webkit-input-placeholder,input[type=tel]::-webkit-input-placeholder,input[type=text]::-webkit-input-placeholder,textarea::-webkit-input-placeholder{font-family:inherit;font-size:14px;color:#888}input[type=email],input[type=password],input[type=subscribe-email],input[type=tel],input[type=text],textarea{font-family:inherit;font-size:14px}input[type=number]{-moz-appearance:textfield}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}[v-cloak]{display:none!important}#cto_cookies_header_message,.criteo_header{display:none!important;visibility:hidden!important;font-size:0}p{margin:0}button{outline:0;border:0;background-color:transparent}@custom-media --landscape screen and (orientation: landscape);@custom-media --phone-s-viewport screen and (min-width: 320px);@custom-media --phone-m-viewport screen and (min-width: 480px);@custom-media --phone-l-viewport screen and (min-width: 600px);@custom-media --phone-viewport-only screen and (max-width: 767px);@custom-media --tablet-viewport screen and (min-width: 768px);@custom-media --desktop-viewport screen and (min-width: 992px);@custom-media --wide-viewport screen and (min-width: 1246px);@custom-media --prefer-dark (prefers-color-scheme: dark);@custom-media --desktop-hover (hover: hover) and (pointer: fine);:root{--labelColor:#000;--labelColorHover:#888;--secondaryLabelColor:#888;--secondaryLabelColorTransparent:#8880;--disabledColor:#e5e5e5;--backgroundColor:#fff;--secondaryBackgroundColor:#f5f5f5;--galleryBackgroundColor:#f9f9f9;--badgeForegroundColor:#fff;--primaryColor:#2796ff;--primaryColorHover:#0060d2;--primaryColorNew:#000;--primaryColorNewHover:#888;--primaryShadowColor:#90cfff;--linkTextColor:#2796ff;--linkTextColorHover:#0060d2;--secondaryColor:#e9f4ff;--secondaryColorHover:#cae5ff;--attentionColor:#c20000;--actionColor:#f93c00;--actionColorHover:#db0d00;--successColor:#00a200;--additionalColor:#45ce5b;--overlayDarkColor:rgba(0, 0, 0, 0.9);--overlayLightColor:rgba(255, 255, 255, 0.8);--overlayLightColor50:rgba(255, 255, 255, 0.5);--overlayIconsBackground:rgba(0, 0, 0, 0.2);--facebookColor:#385185;--twitterColor:#1da1f2;--vkontakteColor:#4c6c91;--revoColor:#ff671d;--gpBlue:#4285f4;--mailruBlue:#168de2;--badgePremium:#000;--fontSizeAccident:40px/44px 'CoFo Sans Lamoda',sans-serif;--fontSizeHeadLine:24px/32px 'CoFo Sans Lamoda',sans-serif;--fontSizeSubLine:16px/20px 'CoFo Sans Lamoda',sans-serif;--fontSize:13px/16px 'CoFo Sans Lamoda',sans-serif;--fontSizeCaption:11px/16px 'CoFo Sans Lamoda',sans-serif;--fontSizeSmall:9px/16px 'CoFo Sans Lamoda',sans-serif;--fontSizeAccidentBold:bold 40px/44px 'CoFo Sans Lamoda',sans-serif;--fontSizeHeadLineBold:bold 24px/32px 'CoFo Sans Lamoda',sans-serif;--fontSizeSubLineBold:bold 16px/20px 'CoFo Sans Lamoda',sans-serif;--fontSizeBold:bold 13px/16px 'CoFo Sans Lamoda',sans-serif;--fontSizeCaptionBold:bold 11px/16px 'CoFo Sans Lamoda',sans-serif;--listMargin:0 0 4px;--paragrafMargin:0 0 8px;--lineHeight:1.25;--maxLayout:1200px;--desktopLayout:960px;--minLayout:320px;--padding:16px;--bottomBarHeight:56px;--focusBox:0 0 4px var(--primaryColor);--errorBox:0 0 4px var(--attentionColor);--animationDuration:300ms;--animationHeartbeatOnce:heartbeat 0.6s 1;--animationHeartbeatInfinite:heartbeat 0.6s infinite;--separatorColor:#e5e5e5;--secondaryBorderColor:#000;--thinBorderWidth:1px;--thickBorderWidth:4px;--thinBorder:var(--thinBorderWidth) solid var(--separatorColor);--thickBorder:var(--thickBorderWidth) solid var(--separatorColor);--thinSecondaryBorder:var(--thinBorderWidth) solid var(--secondaryBorderColor);--middleSecondaryBorder:2px solid var(--secondaryBorderColor);--thickSecondaryBorder:var(--thickBorderWidth) solid var(--secondaryBorderColor);--additionalDarkBlueColor:#3c5064;--additionalBlueColor:#4178aa;--additionalGoldColor:#a5825f;--additionalMintColor:#a5d2a0;--additionalPaleBlueColor:#cde6ff;--additionalPalePinkColor:#ffd7d2;--additionalBlue20FlatColor:#d9e4ee;--additionalLightPaleBlueColor:#e9f4ff;--shadowBox:0 0 8px rgba(0, 0, 0, 0.16);--shadowColor:transparent;--shadowPopupBox:0 2px 48px rgba(0, 0, 0, 0.24);--shadowPremiumHeader:0 2px 8px 0 rgba(0, 0, 0, 0.08);--productImageAspectRatio:0.694;--zIndexSticky:3;--zIndexStickyFilters:10;--zIndexStickySearchBar:12;--zIndexPremium:32;--zIndexPopover:10000;--zIndexBottomBar:15000;--zIndexCookieNotify:16000;--zIndexSidebar:20000;--zIndexModal:20000;--zIndexDesktopSidebar:20002}@keyframes heartbeat{20%{transform:scale(.9)}40%{transform:scale(1)}}</style><link rel="stylesheet" href="//a.lmcdn.ru/static/22.02.11/modern/common.css"><link rel="stylesheet" href="//a.lmcdn.ru/django/d/ru/22.02.11/css/page.css"><link rel="stylesheet" href="//a.lmcdn.ru/static/22.02.11/modern/app.css"><link rel="stylesheet" href="//a.lmcdn.ru/django/d/ru/22.02.11/css/index.css"><script type="text/javascript">
-  (function(){
-    var path = window.location.pathname.split('/')[1];
-    var pageType = 'other_page';
-    switch (path) {
-    case '':
-        pageType = 'main_page';
-        break;
-    case 'men-home':
-        pageType = 'men_page';
-        break;
-    case 'women-home':
-        pageType = 'women_page';
-        break;
-    case 'kids-home':
-        pageType = 'kids_page';
-        break;
-    case 'home-app-men':
-        pageType = 'app-men_page';
-        break;
-    case 'home-app-women':
-        pageType = 'app-women_page';
-        break;
-    case 'home-app-kids':
-        pageType = 'app-kids_page';
-        break;
-    case 'home-premium-men':
-        pageType = 'premium-men_page';
-        break;
-    case 'home-premium-women':
-        pageType = 'premium-women_page';
-        break;
-    case 'p':
-        pageType = 'product_page';
-        break;
-    case 'c':
-    case 'cs':
-    case 'sp':
-    case 'a':
-    case 'outlet':
-    case 'novinki':
-    case 'b':
-    case 'cb':
-    case 'bg':
-    case 'action':
-        pageType = 'catalog_page';
-        break;
-    case 'catalogsearch':
-        pageType = 'search_page';
-        break;
-    case 'login':
-        pageType = 'login';
-        break;
-    case 'customer':
-        pageType = 'personal_page';
-        break;
-    case 'customer' && 'account' && 'loyalty_program':
-        pageType = 'loyalty_page';
-        break;
-    case 'wishlist' && 'shared':
-        pageType = 'shared_list_page';
-        break;
-      case 'wishlist' && 'filters':
-        pageType = 'my_filter';
-        break;
-    case 'wishlist':
-        pageType = 'wishlist_page';
-        break;
-    case 'sales' && 'order' && 'view':
-        pageType = 'order_view_page';
-        break;
-    case 'sales' && 'order' || 'current':
-        pageType = 'order_history_page';
-        break;
-    case 'blog':
-        pageType = 'blog_page';
-        break;
-    case 'looks':
-        pageType = 'get_the_look_page';
-        break;
-    case 'lp':
-        pageType = 'lp_page';
-        break;
-    case 'ed':
-        pageType = 'ed_page';
-        break;
-    case 'help':
-        pageType = 'help_page';
-        break;
-    case 'lamodastylist':
-        pageType = 'stylist_landing_page';
-        break;
-    case 'discovery-women':
-      pageType = 'discovery_hub_women';
-      break;
-    case 'discovery-men':
-      pageType = 'discovery_hub_men';
-      break;
-    case 'paymentform':
-      pageType = 'payment_form';
-      break;
-    case 'checkout':
-      pageType = 'checkout_page';
-      break;
-    case 'instashopping':
-      pageType = 'instashopping';
-      break;
-    case 'home-sport-women':
-        return 'sport-women';
-    case 'home-sport-men':
-      return 'sport-men';
-    case 'home-sport-kids':
-      return 'sport-kids';
-    case 'home-beauty':
-      return 'beauty';
-    case 'home-beauty-women':
-      return 'beauty-women';
-    case 'home-beauty-men':
-      return 'beauty-men';
-    case 'home-beauty-kids':
-      return 'beauty-kids';
-    default:
-        pageType = 'other_page';
-        break;
-    }
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" />
 
     
-    try {
-        var adBlocker;
-        var adScript = document.createElement('script');
-        adScript.async = true;
-        adScript.src = "//a.lmcdn.ru/static/permanent/libs/ad-blocker.js"
-        var a = document.getElementsByTagName('script')[0];
-        a.parentNode.insertBefore(adScript, a);
-        adScript.onload = function() { adBlocker = '0' };
-        adScript.onerror = function() { adBlocker = '1' };
-        window.addEventListener("load", function(event) { 
-          if (adBlocker) {
-            window.document.cookie = "lmda_adBlocker=" + adBlocker + "; path=/";
-          }
-        });
-    } catch (error) {
-      console.error(error);
-    }
-    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    var splitBuckets = 'v3-81-05-00-041214-041215-031216-011217-101218-091219-101220-011221-121222-041223-021224-061225-081226-101227-061228-031229-071230-051231-111232-071233-081234-111235-051236-051237-111238-051239-111240-061241-051242-051243-061244-041245-081246-051247-011248-011249-081250-121251-051252-101253-041254-061255-031256-121257-011258-111259-011260-031261-051262-091263-081264-091265-041266-061267-101268-011269-101270-091271-061272-091273-021274-061275-111276-071277-041278-071279-011280-051281-121282-051283-041284-081285-051286-021287-031288-081289-021290-121291-071292-091293';
-    var ab = '2676,2679,2694,2689,2633,2686,2653';
-    var cid = '' || 0;
-    var pageOpen = {
-      action: 'pageopen',
-      type: pageType,
-      lid: '9C02406461260662AA3F4C520243C846',
-      ab: ab,
-      ab_experiments: ab,
-      ab_error: splitBuckets ? 0 : 1,
-      customer_id: cid,
-      auth_customer_id: cid,
-      split_buckets: splitBuckets,
-      referrer: document.referrer,
-      request_lid: '9C02406461260662AA3F4C520243C846',
-      url: window.location.href,
-      is_webview: Number('False' === 'True'),
-      isPWA: Number((window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) ||
-          !!(navigator && navigator.standalone)),
-      platform: 'go',adblock: '',version: '1.0.0'
-    };
-    var params = [];
-    for (var prop in pageOpen) {
-    if (pageOpen.hasOwnProperty(prop)) {
-        params.push(prop + '=' + encodeURIComponent(pageOpen[prop]));
-    }
-    }
-    (new Image).src = '//z.lmcdn.ru/ru/desktop?' + params.join('&');
-    })();
-</script><script>var repeatCounter, prevValueToSend, sendTimeoutId;
-window.onerror = function(msg, url, line, column, oErr){
-    var valueToSend, i, args = ['msg=','url=','stk='];
-
-    url += ':' + line;
-    if(parseInt(column) >= 0){
-        url += ':' + column;
-    }
-    valueToSend = [msg, url, oErr && oErr.stack ? oErr.stack : ''];
-    for(i =  args.length; i--;){
-        args[i] += encodeURIComponent(valueToSend[i]);
-    }
-    valueToSend = ('//z.lmcdn.ru/site/error/js/' + location.hostname + '/' + args.join('&')).slice(0, 2000);
-    /*.
-        
-        
-    */
-    if(prevValueToSend !== valueToSend){
-        prevValueToSend = valueToSend;
-        repeatCounter = 0;
-        (new Image).src = valueToSend;
-        sendTimeoutId = null;
-    } else if (repeatCounter < 5){
-        repeatCounter++;
-        clearTimeout(sendTimeoutId);
-        sendTimeoutId = setTimeout(function(){
-            (new Image).src = valueToSend + '&rep=' + repeatCounter;
-        },100);
-    }
-};
-
-try{
-    if (document.location.pathname.indexOf('/paymentassist/') === 0 &&
-        self.parent.document.location.pathname === '/checkout/cart/') {
-        (new Image).src = '//z.lmcdn.ru/site/error/iframe/' + location.hostname + '/?' + [
-            'rf=' + encodeURIComponent(document.referrer),
-            'to=' + encodeURIComponent(location),
-            'msg=bad_success_in_iframe'
-        ].join('&');
-    }
-}catch(e){};
-
-var LMDA = window.LMDA || {};
-</script><script>
-    window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);
-;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"d9c7f18912",applicationID:"114144954",sa:1}</script><script>LMDA = window.LMDA || {}; LMDA.GO = true;</script><script>LMDA.apix = LMDA.apix || {}; LMDA.apix.prism = LMDA.apix.prism || {};
-LMDA.apix.prism.lidinfo = {"customer-id":null,"customer-segments":{},"favorite_brands":[],"gender":null,"new-customer":false,"price-segment":null,"product-view-history":[],"shoe-size":{}};
-</script><script>LMDA.country = {
-    "currency":"₽",
-    "site":"ru",
-    "staticRoot":"//a.lmcdn.ru/django/d/ru/22.02.11/",
-    "requireBaseUrl":"js\/modules\/",
-    "gitRevision":"22.02.11",
-    "size":"RUS",
-    "supportMail":"help@lamoda.ru",
-    "phone":{
-        "code":"+7",
-        "mask":"(999) 999-99-99",
-        "mask_mobile_sample":"1234567891",
-        "length":"10,11",
-        "maskSample":"(999) 999-99-99",
-        "mask_mobile":"9999999999"
-    }};
-LMDA.country.phone.list = "";
-</script><script>
-(function() {
-    LMDA.device = LMDA.device || {};
-    var root = document.documentElement,
-        classList = [],
-        classListAdd = [],
-        classListRemove = [];
-
-    LMDA.device.is_high_quality_image = (
-        LMDA.device.network != "slow" &&
-        (
-            ( root.clientWidth < 992 && window.devicePixelRatio >= 3 ) ||
-            ( root.clientWidth >= 992 )
-        )
-    );
-
-    LMDA.device.high_quality_image = function (imgSrc) {
-        if (LMDA.device.is_high_quality_image) {
-            return imgSrc.replace('img389x562','product').replace('236x341','389x562').replace('46x66','135x194');
+        function getCookie(name) {
+            var matches = document.cookie.match(new RegExp(
+                "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+            ));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
         }
-        return imgSrc;
-    };
+        ga('create', 'UA-36139972-1', 'auto');
+            </script>
 
-    if (LMDA.device.is_high_quality_image) {
-        LMDA.device.isRetina = true;
-        classListAdd.push("html_retina")
-    } else {
-        LMDA.device.isRetina = false;
-    }
 
-    if ('ontouchstart' in root) {
-        LMDA.device.isTouch = true;
-        LMDA.isTouch = true; 
-        classListAdd.push("html_touch", "touch"); 
-    } else {
-        LMDA.device.isTouch = false;
-        classListAdd.push("html_not-touch", "not-touch"); 
-    }
+    <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,600,700&amp;subset=latin,cyrillic" rel="stylesheet" />
 
-    LMDA.device.network = "fast";
-    var tcpInfo = "57293, 48826, 37208";
-    if (tcpInfo) {
-        var rtt = parseInt(tcpInfo.split(", ")[2]);
-    }
-    if (rtt > 75000) {
-        LMDA.device.network = "slow";
-    } else if (rtt > 25000 ) {
-        LMDA.device.network = "normal";
-    }
-    classListAdd.push('html_network-' + LMDA.device.network);
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-189650-dWQmR';</script>
 
-    function recalc () {
+  <!-- Put this script tag to the <head> of your page -->
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?53"></script>
+<script type="text/javascript">
+  VK.init({apiId: 3403539, onlyWidgets: true});
+</script>
+  <script type="text/javascript" src="//vk.com/js/api/share.js?94" charset="windows-1251"></script>
 
-        var orientation = (window.innerHeight > window.innerWidth) ? "portrait" : "landscape";
-        if (LMDA.device.orientation && LMDA.device.orientation != orientation) {
-            classListRemove.push('html_' + LMDA.device.orientation);
-        }
-        LMDA.device.orientation = orientation;
-        classListAdd.push('html_' + orientation);
+</head>
 
-        var size  = "desktop",
-            width = window.innerWidth;
-        if (width < 768) {
-            size = "phone";
-        } else if (width < 992) {
-            size = "tablet";
-        } else if (width > 1245) {
-            size = "wide";
-        }
-        if (LMDA.device.size && LMDA.device.size != size) {
-            classListRemove.push('html_' + LMDA.device.size);
-            
-            if (LMDA.device.size == "wide") {
-                classListRemove.push("widescreen");
-                LMDA.isWidescreen = false;
-            }
-        }
-        LMDA.device.size = size;
-        classListAdd.push('html_' + size);
-        
-        if (size == "wide") {
-            classListAdd.push("widescreen");
-            LMDA.isWidescreen = true;
-        }
+<body id="pid-studconf-science-129-92869" class="not-front not-logged-in page-node node-type-article no-sidebars i18n-ru full-node layout-main sidebars-split font-size-16 grid-type-960 grid-width-16 gray green-accents gray-footer green-headers default-links default-corners">
+	<div id="container">
+		<div id="header" class="header full-width ">
+			<div id="header-group-inner" class="header-group-inner inner clearfix">
+                <div id="logo">
+                    <a href="/" title="Главная"></a>
+                                    </div>
+	           	<div id="search-box" class="search-box block">
+<div id="search-box-inner" class="search-box-inner inner clearfix">
+<form action="/studconf/science/129/92869"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search">
+  <div id="search-input">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-header" size="15" title="Введите ключевые слова для поиска." value="" placeholder="Поиск по сайту..." class="form-text" />
+  </div>
 
-        classList = root.className.split(" ");
+  <div id="search-button">
+    <input type="submit" name="op" value="" id="edit-submit-2" class="searchButton"  alt="Поиск" />
+  </div>
 
-        var removeLen = classListRemove.length;
-        for(i = 0; i < removeLen; i++){
-            var index = classList.indexOf(classListRemove[i]);
-            if (index != -1) {
-                classList.splice(index, 1);
-            }
-        }
-        classListRemove = [];
-
-        var addLen = classListAdd.length;
-        for(i = 0; i < addLen; i++){
-            if (classList.indexOf(classListAdd[i]) == -1) {
-                classList.push(classListAdd[i]);
-            }
-        }
-        classListAdd = [];
-
-        root.className = classList.sort().join(" ");
-
-        LMDA.platform != 'mobile' && LMDA.Events && LMDA.Events.trigger
-            && LMDA.Events.trigger(LMDA.Events.SCREEN_CHANGE, LMDA.device.size);
-    }
-
-    recalc();
-
-    window.addEventListener("resize", resizeThrottler, false);
-    window.addEventListener("orientationchange", resizeThrottler, false);
-    var resizeTimeout;
-    function resizeThrottler() {
-        if ( !resizeTimeout ) {
-            resizeTimeout = setTimeout(function() {
-                resizeTimeout = null;
-                recalc();
-            }, 300);
-        }
-    }
-
-    window.addEventListener('beforeunload', function() {
-        if (!LMDA.cookie) return;
-        if (LMDA.device.is_high_quality_image) {
-            LMDA.cookie.set("retina", "x2");
-        } else {
-            LMDA.cookie.drop("retina");
-        }
-    });
-
-}());
-</script><script>LMDA.uidAny = '9C02406461260662AA3F4C520243C846';
-LMDA.traceId = "8a9be85787862fd4d6353e2af8f00a45";
-LMDA.nginxTime  = '1644570209';
-LMDA.remoteAddr = "5.3.144.174";
-LMDA.experiments = {"404-section-recommendations-spss":"mainsite_bestseller_test","ADV_lamodastylist":"1","CORE_956_orders_payment":"1","CT_364_NEW_ELASTIC_PRODUCTS":"1","DT1328_payment_form":"1","DT1487_chat":"1","DT1488_phone_verification":"1","DT1564_social_proof":"0","DT1717_new_prices":"1","DT1906_grey_postpayment":"1","DT2212_NO_QC_LIMITS":"1","DT2212_no_qc_limits":"1","DT332_popup_discounts":"1","DT341_dynamic_size_chart":"1","DT441_giftcards":"1","DT581_leftmenu_expand":"1","DT793_lstat_absolute":"1","DT973_authenticity_guarantee":"1","Gather_RUM":"1","IOS-4185_similar_in_favorites_for_all_skus":"0","ITPMO-685":"1","ITPMO-782_Citrus":"1","ITPMO525_itlc":"show","ITPMO595_NEW_OFFERS":"1","ITPMO652_contactless_delivery":"1","ITPMO803_itx_notryon":"1","ITPMO922_shades_PPcolorselector":"1","ITPMO_650_mp_prepayment":"1","ITPMO_884_tinkoff_payments":"1","MOBBACK-1515_monobrands":"1","MOBBACK-2620":"show","MOBBACK3559_orders_antifraud":"dry-mode","MOBBACK3559_orders_antifraud_ratelimit":"dry-mode","MSITE-1565_msite_tilda":"1","MSITE_2070_ssi":"1","NEWSEARCH":"1","PERS107_addtocart2":"2","RND-4661_search_translit":"1","RND-6532_ranking_api_version":"v4","RNDDA-2717_allow_sqa_gender":"true","RNDDA-2717_catalog_sort_integration":"true","RNDDA-2945_size_suggester":"1","SIZE47_size_autofill":"1","SIZE57_mysize_lnd":"1","UI11686_main_sport":"1","UI12274_fav_lists_on":"1","UI12314_new_beauty":"1","UI12600_rating_clickable":"1","UI5229_DY":"1","UI9941_cancel_postpone":"1","WEB-2737_go_v2_redirects":"1","WEB1873_giftcertificates":"1","WEB2221_emptypages_newvue":"1","WEB2330_updated_look_recs":"1","WEB2330_updated_look_recs_number":"0","WEB2346_bs_lazy":"1","WEB2592_blog":"1","WEB2698_getthelook":"1","WEB2795_blog_promotion":"1","WEB2838_lamodastylist":"1","WEB2865_go_pa_installments":"1","WEB3023_go_geo":"1","WEB3087_customer_gift":"1","WEB3151_corporate_coupons":"1","WEB3335_mobapi_rec":"1","WEB3641_catalog_loyalty":"1","WEB3732_stories_new_gallery":"1","WEB3889_vue_topmenu":"1","WEB3934_bestsellers_on_premium_main":"1","WEB4285_delivery_pos":"1","WEB4325_min_price_in_recs":"1","WEB4383_Discovery_Hub":"1","WEB4550_masterpass":"1","WEB4677_vue_checkout":"1","WEB4782_revo_pp":"1","WEB5127_profile_review_and_question":"1","WEB5171_looks_on_PP":"1","WEB5365_Mainpage_web":"1","WEB5377_gamification":"1","WEB5499_seo_block":"1","WEB5543_mokka_newcheckoutbanner":"1","WEB5603_new_reviews_pp":"0","WEB5687_sets_links":"1","WEB5729_PP_deeplinks_with_photo":"1","WEB5796_vue_quickview":"1","WEB5943_vue_delivery":"1","WEB6077_hide_price_detail":"1","WEB6512_delivery_pup_pp_vue":"1","WEB6728_Discoveryhub_endless_scroll":"1","WEB7012_gamification2":"1","WEB7098_vue_catalog":"1","WEB7204_pp_on_vue":"1","WEB7220_lamodadrycleaning":"1","WEB7227_similar_for_outofstock":"1","WEB7705_footer_partners_new":"1","WEB7735_showlastsize":"1","WEB8081_MenLooks":"1","WEB_4028_filters":"0","WEB_4206_badge_redesign":"1","WEB_5283_mobapi_auth":"1","WEB_5285_auth_dsk_vue":"1","WEB_5285_login_page_dsk_vue":"1","WEB_5285_reset_pwd_dsk_vue":"1","WEB_6776_interval_price":"1","WEB_7315_verification_window":"0","ab_experiments":"2676,2679,2694,2689,2633,2686,2653","apps_revo":"1","cart-recommendations":"all_categories_similar","cart-recommendations-algorithm":"pick-context-probability","cart_recs_size":"about_the_same_size","eca":"1","empty-recommendations-spss":"query_baseline","enforced_fullcheckout":"0","fullcheckout":"1","internal_sorting_group":"v006_RNDDA-4657","itpmo1047_loyalty":"1","main-section-recommendations-spss":"mainsite_bestseller_test","mcr_mokka":"1","mobile_checkout_check_verification_phone":"1","msite1102_premium_page":"1","msite1513_pushes":"1","order_categories":"1","other-sections-recommendations-spss":"mainsite_bestseller_test","persisted_checkout_off":"1","personal_popular_top_in_filters":"1","phone":"8 800 700-64-46","phone_msk":"+7 (499) 500-49-59","populars_top_in_filters":"clickbait","product-product-recommendations-cross":"collaborative_order","product-product-recommendations-general":"all_categories","product-product-recommendations-similar":"w2v__content__rec_new","quickcheckout":"0","reco_nodiscount":"1","request_lid":"9C02406461260662AA3F4C520243C846","rnd_pricing":"1","search_alternative_queries":"dict","search_alternative_queries_limit":"2","search_relevance":"score_script","search_suggest_experiment":"sqa","similar_in_favorites":"only_for_outoffstock_skus","site_microcredits_revo":"1","split_buckets":"v3-81-05-00-041214-041215-031216-011217-101218-091219-101220-011221-121222-041223-021224-061225-081226-101227-061228-031229-071230-051231-111232-071233-081234-111235-051236-051237-111238-051239-111240-061241-051242-051243-061244-041245-081246-051247-011248-011249-081250-121251-051252-101253-041254-061255-031256-121257-011258-111259-011260-031261-051262-091263-081264-091265-041266-061267-101268-011269-101270-091271-061272-091273-021274-061275-111276-071277-041278-071279-011280-051281-121282-051283-041284-081285-051286-021287-031288-081289-021290-121291-071292-091293"};
-
-// django compatibility
-LMDA.experiments.ID = LMDA.experiments.ab_experiments;
-LMDA.experiments.ab_error = LMDA.experiments.split_buckets ? 0 : 1;
-LMDA.experiments.version = '1.0.0';
-
-;(function(s, r, d, i) {
-  LMDA[s]    = LMDA[s]    || {};
-  LMDA[s][d] = LMDA[s][d] || [];
-  LMDA[s][i] = LMDA[s][i] || function(){};
-  LMDA[s][r] = LMDA[s][r] || function(){ LMDA[s][d].push(arguments); };
-})('Statistics', 'report', 'delayed', 'init');
-</script><script>LMDA.PARAMS = LMDA.PARAMS || {};
-
-LMDA.PARAMS = {
-    "catalog":
-    { "itemsCount": 0 },
-    "vendors":
-      { "dynamic-yield":
-        {
-            "id": "8765534"
-        },
-        "google":
-        {
-            "remarketing": "",
-            "tagManager": { "id": "GTM-WV4K8C" }
-        },
-        "vk": { "id": "24190570" }
-    },
-    "page":
-    {
-        "section": "",
-        "type": "",
-        "needReloadOnAuth": [],
-        "view": ""
-    }
-};
-
-LMDA.PARAMS.socialAuthLinks = [
-    { "link": "/social_auth_links/vk", "id": "vk", "title": "ВКонтакте" },
-    { "link": "/social_auth_links/fb", "id": "fb", "title": "Facebook" },
-    { "link": "/social_auth_links/gp", "id": "gp", "title": "Google" },
-    { "link": "/social_auth_links/ml", "id": "ml", "title": "Почта Mail.ru" }
-];
-</script><script>LMDA.user = {
-    cid : '',
-    isLogon: 0,
-    isSubscribed : undefined,
-    firstname : '',
-    lastname : '',
-    middlename: '',
-    gender : '',
-    email : '',
-    phone : '',
-    discount_amount: 0,
-    customer_points: 0,
-    wishlist: {},
-    cart: {
-        items: {
-            quantity: 0,
-            skus: [],
-            list: []
-        },
-        discount: undefined,
-        coupon: undefined,
-        subtotal: undefined,
-        total: undefined,
-    },
-    cartItemsCount: "0"
-};
-</script><script>
-LMDA.validLMDACookieKeys = [
-    'aoid',
-    'autoGender',
-    'headerLastGender',
-    'is_lme',
-    'gd_aoid',
-    'gd_aoid_reg',
-    'gohost',
-    'retina'
-];
-</script><script>
-  window.dataLayer = window.dataLayer || [];
-  window.dataLayer.push({
-    event: 'gtm.js',
-    'gtm.start': new Date().getTime(),
-  });
-</script><script async src="https://www.googletagmanager.com/gtm.js?id=GTM-WV4K8C&l=dataLayer"></script><script>
-  var root = document.documentElement;
-  var size;
-  var currentOrientation;
-  var resizeTimeout;
-
-  // LMDA.device DEPRECATED, only for django compability
-  LMDA.device = LMDA.device || {};
-  LMDA.device.high_quality_image = function (imgSrc) {
-    if (LMDA.device.is_high_quality_image) {
-      return imgSrc.replace('img389x562', 'product')
-      .replace('236x341', '389x562')
-      .replace('46x66', '135x194');
-    }
-    return imgSrc;
-  };
-
-  function recalcClasses() {
-    var width = root.clientWidth;
-    var newSize = 'desktop';
-    var newOrientation = (window.innerHeight > window.innerWidth) ? 'portrait' : 'landscape';
-    if (width < 768) {
-      newSize = 'phone';
-    } else if (width < 992) {
-      newSize = 'tablet';
-    } else if (width > 1245) {
-      newSize = 'wide';
-    }
-    if (size !== newSize) {
-      root.classList.remove('html_' + size);
-      root.classList.add('html_' + newSize);
-      size = newSize;
-      if (newSize === 'wide') {
-        root.classList.add('widescreen');
-        LMDA.isWidescreen = true;
-      }
-      LMDA.device.size = newSize;
-    }
-    if (currentOrientation !== newOrientation) {
-      root.classList.remove('html_' + currentOrientation);
-      root.classList.add('html_' + newOrientation);
-      currentOrientation = newOrientation;
-      LMDA.device.orientation = newOrientation;
-    }
-  }
-
-  function throttleOnResize() {
-    if (!resizeTimeout) {
-      resizeTimeout = setTimeout(function () {
-        resizeTimeout = null;
-        recalcClasses();
-      }, 300);
-    }
-  }
-
-  (function () {
-    var tcpInfo = "57293, 48826, 37208";
-    if (tcpInfo) {
-        var rtt = parseInt(tcpInfo.split(", ")[2]);
-    }
-    var speed = 'fast';
-    var isRetina;
-    var isMobile;
-
-    if (rtt > 75000) {
-      speed = 'slow';
-    } else if (rtt > 25000) {
-      speed = 'normal';
-    }
-    LMDA.device.network = speed;
-
-    isMobile = size === 'phone' || size === 'tablet';
-    isRetina = speed !== 'slow' && (
-      (isMobile && window.devicePixelRatio >= 3) ||
-      (!isMobile && window.devicePixelRatio >= 2)
-    );
-
-    if (isRetina) {
-      root.classList.add('html_retina');
-      LMDA.device.isRetina = true;
-    }
-    if ('ontouchstart' in document.documentElement) {
-      root.classList.add('html_touch', 'touch');
-      LMDA.isTouch = true;
-    } else {
-      LMDA.device.isTouch = false;
-      root.classList.add('html_not-touch', 'not-touch');
-    }
-    root.classList.add('html_network-' + speed);
-    recalcClasses();
-    window.addEventListener('resize', throttleOnResize);
-    window.addEventListener('orientationchange', throttleOnResize);
-  }());
-</script><!-- ru_hotfix_slot --><style>
-.rev__node_review {
-  overflow: hidden!important;
-}
-.pup-promo-tip {
-  display: none;
-}
-.dropup-item_feedback .js-help-center-feedback {
-    display: none;
-}
-</style></head><body class="desktop"><div class="page index-page"><div class="header"><div class="vue-widget header-top_black"><d-header-top></d-header-top></div></div><div class="logo-line-wrapper width-wrapper"><a class="header__logo" data-link="/"></a><div class="vue-widget"><d-header-user-nav class="user-nav"><span class="link user-nav__link">Войти</span>
-      
-      
-        <a data-link="/checkout/cart/"
-          class="link user-nav__link user-nav__link_cart">
-          Корзина
-        </a></d-header-user-nav></div>
-  <!--
-  TODO: подключить к проверке на нахождении на главной премиума.
--->
- 
-<d-header-genders class="d-header-genders vue-widget
-  
-">
-  <a href="/women-home/?sitelink=topmenuW"
-    data-genders="women"
-    class="d-header-genders_link
-      
-      
-        
-          d-header-genders_link_active
-        
-      "
-      
-  >Женщинам</a>
-  <a href="/men-home/?sitelink=topmenuM"
-    data-genders="men"
-    class="d-header-genders_link
-      
-      "
-  >Мужчинам</a>
-  <a href="/kids-home/?sitelink=topmenuK"
-    data-genders="children"
-    class="d-header-genders_link
-      
-      "
-  >Детям</a></d-header-genders></div><div id="menu"><div id="menu-wrapper" class="menu__grid">
-    <div
-      class="menu__categories
-      
-        top-menu_discovery
-      "
-    >
-      <div class="d-header-top-menu-wrapper"><d-header-topmenu class="d-header-topmenu vue-widget"><!-- TODO: прикрепить к переменной, отвечающий за нахождение на любой премиум-странице --></d-header-topmenu>
-
-        
-
-        
-
-        
-          <x-search-input-wrapper
-            class="vue-widget"
-            >
-          </x-search-input-wrapper></div></div></div></div><d-app-fullwidth class="vue-widget"></d-app-fullwidth><div id="vue-root" class="width-wrapper clearfix vue-root_site"><x-app-content><style>
-.ii-subscription_mainpage .ii-subscription__wrapper {
-    background: none !important;
-}
-</style><div class="mainpage-banners width-wrapper"><style>
-    .mainpage-banners { margin-top: 0; }
-    .mainpage-banners,
-    .widescreen .mainpage-banners {
-        height: auto;
-    }
-    .mainpage-banners h3,
-    .mainpage-banners a {
-        box-sizing: border-box;
-    }
-    .mainpage-banners a {
-        height: 425px;
-        /* Высота баннеров */
-        background-size: cover;
-    }
-
-    .mainpage-banners h3 {
-        font: 37px/80px 'ProximaNova Light',sans-serif;
-        /* font:{Размер шрифта}/{Высота заголовка} {Шрифт} */
-        font-weight: 700;
-        text-align: center;
-        vertical-align: middle;
-        margin: 0;
-        top: 0;
-        left: 0;
-        right: 0;
-    }
-    .js-tizer-gender-select {
-        border-top: 1px solid #000;
-    }
-
-  .widescreen .js-tizer-gender-select a.js-ibanner-bg-image {
-    height: 510px;
-   }
-</style>
-<div class="tizer-gender-select">
-<h3>Выберите интересующий вас раздел</h3>
-<div class="js-tizer-gender-select">
-<a class="js-ibanner-bg-image" data-gender="women" data-link="/bs-click/863785?hit_id=1044570209378245541&creative_id=835659&slot_name=main_page_teasers&aim=/women-home/" style="background-image:url('//a.lmcdn.ru/bs2/3/93/400x511_w_prem.jpg')">
-<div class="banner-text">Женщинам</div>
-</a>
-<a class="js-ibanner-bg-image" data-gender="children" data-link="/bs-click/863785?hit_id=1044570209378245541&creative_id=835659&slot_name=main_page_teasers&aim=/landing/kids-home/" style="background-image:url('//a.lmcdn.ru/bs2/4/78/400x511_kids.jpg')">
-<div class="banner-text">Детям</div>
-</a>
-<a class="js-ibanner-bg-image" data-gender="men" data-link="/bs-click/863785?hit_id=1044570209378245541&creative_id=835659&slot_name=main_page_teasers&aim=/men-home/" style="background-image:url('//a.lmcdn.ru/bs2/5/83/400x511_m_prem.jpg')">
-<div class="banner-text">Мужчинам</div>
-</a>
+  <input type="hidden" name="form_build_id" id="form-328bf924ab2e53c29ae13b4be2a08e4f" value="form-328bf924ab2e53c29ae13b4be2a08e4f"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 </div>
+
+</div></form>
+</div><!-- /search-box-inner -->
+</div><!-- /search-box -->
+								<div class="info">
+					<span class="phone"><a href="tel:+74999389466"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="22px" height="22px" viewBox="0 0 16.877 16.877" style="enable-background:new 0 0 16.877 16.877;" xml:space="preserve"><path d="M5.301,5.587L1.404,1.688c0.503-0.503,1.005-1.007,1.509-1.511C3.146-0.056,3.522-0.06,3.756,0.17l3.036,3.039   c0.232,0.232,0.232,0.614-0.003,0.848L6.124,4.721L5.505,5.34C5.429,5.417,5.36,5.499,5.301,5.587z M8.507,11.938   c-0.638-0.549-1.25-1.132-1.844-1.725C6.07,9.616,5.489,9.006,4.939,8.365c-0.45-0.52-0.538-1.273-0.303-1.907L0.636,2.457   c-0.931,0.957-0.812,3.33,0.208,5.415c0.438,0.902,1.006,1.716,1.593,2.49c0.586,0.768,1.229,1.494,1.906,2.176   c0.679,0.681,1.401,1.327,2.171,1.913c0.774,0.589,1.59,1.153,2.486,1.59c2.088,1.019,4.462,1.131,5.418,0.199l-4.001-4.001   C9.783,12.474,9.029,12.387,8.507,11.938z M16.702,13.119l-3.036-3.037c-0.233-0.23-0.615-0.23-0.848,0.003h-0.002l-0.667,0.666   l-0.615,0.618c-0.076,0.076-0.159,0.143-0.247,0.205l3.896,3.898c0.504-0.505,1.007-1.007,1.512-1.51   C16.93,13.729,16.935,13.352,16.702,13.119z" fill="#FFFFFF"/></svg>+7 (499) 938-94-66</a></span>
+					<span class="mail"><a href="mailto:mail@nauchforum.ru"><svg width="22px" height="14px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.98 30.08"><path d="M959.55,543h0a1.72,1.72,0,0,0,.94-0.28l0.07,0,0.05,0,0.85-.71,20.45-16.87a0.24,0.24,0,0,0-.19-0.1h-44.5a0.23,0.23,0,0,0-.15.05l21.4,17.63a1.68,1.68,0,0,0,1.06.35h0ZM937,527.39v25L952.33,540Zm29.67,12.72L982,552.41V527.47Zm-4.87,4a3.65,3.65,0,0,1-4.5,0l-3.51-2.89L937,554.8v0a0.24,0.24,0,0,0,.24.24h44.5a0.24,0.24,0,0,0,.23-0.24v0L965.2,541.32Zm0,0" transform="translate(-937 -525)"/></svg>mail@nauchforum.ru</a></span>
+                    <span class="whatsapp"><a href="https://wa.me/74999389466"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.00401338 20L1.35601 15.032C0.465151 13.5049 -0.00289063 11.768 1.34322e-05 10C1.34322e-05 4.477 4.47701 0 10 0C15.523 0 20 4.477 20 10C20 15.523 15.523 20 10 20C8.23279 20.0029 6.49667 19.5352 4.97001 18.645L0.00401338 20ZM6.39101 5.308C6.26188 5.31602 6.13569 5.35003 6.02001 5.408C5.91153 5.46943 5.81251 5.54622 5.72601 5.636C5.60601 5.749 5.53801 5.847 5.46501 5.942C5.09542 6.423 4.89662 7.01342 4.90001 7.62C4.90201 8.11 5.03001 8.587 5.23001 9.033C5.63901 9.935 6.31201 10.89 7.20101 11.775C7.41501 11.988 7.62401 12.202 7.84901 12.401C8.9524 13.3725 10.2673 14.073 11.689 14.447L12.258 14.534C12.443 14.544 12.628 14.53 12.814 14.521C13.1053 14.506 13.3896 14.4271 13.647 14.29C13.778 14.2225 13.9058 14.1491 14.03 14.07C14.03 14.07 14.073 14.042 14.155 13.98C14.29 13.88 14.373 13.809 14.485 13.692C14.568 13.606 14.64 13.505 14.695 13.39C14.773 13.227 14.851 12.916 14.883 12.657C14.907 12.459 14.9 12.351 14.897 12.284C14.893 12.177 14.804 12.066 14.707 12.019L14.125 11.758C14.125 11.758 13.255 11.379 12.724 11.137C12.668 11.1126 12.608 11.0987 12.547 11.096C12.4786 11.089 12.4095 11.0967 12.3443 11.1186C12.2791 11.1405 12.2193 11.1761 12.169 11.223V11.221C12.164 11.221 12.097 11.278 11.374 12.154C11.3325 12.2098 11.2754 12.2519 11.2098 12.2751C11.1443 12.2982 11.0733 12.3013 11.006 12.284C10.9409 12.2666 10.877 12.2445 10.815 12.218C10.691 12.166 10.648 12.146 10.563 12.109L10.558 12.107C9.98592 11.8572 9.45624 11.5198 8.98801 11.107C8.86201 10.997 8.74501 10.877 8.62501 10.761C8.23159 10.3842 7.88873 9.95801 7.60501 9.493L7.54601 9.398C7.50364 9.33416 7.46937 9.2653 7.44401 9.193C7.40601 9.046 7.50501 8.928 7.50501 8.928C7.50501 8.928 7.74801 8.662 7.86101 8.518C7.9551 8.39832 8.04289 8.27382 8.12401 8.145C8.24201 7.955 8.27901 7.76 8.21701 7.609C7.93701 6.925 7.64701 6.244 7.34901 5.568C7.29001 5.434 7.11501 5.338 6.95601 5.319C6.90201 5.313 6.84801 5.307 6.79401 5.303C6.65972 5.29633 6.52515 5.29766 6.39101 5.307V5.308Z" fill="#521818"/></svg>WhatsApp <span>+7 (499) 938-94-66</span></a></span>
+				</div>
+									<div id="nav-icon">
+					  <span></span>
+					  <span></span>
+					  <span></span>
+					  <span></span>
+					</div>
+					<div id="header-menu">
+						<div id="search-box" class="search-box block">
+<div id="search-box-inner" class="search-box-inner inner clearfix">
+<form action="/studconf/science/129/92869"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search">
+  <div id="search-input">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-header" size="15" title="Введите ключевые слова для поиска." value="" placeholder="Поиск по сайту..." class="form-text" />
+  </div>
+
+  <div id="search-button">
+    <input type="submit" name="op" value="" id="edit-submit-2" class="searchButton"  alt="Поиск" />
+  </div>
+
+  <input type="hidden" name="form_build_id" id="form-328bf924ab2e53c29ae13b4be2a08e4f" value="form-328bf924ab2e53c29ae13b4be2a08e4f"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 </div>
+
+</div></form>
+</div><!-- /search-box-inner -->
+</div><!-- /search-box -->
+						<div id="block-menu-menu-main-menu" class="block block-menu odd first last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<ul class="menu"><li class="expanded first"><span>Конференции</span><ul class="menu"><li class="leaf first"><a href="/conf" title="">Научные конференции</a></li>
+<li class="leaf last"><a href="/studconf" title="">Студенческие конференции</a></li>
+</ul></li>
+<li class="expanded"><span>Журналы</span><ul class="menu"><li class="leaf first"><a href="/journal/stud" title="">Журнал «Студенческий форум»</a></li>
+<li class="leaf last"><a href="/journal/universum" title="">Научные журналы «Universum»</a></li>
+</ul></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-rinc" title="">РИНЦ</a></li>
+<li class="expanded"><span>ВАК</span><ul class="menu"><li class="leaf first"><a href="/publikaciya-v-zhurnalah-vak" title="">Публикация ВАК</a></li>
+<li class="leaf"><span>Специальные предложения:</span></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-vak/ekonomicheskie-nauki" title="">08.00.00 Экономические науки</a></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-vak/juridicheskie-nauki" title="">12.00.00 Юридические науки</a></li>
+<li class="leaf last"><a href="/publikaciya-v-zhurnalah-vak/pedagogicheskie-nauki" title="">13.00.00 Педагогические науки</a></li>
+</ul></li>
+<li class="leaf"><a href="/avtoram" title="">Авторам</a></li>
+<li class="expanded last"><span>Архив</span><ul class="menu"><li class="leaf first"><a href="/archive/article" title="">Архив статей</a></li>
+<li class="leaf last"><a href="/archive/editions" title="">Архив изданий</a></li>
+</ul></li>
+</ul>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block -->											</div>
+							</div><!-- /header-group-inner -->
+		</div><!-- /header -->
+				<div id="page" class="page white-page-bg">
+				        <div id="main" class="main">
+	            	              <div id="main-group-inner" class="main-group-inner inner">
+	                
+	                <div id="main-content" class="main-content row nested">
+	                  <div id="main-content-inner" class="main-content-inner inner">
+	                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+	                    <div id="content-group" class="content-group row nested">
+	                      <div id="content-group-inner" class="content-group-inner inner">
+	                      	<div id="content-group-wrap">
+		                      	<a name="main-content-area" id="main-content-area"></a>
+		                        <div class="breadcrumb"><a href="/">Главная</a> / <a href="/studconf">Студенческие конференции</a> / <a href="/studconf/science">Молодежный научный форум</a> / <a href="/studconf/science/cxxix">CXXIX</a> / Статья</div>		                        
+		                        <div id="content-region" class="content-region row nested">
+		                          <div id="content-region-inner" class="content-region-inner inner">
+		                            <div id="content-inner" class="content-inner block">
+		                              <div id="content-inner-inner" class="content-inner-inner inner">
+
+		                                		                                		                                		                                <div id="content-content" class="content-content">
+											<div class="node-article stud">
+	<div class="article_head clearfix">
+		<strong>Статья:</strong> <h1>Характеристика психологического здоровья подростков</h1>
+		<p><strong>Конференция:</strong> <a href="/studconf/science/cxxix">CXXIX Студенческая международная научно-практическая конференция «Молодежный научный форум»</a></p>		<p><strong>Секция:</strong> Психология</p>		<div class="output"><div class="turn_next">Выходные данные</div><div class="text">Панина Я.А., Кихтенко А.Е. Характеристика психологического здоровья подростков // Молодежный научный форум: электр. сб. ст. по мат. CXXIX междунар. студ. науч.-практ. конф. № 19(129). URL:&nbsp;<a href="https://nauchforum.ru/archive/MNF_interdisciplinarity/19%28129%29.pdf">https://nauchforum.ru/archive/MNF_interdisciplinarity/19(129).pdf</a> (дата обращения: 27.02.2022)</div></div>
+		<div class="action">
+			<a href="/studconf/science" class="btn gray" onclick="ga(&#039;send&#039;, &#039;event&#039;, &#039;click1&#039;, &#039;publ&#039;);">К условиям публикации</a>			<a href="/archive/MNF_interdisciplinarity/19%28129%29.pdf" class="btn">Скачать сборник</a>		</div>
+		<div class="notice">Лауреаты определены. Конференция завершена</div><div class="honor_wrapp"><div class="wrap"><div class="count">Эта статья набрала <span>0</span> голосов</div><div class="vk_like"><span class="btn vk">Мне нравится</span><span class="like_counter_wrap"><div class="arrow"></div><span id="stats_num">0</span></span><div id="vk_like"></div>
+							<script type="text/javascript">VK.Widgets.Like("vk_like", {redesign: 1, type: "button", height: 30}, 92869);VK.Observer.subscribe("widgets.like.liked", function(param) {jQuery(".honor_wrapp .vk_like #stats_num").text(param);}); VK.Observer.subscribe("widgets.like.unliked", function(param) {jQuery(".honor_wrapp .vk_like #stats_num").text(param);});</script></div><div class="w-320 mob-block" style="width:235px;margin:0 auto;text-align: center;"><div style="width:50%;float:left;">Дипломы <br/>лауреатов</div><div style="width:50%;float:left;">Сертификаты <br/>участников</div></div><div class="dip_and_sert"><div style="margin-right: 18px;line-height: 150%;">Дипломы <br/>лауреатов</div><div><img style='margin-right: 14px;float: left;' src=/themes/mix_and_match/images/dip_and_sert/gold_gray.png /><img style='margin-right: 27px;' src=/themes/mix_and_match/images/dip_and_sert/silver_gray.png /></div><div style="margin-right: 15px;line-height: 150%;">Сертификаты <br/>участников</div><div><img style='margin-right: 23px;' src=/themes/mix_and_match/images/dip_and_sert/sert_gray.png /><img src=/themes/mix_and_match/images/dip_and_sert/nauch_gray.png /></div></div></div></div>	</div>
+	<div style="padding-bottom: 50px;"><a href="/publikaciya-v-zhurnalah-rinc?utm_source=nf&utm_medium=banner&utm_campaign=articles"><img style="width:100%;height:auto;" src="/sites/default/files/publ_rinc.png" /></a></div>			<div class="inner node-inner">
+							    
+			    <div class="content clearfix node-content body-article">
+			    	<script type='text/javascript'> 
+							function ShareToVk() {  
+								tltl = document.title  
+								width = 550  
+								height = 268  
+								w_top = (window.screen.height - height)/2  
+								w_left = (window.screen.width - width)/2  
+								window.open('//vk.com/share.php?url=https://nauchforum.ru/studconf/science/129/92869&image=https://nauchforum.ru/themes/mix_and_match/images/logo.jpg&title=Характеристика психологического здоровья подростков', 'shareSite','width=550px,height=268px,resizable=yes,scrollbars=yes,left='+w_left+',top='+w_top);
+							}
+						</script><div class="print_block clearfix"><img src="https://nauchforum.ru/themes/mix_and_match/images/logo.jpg" /><p>CXXIX Студенческая международная научно-практическая конференция «Молодежный научный форум»</p></div><div class="article_action"><span title="Распечатать" onclick="window.print();" class="print">на печать</span><a rel="nofollow" title="Скачать в pdf" href="/page/download.php?article=92869" class="download">скачать .pdf</a><a title="Поделиться ВКонтакте" onclick="ShareToVk(); return false;" href="//vk.com/share.php?url=https://nauchforum.ru/studconf/science/129/92869&image=https://nauchforum.ru/themes/mix_and_match/images/logo.jpg&title=Характеристика психологического здоровья подростков" target="_blank" class="vk_group">поделиться</a></div><p class="title">Характеристика психологического здоровья подростков</p><div class="fio_article">Панина Яна Андреевна</div><div class="regalia_article">студент,  Армавирский государственный педагогический университет,  РФ, г. Армавир</div><div class="fio_article">Кихтенко Анастасия Евгеньевна</div><div class="regalia_article">студент,  Армавирский государственный педагогический университет,  РФ, г. Армавир</div><div class="fio_article">Твелова Ирина Александровна</div><div class="regalia_article">научный руководитель, канд. психол. наук, доцент, 
+Армавирский государственный педагогический университет, 
+РФ, г. Армавир
+</div>					<div class="body-content">
+						<p>&nbsp;</p>
+<p class="rtejustify">Мы привыкли уделять огромное внимание нашему физическому здоровью и самочувствию. Мы ежегодно проходим диспансеризацию, стараемся кушать здоровую пищу, по утрам делаем зарядку. И почти не обращаем внимание на психоэмоциональную составляющую нашего организма. Психологическое здоровье важнейший фактор нормальной жизнедеятельности человеческого организма. Состояние гармонии и внутреннего согласия с самим собой и окружающим миром, дает ощущение комфорта и создает условия для личностного роста.</p>
+<p class="rtejustify">Человек в таком состоянии защищен от внешних неурядиц, ударов судьбы, вызовам времени. Он вооружен, а, следовательно, защищен щитом своего психологического здоровья. Что же представляет собой психологическое здоровье?</p>
+<p class="rtejustify">Психологическое здоровье - совокупность психических свойств человека, обеспечивающих гармонию между потребностями индивида и общества. [1]</p>
+<p class="rtejustify">Необходимо отметить, что психология человека не статична, а, следовательно, чем более разнообразен его психоэмоциональный фон, тем более гибким является его психика.&nbsp; Тем более адекватно человек реагирует на внешние раздражители, тем более спокойно он преодолевает жизненные препятствия, возникающие на его жизненном пути в достижении поставленных целей. Это помогает человеку играть одновременно несколько возрастных, социально-демографических и межличностных ролей. Нормальный человек разумен, готов к сопереживанию, альтруизму и сотрудничеству, что дает ему возможность динамичного и позитивного развития по восходящей линии в течение всей его жизни. [4]</p>
+<p class="rtejustify">Черты психически уравновешенного человека:</p>
+<p class="rtejustify">- человечность;</p>
+<p class="rtejustify">- уверенность в своих силах;</p>
+<p class="rtejustify">- умение владеть собой в стрессовых ситуациях;</p>
+<p class="rtejustify">- потребность в самосовершенствовании;</p>
+<p class="rtejustify">- потребность в самореализации в достижении целей.</p>
+<p class="rtejustify">Хотя человек, не всегда уделяет должное внимание своему психическому здоровью, существует несколько маркеров по которым можно судить об этом.</p>
+<ol>
+<li class="rtejustify">
+		Позитивное настроение, в котором находится человек. Основу составляют такие состояния как:</li>
+</ol>
+<ul>
+<li class="rtejustify">
+		Радуется за успех другого и несет ответственность за свои ошибки;</li>
+<li class="rtejustify">
+		Читает каждый день</li>
+<li class="rtejustify">
+		Прощает других и ведет список дел, дневник</li>
+<li class="rtejustify">
+		Обсуждает идеи&nbsp; и делится информацией, событиями</li>
+<li class="rtejustify">
+		Проявляет радость и желает успеха другим</li>
+<li class="rtejustify">
+		Не перестает учиться и&nbsp; ставит цели, и планирует их достижение</li>
+<li class="rtejustify">
+		Не боится перемен</li>
+</ul>
+<ol>
+<li class="rtejustify" value="2">
+		Высокий уровень психических возможностей, благодаря чему человек способен выходить из различных ситуаций связанных с переживанием тревоги, страха.</li>
+</ol>
+<ul>
+<li class="rtejustify">
+		Таит обиду</li>
+<li class="rtejustify">
+		Критикует, винит других за свои ошибки</li>
+<li class="rtejustify">
+		Каждый день всё время поводит в социальных сетях, считает, что все знает, боится перемен</li>
+<li class="rtejustify">
+		Скрывает события, информацию, в тайне надеется, что у других ничего не получится</li>
+<li class="rtejustify">
+		Обсуждает людей, проявляет гнев</li>
+<li class="rtejustify">
+		Не знает кем хочет стать, никогда не ставит цель.</li>
+</ul>
+<p class="rtejustify">Как же научиться поддерживать психически комфортное состояние своего организма?</p>
+<p class="rtejustify">Для этого существует много психологических тренингов, работа с психоаналитиком.</p>
+<p class="rtejustify">Критерии психологического здоровья:</p>
+<p class="rtejustify">- душевный комфорт;</p>
+<p class="rtejustify">- адекватное социальное поведение;</p>
+<p class="rtejustify">- умение понимать себя и других;</p>
+<p class="rtejustify">- более полная реализация потенциала развития в разных видах деятельности;</p>
+<p class="rtejustify">- умение делать выбор и нести за него ответственность</p>
+<p class="rtejustify">Таким образом, формула психологического здоровья определяется: психическим здоровьем и здоровьем личностным. Причем, стабилизирующим фактором может быть, комфортная внешняя среда (например, отношения в благополучной семье, дружба со школьными товарищами, шопинг, посещение театра, кино и т.д.) [2].</p>
+<p class="rtejustify">Причинами, которые дестабилизирующими состояния психического здоровья может быть комплекс неблагоприятных внешних факторов (отношения в неблагополучной семье, школьные конфликты и возрастные конфликты в период пубертатного развития).</p>
+<p class="rtejustify">Психологически здоровый школьник- это ученик, у которого существует баланс&nbsp; внутренних (познавательных, эмоциональных, физиологических) и внешних (требования социального окружения) особенностей развития его личности. В период сдачи ОГЭ и ЕГЭ, когда ребенок испытывает огромные продолжительные психоэмоциональные перегрузки, он может не справляться со стрессами, обидами,&nbsp; что в свою очередь может привести к девиантному поведению подростка либо переутомлению.</p>
+<p class="rtejustify">Переутомление, необходимо компенсировать витаминным питанием, здоровым сном, физическими нагрузками. Кроме того, необходимо мотивировать ребенка на позитивную оценку внешней ситуации и внутреннего состояния.</p>
+<p class="rtejustify">Несколько полезных советов о том, как сформировать у ребенка хорошую самооценку, уверенность и способность противостоять трудностям:</p>
+<p class="rtejustify">&laquo;Чтоб в старости не мерзнуть от мороза, нельзя дышать прохладой на детей&raquo;, гласит восточная мудрость.</p>
+<p class="rtejustify">В случае неудачи ребенка необходимо вселить в него уверенность в том, что все должно получиться, детей нельзя обманывать - делать хорошую мину при плохой игре, т.к. дети очень чувствительны к лжи, похвала не должна быть фальшивой, иначе у ребенка возникает чувство собственного бессилия.</p>
+<p class="rtejustify">Современное общество живет постоянно в стрессовых ситуациях, отнюдь не способствующих развитию гармонии и уравновешенности, стабильности личностного развития человека. Природные катаклизмы, резкие смены социальных норм, политическая нестабильность, отрыв от природы с ее извечными нормами гармонии действительно делают понятие &laquo;психологическое здоровье&raquo; наиболее актуальным на современном этапе развития человечества.</p>
+<p class="rtejustify">Дубровина И.В., доктор психологических наук, профессор, академик РАО, выделяет три уровня психологического здоровья ребенка. &laquo;К первому уровню относятся дети, которые не нуждаются в психологической помощи. [3]. Они устойчиво адаптированы к любой среде, обладают резервом для преодоления стрессовых ситуаций и активным творческим отношениям к действительности. Ко второму адаптивному уровню относится большинство относительно &laquo;благополучных&raquo; детей, в целом адаптированных к социуму, но по результативности диагностических исследований проявляющих отдельные признаки дезадаптации, обладающих повышенной тревожностью. Такие дети не имеют достаточного запаса прочности психического здоровья и нуждаются в групповых занятиях профилактически-развивающей направленности. Эта группа относительного риска, она довольно многочисленна. К третьему низкому уровню психического здоровья, относятся дети с нарушением баланса процессов ассимиляции и аккомодации, т.е. либо не способные к гармоничному взаимодействию, либо проявляющие глубинную зависимость от факторов внешнего воздействия, не владея механизмом защиты, отделением себя от травмирующих влияний среды. У этих детей дезадаптация активно проявляется в эпатажном поведении, конфликтах со сверстниками, домашних аффективных капризах и т.д. Для детей с преобладанием процессов аккомодации, напротив, характерно наблюдается приспособничество к требованиям внешнего мира в ущерб собственным потребностям и интересам. Это &laquo;удобные&raquo;, тихие дети, прилежные и старательные, которыми гордятся родители. Их ставят в пример педагоги, которые не всегда замечают, что они пребывают в состоянии стойкого эмоционального дискомфорта. Этой группе детей следует уделять особое внимание. [5].</p>
+<p>&nbsp;</p>
+<div>
+	<strong>Список литературы:</strong></div>
+<div class="rtejustify">
+	1.<span style="white-space:pre"> </span>Божович Л.И. Психология формирования личности. -М., 1995.</div>
+<div class="rtejustify">
+	2.<span style="white-space:pre"> </span>Вилюнас В., Психология эмоциональных явлений. - М., 1996.</div>
+<div class="rtejustify">
+	3.<span style="white-space:pre"> </span>Дубровина И.В. Практическая психологи образования. - М.: Сфера, 1997.</div>
+<div class="rtejustify">
+	4.<span style="white-space:pre"> </span>Изард К. Эмоции человека. М., 1980.</div>
+<div class="rtejustify">
+	5.<span style="white-space:pre"> </span>Тарабакина Л.В. Эмоциональное здоровье. Школьная теория и практика психологического сопровождения. Автореферат дис. докт. псих. наук. - Н. Новгород., 2000.</div>
+<div>
+	&nbsp;</div>
+					</div>
+			    </div>
+			</div><!-- /inner -->
+			<div class="article_footer">
+			    				<div class="similar"><h3>Похожие статьи</h3><ul><li><a href="/studconf/gum/iv/977">ПСИХОЛОГО-ПЕДАГОГИЧЕСКОЕ СОПРОВОЖДЕНИЕ ПСИХИЧЕСКОГО РАЗВИТИЯ ДЕТЕЙ РАННЕГО ВОЗРАСТА В СЕМЬЕ</a></li><li><a href="/studconf/gum/liii/30798">Социально-психологические предпосылки формирования наркозависимости</a></li><li><a href="/studconf/gum/xli/17490">Психологические особенности репрезентации сексуальности в мировых религиях</a></li><li><a href="/studconf/science/74/66560">Понятие Невроз. Особенности, виды, причины возникновения, методы коррекции</a></li><li><a href="/studconf/gum/xiii/3764">САМОПРЕЗЕНТАЦИЯ ЛИЧНОСТИ В СОЦИАЛЬНОЙ СЕТИ</a></li></ul></div><div class="action clearfix"><a href="/archive/article/239?direction=2" class="btn">Больше статей</a></div>				<div class="content clearfix node-content">
+					<div id="vk_comments"></div>
+					<script type="text/javascript">
+                        setTimeout(
+                            function(){
+                                VK.Widgets.Comments("vk_comments", {limit: 10, attach: "*"}, "92869");
+                            }, 3000);
+                    </script>
+				</div>
+											</div>
+	<a href="/publikaciya-v-zhurnalah-rinc?utm_source=nf&utm_medium=banner&utm_campaign=articles"><img style="width:100%;height:auto;" src="/sites/default/files/publ_rinc.png" /></a></div>
+		                                  		                                </div><!-- /content-content -->
+		                                		                              </div><!-- /content-inner-inner -->
+		                            </div><!-- /content-inner -->
+		                          </div><!-- /content-region-inner -->
+		                        </div><!-- /content-region -->
+
+		                        	                        </div>
+	                      </div><!-- /content-group-inner -->
+	                    </div><!-- /content-group -->
+
+	                    	                  </div><!-- /main-content-inner -->
+	                </div><!-- /main-content -->
+
+	                <div id="postscript-top" class="postscript-top row nested ">
+<div id="postscript-top-inner" class="postscript-top-inner inner clearfix">
+<div id="block-block-18" class="block block-block odd first last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<!-- Begin Talk-Me {literal} -->
+<script type='text/javascript'>
+	(function(d, w, m) {
+		window.supportAPIMethod = m;
+		var s = d.createElement('script');
+		s.type ='text/javascript'; s.id = 'supportScript'; s.charset = 'utf-8';
+		s.async = true;
+		var id = '86aa32a62a1735e38616a7a2d4f55110';
+		s.src = 'https://lcab.talk-me.ru/support/support.js?h='+id;
+		var sc = d.getElementsByTagName('script')[0];
+		w[m] = w[m] || function() { (w[m].q = w[m].q || []).push(arguments); };
+		if (sc) sc.parentNode.insertBefore(s, sc); 
+		else d.documentElement.firstChild.appendChild(s);
+	})(document, window, 'TalkMe');
+</script>
+<!-- {/literal} End Talk-Me -->
 <script>
-    (function() {
-        var tizer = document.querySelector('.js-tizer-gender-select'),
-            setCookie = function (evnt) {
-                var gender = evnt.target.getAttribute('data-gender');
+(function(w,d,u){
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+})(window,document,'https://b24.sibac.info/upload/crm/site_button/loader_24_m79jia.js');
+</script>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div><!-- /postscript-top-inner -->
+</div><!-- /postscript-top -->
+	              </div><!-- /main-group-inner -->
+	        </div><!-- /main -->
 
-                if (gender) {
-                    LMDA.cookie.set('headerLastGender', gender);
-                }
-            };
+					</div><!-- /page -->
 
-        if (tizer.addEventListener) {
-            tizer.addEventListener('click', setCookie);
-        } else {
-            tizer.attachEvent('onclick', setCookie);
-        }
-    })();
-</script></div><div class="usp usp_main"><div class="width-wrapper"><style>
-    .usp_main .width-wrapper { font-size: 0; }
-    </style>
-<div class="usp__item usp__item_delivery">
-<div class="usp__item-title">Доставка на следующий день</div>
-<div class="usp__item-text">В Москве и 60 других крупных городах России вы получите свой заказ уже на следующий день! Более подробную информацию об условиях доставки в ваш город можно найти <a class="inline-link usp__item-link" data-link="/bs-click/12570?hit_id=7544570209378140298&slot_name=usp_main_bottom&aim=/delivery/" target="_blank">здесь</a>.</div>
+	  	<div id="footer"><div class="footer-wrap"><div id="block-menu-menu-footer-menu" class="block block-menu odd first">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<ul class="menu"><li class="expanded first"><span>О нас</span><ul class="menu"><li class="leaf first"><a href="/about" title="">Об издательстве</a></li>
+<li class="leaf"><a href="/reviews" title="">Отзывы</a></li>
+<li class="leaf"><a href="/news" title="">Новости</a></li>
+<li class="leaf last"><a href="/contacts" title="">Контакты</a></li>
+</ul></li>
+<li class="expanded"><span>Полезная информация</span><ul class="menu"><li class="leaf first"><a href="/payment" title="">Оплата</a></li>
+<li class="leaf"><a href="/rules-writing-articles" title="">Требования к оформлению статьи</a></li>
+<li class="leaf"><a href="/oferta" title="">Договор оферты</a></li>
+<li class="leaf last"><a href="/policy" title="">Политика обработки персональных данных</a></li>
+</ul></li>
+<li class="expanded last"><span>О публикации статей</span><ul class="menu"><li class="leaf first"><a href="/blog" title="">Блог издательства</a></li>
+<li class="leaf"><a href="/gde-mozhno-opublikovat-statyu-studentu" title="">Где можно опубликовать статью студенту</a></li>
+<li class="leaf last"><a href="/publikaciya-statej-magistrantov" title="">Публикация статей магистрантов</a></li>
+</ul></li>
+</ul>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --><div id="block-block-2" class="block block-block even  last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<div class="counter-footer"><div class="left counter">
+	<a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="license nofollow" target="_blank"><img alt="Лицензия Creative Commons" src="https://licensebuttons.net/l/by/4.0/88x31.png" style="border-width:0" /></a></div>
+<div class="left counter" style="width: 70px;">
+	<img src="/sites/default/files/16.png" width="32" height="32" />
 </div>
-<div class="usp__item usp__item_trying">
-<div class="usp__item-title">Примерка перед покупкой</div>
-<div class="usp__item-text">Интернет-магазин Lamoda даёт возможность примерить одежду, обувь и другие товары перед оплатой заказа курьеру. Оплачивайте только то, что вам подошло и понравилось!</div>
 </div>
-<div class="usp__item usp__item_cash">
-<div class="usp__item-title">Удобные способы оплаты</div>
-<div class="usp__item-text">Вы можете оплатить покупки не только наличными, но и банковской картой. У всех курьеров Lamoda Express при себе есть терминал для оплаты картами.</div>
-</div></div></div><div class="main-trend-style main-trend-style_main"><div class="width-wrapper"><div class="main-trend-style__wrapper"><style>
-        .ibanner_logo_main {
-            position: relative;
-            display: table-cell;
-            text-align: center;
-            width: 100px;
-            height: 80px;
-        }
-        .ibanner_logo_main .ibanner__img {
-            width: 100px;
-            height: 80px;
-        }
-        .ibanner_logo_main .ibanner-top-link {
-            position: relative;
-            display: inline-block;
-        }
-        .ibanner_logo_main .ibanner-top-link:after {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0;
-            width: 100%;
-            height: 100%;
-            opacity: 0;
-            background-color: #fff;
-        }
-        .ibanner_logo_1:hover .ibanner-top-link:after {
-            opacity: 0.1;
-        }
-    </style>
-<div class="ibanner_logo_main" data-dy-unit="">
-<a class="ibanner-top-link" data-link="/bs-click/88341?hit_id=4844570209378155973&creative_id=76717&slot_name=brand_logo_main&aim=/lp/oysho/" target="_top">
-<img alt="" class="ibanner__img" src="//a.lmcdn.ru/bs2/6/19/100x80.png"/>
-</a>
-</div>
-<div class="ibanner_logo_main" data-dy-unit="">
-<a class="ibanner-top-link" data-link="/bs-click/88341?hit_id=4844570209378155973&creative_id=76717&slot_name=brand_logo_main&aim=/lp/nike_w/" target="_top">
-<img alt="" class="ibanner__img" src="//a.lmcdn.ru/bs2/76717/nike.59A5379E.jpg"/>
-</a>
-</div>
-<div class="ibanner_logo_main" data-dy-unit="">
-<a class="ibanner-top-link" data-link="/bs-click/88341?hit_id=4844570209378155973&creative_id=76717&slot_name=brand_logo_main&aim=/bg/31/brand-group-mango/" target="_top">
-<img alt="" class="ibanner__img" src="//a.lmcdn.ru/bs2/76717/mango.59A5379E.jpg"/>
-</a>
-</div>
-<div class="ibanner_logo_main" data-dy-unit="">
-<a class="ibanner-top-link" data-link="/bs-click/88341?hit_id=4844570209378155973&creative_id=76717&slot_name=brand_logo_main&aim=/lp/asics_w/" target="_top">
-<img alt="" class="ibanner__img" src="//a.lmcdn.ru/bs2/76717/asics.59A5379E.png"/>
-</a>
-</div>
-<div class="ibanner_logo_main" data-dy-unit="">
-<a class="ibanner-top-link" data-link="/bs-click/88341?hit_id=4844570209378155973&creative_id=76717&slot_name=brand_logo_main&aim=/b/573/brand-tommyhilfiger/" target="_top">
-<img alt="" class="ibanner__img" src="//a.lmcdn.ru/bs2/76717/logo_TH_100-80.59A5379E.png"/>
-</a>
-</div>
-<div class="ibanner_logo_main" data-dy-unit="">
-<a class="ibanner-top-link" data-link="/bs-click/88341?hit_id=4844570209378155973&creative_id=76717&slot_name=brand_logo_main&aim=/b/6616/brand-riverisland/" target="_top">
-<img alt="" class="ibanner__img" src="//a.lmcdn.ru/bs2/76717/river_island.59A5379E.jpg"/>
-</a>
-</div>
-<div class="ibanner_logo_main" data-dy-unit="">
-<a class="ibanner-top-link" data-link="/bs-click/88341?hit_id=4844570209378155973&creative_id=76717&slot_name=brand_logo_main&aim=/b/25138/brand-gap/" target="_top">
-<img alt="" class="ibanner__img" src="//a.lmcdn.ru/bs2/76717/gap.59A5379E.png"/>
-</a>
-</div>
-<div class="ibanner_logo_main" data-dy-unit="">
-<a class="ibanner-top-link" data-link="/bs-click/88341?hit_id=4844570209378155973&creative_id=76717&slot_name=brand_logo_main&aim=/b/1061/brand-adidas/" target="_top">
-<img alt="" class="ibanner__img" src="//a.lmcdn.ru/bs2/76717/adidasperformance.59A5379E.jpg"/>
-</a>
-</div>
-<div class="ibanner_logo_main" data-dy-unit="">
-<a class="ibanner-top-link" data-link="/bs-click/88341?hit_id=4844570209378155973&creative_id=76717&slot_name=brand_logo_main&aim=/b/471/brand-lacoste/" target="_top">
-<img alt="" class="ibanner__img" src="//a.lmcdn.ru/bs2/76717/logo_100-80_3.59A5379E.png"/>
-</a>
-</div></div></div></div><div class="width-wrapper"><div class="ii-subscription ii-subscription_mainpage" data-widget="subscription" data-preset="mainpage"><div class="ii-subscription__wrapper"><html><head><style>
-	.ii-subscription_mainpage .ii-subscription__wrapper {
-		background-color: #f3f3f1;
-	}
-</style>
-</head><body><div class="ii-subscription__title">
-<div style="font:33px/33px 'ProximaNova Light'">Скидка 10%</div>
-<div style="font:33px/33px 'ProximaNova Semibold'">ДОПОЛНИТЕЛЬНО</div>
-<div style="font:15px/14px 'ProximaNova Light'; margin-top: 4px;">За подписку на наши новости. <a data-link="/bs-click/781991?hit_id=8744570209377988806&creative_id=757975&slot_name=subscription_block&aim=/subscription/">Подробнее</a></div>
-</div>
-<form action="javascript:void(0);" class="ii-subscription__form ii-subscription__form_mainpage ii-subscription__form_inline" data-location="mainpage">
-<input name="location" type="hidden" value="mainpage"/>
-<input class="ii-subscription__form-item ii-subscription__form-email text-field text-field_large" name="email" placeholder="Введите свой e-mail" type="text"/>
-<span class="ii-subscription__form-item ii-subscription__form-button button button_blue" data-gender="f">Для женщин</span>
-<span class="ii-subscription__form-item ii-subscription__form-button button button_blue" data-gender="m">Для мужчин</span>
-</form>
-<div class="ii-subscription__message">
-<div class="message-title"></div>
-<div class="message-text"></div>
-<div class="message-info"></div>
-</div></div></div><div class="mobile-banner"><style>
-                .mobile-bannerii__container {
-                    background-size: cover;
-                    background-position: 0 center;
-                    display: block;
-                    position: relative;
-                    height: 100%;
-                    color: #000;
-                }
+<div class="right vk-footer">
+	<a href="https://vk.com/nauchforumsk" rel="nofollow" target="_blank" class="left" style="margin-right: 20px;display: inline-block;vertical-align: middle;">Наше издательство<br>в социальных сетях: </a>&nbsp;<a class="vk_group" href="https://vk.com/nauchforumsk" rel="nofollow" target="_blank">vk</a></div>
+<div class="creativecommons">
+	Все права защищены - 2022 Международный Центр Науки и Образования Это произведение доступно по <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="license nofollow" target="_blank">лицензии Creative Commons &laquo;Attribution&raquo; (&laquo;Атрибуция&raquo;) 4.0 Непортированная</a>. <a href="/sitemap">Карта сайта</a></div>
+<div class="clearfix"></div>
+<div class="jornal_register">
+	Научном журнал «Студенческий форум» издается 4 раза в месяц. Журнал зарегистрирован Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор), регистрационный номер: ЭЛ № ФС77-66232 от 01.07.2016 г. Учредитель: ООО "МЦНО".<br /> Главный редактор: Лебедева Надежда Анатольевна
+</div>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div></div>		<div class="no-print">
+			<div class="left_hover"><a href="#" id="up"><span>Наверх</span></a></div>
+						<div style="display:none"><div id="block-block-27" class="block block-block odd first">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2944459", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=2944459;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
 
-                .bannerii-text {
-                    position: absolute;
-                }
-                .bannerii-text.bannerii-text_title,
-                .bannerii-text.bannerii-text_subtitle {
-                    left: 346px;
-                    width: 250px;
-                    text-align: center;
-                }
+<script>
+							$( window ).load(function(){
+					if(typeof getCookie('_ga') != "undefined"){
+						var user_id = md5(getCookie('_ga').split('.')[2]+'.'+getCookie('_ga').split('.')[3]); 
+						ga('set', 'userId', "'"+user_id+"'");
+						var dimensionValue = user_id;
+						ga('set', 'dimension2', dimensionValue);
+												ga('send', 'pageview');	
+											}else{
+												ga('send', 'pageview');
+					}
+				});
+						</script><!-- Код тега ремаркетинга Google --><script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 968443882;
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+			</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968443882/?value=0&amp;guid=ON&amp;script=0"/>
+			</div>
+			</noscript>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div>					</div>
+	</div>
 
-                .bannerii-text.bannerii-text_title {
-                    font-family: 'ProximaNova Regular',sans-serif,Arial;
-                    font-size: 24px;
-                    padding-bottom: 17px;
-                    line-height: 20px;
-                    top: 63px;
-                    transition: left .2s ease, top .2s ease;
-                }
-                .bannerii-text.bannerii-text_title:after {
-                    content: '';
-                    position: absolute;
-                    width: 27px;
-                    height: 1px;
-                    background-color: #000;
-                    left: 50%;
-                    bottom: 0;
-                    margin-left: -13px;
-                }
-                .bannerii-text.bannerii-text_subtitle {
-                    font-family: 'ProximaNova Light',sans-serif,Arial;
-                    font-size: 15px;
-                    top: 130px;
-                    transition: left .2s ease, top .2s ease;
-                }
-                .widescreen .bannerii-text_title {
-                    left: 427px;
-                    top: 75px;
-                    width: auto;
-                }
-                .widescreen .bannerii-text_title:after {
-                    content: none;
-                }
-                .widescreen .bannerii-text_subtitle {
-                    left: 483px;
-                    top: 107px;
-                    width: auto;
-                }
-                .bannerii-inner-links {
-                    background-repeat: no-repeat;
-                    position: absolute;
-                    left: 325px;
-                    top: 174px;
-                    transition: left .2s ease, top .2s ease;
-                }
-                .widescreen .bannerii-inner-links {
-                    left: 495px;
-                    top: 157px;
-                }
-                .widescreen .bannerii-inner-links__link {
-                    display: block;
-                   box-shadow: 0 0 30px rgba(255, 255, 255, .5);
-                }
-                .bannerii-inner-links__link {
-                    width: 139px;
-                    height: 40px;
-                    display: inline-block;
-                    vertical-align: top;
-                    margin-right: 12px;
-                    transition: margin-right .2s ease;
-		box-shadow: 0 0 30px rgba(255, 255, 255, .5);
-                }
-                .widescreen .bannerii-inner-links__link {
-                    margin-bottom: 14px;
-                    margin-right: 0;
-					
-                }
-            </style>
-<div class="mobile-bannerii__container js-ibanner-bg-image" style="background-image:url('//a.lmcdn.ru/bs2/55890/apps.58BEA6B3.jpg')">
-<div class="bannerii-text bannerii-text_title">Мобильное приложение</div>
-<div class="bannerii-text bannerii-text_subtitle">Покупать еще удобнее</div>
-<div class="bannerii-inner-links">
-<a class="bannerii-inner-links__link bannerii-inner-links__link_app-store js-ibanner-bg-image" data-link="https://app.adjust.com/t6qwjb_nx8t9i?campaign=actions&adgroup=redesign_main_tiz_1901&fallback=http%3A%2F%2Fm.lamoda.ru%2Fapps" ignore_bs_link="true" style="background-image:url('//a.lmcdn.ru/bs2/55890/ii-app-banner_ios.58BEA6B3.png')"></a>
-<a class="bannerii-inner-links__link bannerii-inner-links__link_google-play js-ibanner-bg-image" data-link="https://app.adjust.com/t6qwjb_nx8t9i?campaign=actions&adgroup=redesign_main_tiz_1901&fallback=http%3A%2F%2Fm.lamoda.ru%2Fapps" ignore_bs_link="true" style="background-image:url('//a.lmcdn.ru/bs2/55890/ii-app-banner_android.58BEA6B4.png')"></a>
-</div>
-</div></div><div class="vue-widget width-wrapper">
-            <x-recommendations-home
-                title="Популярное"
-                section="main"
-                gender="all"
-            ></x-recommendations-home></div></div></x-app-content></div><x-app-overlays class="vue-widget"></x-app-overlays></div><div class="footer"><x-email-subscription class="vue-widget"></x-email-subscription><x-footer class="vue-widget"><footer class="x-footer"><div class="x-footer-inner"><details class="details x-footer__item" open><summary class="details__title">Помощь</summary><div class="details__panel"><a href="/track/?from=footer" class="x-footer__link">Статус заказа по номеру</a><a href="/help/?from=footer" class="x-footer__link" target="_blank">Центр поддержки Lamoda</a>
-<a class="x-footer__link"
-	href="/help/article/oformlenie-zakaza-ru/?from=footer"
->Как оформить заказ</a><a href="/about/guides/?utm=footer&amp;from=footer" class="x-footer__link">Как выбрать размер</a><a href="/delivery/?from=footer" class="x-footer__link">Условия доставки</a><a href="/sales/current/order/history/?from=footer" class="x-footer__link">Мои заказы</a><a href="/help/refund/?from=footer" class="x-footer__link">Возврат</a><a href="/about/oferta/?from=footer" class="x-footer__link">Публичная оферта</a><a href="/lp/wardrobe_license/?from=footer" class="x-footer__link">Публичная оферта Lamoda Стилист</a><a href="/loyalty-program/?from=footer" class="x-footer__link">Программа лояльности</a><a class="x-footer__link" href="/help/article/faq-dlya-polzovateley-ru/">Часто задаваемые вопросы</a><a class="x-footer__link" href="/lp/ux-research/?from=footer">Исследования</a></div></details><div class="x-footer__item"><details class="details"><summary class="details__title">О нас</summary><div class="details__panel"><div class="x-footer__item-icons"><div class="social-items">
-		
-			
-	
-	<a
-		href="https://www.facebook.com/Lamoda.ru?from=footer"
-		class="icon icon_social icon_social-facebook"
-		rel="nofollow noopener noreferrer"
-		target="_blank"
-		aria-label="facebook"
-	></a>
-
-	
-	<a
-		href="https://vk.com/lamodaru?from=footer"
-		class="icon icon_social icon_social-vk"
-		rel="nofollow noopener noreferrer"
-		target="_blank"
-		aria-label="vk"
-	></a>
-
-	
-	<a
-		href="https://www.youtube.com/user/LamodaruTV?from=footer"
-		class="icon icon_social icon_social-youtube"
-		rel="nofollow noopener noreferrer"
-		target="_blank"
-		aria-label="youtube"
-	></a>
-
-	
-	<a
-		href="https://instagram.com/lamodaru?from=footer"
-		class="icon icon_social icon_social-instagram"
-		rel="nofollow noopener noreferrer"
-		target="_blank"
-		aria-label="instagram"
-	></a></div></div><a rel="nofollow noopener noreferrer" href="/blog/?from=footer" class="x-footer__link">
-		Fashion-блог Lamoda
-	</a><a class="x-footer__link" href="/giftcertificate/?from=footer">Подарочные сертификаты Lamoda</a><a rel="nofollow noopener noreferrer" href="https://job.lamoda.ru/" target="_blank" class="x-footer__link">
-		Вакансии<
-	</a></div></details><details class="details"><summary class="details__title">Партнерам</summary><div class="details__panel">
-						<a rel="nofollow noopener noreferrer"
-   href="/lp/partners/?from=footer"
-   class="link x-footer__link"
->
-	Подключиться к партнёрской программе "Маркетплейс"
-</a>
-
-
-	<a rel="nofollow noopener noreferrer"
-	   href="/lp/procurement?from=footer"
-	   class="link x-footer__link"
-	>
-		Стать подрядчиком Lamoda
-	</a>
-	<a rel="nofollow noopener noreferrer"
-	   href="/lp/rent/?from=footer"
-	   class="link x-footer__link"
-	>
-		Арендодателям
-	</a>
-	<a rel="nofollow noopener noreferrer"
-	   href="/lp/b2b_gift_lamoda/?from=footer"
-	   class="link x-footer__link"
-	>
-		Подарочные сертификаты для бизнеса
-	</a></div></details></div><details class="details x-footer__item"><summary class="details__title">Способы оплаты</summary><div class="details__panel"><div class="x-footer__item-icons"><i class="x-footer__item-icon icon icon_pay-mastercard"></i><i class="x-footer__item-icon icon icon_pay-visa"></i><i class="x-footer__item-icon icon icon_pay-mir"></i></div><div class="x-footer__text">
-	
-		Вы можете оплатить покупки наличными при получении, либо выбрать
-		<a href="/help/article/kak-oplatit-zakaz-ru/?from=footer" class="x-footer__link_underline">
-			другой способ оплаты
-		</a></div></div></details><div class="x-footer__item"><details class="details" open><summary class="details__title">Для мобильных устройств</summary><div class="details__panel"><div class="x-footer__item-icons">
-	<a
-	target="_blank"
-	class="x-footer__item-icon icon icon_appstore"
-	title="Lamoda ios app"
-	rel="nofollow noopener noreferrer"
-	href="https://app.adjust.io/fefnvv"
-></a><a
-	target="_blank"
-	class="x-footer__item-icon icon icon_googleplay"
-	title="Lamoda android app"
-	rel="nofollow noopener noreferrer"
-	href="https://app.adjust.io/l3ersv"
-></a>
-<a
-	target="_blank"
-	class="x-footer__item-icon icon icon_huaweistore"
-	title="Lamoda huawei app"
-	rel="nofollow noopener noreferrer"
-	href="https://app.adjust.com/bgo1otg?campaign=Button_Footer&adgroup=site&redirect=https://appgallery.huawei.com/#/app/C102853495"
-></a></div><div class="x-footer__text">
-	Вы также можете перейти на <a class="x-footer__link_underline" href="https://www.lamoda.ru/?sv=dsk">основной сайт</a></div></div></details></div></div></footer></x-footer></div><div class="unipop__container vue-widget"><d-survey-badge country="ru"></d-survey-badge></div><script type="text/template" id="subs-popup-feb18-template"><div class="unipop__item unipop__item_subs"><div class="unipop__item-text"><html><head><style>
-.sub-popup-aug17 {
-bottom: 0px;
-z-index: 13;
-}
-.sub-popup-aug17_min  {
-bottom: 0px;
-}
-</style></head><body><p>
-Скидка 10%</p><div class="sub-popup-feb18__closemin"></div></div><div class="sub-popup-feb18__popup hidden"><div class="sub-popup-feb18__close"></div><div class="sub-popup-feb18__offer"><html><head><style>
-.sub-popup-aug17 {
-bottom: 0px;
-z-index: 13;
-}
-.sub-popup-aug17_min  {
-bottom: 0px;
-}
-</style>
-</head><body><div style="font-size: 18px; font-weight: bold; margin-bottom: 12px;">Скидка 10%</div>
-<div>за подписку на наши новости</div></div><form class="subscription__form" data-location="pop_up_new_bar" data-preset="overlay"><div data-form-widget="email" class="sub-popup-feb18__textinp-cont"><input data-form-control="email" type="text" name="email" placeholder="Введите ваш e-mail" value="" class="text-field text-field_large sub-popup-feb18__input" /><div class="form__error" data-form-error="email"></div></div><div data-form-widget="gender" class="sub-popup-feb18__buttons"><input type="hidden" name="gender" value="F" data-form-control="gender" /><button class="button button_blue sub-popup-feb18__button sub-popup-feb18__button-left" type="submit" data-gender="F"><span class="button__title">Женщинам</span><span class="button__progress"></span></button><button class="button button_blue sub-popup-feb18__button" type="submit" data-gender="M"><span class="button__title">Мужчинам</span><span class="button__progress"></span></button><div class="form__error" data-form-error="gender"></div></div><div data-form-error="subscription__form" class="form__error"></div></form><div class="sub-popup-feb18__offer-details"><a class="link_blue" onclick="window.open('/subscription'); return false;">
-                    Условия акции
-                </a></div><div class="sub-popup-feb18__result-message hidden"></div><div class="sub-popup-feb18__countdown hidden">
-                Окно закроется через <span class="sub-popup-feb18__countdown-seconds">10 секунд<</span></div></div></div></script><!-- noindex -->
-<div class="popup auth-popup hidden"
-  data-form-action-login="/customer/account/login/"
-  data-form-action-register="/customer/account/ajax/create/"
-  data-form-action-lost="/customer/account/resetpassword/"
-></div><!-- /noindex --><div class="popup help-popup hidden"></div><div class="popup post-cart-add hidden"><div class="popup__inner"><span class="modal__close" data-popup-close=""></span><div class="popup__content popup__content-before-cart"></div></div></div><div class="popup subscription-overlay hidden"><div class="popup__inner"><span class="modal__close" data-popup-close=""></span><div class="popup__content"></div></div></div><div class="popup quickview hidden"><div class="popup__inner"><span class="popup__close" data-popup-close="">close</span><div class="popup__content"></div></div></div><x-footer-seo-menu class="vue-widget"><div class="x-footer-seo-menu"><div class="x-footer-seo-menu-content"><h1 class="x-footer-seo-menu-title">
-        Интернет магазин одежды и обуви
-      </h1><div class="x-footer-seo-menu-tabs"><div class="x-footer-seo-menu-tab-title">Женщинам</div><div class="x-footer-seo-menu-tab"><div class="x-footer-seo-menu-tab-category">Одежда</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/c/355/clothes-zhenskaya-odezhda/">Вся одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/399/clothes-bluzy-rubashki/">Блузы и рубашки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2483/clothes-bluzy/">Блузы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2484/clothes-rubashki/">Рубашки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/401/clothes-bryuki-shorty-kombinezony/">Брюки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2774/clothes-uzkie/">Зауженные</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3203/clothes-klassicheskie-bryuki/">Классические</a><a class="x-footer-seo-menu-tab-links__item" href="/c/409/clothes-legginsy/">Леггинсы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/357/clothes-verkhnyaya-odezhda/">Верхняя одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/359/clothes-kurtki/">Демисезонные куртки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2464/clothes-zhileti-verhnie/">Жилеты</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2461/clothes-kozhanie-kurtki/">Кожаные куртки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/361/clothes-palto/">Пальто</a><a class="x-footer-seo-menu-tab-links__item" href="/c/6059/clothes-zhenzimniepalto/">Зимние</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3562/clothes-parki-jen/">Парки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/363/clothes-zenskie-plaschi/">Плащи и тренчкоты</a><a class="x-footer-seo-menu-tab-links__item" href="/c/365/clothes-puhoviki/">Пуховики и зимние куртки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3818/clothes-puhoviki-long/">Длинные</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3819/clothes-puhoviki-mid/">Средние</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3257/clothes-mehovye-izdeliya/">Шубы и дубленки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/375/clothes-vodolazki/">Водолазки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/377/clothes-dempery-i-pulovery/">Джемперы и пуловеры</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5871/clothes-zhendjempery/">Джемперы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/379/clothes-cardigany/">Кардиганы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/397/clothes-d-insy/">Джинсы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/4208/clothes-momjeans/">С высокой талией</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2628/clothes-uzkiedjinsy/">Узкие</a><a class="x-footer-seo-menu-tab-links__item" href="/c/4651/clothes-dom-odejda/">Домашняя одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2498/clothes-nochnie-sorochki/">Ночные сорочки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3009/clothes-pijamy/">Пижамы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2500/clothes-halaty/">Халаты</a><a class="x-footer-seo-menu-tab-links__item" href="/c/4184/clothes-coveralls/">Комбинезоны</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3002/clothes-plyajnaya-odejda/">Купальники и пляжная одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5462/clothes-musulmanskaya-odezhda/">Мусульманская одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2937/clothes-clothes-big-size/">Одежда больших размеров</a><a class="x-footer-seo-menu-tab-links__item" href="/c/4170/clothes-maternityclothes/">Одежда для беременных</a><a class="x-footer-seo-menu-tab-links__item" href="/c/367/clothes-pidzhaki-zhaketi/">Пиджаки и костюмы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2999/clothes-gakety/">Жакеты и пиджаки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3000/clothes-kostyumy-bryuki/">Костюмы с брюками</a><a class="x-footer-seo-menu-tab-links__item" href="/c/369/clothes-platiya/">Платья и сарафаны</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2467/clothes-vechernie-platiya/">Вечерние</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3036/clothes-vyazanye-platya/">Вязаные и трикотажные</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2468/clothes-kokteilnye-platiya/">Коктейльные</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2466/clothes-letnie-platiya/">Летние</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2625/clothes-dlinnyeplatiya/">Макси</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2640/clothes-srednieplatya/">Миди</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2626/clothes-korotkieplatya/">Мини</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2470/clothes-delovye-platiya/">Офисные</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2465/clothes-povsednevnye-platiya/">Повседневные</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5952/clothes-platyasdlinrukavom/">С длинным рукавом</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2474/clothes-tolstovki-olimpiyki/">Толстовки и олимпийки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2627/clothes-topy/">Топы и майки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/4748/clothes-womtuniki/">Туники</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2478/clothes-futbolki/">Футболки и поло</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2479/clothes-futbolki-s-korotkim/">Футболки с коротким рукавом</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2485/clothes-shorty/">Шорты</a><a class="x-footer-seo-menu-tab-links__item" href="/c/423/clothes-yubki/">Юбки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2491/clothes-yubki-maksi/">Макси</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2490/clothes-yubki-midi/">Миди</a></div><div class="x-footer-seo-menu-tab-category">Обувь</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/c/15/shoes-women/">Вся обувь</a><a class="x-footer-seo-menu-tab-links__item" href="/c/37/shoes-baletki/">Балетки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/39/shoes-bosonozhki/">Босоножки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2448/shoes-botilony/">Ботильоны</a><a class="x-footer-seo-menu-tab-links__item" href="/c/23/shoes-botinki/">Ботинки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5309/shoes-vysokiebotinkzhen/">Высокие</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5312/shoes-nizkiebotinkizhen/">Низкие</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5311/shoes-chelseazhen/">Челси</a><a class="x-footer-seo-menu-tab-links__item" href="/c/209/shoes-domashnaja/">Домашняя обувь</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2962/shoes-dutiki-i-lunohody/">Дутики и луноходы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/99/shoes-dutiki/">Дутики</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2968/shoes-krossovki-kedy/">Кроссовки и кеды</a><a class="x-footer-seo-menu-tab-links__item" href="/c/35/shoes-mokasiny/">Мокасины и топсайдеры</a><a class="x-footer-seo-menu-tab-links__item" href="/c/4077/shoes-sizeplusshoes/">Обувь с увеличенной полнотой</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2428/shoes-rezinovaia-obuv/">Резиновая обувь</a><a class="x-footer-seo-menu-tab-links__item" href="/c/41/shoes-sabo/">Сабо</a><a class="x-footer-seo-menu-tab-links__item" href="/c/127/shoes-sandalii/">Сандалии</a><a class="x-footer-seo-menu-tab-links__item" href="/c/21/shoes-sapogi/">Сапоги</a><a class="x-footer-seo-menu-tab-links__item" href="/c/89/shoes-botforty/">Ботфорты</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2764/shoes-polusapogi/">Полусапоги</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5557/shoes-zhensapogi/">Сапоги</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3219/shoes-slipony/">Слипоны</a><a class="x-footer-seo-menu-tab-links__item" href="/c/33/shoes-tufli/">Туфли</a><a class="x-footer-seo-menu-tab-links__item" href="/c/4782/shoes-lodochki/">Лодочки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2967/shoes-loufery/">Лоферы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/91/shoes-uggi-and-unty/">Угги и унты</a><a class="x-footer-seo-menu-tab-links__item" href="/c/207/shoes-slantsi/">Шлепанцы и акваобувь</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2440/shoes-espadrily/">Эспадрильи</a></div><div class="x-footer-seo-menu-tab-category">Аксессуары</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/c/557/accs-zhenskieaksessuary/">Все аксессуары</a><a class="x-footer-seo-menu-tab-links__item" href="/c/647/hats-golovnyeubory/">Головные уборы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/653/hats-shapki/">Шапки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3096/accs-kowelki-women/">Кошельки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2395/accs_ns-ochki/">Очки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/815/accs-perchatki-i-varezhki/">Перчатки и варежки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/683/scarfs-platki-i-sharfy/">Платки и шарфы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/567/bags-ryukzaki/">Рюкзаки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3088/bags-ryukzaki-gorodskie-women/">Городские</a><a class="x-footer-seo-menu-tab-links__item" href="/c/563/bags-sumki-chehli/">Сумки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5576/bags-myagkiesumki/">Мягкие</a></div><div class="x-footer-seo-menu-tab-category">Бренды</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-4573/">Armani Jeans</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-1123/">Baldinini</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-25859/">Banana Republic</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-5696/">Baon</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-22318/">Befree</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-4869/">Calvin Klein Jeans</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-23676/">Concept Club</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-25341/">Conso Wear</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-1287/">Crocs</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-19563/">Dorothy Perkins</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-5711/">Ecco</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-6642/">Finn Flare</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-25138/">Gap</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-2001/">Geox</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-5558/">Incity</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-513/">Keddo</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-23728/">LOST INK</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-22319/">Love Republic</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-5716/">Mango</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-24641/">Michael Michael Kors</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-23751/">Modis</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-2047/">Nike</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-1107/">PUMA</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-4475/">Patrizia Pepe</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-25349/">Piazza Italia</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-463/">Ralf Ringer</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-6727/">Rinascimento</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-6616/">River Island</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-5588/">Savage</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-6107/">Sela</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-1111/">Tamaris</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-573/">Tommy Hilfiger</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-23838/">Topshop</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-24798/">United Colors of Benetton</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-1889/">Vagabond</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-335/">Vitacci</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-22316/">Zarina</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-6410/">oodji</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4153-6686/">Твое</a></div><div class="x-footer-seo-menu-tab-category">Другое</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/c/1262/default-premium-women/">Весь премиум</a><a class="x-footer-seo-menu-tab-links__item" href="/c/831/default-sports-women/">Весь спорт</a><a class="x-footer-seo-menu-tab-links__item" href="/c/4308/default-krasotawoman/">Вся косметика</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3330/beauty_accs-dekorativnaya-kosmetika/">Декоративная косметика</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3224/accs-parfyumeriya/">Парфюмерия</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3251/accs-krasotauhodzavolosami/">Уход за волосами </a><a class="x-footer-seo-menu-tab-links__item" href="/c/3234/accs-krasotauhodzalicom/">Уход за лицом</a><a class="x-footer-seo-menu-tab-links__item" href="/catalogsearch/result/?q=профессиональная%20косметика">Профессиональная косметика</a></div></div><div class="x-footer-seo-menu-tab-title">Мужчинам</div><div class="x-footer-seo-menu-tab"><div class="x-footer-seo-menu-tab-category">Одежда</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/c/477/clothes-muzhskaya-odezhda/">Вся одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/517/clothes-muzhskie-bryuki/">Брюки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2638/clothes-brukim/">Повседневные</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2299/clothes-muzhskie-bryuki-sportivnie/">Спортивные</a><a class="x-footer-seo-menu-tab-links__item" href="/c/479/clothes-muzhskaya-verkhnyaya-odezhda/">Верхняя одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/485/clothes-muzhskie-kurtki/">Демисезонные куртки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2504/clothes-jeans-kurtki/">Джинсовые куртки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/495/clothes-muzhskie-zhilety/">Жилеты</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2503/clothes-kozhanye-kurtki/">Кожаные куртки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2505/clothes-muzhskie-vetrovki/">Легкие куртки и ветровки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/487/clothes-muzhskie-palto/">Пальто</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3561/clothes-parki-muj/">Парки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/491/clothes-muzhskie-puhoviki/">Пуховики и зимние куртки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3816/clothes-muzhskie-puhoviki-short/">Короткие</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3817/clothes-muzhskie-puhoviki-mid/">Средние и длинные</a><a class="x-footer-seo-menu-tab-links__item" href="/c/503/clothes-muzhskie-dempery-i-svitery/">Джемперы и пуловеры</a><a class="x-footer-seo-menu-tab-links__item" href="/c/505/clothes-muzhskie-cardigany/">Кардиганы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/513/clothes-muzhskie-d-insy/">Джинсы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2635/clothes-zauzhennyem/">Зауженные</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2636/clothes-pryamyem/">Прямые</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5289/clothes-odezhdadlyadomamuj/">Домашняя одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3039/clothes-topyi-muzhskie/">Майки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/523/clothes-muzhskoe-nizhneye-belyo/">Нижнее белье</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3043/clothes-pid-aki-kostumi-muzhskie/">Пиджаки и костюмы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/515/clothes-muzhskie-rubashki-i-sorochki/">Рубашки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2518/clothes-muzhskie-rubashki-s-dlinnym/">С длинным рукавом</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3042/clothes-sportivnye-kostyumy-muzhskie/">Спортивные костюмы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5295/clothes-termobelyemuj/">Термобелье</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2508/clothes-tolstovki-i-olimpiyki/">Толстовки и олимпийки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2511/clothes-muzhskie-hudi/">Худи</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2512/clothes-muzhskie-futbolki/">Футболки и поло</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2515/clothes-muzhskie-futbolki-polo/">Поло</a><a class="x-footer-seo-menu-tab-links__item" href="/c/519/clothes-muzhskie-shorty/">Шорты</a></div><div class="x-footer-seo-menu-tab-category">Обувь</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/c/17/shoes-men/">Вся обувь</a><a class="x-footer-seo-menu-tab-links__item" href="/c/151/shoes-muzhskie-botinki/">Ботинки и сапоги</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5320/shoes-vysokiebotinkimuj/">Высокие ботинки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/167/shoes-muzhskie-klassicheskie-botinki/">Низкие ботинки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/3520/shoes-dutiki-i-lunohody-men/">Дутики и луноходы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2981/shoes-krossovk-kedy-muzhskie/">Кроссовки и кеды</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5972/shoes-muzhkedy/">Кеды</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5971/shoes-muzhkrossovki/">Кроссовки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/159/shoes-muzhskie-krossovki/">Низкие кроссовки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/53/shoes-muzhskie-mokasiny/">Мокасины и топсайдеры</a><a class="x-footer-seo-menu-tab-links__item" href="/c/157/shoes-muzhskie-tufli/">Туфли</a><a class="x-footer-seo-menu-tab-links__item" href="/c/131/shoes-muzhskie-uggi/">Угги и унты</a></div><div class="x-footer-seo-menu-tab-category">Аксессуары</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/c/559/accs-muzhskieaksessuary/">Все аксессуары</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2765/hats-muzhskie-golovnyeubory/">Головные уборы</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2766/hats-muzhskie-beisbolki/">Бейсболки и кепки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2768/hats-muzhskie-shapki/">Шапки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/817/accs-muzhskie-perchatki-i-varezhki/">Перчатки и варежки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/595/bags-muzhskie-ryukzaki/">Рюкзаки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/591/bags-muzhskie-sumki-chehli/">Сумки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/593/bags-muzhskie-sumki/">Через плечо</a><a class="x-footer-seo-menu-tab-links__item" href="/c/799/accs-muzhskie-chasy/">Часы</a></div><div class="x-footer-seo-menu-tab-category">Бренды</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-4035/">ASICS</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-4573/">Armani Jeans</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-1123/">Baldinini</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-4869/">Calvin Klein Jeans</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-2037/">Columbia</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-2691/">DC Shoes</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-5711/">Ecco</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-25138/">Gap</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-2001/">Geox</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-22293/">Helly Hansen</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-471/">Lacoste</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-6253/">Mango Man</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-23751/">Modis</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-893/">Napapijri</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-5816/">New Balance</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-2047/">Nike</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-1107/">PUMA</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-1267/">Patrol</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-6180/">Polo Ralph Lauren</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-463/">Ralf Ringer</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-1063/">Reebok</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-18583/">Reebok Classics</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-4597/">Salamander</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-5706/">Salomon</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-22705/">Springfield</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-5815/">Timberland</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-573/">Tommy Hilfiger</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-23682/">Tommy Hilfiger Denim</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-23837/">Topman</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-25571/">Under Armour</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-24798/">United Colors of Benetton</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-4978/">Vans</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-335/">Vitacci</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-1787/">Wrangler</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-1163/">adidas Originals</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-1143/">adidas Performance</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4152-6410/">oodji</a></div><div class="x-footer-seo-menu-tab-category">Другое</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/c/1263/default-premium-men/">Весь премиум</a><a class="x-footer-seo-menu-tab-links__item" href="/c/832/default-sports-men/">Весь спорт</a><a class="x-footer-seo-menu-tab-links__item" href="/c/4288/beauty_accs_ns-menbeauty/">Вся косметика</a><a class="x-footer-seo-menu-tab-links__item" href="/catalogsearch/result/?q=профессиональная%20косметика">Профессиональная косметика</a></div></div><div class="x-footer-seo-menu-tab-title">Детям</div><div class="x-footer-seo-menu-tab"><div class="x-footer-seo-menu-tab-category">Мальчикам</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/c/205/shoes-boys/">Вся обувь</a><a class="x-footer-seo-menu-tab-links__item" href="/c/1589/clothes-dlia-malchikov/">Вся одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5381/default-aksydlyamalchikov/">Все аксессуары</a><a class="x-footer-seo-menu-tab-links__item" href="/c/1875/default-sports-forboys/">Весь спорт</a><a class="x-footer-seo-menu-tab-links__item" href="/c/255/shoes-botinki-dlya-malchikov/">Ботинки</a><a class="x-footer-seo-menu-tab-links__item" href="/c/2988/shoes-krossovki-kedy-malchiki/">Кроссовки и кеды</a><a class="x-footer-seo-menu-tab-links__item" href="/c/1591/clothes-boys-verkhnyaya-odezhda/">Верхняя одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/1592/clothes-boys-kyrtki/">Куртки и пуховики</a></div><div class="x-footer-seo-menu-tab-category">Девочкам</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/c/203/shoes-girls/">Вся обувь</a><a class="x-footer-seo-menu-tab-links__item" href="/c/1590/clothes-dlia-devochek/">Вся одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/561/accs-detskieaksessuary/">Все аксессуары</a><a class="x-footer-seo-menu-tab-links__item" href="/c/1874/default-sports-forgirls/">Весь спорт</a><a class="x-footer-seo-menu-tab-links__item" href="/c/1652/clothes-girls-verkhnyaya-odezhda/">Верхняя одежда</a><a class="x-footer-seo-menu-tab-links__item" href="/c/1653/clothes-girls-kyrtki/">Куртки и пуховики</a><a class="x-footer-seo-menu-tab-links__item" href="/c/1661/clothes-girls-platia/">Платья и сарафаны</a></div><div class="x-footer-seo-menu-tab-category">Бренды</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-24274/">Acoola</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-25802/">Armani Junior</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-1187/">Bartek</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-24834/">Blukids</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-24423/">Boboli</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-24722/">Button Blue</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-25240/">Chicco</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-6677/">Choupette</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-1169/">Converse</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-1287/">Crocs</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-25138/">Gap</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-2001/">Geox</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-24511/">Gulliver</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-25028/">Huppa</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-5558/">Incity</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-23760/">Junior Republic</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-1551/">Kakadu</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-513/">Keddo</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-25132/">LC Waikiki</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-25725/">Lassie</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-19186/">Mango Kids</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-23751/">Modis</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-22280/">Name It</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-2047/">Nike</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-26628/">Oldos</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-1107/">PUMA</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-1267/">Patrol</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-25349/">Piazza Italia</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-463/">Ralf Ringer</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-6698/">Reima</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-6107/">Sela</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-25937/">Tapiboo</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-25571/">Under Armour</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-24798/">United Colors of Benetton</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-335/">Vitacci</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-1163/">adidas Originals</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-1791/">Зебра</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-25611/">КотМарКот</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-1265/">Котофей</a><a class="x-footer-seo-menu-tab-links__item" href="/cb/4154-6686/">Твое</a></div><div class="x-footer-seo-menu-tab-category">Другое</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/c/5414/default-novorozhdennym/">Все для новорожденных</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5413/clothes-odezhdaberemennye/">Одежда для беременных</a><a class="x-footer-seo-menu-tab-links__item" href="/c/5598/clothes-newbornclothes/">Одежда</a></div></div><div class="x-footer-seo-menu-tab-title">Бренды</div><div class="x-footer-seo-menu-tab"><div class="x-footer-seo-menu-tab-category x-footer-seo-menu-tab-category_brands">Список брендов</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/b/4035/brand-asics/">ASICS</a><a class="x-footer-seo-menu-tab-links__item" href="/b/22940/brand-aldo/">Aldo</a><a class="x-footer-seo-menu-tab-links__item" href="/b/25859/brand-bananarepublic/">Banana Republic</a><a class="x-footer-seo-menu-tab-links__item" href="/b/5696/brand-baon/">Baon</a><a class="x-footer-seo-menu-tab-links__item" href="/b/22318/brand-befree/">Befree</a><a class="x-footer-seo-menu-tab-links__item" href="/b/4869/brand-calvinkleinjeans/">Calvin Klein Jeans</a><a class="x-footer-seo-menu-tab-links__item" href="/b/24529/brand-clasna/">Clasna</a><a class="x-footer-seo-menu-tab-links__item" href="/b/2037/brand-columbia/">Columbia</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23676/brand-conceptclub/">Concept Club</a><a class="x-footer-seo-menu-tab-links__item" href="/b/25341/brand-consowear/">Conso Wear</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1169/brand-converse/">Converse</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1287/brand-crocs/">Crocs</a><a class="x-footer-seo-menu-tab-links__item" href="/b/5624/brand-desigual/">Desigual</a><a class="x-footer-seo-menu-tab-links__item" href="/b/2003/brand-diesel/">Diesel</a><a class="x-footer-seo-menu-tab-links__item" href="/b/19563/brand-dorothyperkins/">Dorothy Perkins</a><a class="x-footer-seo-menu-tab-links__item" href="/b/5711/brand-ecco/">Ecco</a><a class="x-footer-seo-menu-tab-links__item" href="/b/6642/brand-finnflare/">Finn Flare</a><a class="x-footer-seo-menu-tab-links__item" href="/b/25138/brand-gap/">Gap</a><a class="x-footer-seo-menu-tab-links__item" href="/b/2001/brand-geox/">Geox</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1841/brand-guess/">Guess</a><a class="x-footer-seo-menu-tab-links__item" href="/b/22293/brand-hellyhansen/">Helly Hansen</a><a class="x-footer-seo-menu-tab-links__item" href="/b/5558/brand-incity/">Incity</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23679/brand-jackwolfskin/">Jack Wolfskin</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23691/brand-jennyfer/">Jennyfer</a><a class="x-footer-seo-menu-tab-links__item" href="/b/513/brand-keddo/">Keddo</a><a class="x-footer-seo-menu-tab-links__item" href="/b/25132/brand-lc-waikiki/">LC Waikiki</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23728/brand-lostink/">LOST INK</a><a class="x-footer-seo-menu-tab-links__item" href="/b/471/brand-lacoste/">Lacoste</a><a class="x-footer-seo-menu-tab-links__item" href="/b/22319/brand-loverepublic/">Love Republic</a><a class="x-footer-seo-menu-tab-links__item" href="/b/25277/brand-lusio/">Lusio</a><a class="x-footer-seo-menu-tab-links__item" href="/b/5716/brand-mango/">Mango</a><a class="x-footer-seo-menu-tab-links__item" href="/b/6253/brand-h-e-bymango/">Mango Man</a><a class="x-footer-seo-menu-tab-links__item" href="/b/2059/brand-merrell/">Merrell</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23751/brand-modis/">Modis</a><a class="x-footer-seo-menu-tab-links__item" href="/b/18596/brand-morgan/">Morgan</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23698/brand-motivi/">Motivi</a><a class="x-footer-seo-menu-tab-links__item" href="/b/893/brand-napapijri/">Napapijri</a><a class="x-footer-seo-menu-tab-links__item" href="/b/5816/brand-newbalance/">New Balance</a><a class="x-footer-seo-menu-tab-links__item" href="/b/2047/brand-nike/">Nike</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23367/brand-odri/">Odri</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1107/brand-puma/">PUMA</a><a class="x-footer-seo-menu-tab-links__item" href="/b/25349/brand-piazzaitalia/">Piazza Italia</a><a class="x-footer-seo-menu-tab-links__item" href="/b/463/brand-ralfringer/">Ralf Ringer</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1063/brand-reebok/">Reebok</a><a class="x-footer-seo-menu-tab-links__item" href="/b/18583/brand-reebokclassics/">Reebok Classics</a><a class="x-footer-seo-menu-tab-links__item" href="/b/6698/brand-reima/">Reima</a><a class="x-footer-seo-menu-tab-links__item" href="/b/6616/brand-riverisland/">River Island</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1541/brand-roxy/">Roxy</a><a class="x-footer-seo-menu-tab-links__item" href="/b/4597/brand-salamander/">Salamander</a><a class="x-footer-seo-menu-tab-links__item" href="/b/5706/brand-salomon/">Salomon</a><a class="x-footer-seo-menu-tab-links__item" href="/b/6107/brand-sela/">Sela</a><a class="x-footer-seo-menu-tab-links__item" href="/b/22705/brand-springfield/">Springfield</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1111/brand-tamaris/">Tamaris</a><a class="x-footer-seo-menu-tab-links__item" href="/b/25889/brand-thenorthface/">The North Face</a><a class="x-footer-seo-menu-tab-links__item" href="/b/5815/brand-timberland/">Timberland</a><a class="x-footer-seo-menu-tab-links__item" href="/b/5638/brand-tomfarr/">Tom Farr</a><a class="x-footer-seo-menu-tab-links__item" href="/b/573/brand-tommyhilfiger/">Tommy Hilfiger</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23682/brand-tommyhilfigerdenim/">Tommy Hilfiger Denim</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23837/brand-topman/">Topman</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23838/brand-topshop/">Topshop</a><a class="x-footer-seo-menu-tab-links__item" href="/b/5889/brand-tuttobene/">Tutto Bene</a><a class="x-footer-seo-menu-tab-links__item" href="/b/25571/brand-underarmour/">Under Armour</a><a class="x-footer-seo-menu-tab-links__item" href="/b/24798/brand-unitedcolorsofbenetton/">United Colors of Benetton</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1889/brand-vagabond/">Vagabond</a><a class="x-footer-seo-menu-tab-links__item" href="/b/4978/brand-vans/">Vans</a><a class="x-footer-seo-menu-tab-links__item" href="/b/20941/brand-violetabymango/">Violeta by Mango</a><a class="x-footer-seo-menu-tab-links__item" href="/b/335/brand-vitacci/">Vitacci</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1787/brand-wrangler/">Wrangler</a><a class="x-footer-seo-menu-tab-links__item" href="/b/22316/brand-zarina/">Zarina</a><a class="x-footer-seo-menu-tab-links__item" href="/b/18576/brand-adladilisik/">adL</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1163/brand-adidasoriginals/">adidas Originals</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1143/brand-adidasperformance/">adidas Performance</a><a class="x-footer-seo-menu-tab-links__item" href="/b/6410/brand-oodji/">oodji</a><a class="x-footer-seo-menu-tab-links__item" href="/b/6686/brand-tvoe/">Твое</a></div></div><div class="x-footer-seo-menu-tab-title">Премиум бренды</div><div class="x-footer-seo-menu-tab"><div class="x-footer-seo-menu-tab-category x-footer-seo-menu-tab-category_brands">Список брендов</div><div class="x-footer-seo-menu-tab-links"><a class="x-footer-seo-menu-tab-links__item" href="/b/24835/">Aeronautica Militare</a><a class="x-footer-seo-menu-tab-links__item" href="/b/25579/brand-armani-exchange/">Armani Exchange</a><a class="x-footer-seo-menu-tab-links__item" href="/b/4573/brand-ajarmanijeans/">Armani Jeans</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1123/brand-baldinini/">Baldinini</a><a class="x-footer-seo-menu-tab-links__item" href="/b/4065/">Bikkembergs</a><a class="x-footer-seo-menu-tab-links__item" href="/b/18517/">Boss Hugo Boss</a><a class="x-footer-seo-menu-tab-links__item" href="/b/4089/">Boss Orange</a><a class="x-footer-seo-menu-tab-links__item" href="/b/20395/">Calvin Klein Underwear</a><a class="x-footer-seo-menu-tab-links__item" href="/b/1861/">Coccinelle</a><a class="x-footer-seo-menu-tab-links__item" href="/b/6477/brand-dkny/">DKNY</a><a class="x-footer-seo-menu-tab-links__item" href="/b/609/">Fabi</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23219/brand-furla/">Furla</a><a class="x-footer-seo-menu-tab-links__item" href="/b/4265/">Gucci</a><a class="x-footer-seo-menu-tab-links__item" href="/b/25246/">Jog Dog</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23839/">Karl Lagerfeld</a><a class="x-footer-seo-menu-tab-links__item" href="/b/4355/">Liu Jo</a><a class="x-footer-seo-menu-tab-links__item" href="/b/5573/">Liu Jo Jeans</a><a class="x-footer-seo-menu-tab-links__item" href="/b/3795/">Love Moschino</a><a class="x-footer-seo-menu-tab-links__item" href="/b/24003/">Max Mara</a><a class="x-footer-seo-menu-tab-links__item" href="/b/24641/">Michael Michael Kors</a><a class="x-footer-seo-menu-tab-links__item" href="/b/18566/">Nando Muzi</a><a class="x-footer-seo-menu-tab-links__item" href="/b/6568/">Parajumpers</a><a class="x-footer-seo-menu-tab-links__item" href="/b/4475/brand-patriziapepe/">Patrizia Pepe</a><a class="x-footer-seo-menu-tab-links__item" href="/b/24558/">Pennyblack</a><a class="x-footer-seo-menu-tab-links__item" href="/b/4489/brand-pinko/">Pinko</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23748/brand-piquadro/">Piquadro</a><a class="x-footer-seo-menu-tab-links__item" href="/b/6180/brand-poloralphlauren/">Polo Ralph Lauren</a><a class="x-footer-seo-menu-tab-links__item" href="/b/24713/">Ted Baker London</a><a class="x-footer-seo-menu-tab-links__item" href="/b/23783/brand-trussardijeans/">Trussardi Jeans</a><a class="x-footer-seo-menu-tab-links__item" href="/b/25411/">Weekend Max Mara</a><a class="x-footer-seo-menu-tab-links__item" href="/b/6564/">Woolrich</a></div></div><div class="x-footer-seo-menu-tab-title x-footer-seo-menu-tab_opened">О компании</div><div class="x-footer-seo-menu-tab"><div class="x-footer-seo-menu-tab-description"><div><div><h2>Большой выбор товаров</h2></div><p>В интернет-магазине одежды и обуви Lamoda.ru каждый может выбрать и купить одежду, обувь или аксессуар в 2 клика.</p><p>В каталоге интернет-магазина Lamoda.ru более 1000 брендов мужской, женской и детской обуви и одежды разных ценовых категорий, всего более 2 000 000 товаров. Кроме того, у нас есть аксессуары, косметика и парфюмерия, <a href="/c/831/">спортивные товары</a>, и ассортимент постоянно пополняется!</p><p>Со многими производителями Lamoda.ru сотрудничает напрямую, в остальных случаях мы выбираем надежных, проверенных поставщиков. Мы гарантируем подлинность товара, что подтверждается сертификатами.</p><div><h2>Доставка с примеркой</h2></div><p>У нас есть собственная служба доставки Lamoda Express, которая работает в 66 крупнейших городах России: Москва и МО, Санкт-Петербург, Нижний Новгород, Новосибирск, Екатеринбург, Самара, Тольятти, Тюмень, Челябинск и другие. Срок доставки &mdash; 1-2 дня. Бесплатная доставка по всей России!</p><p>Примерьте перед покупкой! Интернет-магазин Lamoda даёт возможность примерить одежду, обувь и другие товары перед оплатой заказа курьеру. Оплачивайте только то, что вам подошло и понравилось!</p><div><h2>Оплата и возврат</h2></div><p>Интернет-магазин одежды и обуви Lamoda.ru позволяет вернуть товар в течение 14 дней с момента покупки. Вернуть товары можно как с курьером до оплаты заказа, так и по почте или в одном из пунктов выдачи заказов в Москве.</p><p>Вы можете оплатить покупки не только наличными, но и банковскими картами. У всех курьеров Lamoda Express при себе есть терминал для оплаты картами.</p><p>Теперь купить обувь и одежду можно в 2 клика, не выходя из дома!</p><div><h2>Другие продавцы на Lamoda</h2></div><p>Lamoda становится маркетплейсом: теперь на сайте представлены товары не только разных брендов, но и других компаний-продавцов.</p><p>Вы можете наслаждаться еще более широким ассортиментом, а мы всегда будем тщательно отслеживать качество обслуживания клиентов всеми продавцами.</p><p>Обратите внимание: условия доставки и возврата товаров сторонних продавцов необходимо уточнять в описании товара и на странице продавца.</p></div></div></div></div></div></div></x-footer-seo-menu><div class="x-foorer-logos"><div class="vue-widget"><x-banner-json-lazy banner-slot="js_partner_logo_footer" class="x-partner-logo-footer"/></div><div class="vue-widget"><x-banner-json-lazy banner-slot="js_achievements_logo_footer" class="x-achievements-logo-footer"/></div></div><script>
-  window.LMDA = window.LMDA || {};
-  window.LMDA.pageState = {
-    header: {
-      menu_gender: "women",
-      
-        menu_top_level: 
-    [
-      
-        {
-          class: "discovery",
-          title: {"text":"Идеи","url":"/discovery-women/"}
-        },
-      
-        {
-          class: "category_looks",
-          title: {"text":"Образы","url":"/looks/"}
-        },
-      
-        {
-          class: "randomColor",
-          title: {"text":"Новинки","url":"/c/4153/default-women/?is_new=1"}
-        },
-      
-        {
-          class: "",
-          title: {"text":"Одежда","url":"/c/355/clothes-zhenskaya-odezhda/"}
-        },
-      
-        {
-          class: "",
-          title: {"text":"Обувь","url":"/c/15/shoes-women/"}
-        },
-      
-        {
-          class: "",
-          title: {"text":"Аксессуары","url":"/c/557/accs-zhenskieaksessuary/"}
-        },
-      
-        {
-          class: "",
-          title: {"text":"Бренды","url":"/brands/?genders=women"}
-        },
-      
-        {
-          class: "",
-          title: {"text":"Premium","url":"/home-premium-women/"}
-        },
-      
-        {
-          class: "",
-          title: {"text":"Спорт","url":"/home-sport-women/"}
-        },
-      
-        {
-          class: "",
-          title: {"text":"Красота","url":"/home-beauty-women/"}
-        },
-      
-        {
-          class: "",
-          title: {"text":"Дом","url":"/c/6647/home_accs-tovarydlyadoma/"}
-        },
-      
-        {
-          class: "trends",
-          title: {"text":"Тренды","url":"/blog/?gender=women"}
-        },
-      
-        {
-          class: "red",
-          title: {"text":"Sale%","url":"/c/4153/default-women/?is_sale=1\u0026display_locations=outlet"}
-        },
-      
-    ]
-  
-      
-      
-    },
-    user: {"gender":"","customer":null,"customer_attributes":null,"experiments":{"404-section-recommendations-spss":"mainsite_bestseller_test","ADV_lamodastylist":"1","CORE_956_orders_payment":"1","CT_364_NEW_ELASTIC_PRODUCTS":"1","DT1328_payment_form":"1","DT1487_chat":"1","DT1488_phone_verification":"1","DT1564_social_proof":"0","DT1717_new_prices":"1","DT1906_grey_postpayment":"1","DT2212_NO_QC_LIMITS":"1","DT2212_no_qc_limits":"1","DT332_popup_discounts":"1","DT341_dynamic_size_chart":"1","DT441_giftcards":"1","DT581_leftmenu_expand":"1","DT793_lstat_absolute":"1","DT973_authenticity_guarantee":"1","Gather_RUM":"1","IOS-4185_similar_in_favorites_for_all_skus":"0","ITPMO-685":"1","ITPMO-782_Citrus":"1","ITPMO525_itlc":"show","ITPMO595_NEW_OFFERS":"1","ITPMO652_contactless_delivery":"1","ITPMO803_itx_notryon":"1","ITPMO922_shades_PPcolorselector":"1","ITPMO_650_mp_prepayment":"1","ITPMO_884_tinkoff_payments":"1","MOBBACK-1515_monobrands":"1","MOBBACK-2620":"show","MOBBACK3559_orders_antifraud":"dry-mode","MOBBACK3559_orders_antifraud_ratelimit":"dry-mode","MSITE-1565_msite_tilda":"1","MSITE_2070_ssi":"1","NEWSEARCH":"1","PERS107_addtocart2":"2","RND-4661_search_translit":"1","RND-6532_ranking_api_version":"v4","RNDDA-2717_allow_sqa_gender":"true","RNDDA-2717_catalog_sort_integration":"true","RNDDA-2945_size_suggester":"1","SIZE47_size_autofill":"1","SIZE57_mysize_lnd":"1","UI11686_main_sport":"1","UI12274_fav_lists_on":"1","UI12314_new_beauty":"1","UI12600_rating_clickable":"1","UI5229_DY":"1","UI9941_cancel_postpone":"1","WEB-2737_go_v2_redirects":"1","WEB1873_giftcertificates":"1","WEB2221_emptypages_newvue":"1","WEB2330_updated_look_recs":"1","WEB2330_updated_look_recs_number":"0","WEB2346_bs_lazy":"1","WEB2592_blog":"1","WEB2698_getthelook":"1","WEB2795_blog_promotion":"1","WEB2838_lamodastylist":"1","WEB2865_go_pa_installments":"1","WEB3023_go_geo":"1","WEB3087_customer_gift":"1","WEB3151_corporate_coupons":"1","WEB3335_mobapi_rec":"1","WEB3641_catalog_loyalty":"1","WEB3732_stories_new_gallery":"1","WEB3889_vue_topmenu":"1","WEB3934_bestsellers_on_premium_main":"1","WEB4285_delivery_pos":"1","WEB4325_min_price_in_recs":"1","WEB4383_Discovery_Hub":"1","WEB4550_masterpass":"1","WEB4677_vue_checkout":"1","WEB4782_revo_pp":"1","WEB5127_profile_review_and_question":"1","WEB5171_looks_on_PP":"1","WEB5365_Mainpage_web":"1","WEB5377_gamification":"1","WEB5499_seo_block":"1","WEB5543_mokka_newcheckoutbanner":"1","WEB5603_new_reviews_pp":"0","WEB5687_sets_links":"1","WEB5729_PP_deeplinks_with_photo":"1","WEB5796_vue_quickview":"1","WEB5943_vue_delivery":"1","WEB6077_hide_price_detail":"1","WEB6512_delivery_pup_pp_vue":"1","WEB6728_Discoveryhub_endless_scroll":"1","WEB7012_gamification2":"1","WEB7098_vue_catalog":"1","WEB7204_pp_on_vue":"1","WEB7220_lamodadrycleaning":"1","WEB7227_similar_for_outofstock":"1","WEB7705_footer_partners_new":"1","WEB7735_showlastsize":"1","WEB8081_MenLooks":"1","WEB_4028_filters":"0","WEB_4206_badge_redesign":"1","WEB_5283_mobapi_auth":"1","WEB_5285_auth_dsk_vue":"1","WEB_5285_login_page_dsk_vue":"1","WEB_5285_reset_pwd_dsk_vue":"1","WEB_6776_interval_price":"1","WEB_7315_verification_window":"0","ab_experiments":"2676,2679,2694,2689,2633,2686,2653","apps_revo":"1","cart-recommendations":"all_categories_similar","cart-recommendations-algorithm":"pick-context-probability","cart_recs_size":"about_the_same_size","eca":"1","empty-recommendations-spss":"query_baseline","enforced_fullcheckout":"0","fullcheckout":"1","internal_sorting_group":"v006_RNDDA-4657","itpmo1047_loyalty":"1","main-section-recommendations-spss":"mainsite_bestseller_test","mcr_mokka":"1","mobile_checkout_check_verification_phone":"1","msite1102_premium_page":"1","msite1513_pushes":"1","order_categories":"1","other-sections-recommendations-spss":"mainsite_bestseller_test","persisted_checkout_off":"1","personal_popular_top_in_filters":"1","phone":"8 800 700-64-46","phone_msk":"+7 (499) 500-49-59","populars_top_in_filters":"clickbait","product-product-recommendations-cross":"collaborative_order","product-product-recommendations-general":"all_categories","product-product-recommendations-similar":"w2v__content__rec_new","quickcheckout":"0","reco_nodiscount":"1","request_lid":"9C02406461260662AA3F4C520243C846","rnd_pricing":"1","search_alternative_queries":"dict","search_alternative_queries_limit":"2","search_relevance":"score_script","search_suggest_experiment":"sqa","similar_in_favorites":"only_for_outoffstock_skus","site_microcredits_revo":"1","split_buckets":"v3-81-05-00-041214-041215-031216-011217-101218-091219-101220-011221-121222-041223-021224-061225-081226-101227-061228-031229-071230-051231-111232-071233-081234-111235-051236-051237-111238-051239-111240-061241-051242-051243-061244-041245-081246-051247-011248-011249-081250-121251-051252-101253-041254-061255-031256-121257-011258-111259-011260-031261-051262-091263-081264-091265-041266-061267-101268-011269-101270-091271-061272-091273-021274-061275-111276-071277-041278-071279-011280-051281-121282-051283-041284-081285-051286-021287-031288-081289-021290-121291-071292-091293"},"adv_variables":{"ADV_LAMODASTYLIST":"1"},"lidinfo":{"customer-id":null,"customer-segments":{},"favorite_brands":[],"gender":null,"new-customer":false,"price-segment":null,"product-view-history":[],"shoe-size":{}},"menu":[{"Name":"orders-list","Path":"/sales/current/order/history/","Title":"Мои заказы"},{"Name":"wishes-list","Path":"/wishlist/","Title":"Избранное"},{"Name":"edit","Path":"/customer/account/","Title":"Мои данные"},{"Name":"subscriptions","Path":"/customer/account/subscriptions/","Title":"Подписки"},{"Name":"reviews-questions","Path":"/customer/account/reviews/","Title":"Отзывы и вопросы"},{"Name":"certificates","Path":"/customer/account/giftcertificates/","Title":"Мои подарочные сертификаты"},{"Name":"loyalty_program","Path":"/customer/account/loyalty_program/","Title":"Программа лояльности"},{"Name":"loyalty_cart","Path":"/customer/account/barcode/","Title":"Моя карта лояльности"},{"Name":"user_returns","Path":"/customer/account/returns/","Title":"Возвраты"},{"Name":"installments","Path":"/installments/","Title":"Оплата частями"}],"cart":null,"cart_quantity":0,"total_price":"","wishlist":null,"loyalty":null,"loyalty_ranges":null,"favorite_brands":null,"offers":null},payload: {"seo":{"canonical":"/","description":"\u003cdiv\u003e\r\n\u003cdiv\u003e\r\n\u003ch2\u003eБольшой выбор товаров\u003c/h2\u003e\r\n\u003c/div\u003e\r\n\r\n\u003cp\u003eВ интернет-магазине одежды и обуви Lamoda.ru каждый может выбрать и купить одежду, обувь или аксессуар в 2 клика.\u003c/p\u003e\r\n\r\n\u003cp\u003eВ каталоге интернет-магазина Lamoda.ru более 1000 брендов мужской, женской и детской обуви и одежды разных ценовых категорий, всего более 2 000 000 товаров. Кроме того, у нас есть аксессуары, косметика и парфюмерия, \u003ca href=\"/c/831/\"\u003eспортивные товары\u003c/a\u003e, и ассортимент постоянно пополняется!\u003c/p\u003e\r\n\r\n\u003cp\u003eСо многими производителями Lamoda.ru сотрудничает напрямую, в остальных случаях мы выбираем надежных, проверенных поставщиков. Мы гарантируем подлинность товара, что подтверждается сертификатами.\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\r\n\u003ch2\u003eДоставка с примеркой\u003c/h2\u003e\r\n\u003c/div\u003e\r\n\r\n\u003cp\u003eУ нас есть собственная служба доставки Lamoda Express, которая работает в 66 крупнейших городах России: Москва и МО, Санкт-Петербург, Нижний Новгород, Новосибирск, Екатеринбург, Самара, Тольятти, Тюмень, Челябинск и другие. Срок доставки \u0026mdash; 1-2 дня. Бесплатная доставка по всей России!\u003c/p\u003e\r\n\r\n\u003cp\u003eПримерьте перед покупкой! Интернет-магазин Lamoda даёт возможность примерить одежду, обувь и другие товары перед оплатой заказа курьеру. Оплачивайте только то, что вам подошло и понравилось!\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\r\n\u003ch2\u003eОплата и возврат\u003c/h2\u003e\r\n\u003c/div\u003e\r\n\r\n\u003cp\u003eИнтернет-магазин одежды и обуви Lamoda.ru позволяет вернуть товар в течение 14 дней с момента покупки. Вернуть товары можно как с курьером до оплаты заказа, так и по почте или в одном из пунктов выдачи заказов в Москве.\u003c/p\u003e\r\n\r\n\u003cp\u003eВы можете оплатить покупки не только наличными, но и банковскими картами. У всех курьеров Lamoda Express при себе есть терминал для оплаты картами.\u003c/p\u003e\r\n\r\n\u003cp\u003eТеперь купить обувь и одежду можно в 2 клика, не выходя из дома!\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\r\n\u003ch2\u003eДругие продавцы на Lamoda\u003c/h2\u003e\r\n\u003c/div\u003e\r\n\r\n\u003cp\u003eLamoda становится маркетплейсом: теперь на сайте представлены товары не только разных брендов, но и других компаний-продавцов.\u003c/p\u003e\r\n\r\n\u003cp\u003eВы можете наслаждаться еще более широким ассортиментом, а мы всегда будем тщательно отслеживать качество обслуживания клиентов всеми продавцами.\u003c/p\u003e\r\n\r\n\u003cp\u003eОбратите внимание: условия доставки и возврата товаров сторонних продавцов необходимо уточнять в описании товара и на странице продавца.\u003c/p\u003e\r\n\u003c/div\u003e","footer":{"links":null,"sections":[{"links":null,"sections":[{"links":[{"link":"/c/355/clothes-zhenskaya-odezhda/","title":"Вся одежда"},{"link":"/c/399/clothes-bluzy-rubashki/","title":"Блузы и рубашки"},{"link":"/c/2483/clothes-bluzy/","title":"Блузы"},{"link":"/c/2484/clothes-rubashki/","title":"Рубашки"},{"link":"/c/401/clothes-bryuki-shorty-kombinezony/","title":"Брюки"},{"link":"/c/2774/clothes-uzkie/","title":"Зауженные"},{"link":"/c/3203/clothes-klassicheskie-bryuki/","title":"Классические"},{"link":"/c/409/clothes-legginsy/","title":"Леггинсы"},{"link":"/c/357/clothes-verkhnyaya-odezhda/","title":"Верхняя одежда"},{"link":"/c/359/clothes-kurtki/","title":"Демисезонные куртки"},{"link":"/c/2464/clothes-zhileti-verhnie/","title":"Жилеты"},{"link":"/c/2461/clothes-kozhanie-kurtki/","title":"Кожаные куртки"},{"link":"/c/361/clothes-palto/","title":"Пальто"},{"link":"/c/6059/clothes-zhenzimniepalto/","title":"Зимние"},{"link":"/c/3562/clothes-parki-jen/","title":"Парки"},{"link":"/c/363/clothes-zenskie-plaschi/","title":"Плащи и тренчкоты"},{"link":"/c/365/clothes-puhoviki/","title":"Пуховики и зимние куртки"},{"link":"/c/3818/clothes-puhoviki-long/","title":"Длинные"},{"link":"/c/3819/clothes-puhoviki-mid/","title":"Средние"},{"link":"/c/3257/clothes-mehovye-izdeliya/","title":"Шубы и дубленки"},{"link":"/c/375/clothes-vodolazki/","title":"Водолазки"},{"link":"/c/377/clothes-dempery-i-pulovery/","title":"Джемперы и пуловеры"},{"link":"/c/5871/clothes-zhendjempery/","title":"Джемперы"},{"link":"/c/379/clothes-cardigany/","title":"Кардиганы"},{"link":"/c/397/clothes-d-insy/","title":"Джинсы"},{"link":"/c/4208/clothes-momjeans/","title":"С высокой талией"},{"link":"/c/2628/clothes-uzkiedjinsy/","title":"Узкие"},{"link":"/c/4651/clothes-dom-odejda/","title":"Домашняя одежда"},{"link":"/c/2498/clothes-nochnie-sorochki/","title":"Ночные сорочки"},{"link":"/c/3009/clothes-pijamy/","title":"Пижамы"},{"link":"/c/2500/clothes-halaty/","title":"Халаты"},{"link":"/c/4184/clothes-coveralls/","title":"Комбинезоны"},{"link":"/c/3002/clothes-plyajnaya-odejda/","title":"Купальники и пляжная одежда"},{"link":"/c/5462/clothes-musulmanskaya-odezhda/","title":"Мусульманская одежда"},{"link":"/c/2937/clothes-clothes-big-size/","title":"Одежда больших размеров"},{"link":"/c/4170/clothes-maternityclothes/","title":"Одежда для беременных"},{"link":"/c/367/clothes-pidzhaki-zhaketi/","title":"Пиджаки и костюмы"},{"link":"/c/2999/clothes-gakety/","title":"Жакеты и пиджаки"},{"link":"/c/3000/clothes-kostyumy-bryuki/","title":"Костюмы с брюками"},{"link":"/c/369/clothes-platiya/","title":"Платья и сарафаны"},{"link":"/c/2467/clothes-vechernie-platiya/","title":"Вечерние"},{"link":"/c/3036/clothes-vyazanye-platya/","title":"Вязаные и трикотажные"},{"link":"/c/2468/clothes-kokteilnye-platiya/","title":"Коктейльные"},{"link":"/c/2466/clothes-letnie-platiya/","title":"Летние"},{"link":"/c/2625/clothes-dlinnyeplatiya/","title":"Макси"},{"link":"/c/2640/clothes-srednieplatya/","title":"Миди"},{"link":"/c/2626/clothes-korotkieplatya/","title":"Мини"},{"link":"/c/2470/clothes-delovye-platiya/","title":"Офисные"},{"link":"/c/2465/clothes-povsednevnye-platiya/","title":"Повседневные"},{"link":"/c/5952/clothes-platyasdlinrukavom/","title":"С длинным рукавом"},{"link":"/c/2474/clothes-tolstovki-olimpiyki/","title":"Толстовки и олимпийки"},{"link":"/c/2627/clothes-topy/","title":"Топы и майки"},{"link":"/c/4748/clothes-womtuniki/","title":"Туники"},{"link":"/c/2478/clothes-futbolki/","title":"Футболки и поло"},{"link":"/c/2479/clothes-futbolki-s-korotkim/","title":"Футболки с коротким рукавом"},{"link":"/c/2485/clothes-shorty/","title":"Шорты"},{"link":"/c/423/clothes-yubki/","title":"Юбки"},{"link":"/c/2491/clothes-yubki-maksi/","title":"Макси"},{"link":"/c/2490/clothes-yubki-midi/","title":"Миди"}],"sections":null,"title":"Одежда"},{"links":[{"link":"/c/15/shoes-women/","title":"Вся обувь"},{"link":"/c/37/shoes-baletki/","title":"Балетки"},{"link":"/c/39/shoes-bosonozhki/","title":"Босоножки"},{"link":"/c/2448/shoes-botilony/","title":"Ботильоны"},{"link":"/c/23/shoes-botinki/","title":"Ботинки"},{"link":"/c/5309/shoes-vysokiebotinkzhen/","title":"Высокие"},{"link":"/c/5312/shoes-nizkiebotinkizhen/","title":"Низкие"},{"link":"/c/5311/shoes-chelseazhen/","title":"Челси"},{"link":"/c/209/shoes-domashnaja/","title":"Домашняя обувь"},{"link":"/c/2962/shoes-dutiki-i-lunohody/","title":"Дутики и луноходы"},{"link":"/c/99/shoes-dutiki/","title":"Дутики"},{"link":"/c/2968/shoes-krossovki-kedy/","title":"Кроссовки и кеды"},{"link":"/c/35/shoes-mokasiny/","title":"Мокасины и топсайдеры"},{"link":"/c/4077/shoes-sizeplusshoes/","title":"Обувь с увеличенной полнотой"},{"link":"/c/2428/shoes-rezinovaia-obuv/","title":"Резиновая обувь"},{"link":"/c/41/shoes-sabo/","title":"Сабо"},{"link":"/c/127/shoes-sandalii/","title":"Сандалии"},{"link":"/c/21/shoes-sapogi/","title":"Сапоги"},{"link":"/c/89/shoes-botforty/","title":"Ботфорты"},{"link":"/c/2764/shoes-polusapogi/","title":"Полусапоги"},{"link":"/c/5557/shoes-zhensapogi/","title":"Сапоги"},{"link":"/c/3219/shoes-slipony/","title":"Слипоны"},{"link":"/c/33/shoes-tufli/","title":"Туфли"},{"link":"/c/4782/shoes-lodochki/","title":"Лодочки"},{"link":"/c/2967/shoes-loufery/","title":"Лоферы"},{"link":"/c/91/shoes-uggi-and-unty/","title":"Угги и унты"},{"link":"/c/207/shoes-slantsi/","title":"Шлепанцы и акваобувь"},{"link":"/c/2440/shoes-espadrily/","title":"Эспадрильи"}],"sections":null,"title":"Обувь"},{"links":[{"link":"/c/557/accs-zhenskieaksessuary/","title":"Все аксессуары"},{"link":"/c/647/hats-golovnyeubory/","title":"Головные уборы"},{"link":"/c/653/hats-shapki/","title":"Шапки"},{"link":"/c/3096/accs-kowelki-women/","title":"Кошельки"},{"link":"/c/2395/accs_ns-ochki/","title":"Очки"},{"link":"/c/815/accs-perchatki-i-varezhki/","title":"Перчатки и варежки"},{"link":"/c/683/scarfs-platki-i-sharfy/","title":"Платки и шарфы"},{"link":"/c/567/bags-ryukzaki/","title":"Рюкзаки"},{"link":"/c/3088/bags-ryukzaki-gorodskie-women/","title":"Городские"},{"link":"/c/563/bags-sumki-chehli/","title":"Сумки"},{"link":"/c/5576/bags-myagkiesumki/","title":"Мягкие"}],"sections":null,"title":"Аксессуары"},{"links":[{"link":"/cb/4153-4573/","title":"Armani Jeans"},{"link":"/cb/4153-1123/","title":"Baldinini"},{"link":"/cb/4153-25859/","title":"Banana Republic"},{"link":"/cb/4153-5696/","title":"Baon"},{"link":"/cb/4153-22318/","title":"Befree"},{"link":"/cb/4153-4869/","title":"Calvin Klein Jeans"},{"link":"/cb/4153-23676/","title":"Concept Club"},{"link":"/cb/4153-25341/","title":"Conso Wear"},{"link":"/cb/4153-1287/","title":"Crocs"},{"link":"/cb/4153-19563/","title":"Dorothy Perkins"},{"link":"/cb/4153-5711/","title":"Ecco"},{"link":"/cb/4153-6642/","title":"Finn Flare"},{"link":"/cb/4153-25138/","title":"Gap"},{"link":"/cb/4153-2001/","title":"Geox"},{"link":"/cb/4153-5558/","title":"Incity"},{"link":"/cb/4153-513/","title":"Keddo"},{"link":"/cb/4153-23728/","title":"LOST INK"},{"link":"/cb/4153-22319/","title":"Love Republic"},{"link":"/cb/4153-5716/","title":"Mango"},{"link":"/cb/4153-24641/","title":"Michael Michael Kors"},{"link":"/cb/4153-23751/","title":"Modis"},{"link":"/cb/4153-2047/","title":"Nike"},{"link":"/cb/4153-1107/","title":"PUMA"},{"link":"/cb/4153-4475/","title":"Patrizia Pepe"},{"link":"/cb/4153-25349/","title":"Piazza Italia"},{"link":"/cb/4153-463/","title":"Ralf Ringer"},{"link":"/cb/4153-6727/","title":"Rinascimento"},{"link":"/cb/4153-6616/","title":"River Island"},{"link":"/cb/4153-5588/","title":"Savage"},{"link":"/cb/4153-6107/","title":"Sela"},{"link":"/cb/4153-1111/","title":"Tamaris"},{"link":"/cb/4153-573/","title":"Tommy Hilfiger"},{"link":"/cb/4153-23838/","title":"Topshop"},{"link":"/cb/4153-24798/","title":"United Colors of Benetton"},{"link":"/cb/4153-1889/","title":"Vagabond"},{"link":"/cb/4153-335/","title":"Vitacci"},{"link":"/cb/4153-22316/","title":"Zarina"},{"link":"/cb/4153-6410/","title":"oodji"},{"link":"/cb/4153-6686/","title":"Твое"}],"sections":null,"title":"Бренды"},{"links":[{"link":"/c/1262/default-premium-women/","title":"Весь премиум"},{"link":"/c/831/default-sports-women/","title":"Весь спорт"},{"link":"/c/4308/default-krasotawoman/","title":"Вся косметика"},{"link":"/c/3330/beauty_accs-dekorativnaya-kosmetika/","title":"Декоративная косметика"},{"link":"/c/3224/accs-parfyumeriya/","title":"Парфюмерия"},{"link":"/c/3251/accs-krasotauhodzavolosami/","title":"Уход за волосами "},{"link":"/c/3234/accs-krasotauhodzalicom/","title":"Уход за лицом"},{"link":"/catalogsearch/result/?q=профессиональная%20косметика","title":"Профессиональная косметика"}],"sections":null,"title":"Другое"}],"title":"Женщинам"},{"links":null,"sections":[{"links":[{"link":"/c/477/clothes-muzhskaya-odezhda/","title":"Вся одежда"},{"link":"/c/517/clothes-muzhskie-bryuki/","title":"Брюки"},{"link":"/c/2638/clothes-brukim/","title":"Повседневные"},{"link":"/c/2299/clothes-muzhskie-bryuki-sportivnie/","title":"Спортивные"},{"link":"/c/479/clothes-muzhskaya-verkhnyaya-odezhda/","title":"Верхняя одежда"},{"link":"/c/485/clothes-muzhskie-kurtki/","title":"Демисезонные куртки"},{"link":"/c/2504/clothes-jeans-kurtki/","title":"Джинсовые куртки"},{"link":"/c/495/clothes-muzhskie-zhilety/","title":"Жилеты"},{"link":"/c/2503/clothes-kozhanye-kurtki/","title":"Кожаные куртки"},{"link":"/c/2505/clothes-muzhskie-vetrovki/","title":"Легкие куртки и ветровки"},{"link":"/c/487/clothes-muzhskie-palto/","title":"Пальто"},{"link":"/c/3561/clothes-parki-muj/","title":"Парки"},{"link":"/c/491/clothes-muzhskie-puhoviki/","title":"Пуховики и зимние куртки"},{"link":"/c/3816/clothes-muzhskie-puhoviki-short/","title":"Короткие"},{"link":"/c/3817/clothes-muzhskie-puhoviki-mid/","title":"Средние и длинные"},{"link":"/c/503/clothes-muzhskie-dempery-i-svitery/","title":"Джемперы и пуловеры"},{"link":"/c/505/clothes-muzhskie-cardigany/","title":"Кардиганы"},{"link":"/c/513/clothes-muzhskie-d-insy/","title":"Джинсы"},{"link":"/c/2635/clothes-zauzhennyem/","title":"Зауженные"},{"link":"/c/2636/clothes-pryamyem/","title":"Прямые"},{"link":"/c/5289/clothes-odezhdadlyadomamuj/","title":"Домашняя одежда"},{"link":"/c/3039/clothes-topyi-muzhskie/","title":"Майки"},{"link":"/c/523/clothes-muzhskoe-nizhneye-belyo/","title":"Нижнее белье"},{"link":"/c/3043/clothes-pid-aki-kostumi-muzhskie/","title":"Пиджаки и костюмы"},{"link":"/c/515/clothes-muzhskie-rubashki-i-sorochki/","title":"Рубашки"},{"link":"/c/2518/clothes-muzhskie-rubashki-s-dlinnym/","title":"С длинным рукавом"},{"link":"/c/3042/clothes-sportivnye-kostyumy-muzhskie/","title":"Спортивные костюмы"},{"link":"/c/5295/clothes-termobelyemuj/","title":"Термобелье"},{"link":"/c/2508/clothes-tolstovki-i-olimpiyki/","title":"Толстовки и олимпийки"},{"link":"/c/2511/clothes-muzhskie-hudi/","title":"Худи"},{"link":"/c/2512/clothes-muzhskie-futbolki/","title":"Футболки и поло"},{"link":"/c/2515/clothes-muzhskie-futbolki-polo/","title":"Поло"},{"link":"/c/519/clothes-muzhskie-shorty/","title":"Шорты"}],"sections":null,"title":"Одежда"},{"links":[{"link":"/c/17/shoes-men/","title":"Вся обувь"},{"link":"/c/151/shoes-muzhskie-botinki/","title":"Ботинки и сапоги"},{"link":"/c/5320/shoes-vysokiebotinkimuj/","title":"Высокие ботинки"},{"link":"/c/167/shoes-muzhskie-klassicheskie-botinki/","title":"Низкие ботинки"},{"link":"/c/3520/shoes-dutiki-i-lunohody-men/","title":"Дутики и луноходы"},{"link":"/c/2981/shoes-krossovk-kedy-muzhskie/","title":"Кроссовки и кеды"},{"link":"/c/5972/shoes-muzhkedy/","title":"Кеды"},{"link":"/c/5971/shoes-muzhkrossovki/","title":"Кроссовки"},{"link":"/c/159/shoes-muzhskie-krossovki/","title":"Низкие кроссовки"},{"link":"/c/53/shoes-muzhskie-mokasiny/","title":"Мокасины и топсайдеры"},{"link":"/c/157/shoes-muzhskie-tufli/","title":"Туфли"},{"link":"/c/131/shoes-muzhskie-uggi/","title":"Угги и унты"}],"sections":null,"title":"Обувь"},{"links":[{"link":"/c/559/accs-muzhskieaksessuary/","title":"Все аксессуары"},{"link":"/c/2765/hats-muzhskie-golovnyeubory/","title":"Головные уборы"},{"link":"/c/2766/hats-muzhskie-beisbolki/","title":"Бейсболки и кепки"},{"link":"/c/2768/hats-muzhskie-shapki/","title":"Шапки"},{"link":"/c/817/accs-muzhskie-perchatki-i-varezhki/","title":"Перчатки и варежки"},{"link":"/c/595/bags-muzhskie-ryukzaki/","title":"Рюкзаки"},{"link":"/c/591/bags-muzhskie-sumki-chehli/","title":"Сумки"},{"link":"/c/593/bags-muzhskie-sumki/","title":"Через плечо"},{"link":"/c/799/accs-muzhskie-chasy/","title":"Часы"}],"sections":null,"title":"Аксессуары"},{"links":[{"link":"/cb/4152-4035/","title":"ASICS"},{"link":"/cb/4152-4573/","title":"Armani Jeans"},{"link":"/cb/4152-1123/","title":"Baldinini"},{"link":"/cb/4152-4869/","title":"Calvin Klein Jeans"},{"link":"/cb/4152-2037/","title":"Columbia"},{"link":"/cb/4152-2691/","title":"DC Shoes"},{"link":"/cb/4152-5711/","title":"Ecco"},{"link":"/cb/4152-25138/","title":"Gap"},{"link":"/cb/4152-2001/","title":"Geox"},{"link":"/cb/4152-22293/","title":"Helly Hansen"},{"link":"/cb/4152-471/","title":"Lacoste"},{"link":"/cb/4152-6253/","title":"Mango Man"},{"link":"/cb/4152-23751/","title":"Modis"},{"link":"/cb/4152-893/","title":"Napapijri"},{"link":"/cb/4152-5816/","title":"New Balance"},{"link":"/cb/4152-2047/","title":"Nike"},{"link":"/cb/4152-1107/","title":"PUMA"},{"link":"/cb/4152-1267/","title":"Patrol"},{"link":"/cb/4152-6180/","title":"Polo Ralph Lauren"},{"link":"/cb/4152-463/","title":"Ralf Ringer"},{"link":"/cb/4152-1063/","title":"Reebok"},{"link":"/cb/4152-18583/","title":"Reebok Classics"},{"link":"/cb/4152-4597/","title":"Salamander"},{"link":"/cb/4152-5706/","title":"Salomon"},{"link":"/cb/4152-22705/","title":"Springfield"},{"link":"/cb/4152-5815/","title":"Timberland"},{"link":"/cb/4152-573/","title":"Tommy Hilfiger"},{"link":"/cb/4152-23682/","title":"Tommy Hilfiger Denim"},{"link":"/cb/4152-23837/","title":"Topman"},{"link":"/cb/4152-25571/","title":"Under Armour"},{"link":"/cb/4152-24798/","title":"United Colors of Benetton"},{"link":"/cb/4152-4978/","title":"Vans"},{"link":"/cb/4152-335/","title":"Vitacci"},{"link":"/cb/4152-1787/","title":"Wrangler"},{"link":"/cb/4152-1163/","title":"adidas Originals"},{"link":"/cb/4152-1143/","title":"adidas Performance"},{"link":"/cb/4152-6410/","title":"oodji"}],"sections":null,"title":"Бренды"},{"links":[{"link":"/c/1263/default-premium-men/","title":"Весь премиум"},{"link":"/c/832/default-sports-men/","title":"Весь спорт"},{"link":"/c/4288/beauty_accs_ns-menbeauty/","title":"Вся косметика"},{"link":"/catalogsearch/result/?q=профессиональная%20косметика","title":"Профессиональная косметика"}],"sections":null,"title":"Другое"}],"title":"Мужчинам"},{"links":null,"sections":[{"links":[{"link":"/c/205/shoes-boys/","title":"Вся обувь"},{"link":"/c/1589/clothes-dlia-malchikov/","title":"Вся одежда"},{"link":"/c/5381/default-aksydlyamalchikov/","title":"Все аксессуары"},{"link":"/c/1875/default-sports-forboys/","title":"Весь спорт"},{"link":"/c/255/shoes-botinki-dlya-malchikov/","title":"Ботинки"},{"link":"/c/2988/shoes-krossovki-kedy-malchiki/","title":"Кроссовки и кеды"},{"link":"/c/1591/clothes-boys-verkhnyaya-odezhda/","title":"Верхняя одежда"},{"link":"/c/1592/clothes-boys-kyrtki/","title":"Куртки и пуховики"}],"sections":null,"title":"Мальчикам"},{"links":[{"link":"/c/203/shoes-girls/","title":"Вся обувь"},{"link":"/c/1590/clothes-dlia-devochek/","title":"Вся одежда"},{"link":"/c/561/accs-detskieaksessuary/","title":"Все аксессуары"},{"link":"/c/1874/default-sports-forgirls/","title":"Весь спорт"},{"link":"/c/1652/clothes-girls-verkhnyaya-odezhda/","title":"Верхняя одежда"},{"link":"/c/1653/clothes-girls-kyrtki/","title":"Куртки и пуховики"},{"link":"/c/1661/clothes-girls-platia/","title":"Платья и сарафаны"}],"sections":null,"title":"Девочкам"},{"links":[{"link":"/cb/4154-24274/","title":"Acoola"},{"link":"/cb/4154-25802/","title":"Armani Junior"},{"link":"/cb/4154-1187/","title":"Bartek"},{"link":"/cb/4154-24834/","title":"Blukids"},{"link":"/cb/4154-24423/","title":"Boboli"},{"link":"/cb/4154-24722/","title":"Button Blue"},{"link":"/cb/4154-25240/","title":"Chicco"},{"link":"/cb/4154-6677/","title":"Choupette"},{"link":"/cb/4154-1169/","title":"Converse"},{"link":"/cb/4154-1287/","title":"Crocs"},{"link":"/cb/4154-25138/","title":"Gap"},{"link":"/cb/4154-2001/","title":"Geox"},{"link":"/cb/4154-24511/","title":"Gulliver"},{"link":"/cb/4154-25028/","title":"Huppa"},{"link":"/cb/4154-5558/","title":"Incity"},{"link":"/cb/4154-23760/","title":"Junior Republic"},{"link":"/cb/4154-1551/","title":"Kakadu"},{"link":"/cb/4154-513/","title":"Keddo"},{"link":"/cb/4154-25132/","title":"LC Waikiki"},{"link":"/cb/4154-25725/","title":"Lassie"},{"link":"/cb/4154-19186/","title":"Mango Kids"},{"link":"/cb/4154-23751/","title":"Modis"},{"link":"/cb/4154-22280/","title":"Name It"},{"link":"/cb/4154-2047/","title":"Nike"},{"link":"/cb/4154-26628/","title":"Oldos"},{"link":"/cb/4154-1107/","title":"PUMA"},{"link":"/cb/4154-1267/","title":"Patrol"},{"link":"/cb/4154-25349/","title":"Piazza Italia"},{"link":"/cb/4154-463/","title":"Ralf Ringer"},{"link":"/cb/4154-6698/","title":"Reima"},{"link":"/cb/4154-6107/","title":"Sela"},{"link":"/cb/4154-25937/","title":"Tapiboo"},{"link":"/cb/4154-25571/","title":"Under Armour"},{"link":"/cb/4154-24798/","title":"United Colors of Benetton"},{"link":"/cb/4154-335/","title":"Vitacci"},{"link":"/cb/4154-1163/","title":"adidas Originals"},{"link":"/cb/4154-1791/","title":"Зебра"},{"link":"/cb/4154-25611/","title":"КотМарКот"},{"link":"/cb/4154-1265/","title":"Котофей"},{"link":"/cb/4154-6686/","title":"Твое"}],"sections":null,"title":"Бренды"},{"links":[{"link":"/c/5414/default-novorozhdennym/","title":"Все для новорожденных"},{"link":"/c/5413/clothes-odezhdaberemennye/","title":"Одежда для беременных"},{"link":"/c/5598/clothes-newbornclothes/","title":"Одежда"}],"sections":null,"title":"Другое"}],"title":"Детям"},{"links":[{"link":"/b/4035/brand-asics/","title":"ASICS"},{"link":"/b/22940/brand-aldo/","title":"Aldo"},{"link":"/b/25859/brand-bananarepublic/","title":"Banana Republic"},{"link":"/b/5696/brand-baon/","title":"Baon"},{"link":"/b/22318/brand-befree/","title":"Befree"},{"link":"/b/4869/brand-calvinkleinjeans/","title":"Calvin Klein Jeans"},{"link":"/b/24529/brand-clasna/","title":"Clasna"},{"link":"/b/2037/brand-columbia/","title":"Columbia"},{"link":"/b/23676/brand-conceptclub/","title":"Concept Club"},{"link":"/b/25341/brand-consowear/","title":"Conso Wear"},{"link":"/b/1169/brand-converse/","title":"Converse"},{"link":"/b/1287/brand-crocs/","title":"Crocs"},{"link":"/b/5624/brand-desigual/","title":"Desigual"},{"link":"/b/2003/brand-diesel/","title":"Diesel"},{"link":"/b/19563/brand-dorothyperkins/","title":"Dorothy Perkins"},{"link":"/b/5711/brand-ecco/","title":"Ecco"},{"link":"/b/6642/brand-finnflare/","title":"Finn Flare"},{"link":"/b/25138/brand-gap/","title":"Gap"},{"link":"/b/2001/brand-geox/","title":"Geox"},{"link":"/b/1841/brand-guess/","title":"Guess"},{"link":"/b/22293/brand-hellyhansen/","title":"Helly Hansen"},{"link":"/b/5558/brand-incity/","title":"Incity"},{"link":"/b/23679/brand-jackwolfskin/","title":"Jack Wolfskin"},{"link":"/b/23691/brand-jennyfer/","title":"Jennyfer"},{"link":"/b/513/brand-keddo/","title":"Keddo"},{"link":"/b/25132/brand-lc-waikiki/","title":"LC Waikiki"},{"link":"/b/23728/brand-lostink/","title":"LOST INK"},{"link":"/b/471/brand-lacoste/","title":"Lacoste"},{"link":"/b/22319/brand-loverepublic/","title":"Love Republic"},{"link":"/b/25277/brand-lusio/","title":"Lusio"},{"link":"/b/5716/brand-mango/","title":"Mango"},{"link":"/b/6253/brand-h-e-bymango/","title":"Mango Man"},{"link":"/b/2059/brand-merrell/","title":"Merrell"},{"link":"/b/23751/brand-modis/","title":"Modis"},{"link":"/b/18596/brand-morgan/","title":"Morgan"},{"link":"/b/23698/brand-motivi/","title":"Motivi"},{"link":"/b/893/brand-napapijri/","title":"Napapijri"},{"link":"/b/5816/brand-newbalance/","title":"New Balance"},{"link":"/b/2047/brand-nike/","title":"Nike"},{"link":"/b/23367/brand-odri/","title":"Odri"},{"link":"/b/1107/brand-puma/","title":"PUMA"},{"link":"/b/25349/brand-piazzaitalia/","title":"Piazza Italia"},{"link":"/b/463/brand-ralfringer/","title":"Ralf Ringer"},{"link":"/b/1063/brand-reebok/","title":"Reebok"},{"link":"/b/18583/brand-reebokclassics/","title":"Reebok Classics"},{"link":"/b/6698/brand-reima/","title":"Reima"},{"link":"/b/6616/brand-riverisland/","title":"River Island"},{"link":"/b/1541/brand-roxy/","title":"Roxy"},{"link":"/b/4597/brand-salamander/","title":"Salamander"},{"link":"/b/5706/brand-salomon/","title":"Salomon"},{"link":"/b/6107/brand-sela/","title":"Sela"},{"link":"/b/22705/brand-springfield/","title":"Springfield"},{"link":"/b/1111/brand-tamaris/","title":"Tamaris"},{"link":"/b/25889/brand-thenorthface/","title":"The North Face"},{"link":"/b/5815/brand-timberland/","title":"Timberland"},{"link":"/b/5638/brand-tomfarr/","title":"Tom Farr"},{"link":"/b/573/brand-tommyhilfiger/","title":"Tommy Hilfiger"},{"link":"/b/23682/brand-tommyhilfigerdenim/","title":"Tommy Hilfiger Denim"},{"link":"/b/23837/brand-topman/","title":"Topman"},{"link":"/b/23838/brand-topshop/","title":"Topshop"},{"link":"/b/5889/brand-tuttobene/","title":"Tutto Bene"},{"link":"/b/25571/brand-underarmour/","title":"Under Armour"},{"link":"/b/24798/brand-unitedcolorsofbenetton/","title":"United Colors of Benetton"},{"link":"/b/1889/brand-vagabond/","title":"Vagabond"},{"link":"/b/4978/brand-vans/","title":"Vans"},{"link":"/b/20941/brand-violetabymango/","title":"Violeta by Mango"},{"link":"/b/335/brand-vitacci/","title":"Vitacci"},{"link":"/b/1787/brand-wrangler/","title":"Wrangler"},{"link":"/b/22316/brand-zarina/","title":"Zarina"},{"link":"/b/18576/brand-adladilisik/","title":"adL"},{"link":"/b/1163/brand-adidasoriginals/","title":"adidas Originals"},{"link":"/b/1143/brand-adidasperformance/","title":"adidas Performance"},{"link":"/b/6410/brand-oodji/","title":"oodji"},{"link":"/b/6686/brand-tvoe/","title":"Твое"}],"sections":null,"title":"Бренды"},{"links":[{"link":"/b/24835/","title":"Aeronautica Militare"},{"link":"/b/25579/brand-armani-exchange/","title":"Armani Exchange"},{"link":"/b/4573/brand-ajarmanijeans/","title":"Armani Jeans"},{"link":"/b/1123/brand-baldinini/","title":"Baldinini"},{"link":"/b/4065/","title":"Bikkembergs"},{"link":"/b/18517/","title":"Boss Hugo Boss"},{"link":"/b/4089/","title":"Boss Orange"},{"link":"/b/20395/","title":"Calvin Klein Underwear"},{"link":"/b/1861/","title":"Coccinelle"},{"link":"/b/6477/brand-dkny/","title":"DKNY"},{"link":"/b/609/","title":"Fabi"},{"link":"/b/23219/brand-furla/","title":"Furla"},{"link":"/b/4265/","title":"Gucci"},{"link":"/b/25246/","title":"Jog Dog"},{"link":"/b/23839/","title":"Karl Lagerfeld"},{"link":"/b/4355/","title":"Liu Jo"},{"link":"/b/5573/","title":"Liu Jo Jeans"},{"link":"/b/3795/","title":"Love Moschino"},{"link":"/b/24003/","title":"Max Mara"},{"link":"/b/24641/","title":"Michael Michael Kors"},{"link":"/b/18566/","title":"Nando Muzi"},{"link":"/b/6568/","title":"Parajumpers"},{"link":"/b/4475/brand-patriziapepe/","title":"Patrizia Pepe"},{"link":"/b/24558/","title":"Pennyblack"},{"link":"/b/4489/brand-pinko/","title":"Pinko"},{"link":"/b/23748/brand-piquadro/","title":"Piquadro"},{"link":"/b/6180/brand-poloralphlauren/","title":"Polo Ralph Lauren"},{"link":"/b/24713/","title":"Ted Baker London"},{"link":"/b/23783/brand-trussardijeans/","title":"Trussardi Jeans"},{"link":"/b/25411/","title":"Weekend Max Mara"},{"link":"/b/6564/","title":"Woolrich"}],"sections":null,"title":"Премиум бренды"},{"description":"\u003cdiv\u003e\r\n\u003cdiv\u003e\r\n\u003ch2\u003eБольшой выбор товаров\u003c/h2\u003e\r\n\u003c/div\u003e\r\n\r\n\u003cp\u003eВ интернет-магазине одежды и обуви Lamoda.ru каждый может выбрать и купить одежду, обувь или аксессуар в 2 клика.\u003c/p\u003e\r\n\r\n\u003cp\u003eВ каталоге интернет-магазина Lamoda.ru более 1000 брендов мужской, женской и детской обуви и одежды разных ценовых категорий, всего более 2 000 000 товаров. Кроме того, у нас есть аксессуары, косметика и парфюмерия, \u003ca href=\"/c/831/\"\u003eспортивные товары\u003c/a\u003e, и ассортимент постоянно пополняется!\u003c/p\u003e\r\n\r\n\u003cp\u003eСо многими производителями Lamoda.ru сотрудничает напрямую, в остальных случаях мы выбираем надежных, проверенных поставщиков. Мы гарантируем подлинность товара, что подтверждается сертификатами.\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\r\n\u003ch2\u003eДоставка с примеркой\u003c/h2\u003e\r\n\u003c/div\u003e\r\n\r\n\u003cp\u003eУ нас есть собственная служба доставки Lamoda Express, которая работает в 66 крупнейших городах России: Москва и МО, Санкт-Петербург, Нижний Новгород, Новосибирск, Екатеринбург, Самара, Тольятти, Тюмень, Челябинск и другие. Срок доставки \u0026mdash; 1-2 дня. Бесплатная доставка по всей России!\u003c/p\u003e\r\n\r\n\u003cp\u003eПримерьте перед покупкой! Интернет-магазин Lamoda даёт возможность примерить одежду, обувь и другие товары перед оплатой заказа курьеру. Оплачивайте только то, что вам подошло и понравилось!\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\r\n\u003ch2\u003eОплата и возврат\u003c/h2\u003e\r\n\u003c/div\u003e\r\n\r\n\u003cp\u003eИнтернет-магазин одежды и обуви Lamoda.ru позволяет вернуть товар в течение 14 дней с момента покупки. Вернуть товары можно как с курьером до оплаты заказа, так и по почте или в одном из пунктов выдачи заказов в Москве.\u003c/p\u003e\r\n\r\n\u003cp\u003eВы можете оплатить покупки не только наличными, но и банковскими картами. У всех курьеров Lamoda Express при себе есть терминал для оплаты картами.\u003c/p\u003e\r\n\r\n\u003cp\u003eТеперь купить обувь и одежду можно в 2 клика, не выходя из дома!\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\r\n\u003ch2\u003eДругие продавцы на Lamoda\u003c/h2\u003e\r\n\u003c/div\u003e\r\n\r\n\u003cp\u003eLamoda становится маркетплейсом: теперь на сайте представлены товары не только разных брендов, но и других компаний-продавцов.\u003c/p\u003e\r\n\r\n\u003cp\u003eВы можете наслаждаться еще более широким ассортиментом, а мы всегда будем тщательно отслеживать качество обслуживания клиентов всеми продавцами.\u003c/p\u003e\r\n\r\n\u003cp\u003eОбратите внимание: условия доставки и возврата товаров сторонних продавцов необходимо уточнять в описании товара и на странице продавца.\u003c/p\u003e\r\n\u003c/div\u003e","links":null,"sections":null,"title":"О компании"}],"title":"Интернет магазин одежды и обуви"},"h1":"Интернет магазин одежды и обуви","header":"Интернет магазин одежды и обуви","header_tag":"h2","meta_description":"В интернет-магазине одежды и обуви Lamoda Вас ждут ТЫСЯЧИ моделей модной брендовой мужской, женской и детской обуви и одежды разных размеров! Профессиональная команда стилистов интернет-магазина отбирает по всему миру самые последние новинки обуви и одежды с учетом трендов индустрии моды!","page_title":"Интернет магазин одежды и обуви. Купить обувь, купить одежду, аксессуары в онлайн магазине Lamoda.ru","robots":"INDEX, FOLLOW","url":"/"}},settings: {"country":"ru","currency":"₽","debug_mode":false,"git_tag":"22.02.11","media_cdn":"//a.lmcdn.ru/","platform":"site","price_precision":0,"static_path":"//a.lmcdn.ru/static/22.02.11/","static_path_django":"//a.lmcdn.ru/django/d/ru/22.02.11/","static_path_tilda":"//a.lmcdn.ru/tilda/files/cms/","static_permanent":"//a.lmcdn.ru/static/permanent/"},
-    request: {
-      is_webview: false,
-      lid: "9C02406461260662AA3F4C520243C846",
-      lid24: null,
-      path: "/",
-      query: {},
-      query_string: "",
-      split_path: [""],
-      url: "/",
-      user_agent: "python-requests/2.27.1",
-      timestamp: 1644570209,
-    },
-    tcpInfo: "57293, 48826, 37208",
-  };
-  LMDA.pageState.user.isLogonDjango = LMDA.user && LMDA.user.isLogon;
-</script><script>
- // @see https://philipwalton.com/articles/deploying-es2015-code-in-production-today/
-(function () {
-  var check = document.createElement('script');
-  if ('noModule' in check) {
-    document.cookie = 'modern_es=1; expires=Fri, 31 Dec 2100 23:59:59 GMT';
-  } else if('onbeforeload' in check) {
-    var support = false;
-    document.addEventListener('beforeload', function (e) {
-      if (e.target === check) {
-        support = true;
-        document.cookie = 'modern_es=1; expires=Fri, 31 Dec 2100 23:59:59 GMT';
-      } else if (!e.target.hasAttribute('nomodule') || !support) {
-        document.cookie = 'modern_es=0; expires=Fri, 31 Dec 2100 23:59:59 GMT';
-        return;
-      }
-      e.preventDefault();
-    }, true);
-    check.type = 'module';
-    check.src = '.';
-    document.head.appendChild(check);
-    check.remove();
-  }
-}());
-</script><script crossorigin="anonymous" type="module" src="//a.lmcdn.ru/static/22.02.11/modern/common.js"></script><script crossorigin="anonymous" nomodule src="//a.lmcdn.ru/static/22.02.11/es5/common.js"></script><script crossorigin="anonymous" type="text/javascript" src="//a.lmcdn.ru/django/d/ru/22.02.11/js/libs/libs.js"></script><script crossorigin="anonymous" type="text/javascript" src="//a.lmcdn.ru/django/d/ru/22.02.11/js/page.js"></script><script>
-    ;(function(s, r, d, i) {
-        LMDA[s]    = LMDA[s]    || {};
-        LMDA[s][d] = LMDA[s][d] || [];
-        LMDA[s][i] = LMDA[s][i] || function(){};
-        LMDA[s][r] = LMDA[s][r] || function(){ LMDA[s][d].push(arguments); };
-    })('Statistics', 'report', 'delayed', 'init');
-</script><script>
-    (function(LMDA, s, d, n, i) {
-        LMDA[s] = LMDA[s] || {};
-        LMDA[s]['init'] = function() {
-            i(['statistics']);
-            return LMDA[s];
-        };
-
-        if (window.requirejs) {
-            i = requirejs.config({
-                context : 'statistics',
-                baseUrl : '//a.lmcdn.ru/django/d/ru/22.02.11/js',
-                paths : {
-                    text    : '//a.lmcdn.ru/django/d/ru/22.02.11/src/js/libs/require/modules/require.text',
-                    json    : '//a.lmcdn.ru/django/d/ru/22.02.11/src/js/libs/require/modules/require.json',
-                    desktop : '../desktop',
-                    mobile  : '../mobile'
-                },
-                config : {
-                    statistics : {
-                        site     : 'ru',
-                        instance : 'desktop',
-                        modules  : {
-                            google : {"tagManager":{"id":"GTM-WV4K8C"}},
-                            vk : {"id":"24190570"},
-                            'dynamic-yield' : {"id":"8765534"}
-                        }
-                    }
-                },
-                waitSeconds: 120
-            });
-        }
-
-        d.site = {
-            "currency":"₽",
-            "supportMail":"help@lamoda.ru",
-            "phone":{
-                "code":"+7",
-                "mask":"(999) 999-99-99",
-                "mask_mobile_sample":"1234567891",
-                "length":"10,11",
-                "maskSample":"(999) 999-99-99",
-                "mask_mobile":"9999999999"
-            },
-            "gitRevision":"22.02.11",
-            "requireBaseUrl":"js\/modules\/",
-            "staticRoot":"//a.lmcdn.ru/django/d/ru/22.02.11/",
-            "site":"ru",
-            "global_instance":"desktop",
-            "size":"RUS"
-        };
-
-        LMDA[n] = LMDA[n] || [];
-        LMDA[n].push(d);
-    })(window.LMDA = window.LMDA || {}, 'Statistics', {}, 'PAGEDATA');
-</script><script>
-        LMDA.pageData = { section: 'main' };
-    </script><script crossorigin="anonymous" type="text/javascript" src="//a.lmcdn.ru/django/d/ru/22.02.11/js/mainpage.js"></script><script crossorigin="anonymous" type="module" src="//a.lmcdn.ru/static/22.02.11/modern/app.js"></script><script crossorigin="anonymous" nomodule src="//a.lmcdn.ru/static/22.02.11/es5/app.js"></script><!-- ru_hotfix_footer --><script>
-if (document.location.pathname.indexOf('lamoda_evolution') != '-1'){document.getElementsByClassName('unipop__container')[0].style.display = 'none';}
-</script></body></html>
-  
-
-
-
+    <!--div class="info_message">
+        <div class="container inside_message">
+            <div class="close_info"></div>
+            <p>Уважаемые коллеги, издательство "Научный форум" с 30 марта по 30 апреля работает в обычном режиме</p>
+        </div>
+    </div-->
+</body>
+</html>
