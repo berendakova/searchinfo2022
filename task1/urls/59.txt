@@ -233,7 +233,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","colorbox":{"transition":"elasti
 <div>
 	<strong>Список литературы:</strong></div>
 <div class="rtejustify">
-	1.<span style="white-space:pre"> </span>Абрумова А.Г., Тихоненко В.А. Диагностика суицидального поведения Москва, 1980 &ndash; 55 стр.</div>
+	1.<span style="white-space:pre"> </span> А.Г., Тихоненко В.А. Диагностика суицидального поведения Москва, 1980 &ndash; 55 стр.</div>
 <div class="rtejustify">
 	2.<span style="white-space:pre"> </span>Анцыферова Л.И. Личность в трудных жизненных условиях: переосмысливание, преобразование ситуаций и психологическая защита // Психологический журнал, 1994. Т. 15. &ndash; № 1. &ndash; С. 3&ndash;19.</div>
 <div class="rtejustify">
