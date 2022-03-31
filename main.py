@@ -11,7 +11,7 @@ def task1():
     with open("task1/url.txt") as file:
         array = [row.strip() for row in file]
     print(len(array))
-    index = open('task1/index.txt', 'w')
+    index = open('cgi-bin/idx_urls.txt', 'w')
     for idx, el in enumerate(array):
         print(el)
         url = 'https://' + el

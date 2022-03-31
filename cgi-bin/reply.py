@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+# выводит html-страницу с ответом из формы
+
+import cgi
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import nltk
@@ -6,6 +11,35 @@ import numpy as np
 import re
 from string import punctuation
 from scipy import spatial
+
+form = cgi.FieldStorage()
+
+print('Content-type: text/html')
+print()
+
+
+title = 'Reply Page'
+
+before = """
+<html>
+  <head>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+    <title>{}</title>
+  </head>
+  <body>
+""".format(title)
+
+after = """
+  </body>
+</html>
+"""
+
+namefmt = '<h1>Hello <i>{}</i>!</h1>'
+
+noname = '<h1>Who are you?</h1>'
+
+
+print(before, end='')
 
 
 class VectorModel:
@@ -16,7 +50,7 @@ class VectorModel:
         self.pymorphy2_analyzer = MorphAnalyzer()
 
     def load_index(self):
-        with open('/Users/berendakova/PycharmProjects/search_info/task3/index.txt', 'r', encoding='utf-8') as file:
+        with open('/Users/berendakova/PycharmProjects/search_info/cgi-bin/index.txt', 'r', encoding='utf-8') as file:
             lines = file.readlines()
 
         lemmas_list = list()
@@ -86,6 +120,19 @@ class VectorModel:
         return sorted_docs
 
 
-if __name__ == '__main__':
-    vector_model = VectorModel()
-    print(vector_model.search('самопринятие'))
+if 'user' in form:
+    vector = VectorModel()
+    urls = vector.search(form['user'].value)
+    file1 = open("/Users/berendakova/PycharmProjects/search_info/cgi-bin/idx_urls.txt", "r")
+    line = file1.readlines()
+    for url in urls:
+        if url[1] > 0 :
+            for l in line :
+                idx = l.split(' ')
+                string = ''
+                if int(idx[0]) == int(url[0]):
+                    string += "<p>" + str(idx[1]) + "</p>" + '\n'
+                    print(string)
+
+
+print(after, end='')

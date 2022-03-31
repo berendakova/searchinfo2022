@@ -105,7 +105,7 @@ def get_words(map):
 
 
 def set_answers(index):
-    file = open("index.txt", "w")
+    file = open("../cgi-bin/index.txt", "w")
     for word, doc_info in index.items():
         file_string = word + " "
         for doc in doc_info.documents:
@@ -120,7 +120,7 @@ def file_get_content(fileName):
         return data
 
 def read_index():
-    f = open("/Users/berendakova/PycharmProjects/search_info/task3/index.txt", "r")
+    f = open("/cgi-bin/idx_urls.txt", "r")
     lines = f.readlines()
     map = dict()
     for line in lines:

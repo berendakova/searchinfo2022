@@ -41,7 +41,7 @@ def get_lemma(word):
 
 
 def get_words():
-    f = open("/Users/berendakova/PycharmProjects/search_info/task3/index.txt", "r")
+    f = open("/cgi-bin/idx_urls.txt", "r")
     lines = f.readlines()
     index = dict()
     for line in lines:
