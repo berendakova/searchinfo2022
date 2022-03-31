@@ -131,7 +131,7 @@ if 'user' in form:
                 idx = l.split(' ')
                 string = ''
                 if int(idx[0]) == int(url[0]):
-                    string += "<p>" + str(idx[1]) + "</p>" + '\n'
+                    string += "<p>" + str(idx[1]) + "</p>" + " " + str(url[1])+ '\n'
                     print(string)
 
 
